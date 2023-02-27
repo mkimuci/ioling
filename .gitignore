@@ -5,3 +5,9 @@ _site
 .jekyll-metadata
 .sass-cache
 Gemfile.lock
+
+.py
+.xml
+.command
+_confidential
+_archive

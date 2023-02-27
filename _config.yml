@@ -8,29 +8,30 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'International Linguistics Olympiad'
+shortname: 'IOL'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'International Linguistics Olympiad'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'International Linguistics Olympiad official website'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>&copy; 2003-2023 International Linguistics Olympiad except where cited</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: IOL
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://ioling.org'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,11 +39,13 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://ioling.org/images/'
 
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
+thumbnail: "thumbnail.png"
+default_profile: "default.png"
 
 # Plugins
 plugins:
@@ -192,9 +195,11 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter: IOLing_official
+    facebook: international.linguistics.olympiad
 
+webmaster:
+  ''
 
 #        ____  _
 #       / __ \(_)________ ___  _______
