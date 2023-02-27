@@ -1,0 +1,209 @@
+- number: 1
+  year: 2003
+  country: Bulgaria
+  city: Borovets
+  startDate: September 6
+  endDate: September 12
+  number_of_countries: 6
+  number_of_teams: 9
+  number_of_participants: 33
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 2
+  year: 2004
+  country: Russia
+  city: Moscow
+  startDate: July 31
+  endDate: August 2
+  number_of_countries: 7
+  number_of_teams: 12
+  number_of_participants: 45
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 3
+  year: 2005
+  country: Netherlands
+  city: Leiden
+  startDate: August 8
+  endDate: August 12
+  number_of_countries: 9
+  number_of_teams: 13
+  number_of_participants: 50
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 4
+  year: 2006
+  country: Estonia
+  city: Tartu
+  startDate: August 1
+  endDate: August 6
+  number_of_countries: 9
+  number_of_teams: 13
+  number_of_participants: 51
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 5
+  year: 2007
+  country: Russia
+  city: St. Petersburg
+  startDate: July 31
+  endDate: August 4
+  number_of_countries: 9
+  number_of_teams: 15
+  number_of_participants: 61
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 6
+  year: 2008
+  country: Bulgaria
+  city: Slanchev Bryag
+  startDate: August 4
+  endDate: August 9
+  number_of_countries: 11
+  number_of_teams: 16
+  number_of_participants: 67
+  title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+
+- number: 7
+  year: 2009
+  country: Poland
+  city: Wrocław
+  startDate: July 26
+  endDate: July 31
+  number_of_countries: 17
+  number_of_teams: 23
+  number_of_participants: 86
+  title: International Linguistics Olympiad
+
+- number: 8
+  year: 2010
+  country: Sweden
+  city: Stockholm
+  startDate: July 19
+  endDate: July 24
+  number_of_countries: 18
+  number_of_teams: 26
+  number_of_participants: 99
+  title: International Linguistics Olympiad
+
+- number: 9
+  year: 2011
+  country: USA
+  city: Pittsburgh
+  startDate: July 25
+  endDate: July 30
+  number_of_countries: 19
+  number_of_teams: 27
+  number_of_participants: 102
+  title: International Linguistics Olympiad
+
+- number: 10
+  year: 2012
+  country: Slovenia
+  city: Ljubljana
+  startDate: July 29
+  endDate: August 4
+  number_of_countries: 26
+  number_of_teams: 34
+  number_of_participants: 131
+  title: International Linguistics Olympiad
+
+- number: 11
+  year: 2013
+  country: UK
+  city: Manchester
+  startDate: July 22
+  endDate: July 26
+  number_of_countries: 26
+  number_of_teams: 35
+  number_of_participants: 138
+  title: International Linguistics Olympiad
+
+- number: 12
+  year: 2014
+  country: China
+  city: Beijing
+  startDate: July 21
+  endDate: July 25
+  number_of_countries: 28
+  number_of_teams: 39
+  number_of_participants: 152
+  title: International Linguistics Olympiad
+
+- number: 13
+  year: 2015
+  country: Bulgaria
+  city: Blagoevgrad
+  startDate: July 20
+  endDate: July 24
+  number_of_countries: 29
+  number_of_teams: 43
+  number_of_participants: 166
+  title: International Linguistics Olympiad
+
+- number: 14
+  year: 2016
+  country: India
+  city: Mysore
+  startDate: July 25
+  endDate: July 29
+  number_of_countries: 30
+  number_of_teams: 43
+  number_of_participants: 167
+  title: International Linguistics Olympiad
+
+- number: 15
+  year: 2017
+  country: Ireland
+  city: Dublin
+  startDate: July 31
+  endDate: August 4
+  number_of_countries: 28
+  number_of_teams: 43
+  number_of_participants: 172
+  title: International Linguistics Olympiad
+
+- number: 16
+  year: 2018
+  country: Czechia
+  city: Prague
+  startDate: July 26
+  endDate: July 30
+  number_of_countries: 30
+  number_of_teams: 49
+  number_of_participants: 192
+  title: International Linguistics Olympiad
+
+- number: 17
+  year: 2019
+  country: Republic of Korea
+  city: Yongin
+  startDate: July 29
+  endDate: August 2
+  number_of_countries: 36
+  number_of_teams: 53
+  number_of_participants: 209
+  title: International Linguistics Olympiad
+
+- number: 18
+  year: 2021
+  country: Latvia
+  city: Ventspils
+  startDate: July 19
+  endDate: July 23
+  number_of_countries: 34
+  number_of_teams: 54
+  number_of_participants: 216
+  title: International Linguistics Olympiad
+
+- number: 19
+  year: 2022
+  country: Isle of Man
+  city: Castletown
+  startDate: July 25
+  endDate: July 29
+  number_of_countries: 36
+  number_of_teams: 50
+  number_of_participants: 184
+  title: International Linguistics Olympiad
+

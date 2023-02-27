@@ -1,0 +1,700 @@
+- n: 1
+  nth: 1st
+  ordinal_lowercase: first
+  ordinal_uppercase: First
+  cardinal_lowercase: one
+  cardinal_uppercase: One
+
+- n: 2
+  nth: 2nd
+  ordinal_lowercase: second
+  ordinal_uppercase: Second
+  cardinal_lowercase: two
+  cardinal_uppercase: Two
+
+- n: 3
+  nth: 3rd
+  ordinal_lowercase: third
+  ordinal_uppercase: Third
+  cardinal_lowercase: three
+  cardinal_uppercase: Three
+
+- n: 4
+  nth: 4th
+  ordinal_lowercase: fourth
+  ordinal_uppercase: Fourth
+  cardinal_lowercase: four
+  cardinal_uppercase: Four
+
+- n: 5
+  nth: 5th
+  ordinal_lowercase: fifth
+  ordinal_uppercase: Fifth
+  cardinal_lowercase: five
+  cardinal_uppercase: Five
+
+- n: 6
+  nth: 6th
+  ordinal_lowercase: sixth
+  ordinal_uppercase: Sixth
+  cardinal_lowercase: six
+  cardinal_uppercase: Six
+
+- n: 7
+  nth: 7th
+  ordinal_lowercase: seventh
+  ordinal_uppercase: Seventh
+  cardinal_lowercase: seven
+  cardinal_uppercase: Seven
+
+- n: 8
+  nth: 8th
+  ordinal_lowercase: eighth
+  ordinal_uppercase: Eighth
+  cardinal_lowercase: eight
+  cardinal_uppercase: Eight
+
+- n: 9
+  nth: 9th
+  ordinal_lowercase: ninth
+  ordinal_uppercase: Ninth
+  cardinal_lowercase: nine
+  cardinal_uppercase: Nine
+
+- n: 10
+  nth: 10th
+  ordinal_lowercase: tenth
+  ordinal_uppercase: Tenth
+  cardinal_lowercase: ten
+  cardinal_uppercase: Ten
+
+- n: 11
+  nth: 11th
+  ordinal_lowercase: eleventh
+  ordinal_uppercase: Eleventh
+  cardinal_lowercase: eleven
+  cardinal_uppercase: Eleven
+
+- n: 12
+  nth: 12th
+  ordinal_lowercase: twelfth
+  ordinal_uppercase: Twelfth
+  cardinal_lowercase: twelve
+  cardinal_uppercase: Twelve
+
+- n: 13
+  nth: 13th
+  ordinal_lowercase: thirteenth
+  ordinal_uppercase: Thirteenth
+  cardinal_lowercase: thirteen
+  cardinal_uppercase: Thirteen
+
+- n: 14
+  nth: 14th
+  ordinal_lowercase: fourteenth
+  ordinal_uppercase: Fourteenth
+  cardinal_lowercase: fourteen
+  cardinal_uppercase: Fourteen
+
+- n: 15
+  nth: 15th
+  ordinal_lowercase: fifteenth
+  ordinal_uppercase: Fifteenth
+  cardinal_lowercase: fifteen
+  cardinal_uppercase: Fifteen
+
+- n: 16
+  nth: 16th
+  ordinal_lowercase: sixteenth
+  ordinal_uppercase: Sixteenth
+  cardinal_lowercase: sixteen
+  cardinal_uppercase: Sixteen
+
+- n: 17
+  nth: 17th
+  ordinal_lowercase: seventeenth
+  ordinal_uppercase: Seventeenth
+  cardinal_lowercase: seventeen
+  cardinal_uppercase: Seventeen
+
+- n: 18
+  nth: 18th
+  ordinal_lowercase: eighteenth
+  ordinal_uppercase: Eighteenth
+  cardinal_lowercase: eighteen
+  cardinal_uppercase: Eighteen
+
+- n: 19
+  nth: 19th
+  ordinal_lowercase: nineteenth
+  ordinal_uppercase: Nineteenth
+  cardinal_lowercase: nineteen
+  cardinal_uppercase: Nineteen
+
+- n: 20
+  nth: 20th
+  ordinal_lowercase: twentieth
+  ordinal_uppercase: Twentieth
+  cardinal_lowercase: twenty
+  cardinal_uppercase: Twenty
+
+- n: 21
+  nth: 21st
+  ordinal_lowercase: twenty-first
+  ordinal_uppercase: Twenty-first
+  cardinal_lowercase: twenty-one
+  cardinal_uppercase: Twenty-One
+
+- n: 22
+  nth: 22nd
+  ordinal_lowercase: twenty-second
+  ordinal_uppercase: Twenty-second
+  cardinal_lowercase: twenty-two
+  cardinal_uppercase: Twenty-Two
+
+- n: 23
+  nth: 23rd
+  ordinal_lowercase: twenty-third
+  ordinal_uppercase: Twenty-third
+  cardinal_lowercase: twenty-three
+  cardinal_uppercase: Twenty-Three
+
+- n: 24
+  nth: 24th
+  ordinal_lowercase: twenty-fourth
+  ordinal_uppercase: Twenty-Fourth
+  cardinal_lowercase: twenty-four
+  cardinal_uppercase: Twenty-Four
+
+- n: 25
+  nth: 25th
+  ordinal_lowercase: twenty-fifth
+  ordinal_uppercase: Twenty-fifth
+  cardinal_lowercase: twenty-five
+  cardinal_uppercase: Twenty-Five
+
+- n: 26
+  nth: 26th
+  ordinal_lowercase: twenty-sixth
+  ordinal_uppercase: Twenty-Sixth
+  cardinal_lowercase: twenty-six
+  cardinal_uppercase: Twenty-Six
+
+- n: 27
+  nth: 27th
+  ordinal_lowercase: twenty-seventh
+  ordinal_uppercase: Twenty-Seventh
+  cardinal_lowercase: twenty-seven
+  cardinal_uppercase: Twenty-Seven
+
+- n: 28
+  nth: 28th
+  ordinal_lowercase: twenty-eighth
+  ordinal_uppercase: Twenty-Eighth
+  cardinal_lowercase: twenty-eight
+  cardinal_uppercase: Twenty-Eight
+
+- n: 29
+  nth: 29th
+  ordinal_lowercase: twenty-ninth
+  ordinal_uppercase: Twenty-Ninth
+  cardinal_lowercase: twenty-nine
+  cardinal_uppercase: Twenty-Nine
+
+- n: 30
+  nth: 30th
+  ordinal_lowercase: thirtieth
+  ordinal_uppercase: Thirtieth
+  cardinal_lowercase: thirty
+  cardinal_uppercase: Thirty
+
+- n: 31
+  nth: 31st
+  ordinal_lowercase: thirty-first
+  ordinal_uppercase: Thirty-First
+  cardinal_lowercase: thirty-one
+  cardinal_uppercase: Thirty-One
+
+- n: 32
+  nth: 32nd
+  ordinal_lowercase: thirty-second
+  ordinal_uppercase: Thirty-Second
+  cardinal_lowercase: thirty-two
+  cardinal_uppercase: Thirty-Two
+
+- n: 33
+  nth: 33rd
+  ordinal_lowercase: thirty-third
+  ordinal_uppercase: Thirty-Third
+  cardinal_lowercase: thirty-three
+  cardinal_uppercase: Thirty-Three
+
+- n: 34
+  nth: 34th
+  ordinal_lowercase: thirty-fourth
+  ordinal_uppercase: Thirty-Fourth
+  cardinal_lowercase: thirty-four
+  cardinal_uppercase: Thirty-Four
+
+- n: 35
+  nth: 35th
+  ordinal_lowercase: thirty-fifth
+  ordinal_uppercase: Thirty-fifth
+  cardinal_lowercase: thirty-five
+  cardinal_uppercase: Thirty-Five
+
+- n: 36
+  nth: 36th
+  ordinal_lowercase: thirty-sixth
+  ordinal_uppercase: Thirty-Sixth
+  cardinal_lowercase: thirty-six
+  cardinal_uppercase: Thirty-Six
+
+- n: 37
+  nth: 37th
+  ordinal_lowercase: thirty-seventh
+  ordinal_uppercase: Thirty-Seventh
+  cardinal_lowercase: thirty-seven
+  cardinal_uppercase: Thirty-Seven
+
+- n: 38
+  nth: 38th
+  ordinal_lowercase: thirty-eighth
+  ordinal_uppercase: Thirty-Eighth
+  cardinal_lowercase: thirty-eight
+  cardinal_uppercase: Thirty-Eight
+
+- n: 39
+  nth: 39th
+  ordinal_lowercase: thirty-ninth
+  ordinal_uppercase: Thirty-Ninth
+  cardinal_lowercase: thirty-nine
+  cardinal_uppercase: Thirty-Nine
+
+- n: 40
+  nth: 40th
+  ordinal_lowercase: fortieth
+  ordinal_uppercase: Fortieth
+  cardinal_lowercase: forty
+  cardinal_uppercase: Forty
+
+- n: 41
+  nth: 41st
+  ordinal_lowercase: forty-first
+  ordinal_uppercase: Forty-First
+  cardinal_lowercase: forty-one
+  cardinal_uppercase: Forty-One
+
+- n: 42
+  nth: 42nd
+  ordinal_lowercase: forty-second
+  ordinal_uppercase: Forty-Second
+  cardinal_lowercase: forty-two
+  cardinal_uppercase: Forty-Two
+
+- n: 43
+  nth: 43rd
+  ordinal_lowercase: forty-third
+  ordinal_uppercase: Forty-Third
+  cardinal_lowercase: forty-three
+  cardinal_uppercase: Forty-Three
+
+- n: 44
+  nth: 44th
+  ordinal_lowercase: forty-fourth
+  ordinal_uppercase: Forty-Fourth
+  cardinal_lowercase: forty-four
+  cardinal_uppercase: Forty-Four
+
+- n: 45
+  nth: 45th
+  ordinal_lowercase: forty-fifth
+  ordinal_uppercase: Forty-fifth
+  cardinal_lowercase: forty-five
+  cardinal_uppercase: Forty-Five
+
+- n: 46
+  nth: 46th
+  ordinal_lowercase: forty-sixth
+  ordinal_uppercase: Forty-Sixth
+  cardinal_lowercase: forty-six
+  cardinal_uppercase: Forty-Six
+
+- n: 47
+  nth: 47th
+  ordinal_lowercase: forty-seventh
+  ordinal_uppercase: Forty-Seventh
+  cardinal_lowercase: forty-seven
+  cardinal_uppercase: Forty-Seven
+
+- n: 48
+  nth: 48th
+  ordinal_lowercase: forty-eighth
+  ordinal_uppercase: Forty-Eighth
+  cardinal_lowercase: forty-eight
+  cardinal_uppercase: Forty-Eight
+
+- n: 49
+  nth: 49th
+  ordinal_lowercase: forty-ninth
+  ordinal_uppercase: Forty-Ninth
+  cardinal_lowercase: forty-nine
+  cardinal_uppercase: Forty-Nine
+
+- n: 50
+  nth: 50th
+  ordinal_lowercase: fiftieth
+  ordinal_uppercase: Fiftieth
+  cardinal_lowercase: fifty
+  cardinal_uppercase: Fifty
+
+- n: 51
+  nth: 51st
+  ordinal_lowercase: fifty-first
+  ordinal_uppercase: Fifty-First
+  cardinal_lowercase: fifty-one
+  cardinal_uppercase: Fifty-One
+
+- n: 52
+  nth: 52nd
+  ordinal_lowercase: fifty-second
+  ordinal_uppercase: Fifty-Second
+  cardinal_lowercase: fifty-two
+  cardinal_uppercase: Fifty-Two
+
+- n: 53
+  nth: 53rd
+  ordinal_lowercase: fifty-third
+  ordinal_uppercase: Fifty-Third
+  cardinal_lowercase: fifty-three
+  cardinal_uppercase: Fifty-Three
+
+- n: 54
+  nth: 54th
+  ordinal_lowercase: fifty-fourth
+  ordinal_uppercase: Fifty-Fourth
+  cardinal_lowercase: fifty-four
+  cardinal_uppercase: Fifty-Four
+
+- n: 55
+  nth: 55th
+  ordinal_lowercase: fifty-fifth
+  ordinal_uppercase: Fifty-fifth
+  cardinal_lowercase: fifty-five
+  cardinal_uppercase: Fifty-Five
+
+- n: 56
+  nth: 56th
+  ordinal_lowercase: fifty-sixth
+  ordinal_uppercase: Fifty-Sixth
+  cardinal_lowercase: fifty-six
+  cardinal_uppercase: Fifty-Six
+
+- n: 57
+  nth: 57th
+  ordinal_lowercase: fifty-seventh
+  ordinal_uppercase: Fifty-Seventh
+  cardinal_lowercase: fifty-seven
+  cardinal_uppercase: Fifty-Seven
+
+- n: 58
+  nth: 58th
+  ordinal_lowercase: fifty-eighth
+  ordinal_uppercase: Fifty-Eighth
+  cardinal_lowercase: fifty-eight
+  cardinal_uppercase: Fifty-Eight
+
+- n: 59
+  nth: 59th
+  ordinal_lowercase: fifty-ninth
+  ordinal_uppercase: Fifty-Ninth
+  cardinal_lowercase: fifty-nine
+  cardinal_uppercase: Fifty-Nine
+
+- n: 60
+  nth: 60th
+  ordinal_lowercase: sixtieth
+  ordinal_uppercase: Sixtieth
+  cardinal_lowercase: sixty
+  cardinal_uppercase: Sixty
+
+- n: 61
+  nth: 61st
+  ordinal_lowercase: sixty-first
+  ordinal_uppercase: Sixty-First
+  cardinal_lowercase: sixty-one
+  cardinal_uppercase: Sixty-One
+
+- n: 62
+  nth: 62nd
+  ordinal_lowercase: sixty-second
+  ordinal_uppercase: Sixty-Second
+  cardinal_lowercase: sixty-two
+  cardinal_uppercase: Sixty-Two
+
+- n: 63
+  nth: 63rd
+  ordinal_lowercase: sixty-third
+  ordinal_uppercase: Sixty-Third
+  cardinal_lowercase: sixty-three
+  cardinal_uppercase: Sixty-Three
+
+- n: 64
+  nth: 64th
+  ordinal_lowercase: sixty-fourth
+  ordinal_uppercase: Sixty-Fourth
+  cardinal_lowercase: sixty-four
+  cardinal_uppercase: Sixty-Four
+
+- n: 65
+  nth: 65th
+  ordinal_lowercase: sixty-fifth
+  ordinal_uppercase: Sixty-fifth
+  cardinal_lowercase: sixty-five
+  cardinal_uppercase: Sixty-Five
+
+- n: 66
+  nth: 66th
+  ordinal_lowercase: sixty-sixth
+  ordinal_uppercase: Sixty-Sixth
+  cardinal_lowercase: sixty-six
+  cardinal_uppercase: Sixty-Six
+
+- n: 67
+  nth: 67th
+  ordinal_lowercase: sixty-seventh
+  ordinal_uppercase: Sixty-Seventh
+  cardinal_lowercase: sixty-seven
+  cardinal_uppercase: Sixty-Seven
+
+- n: 68
+  nth: 68th
+  ordinal_lowercase: sixty-eighth
+  ordinal_uppercase: Sixty-Eighth
+  cardinal_lowercase: sixty-eight
+  cardinal_uppercase: Sixty-Eight
+
+- n: 69
+  nth: 69th
+  ordinal_lowercase: sixty-ninth
+  ordinal_uppercase: Sixty-Ninth
+  cardinal_lowercase: sixty-nine
+  cardinal_uppercase: Sixty-Nine
+
+- n: 70
+  nth: 70th
+  ordinal_lowercase: seventieth
+  ordinal_uppercase: Seventieth
+  cardinal_lowercase: seventy
+  cardinal_uppercase: Seventy
+
+- n: 71
+  nth: 71st
+  ordinal_lowercase: seventy-first
+  ordinal_uppercase: Seventy-First
+  cardinal_lowercase: seventy-one
+  cardinal_uppercase: Seventy-One
+
+- n: 72
+  nth: 72nd
+  ordinal_lowercase: seventy-second
+  ordinal_uppercase: Seventy-Second
+  cardinal_lowercase: seventy-two
+  cardinal_uppercase: Seventy-Two
+
+- n: 73
+  nth: 73rd
+  ordinal_lowercase: seventy-third
+  ordinal_uppercase: Seventy-Third
+  cardinal_lowercase: seventy-three
+  cardinal_uppercase: Seventy-Three
+
+- n: 74
+  nth: 74th
+  ordinal_lowercase: seventy-fourth
+  ordinal_uppercase: Seventy-Fourth
+  cardinal_lowercase: seventy-four
+  cardinal_uppercase: Seventy-Four
+
+- n: 75
+  nth: 75th
+  ordinal_lowercase: seventy-fifth
+  ordinal_uppercase: Seventy-fifth
+  cardinal_lowercase: seventy-five
+  cardinal_uppercase: Seventy-Five
+
+- n: 76
+  nth: 76th
+  ordinal_lowercase: seventy-sixth
+  ordinal_uppercase: Seventy-Sixth
+  cardinal_lowercase: seventy-six
+  cardinal_uppercase: Seventy-Six
+
+- n: 77
+  nth: 77th
+  ordinal_lowercase: seventy-seventh
+  ordinal_uppercase: Seventy-Seventh
+  cardinal_lowercase: seventy-seven
+  cardinal_uppercase: Seventy-Seven
+
+- n: 78
+  nth: 78th
+  ordinal_lowercase: seventy-eighth
+  ordinal_uppercase: Seventy-Eighth
+  cardinal_lowercase: seventy-eight
+  cardinal_uppercase: Seventy-Eight
+
+- n: 79
+  nth: 79th
+  ordinal_lowercase: seventy-ninth
+  ordinal_uppercase: Seventy-Ninth
+  cardinal_lowercase: seventy-nine
+  cardinal_uppercase: Seventy-Nine
+
+- n: 80
+  nth: 80th
+  ordinal_lowercase: eightieth
+  ordinal_uppercase: Eightieth
+  cardinal_lowercase: eighty
+  cardinal_uppercase: Eighty
+
+- n: 81
+  nth: 81st
+  ordinal_lowercase: eighty-first
+  ordinal_uppercase: Eighty-First
+  cardinal_lowercase: eighty-one
+  cardinal_uppercase: Eighty-One
+
+- n: 82
+  nth: 82nd
+  ordinal_lowercase: eighty-second
+  ordinal_uppercase: Eighty-Second
+  cardinal_lowercase: eighty-two
+  cardinal_uppercase: Eighty-Two
+
+- n: 83
+  nth: 83rd
+  ordinal_lowercase: eighty-third
+  ordinal_uppercase: Eighty-Third
+  cardinal_lowercase: eighty-three
+  cardinal_uppercase: Eighty-Three
+
+- n: 84
+  nth: 84th
+  ordinal_lowercase: eighty-fourth
+  ordinal_uppercase: Eighty-Fourth
+  cardinal_lowercase: eighty-four
+  cardinal_uppercase: Eighty-Four
+
+- n: 85
+  nth: 85th
+  ordinal_lowercase: eighty-fifth
+  ordinal_uppercase: Eighty-fifth
+  cardinal_lowercase: eighty-five
+  cardinal_uppercase: Eighty-Five
+
+- n: 86
+  nth: 86th
+  ordinal_lowercase: eighty-sixth
+  ordinal_uppercase: Eighty-Sixth
+  cardinal_lowercase: eighty-six
+  cardinal_uppercase: Eighty-Six
+
+- n: 87
+  nth: 87th
+  ordinal_lowercase: eighty-seventh
+  ordinal_uppercase: Eighty-Seventh
+  cardinal_lowercase: eighty-seven
+  cardinal_uppercase: Eighty-Seven
+
+- n: 88
+  nth: 88th
+  ordinal_lowercase: eighty-eighth
+  ordinal_uppercase: Eighty-Eighth
+  cardinal_lowercase: eighty-eight
+  cardinal_uppercase: Eighty-Eight
+
+- n: 89
+  nth: 89th
+  ordinal_lowercase: eighty-ninth
+  ordinal_uppercase: Eighty-Ninth
+  cardinal_lowercase: eighty-nine
+  cardinal_uppercase: Eighty-Nine
+
+- n: 90
+  nth: 90th
+  ordinal_lowercase: ninetieth
+  ordinal_uppercase: Ninetieth
+  cardinal_lowercase: ninety
+  cardinal_uppercase: Ninety
+
+- n: 91
+  nth: 91st
+  ordinal_lowercase: ninety-first
+  ordinal_uppercase: Ninety-First
+  cardinal_lowercase: ninety-one
+  cardinal_uppercase: Ninety-One
+
+- n: 92
+  nth: 92nd
+  ordinal_lowercase: ninety-second
+  ordinal_uppercase: Ninety-Second
+  cardinal_lowercase: ninety-two
+  cardinal_uppercase: Ninety-Two
+
+- n: 93
+  nth: 93rd
+  ordinal_lowercase: ninety-third
+  ordinal_uppercase: Ninety-Third
+  cardinal_lowercase: ninety-three
+  cardinal_uppercase: Ninety-Three
+
+- n: 94
+  nth: 94th
+  ordinal_lowercase: ninety-fourth
+  ordinal_uppercase: Ninety-Fourth
+  cardinal_lowercase: ninety-four
+  cardinal_uppercase: Ninety-Four
+
+- n: 95
+  nth: 95th
+  ordinal_lowercase: ninety-fifth
+  ordinal_uppercase: Ninety-fifth
+  cardinal_lowercase: ninety-five
+  cardinal_uppercase: Ninety-Five
+
+- n: 96
+  nth: 96th
+  ordinal_lowercase: ninety-sixth
+  ordinal_uppercase: Ninety-Sixth
+  cardinal_lowercase: ninety-six
+  cardinal_uppercase: Ninety-Six
+
+- n: 97
+  nth: 97th
+  ordinal_lowercase: ninety-seventh
+  ordinal_uppercase: Ninety-Seventh
+  cardinal_lowercase: ninety-seven
+  cardinal_uppercase: Ninety-Seven
+
+- n: 98
+  nth: 98th
+  ordinal_lowercase: ninety-eighth
+  ordinal_uppercase: Ninety-Eighth
+  cardinal_lowercase: ninety-eight
+  cardinal_uppercase: Ninety-Eight
+
+- n: 99
+  nth: 99th
+  ordinal_lowercase: ninety-ninth
+  ordinal_uppercase: Ninety-Ninth
+  cardinal_lowercase: ninety-nine
+  cardinal_uppercase: Ninety-Nine
+
+- n: 100
+  nth: 100th
+  ordinal_lowercase: hundredth
+  ordinal_uppercase: Hundredth
+  cardinal_lowercase: hundred
+  cardinal_uppercase: Hundred
+

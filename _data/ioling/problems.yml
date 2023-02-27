@@ -1,0 +1,2077 @@
+- year: 2003
+  round: Individual
+  id: iol-2003-i-1
+  name: Transcendental Algebra
+  number: 1
+  page: 1
+  language:
+    - name: Transcendental Algebra
+      family: 
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-2
+  name: Arabic Arithmetic
+  number: 2
+  page: 2
+  language:
+    - name: Arabic
+      family: Afroasiatic
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Yulia Glazova
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-3
+  name: Basque Dates
+  number: 3
+  page: 2
+  language:
+    - name: Basque
+      family: Isolate
+  author:
+    - name: Alexandre Arkhipov
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-4
+  name: Adyghe
+  number: 4
+  page: 3
+  language:
+    - name: Adyghe
+      family: Abkhaz-Adyghean (North-West Caucasian)
+  author:
+    - name: Yakov Testelets
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 3
+    name: Ivaylo Grozdev
+  - country: Estonia
+    team: Estonia
+    name: Kadri Rosmaa
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Alexandra Petrova
+
+- year: 2003
+  round: Individual
+  id: iol-2003-i-5
+  name: French
+  number: 5
+  page: 4
+  language:
+    - name: French
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 3
+    name: Ivaylo Grozdev
+  - country: Czechia
+    team: Czech Republic
+    name: Jana Kuřetová
+  - country: Latvia
+    team: Latvia
+    name: Margarita Borovkova
+  - country: Russia
+    team: Russia-Moscow
+    name: Maria Shkapa
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Alexandra Petrova
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-1
+  name: Tocharian
+  number: 1
+  page: 5
+  language:
+    - name: Tocharian A
+      family: Indo-European
+    - name: Tocharian B
+      family: Indo-Eurorean
+  author:
+    - name: Svetlana Burlak
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-2
+  name: Subscripts
+  number: 2
+  page: 6
+  author:
+    - name: Maria Rubinstein
+  best_solutions:
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Yulia Glazova
+
+- year: 2003
+  round: Team
+  id: iol-2003-t-3
+  name: Verbs
+  number: 3
+  page: 6
+  author:
+    - name: Boris Iomdin
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-1
+  name: Kayapo
+  number: 1
+  page: 1
+  language:
+    - name: Kayapo
+      family: Ge
+  author:
+    - name: Peter Zubkov
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Sophia Oskolskaya
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Kirill Grigoryev
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-2
+  name: Swift News Agency
+  number: 2
+  page: 1-2
+  author:
+    - name: Boris Iomdin
+    - name: Leonid Iomdin
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands
+    name: Alexey Nazarov
+  - country: Poland
+    team: Poland
+    name: Tymon Słoczyński
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-3
+  name: Latin
+  number: 3
+  page: 2-3
+  language:
+    - name: Latin
+      family: Indo-European
+    - name: English
+      family: Indo-European
+  author:
+    - name: Svetlana Burlak
+    - name: Ilya Itkin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ralitsa Markova
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-4
+  name: Lakhota
+  number: 4
+  page: 3-4
+  language:
+    - name: Lakhota
+      family: Siouxan
+  author:
+    - name: Ivan Derzhanski
+  solvers_choice: True
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Latvia
+    team: Latvia
+    name: Taisija Šantare
+
+- year: 2004
+  round: Individual
+  id: iol-2004-i-5
+  name: Chuvash
+  number: 5
+  page: 4
+  language:
+    - name: Chuvash
+      family: Turkic
+  author:
+    - name: Boris Iomdin
+
+- year: 2004
+  round: Team
+  id: iol-2004-t-1
+  name: Armenian
+  number: 1
+  page: 5
+  language:
+    - name: Armenian
+      family: Indo-European
+  author:
+    - name: Alexander Berdichevsky
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia
+    name: Natalja Hartšenko
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Sophia Oskolskaya
+  - country: Russia
+    team: Russia-St. Petersburg
+    name: Kirill Grigoryev
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-1
+  name: Tzotzil
+  number: 1
+  page: 1
+  language:
+    - name: Tzotzil
+      family: Mayan
+  author:
+    - name: Boris Iomdin
+  solvers_choice: True
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ivan Dobrev
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-2
+  name: Lango
+  number: 2
+  page: 2
+  language:
+    - name: Lango
+      family: Nilo-Saharan
+  author:
+    - name: Ksenia Guiliarova
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Alexander Piperski
+  - country: Netherlands
+    team: Netherlands 1
+    name: Alexei Nazarov
+  - country: Serbia
+    team: Yugoslavia
+    name: Jovana Ateljević
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-3
+  name: Mansi
+  number: 3
+  page: 2
+  language:
+    - name: Mansi
+      family: Uralic
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Simon Vigonski
+  - country: Poland
+    team: Poland 2
+    name: Maciej Kanafa
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-4
+  name: Yoruba
+  number: 4
+  page: 3
+  language:
+    - name: Yoruba
+      family: Niger-Congo
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Elena Khanina
+
+- year: 2005
+  round: Individual
+  id: iol-2005-i-5
+  name: Lithuanian
+  number: 5
+  page: 4
+  language:
+    - name: Lithuanian
+      family: Indo-European
+  author:
+    - name: Alexander Lubotsky
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands 2
+    name: Robin Jastrzebski
+
+- year: 2005
+  round: Team
+  id: iol-2005-t-1
+  name: Figuig
+  number: 1
+  page: 5
+  language:
+    - name: Figuig
+      family: Afroasiatic
+  author:
+    - name: Maarten Kossmann
+    - name: Alexander Lubotsky
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Ivan Dobrev
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-1
+  name: Lakhota
+  number: 1
+  page: 1
+  language:
+    - name: Lakhota
+      family: Siouxan
+  author:
+    - name: Pyotr Arkadiev
+  solvers_choice: True
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-2
+  name: Catalan
+  number: 2
+  page: 2
+  language:
+    - name: Catalan
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Ivaylo Dimitrov
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-3
+  name: Khmer
+  number: 3
+  page: 3
+  language:
+    - name: Khmer
+      family: Austro-Asiatic
+  author:
+    - name: Sergey Dmitrenko
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Maria Kholodilova
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-4
+  name: Udihe
+  number: 4
+  page: 4
+  language:
+    - name: Udihe
+      family: Tungusic
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Natalia Ostapuk
+
+- year: 2006
+  round: Individual
+  id: iol-2006-i-5
+  name: Ngoni
+  number: 5
+  page: 5
+  language:
+    - name: Ngoni
+      family: Niger-Congo
+  author:
+    - name: Olga Fyodorova
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Desislava Radieva
+  - country: Estonia
+    team: Estonia 1
+    name: Diana Aitai
+  - country: Poland
+    team: Poland 2
+    name: Paweł Świątkowski
+
+- year: 2006
+  round: Team
+  id: iol-2006-t-1
+  name: American Sign Language
+  number: 1
+  page: 6
+  language:
+    - name: American Sign Language
+      family: LSF Family
+  author:
+    - name: Alexander Berdichevsky
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-1
+  name: Braille
+  number: 1
+  page: 1
+  language:
+    - name: English
+      family: Indo-European
+  writing_system:
+    - name: Braille
+  author:
+    - name: Alexander Berdichevsky
+  solvers_choice: True
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-2
+  name: Movima
+  number: 2
+  page: 2
+  language:
+    - name: Movima
+      family: Isolate
+  author:
+    - name: Dmitry Gerasimov
+  best_solutions:
+  - country: Estonia
+    team: Estonia 2
+    name: Melissa Saviste
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-3
+  name: Georgian
+  number: 3
+  page: 3
+  language:
+    - name: Georgian
+      family: South Caucasian
+  author:
+    - name: Yakov Testelets
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Łukasz Cegieła
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-4
+  name: Ndom
+  number: 4
+  page: 3
+  language:
+    - name: Ndom
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Mateusz Dolata
+
+- year: 2007
+  round: Individual
+  id: iol-2007-i-5
+  name: Turkish and Tatar
+  number: 5
+  page: 4
+  language:
+    - name: Turkish
+      family: Turkic
+    - name: Tatar
+      family: Turkic
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2007
+  round: Team
+  id: iol-2007-t-1
+  name: Hawaiian
+  number: 1
+  page: 5-6
+  language:
+    - name: Hawaiian
+      family: Austronesian
+  author:
+    - name: Olga Fyodorova
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-1
+  name: Micmac
+  number: 1
+  page: 1
+  language:
+    - name: Micmac
+      family: Algonquian
+  author:
+    - name: Bozhidar Bozhanov
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Hanzhi Zhu
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-2
+  name: Old Norse
+  number: 2
+  page: 2
+  language:
+    - name: Old Norse
+      family: Indo-European
+  author:
+    - name: Alexander Piperski
+  best_solutions:
+  - country: Netherlands
+    team: Netherlands
+    name: Erle Morgaine Monfils
+  - country: Slovenia
+    team: Slovenia
+    name: Miha Čančula
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-3
+  name: Drehu and Cemuhî
+  number: 3
+  page: 3
+  language:
+    - name: Drehu
+      family: Austronesian
+    - name: Cemuhî
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria West
+    name: Alexander Daskalov
+  - country: Poland
+    team: Poland 2
+    name: Radosław Burny
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-4
+  name: Copainalá Zoque
+  number: 4
+  page: 3
+  language:
+    - name: Copainalá Zoque
+      family: Mixe-Zoquean
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Jae-Kyu Lee
+
+- year: 2008
+  round: Individual
+  id: iol-2008-i-5
+  name: Inuktitut
+  number: 5
+  page: 4
+  language:
+    - name: Inuktitut
+      family: Inuit-Aleut
+  author:
+    - name: Bozhidar Bozhanov
+
+- year: 2008
+  round: Team
+  id: iol-2008-t-1
+  name: Fanqie
+  number: 1
+  page: 5-7
+  language:
+    - name: Mandarin
+      family: Sino-Tibetan
+    - name: Cantonese
+      family: Sino-Tibetan
+  author:
+    - name: Todor Tchervenkov
+  best_solutions:
+  - country: USA
+    team: USA 2
+    name: Hanzhi Zhu
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-1
+  name: Sulka
+  number: 1
+  page: 1
+  language:
+    - name: Sulka
+      family: East Papuan
+  author:
+    - name: Evgenia Korovina
+    - name: Ivan Derzhanski
+  solvers_choice: True
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: USA
+    team: USA Red
+    name: Alan Huang
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-2
+  name: Maninka and Bamana
+  number: 2
+  page: 2
+  language:
+    - name: Bamana
+      family: Mande
+    - name: Maninka
+      family: Mande
+  writing_system:
+    - name: N'Ko
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Elena Volkova
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-3
+  name: Burmese Names
+  number: 3
+  page: 3
+  language:
+    - name: Burmese
+      family: Sino-Tibetan
+  author:
+    - name: Ivan Derzhanski
+    - name: Maria Cydzik
+  best_solutions:
+  - country: India
+    team: India
+    name: Aakanksha Sarda
+  - country: Republic of Korea
+    team: Korea 1
+    name: Hye jin Ryu
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-4
+  name: Old Indic
+  number: 4
+  page: 3
+  language:
+    - name: Old Indic
+      family: Indo-European
+  author:
+    - name: Alexander Piperski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Diana Sofronieva
+  - country: Poland
+    team: Poland 1
+    name: Łukasz Cegieła
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+
+- year: 2009
+  round: Individual
+  id: iol-2009-i-5
+  name: Nahuatl
+  number: 5
+  page: 4
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+  author:
+    - name: Bozhidar Bozhanov
+    - name: Todor Tchervenkov
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: John Berman
+
+- year: 2009
+  round: Team
+  id: iol-2009-t-1
+  name: Vietnamese
+  number: 1
+  page: 5-8
+  language:
+    - name: Vietnamese
+      family: Austro-Asiatic
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: USA
+    team: USA Red
+    name: Alan Huang
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-1
+  name: Budukh
+  number: 1
+  page: 1
+  language:
+    - name: Budukh
+      family: Northeast Causasian
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Szymon Kanonowicz
+  - country: USA
+    team: USA Blue
+    name: Tian-Yi Damien Jiang
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-2
+  name: Drehu Numerals
+  number: 2
+  page: 2
+  language:
+    - name: Drehu
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Republic of Korea
+    team: Korea 1
+    name: Jeeun Song
+  - country: USA
+    team: USA Blue
+    name: Martin Camacho
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-3
+  name: Blissymbolics
+  number: 3
+  page: 2
+  writing_system:
+    - name: Blissymbolics
+  author:
+    - name: Alexander Piperski
+  solvers_choice: True
+  best_solutions:
+  - country: Germany
+    team: Germany
+    name: Nadine Sedlaczeck
+  - country: Russia
+    team: Moscow
+    name: Vitaly Pavlenko
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-4
+  name: mRNA Sequencing
+  number: 4
+  page: 3
+  author:
+    - name: Alexander Berdichevski
+  best_solutions:
+  - country: Latvia
+    team: Latvia
+    name: Aleksejs Peguševs
+  - country: Slovenia
+    team: Slovenia 1
+    name: Tadej Novak
+  - country: USA
+    team: USA Red
+    name: Ben Sklaroff
+
+- year: 2010
+  round: Individual
+  id: iol-2010-i-5
+  name: Romansch
+  number: 5
+  page: 4
+  language:
+    - name: Romansch
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Andrey Nikulin
+  - country: Russia
+    team: St. Petersburg
+    name: Alexey Doilnitsyn
+  - country: UK
+    team: UK 2
+    name: Nathan Somers
+
+- year: 2010
+  round: Team
+  id: iol-2010-t-1
+  name: Mongolian
+  number: 1
+  page: 5-6
+  language:
+    - name: Mongolian
+      family: Mongolic
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Poland
+    team: Poland 1
+    name: Szymon Kanonowicz
+  - country: USA
+    team: USA Blue
+    name: Tian-Yi Damien Jiang
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-1
+  name: Menominee
+  number: 1
+  page: 01
+  language:
+    - name: Menominee
+      family: Algonquin
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-2
+  name: Faroese
+  number: 2
+  page: 02
+  language:
+    - name: Faroese
+      family: North Germanic
+  author:
+    - name: Alexander Piperski
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Rok Kaufman
+  - country: USA
+    team: USA Red
+    name: Morris Alper
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-3
+  name: Vai
+  number: 3
+  page: 03
+  language:
+    - name: Vai
+      family: Mande
+  author:
+    - name: Olga Kuznetsova
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: Caroline Ellison
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-4
+  name: Nahuatl
+  number: 4
+  page: 03
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+  author:
+    - name: Liudmila Fedorova
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Vadim Tukh
+  - country: USA
+    team: USA Blue
+    name: Alexander Wade
+
+- year: 2011
+  round: Individual
+  id: iol-2011-i-5
+  name: EAN-13
+  number: 5
+  page: 04-06
+  writing_system:
+    - name: EAN-13
+  author:
+    - name: Hugh Dobbs
+  solvers_choice: True
+
+- year: 2011
+  round: Team
+  id: iol-2011-t-1
+  name: Sanskrit Poetry
+  number: 1
+  page: 07-13
+  language:
+    - name: Sanskrit
+      family: Indo-Aryan
+  author:
+    - name: Adam Hesterberg
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-1
+  name: Dyirbal
+  number: 1
+  page: 01
+  language:
+    - name: Dyirbal
+      family: Pama-Nyungan
+  author:
+    - name: Artūrs Semeņuks
+  best_solutions:
+  - country: USA
+    team: USA 1
+    name: Darryl Wu
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-2
+  name: Umbu-Ungu
+  number: 2
+  page: 03
+  language:
+    - name: Umbu-Ungu
+      family: Trans-New Guinea
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+  best_solutions:
+  - country: Brazil
+    team: Brazil
+    name: Rafael Kazuhiro Miyazaki
+  - country: Estonia
+    team: Estonia
+    name: Ants-Oskar Mäesalu
+  - country: India
+    team: India
+    name: Yash Sinha
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-3
+  name: Basque
+  number: 3
+  page: 03
+  language:
+    - name: Basque
+      family: Isolate
+  author:
+    - name: Natalya Zaika
+  best_solutions:
+  - country: Latvia
+    team: Latvia
+    name: Estere Šeinkmane
+  - country: USA
+    team: USA 2
+    name: Alexander Wade
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-4
+  name: Teop
+  number: 4
+  page: 04
+  language:
+    - name: Teop
+      family: Austronesian
+  author:
+    - name: Maria Konoshenko
+  best_solutions:
+  - country: Russia
+    team: Moscow
+    name: Anita Mudzhumdar
+  - country: USA
+    team: USA 1
+    name: Anderson  Wang
+
+- year: 2012
+  round: Individual
+  id: iol-2012-i-5
+  name: Rotuman
+  number: 5
+  page: 05
+  language:
+    - name: Rotuman
+      family: Austronesian
+  author:
+    - name: Boris Iomdin
+    - name: Alexander Pipersky
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Anton Sokolov
+  - country: USA
+    team: USA 2
+    name: Alexander Wade
+
+- year: 2012
+  round: Team
+  id: iol-2012-t-1
+  name: Lao
+  number: 1
+  page: 07-13
+  language:
+    - name: Lao
+      family: Tai-Kadai
+  best_solutions:
+  - country: USA
+    team: USA 1
+    name: Darryl Wu
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-1
+  name: Yidiny
+  number: 1
+  page: 01
+  language:
+    - name: Yidiny
+      family: Pama-Nyungan
+  author:
+    - name: Bozhidar Bozhanov
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Republic of Korea
+    team: Korea Sori
+    name: Huisu Yun
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-2
+  name: Tundra Yukaghir
+  number: 2
+  page: 02
+  language:
+    - name: Tundra Yukaghir
+      family: Yukaghir
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Latvia
+    team: Latvia
+    name: Estere Šeinkmane
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-3
+  name: Pirahã
+  number: 3
+  page: 03
+  language:
+    - name: Pirahã
+      family: Mura
+  author:
+    - name: Artūrs Semeņuks
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-4
+  name: Muna
+  number: 4
+  page: 04
+  language:
+    - name: Muna
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Russia
+    team: St. Petersburg
+    name: Kuzma Smirnov
+
+- year: 2013
+  round: Individual
+  id: iol-2013-i-5
+  name: Telepathy
+  number: 5
+  page: 05
+  language:
+    - name: English
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+  solvers_choice: True
+  best_solutions:
+  - country: Brazil
+    team: Brazil
+    name: Gabriel Alves da Silva Diniz
+  - country: India
+    team: India
+    name: Nilai Sarda
+
+- year: 2013
+  round: Team
+  id: iol-2013-t-1
+  name: Georgian
+  number: 1
+  page: 06-08
+  language:
+    - name: Georgian
+      family: 
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Czechia
+    team: Czech Republic
+    name: Matyáš Medek
+  - country: Republic of Korea
+    team: Korea Sori
+    name: Huisu Yun
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-1
+  name: Benabena
+  number: 1
+  page: 01
+  language:
+    - name: Benabena
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Chaparova
+  - country: Russia
+    team: Russia 2
+    name: Gleb Nikolaev
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-2
+  name: Kiowa
+  number: 2
+  page: 02
+  language:
+    - name: Kiowa
+      family: Tanoan
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Romania
+    team: Romania
+    name: Dan Mircea Mirea
+  - country: USA
+    team: USA Red
+    name: Darryl Wu
+  - country: Poland
+    team: Poland 1
+    name: Miłosz Mazurkiewicz-Dubieński
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-3
+  name: Tangut
+  number: 3
+  page: 03
+  language:
+    - name: Tangut
+      family: Tibeto-Burman
+  author:
+    - name: Ivan Derzhanski
+  solvers_choice: True
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Simon Huang
+  - country: India
+    team: India
+    name: Anindya Sharma
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-4
+  name: Engenni
+  number: 4
+  page: 04-05
+  language:
+    - name: Engenni
+      family: Niger-Congo
+  author:
+    - name: Artūrs Semeņuks
+  best_solutions:
+  - country: USA
+    team: USA Blue
+    name: Catherine Wu
+
+- year: 2014
+  round: Individual
+  id: iol-2014-i-5
+  name: Gbaya
+  number: 5
+  page: 05
+  language:
+    - name: Gbaya
+      family: Niger-Congo
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: China
+    team: China 1
+    name: Tianlu Chen
+
+- year: 2014
+  round: Team
+  id: iol-2014-t-1
+  name: Armenian
+  number: 1
+  page: 06-09
+  language:
+    - name: Armenian
+      family: Indo-European
+  author:
+    - name: Boris Iomdin
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Chaparova
+  - country: Russia
+    team: Russia 2
+    name: Gleb Nikolaev
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-1
+  name: Nahuatl and Arammba
+  number: 1
+  page: 01
+  language:
+    - name: Nahuatl
+      family: Uto-Aztecan
+    - name: Arammba
+      family: South Central Papuan
+  author:
+    - name: Milena Veneva
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Matija Lovšin
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-2
+  name: Kabardian
+  number: 2
+  page: 02
+  language:
+    - name: Kabardian
+      family: North Caucasian
+  author:
+    - name: Peter Arkadiev
+  best_solutions:
+  - country: Poland
+    team: Poland White
+    name: Stanislaw Frejlak
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-3
+  name: Soundex
+  number: 3
+  page: 03
+  author:
+    - name: Alexander Piperski
+  solvers_choice: True
+  best_solutions:
+  - country: Ukraine
+    team: Ukraine 1
+    name: Ada Melentyeva
+  - country: USA
+    team: USA Red
+    name: James Bloxham
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-4
+  name: Wambaya
+  number: 4
+  page: 04-05
+  language:
+    - name: Wambaya
+      family: West Barkly
+  author:
+    - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Romania
+    team: Romania
+    name: Dan Mircea Mirea
+
+- year: 2015
+  round: Individual
+  id: iol-2015-i-5
+  name: Somali Masafo
+  number: 5
+  page: 05
+  language:
+    - name: Somali
+      family: Afroasiatic
+  author:
+    - name: Alexander Piperski
+  best_solutions:
+  - country: USA
+    team: USA Red
+    name: James Wedgwood
+  - country: Taiwan
+    team: Taiwan
+    name: Isabelle Lee Yen
+
+- year: 2015
+  round: Team
+  id: iol-2015-t-1
+  name: Northern Sotho
+  number: 1
+  page: 06-09
+  language:
+    - name: Northern Sotho
+      family: Niger-Congo
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Matija Lovšin
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-1
+  name: Aralle-Tabulahan
+  number: 1
+  page: 01-02
+  language:
+    - name: Aralle-Tabulahan
+      family: Austronesian
+  author:
+    - name: Ksenia Gilyarova
+  solvers_choice: True
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Kevin Sun
+  - country: UK
+    team: UK
+    name: Liam McKnight
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-2
+  name: Luwian
+  number: 2
+  page: 03
+  language:
+    - name: Luwian
+      family: Indo-European
+  author:
+    - name: Tae Hun Lee
+  best_solutions:
+  - country: Australia
+    team: Australia 1
+    name: Max Zhang
+  - country: China
+    team: China 2
+    name: Bai Ruiheng
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-3
+  name: Kunuz Nubian
+  number: 3
+  page: 04
+  language:
+    - name: Kunuz Nubian
+      family: Eastern Sudanic
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Sweden
+    team: Sweden
+    name: David Avellan-Hultman
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-4
+  name: Iatmül
+  number: 4
+  page: 05
+  language:
+    - name: Iatmül
+      family: Sepik
+  author:
+    - name: Artūrs Semeņuks
+  best_solutions:
+  - country: Republic of Korea
+    team: Korea Woori
+    name: Jaeyeong Yang
+  - country: Russia
+    team: Russia Belka
+    name: Ivan Samodelkin
+
+- year: 2016
+  round: Individual
+  id: iol-2016-i-5
+  name: Jaqaru
+  number: 5
+  page: 06
+  language:
+    - name: Jaqaru
+      family: Aymaran
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hirotaka Sato
+
+- year: 2016
+  round: Team
+  id: iol-2016-t-1
+  name: Taa
+  number: 1
+  page: 07
+  language:
+    - name: Taa
+      family: Tuu
+  author:
+    - name: Danylo Mysak
+  best_solutions:
+  - country: Canada
+    team: Canada
+    name: Kevin Sun
+  - country: UK
+    team: UK
+    name: Liam McKnight
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-1
+  name: Birom
+  number: 1
+  page: 01
+  language:
+    - name: Birom
+      family: Atlantic Congo
+  author:
+    - name: Milena Veneva
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
+  - country: Slovenia
+    team: Slovenia
+    name: Ana Meta Dolinar
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-2
+  name: Abui
+  number: 2
+  page: 02
+  language:
+    - name: Abui
+      family: Timor-Alor-Pantar
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Taiwan
+    team: TaiTWO
+    name: Ruei Hung Alex Lee
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-3
+  name: Kimbundu
+  number: 3
+  page: 03
+  language:
+    - name: Kimbundu
+      family: Atlantic-Congo
+  author:
+    - name: Bruno L'Astorina
+  best_solutions:
+  - country: USA
+    team: USA Red
+    name: Brian Xiao
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-4
+  name: Khom script/Laven
+  number: 4
+  page: 04
+  language:
+    - name: Laven (Jru')
+      family: Austroasiatic
+  writing_system:
+    - name: Khom
+  author:
+    - name: Tae Hun Lee
+  solvers_choice: True
+  best_solutions:
+  - country: Estonia
+    team: Estonia
+    name: Joonas Jürgen Kisel
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
+
+- year: 2017
+  round: Individual
+  id: iol-2017-i-5
+  name: Madak
+  number: 5
+  page: 07
+  language:
+    - name: Madak
+      family: Austronesian
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Russia
+    team: Russia Strelka
+    name: Daniel Vedeneev
+
+- year: 2017
+  round: Team
+  id: iol-2017-t-1
+  name: Emoji/Indonesian
+  number: 1
+  page: 07
+  language:
+    - name: Indonesian
+      family: 
+  writing_system:
+    - name: Emoji
+  author:
+    - name: Boris Iomdin
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: Poland
+    team: Poland Ą
+    name: Przemysław Podleśny
+  - country: Slovenia
+    team: Slovenia
+    name: Ana Meta Dolinar
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-1
+  name: Creek
+  number: 1
+  page: 01
+  language:
+    - name: Creek
+      family: Muskogean
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: USA
+    team: USA Red
+    name: Andrew Tockman
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-2
+  name: Hakhun
+  number: 2
+  page: 02
+  language:
+    - name: Hakhun
+      family: Sino-Tibetan
+  author:
+    - name: Peter Arkadiev
+  solvers_choice: True
+  best_solutions:
+  - country: Taiwan
+    team: Taiwan Earthquake
+    name: You-Kuan Lin
+  - country: India
+    team: India Green
+    name: Aparna Ajit Gupte
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-3
+  name: Terêna
+  number: 3
+  page: 03
+  language:
+    - name: Terêna
+      family: Arawakan
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: Brazil
+    team: Brazil Pães
+    name: Artur Corrêa Souza
+  - country: UK
+    team: UK U
+    name: Sean White
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-4
+  name: Mountain Arapesh (Bukiyip)
+  number: 4
+  page: 04
+  language:
+    - name: Mountain Arapesh
+      family: Torricelli
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Rujul Gandhi
+
+- year: 2018
+  round: Individual
+  id: iol-2018-i-5
+  name: Akan
+  number: 5
+  page: 05
+  language:
+    - name: Akan
+      family: Atlantic-Congo
+  author:
+    - name: Ksenia Gilyarova
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Angikar Ghosal
+  - country: USA
+    team: USA Red
+    name: Swapnil Garg
+  - country: Poland
+    team: Poland Biali
+    name: Przemysław Podleśny
+
+- year: 2018
+  round: Team
+  id: iol-2018-t-1
+  name: Mẽbêngôkre, Xavante and Krĩkatí
+  number: 1
+  page: 06
+  language:
+    - name: Mẽbêngôkre, Xavante and Krĩkatí
+      family: Jê
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Elena Keskinova
+  - country: USA
+    team: USA Red
+    name: Andrew Tockman
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-1
+  name: Yonggom
+  number: 1
+  page: 01
+  language:
+    - name: Yonggom
+      family: Trans-New Guinea
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Ken Jiang
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-2
+  name: Yurok
+  number: 2
+  page: 02
+  language:
+    - name: Yurok
+      family: Algic
+  author:
+    - name: Boris Iomdin
+    - name: Samuel Ahmed
+  solvers_choice: True
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-3
+  name: Book Pahlavi script
+  number: 3
+  page: 03
+  language:
+    - name: Middle Persian
+      family: Indo-European
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Taiwan
+    team: TaiEight
+    name: Lin, You-Kuan
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-4
+  name: West Tarangan
+  number: 4
+  page: 04
+  language:
+    - name: West Tarangan
+      family: Austronesian
+  author:
+    - name: Elysia Warner
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Matey Petkov
+  - country: China
+    team: China QIAN
+    name: Haokun Wu
+
+- year: 2019
+  round: Individual
+  id: iol-2019-i-5
+  name: Nooni
+  number: 5
+  page: 05
+  language:
+    - name: Nooni
+      family: Atlantic-Congo
+  author:
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: India
+    team: India Saffron
+    name: Aparna Ajit Gupte
+  - country: Russia
+    team: Russia Belka
+    name: Kristina Vashpanova
+  - country: USA
+    team: USA Red
+    name: Wesley Zhang
+
+- year: 2019
+  round: Team
+  id: iol-2019-t-1
+  name: Rhythmic Gymnastics
+  number: 1
+  page: 06
+  author:
+    - name: Anna Danilova
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Ken Jiang
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-1
+  name: Ekari
+  number: 1
+  page: 01
+  language:
+    - name: Ekari
+      family: Trans-New Guinea
+  author:
+    - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hibiki Sugawara
+  - country: Ukraine
+    team: Ukraine і
+    name: Daria Kryvosheieva
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-2
+  name: Zuni
+  number: 2
+  page: 02
+  language:
+    - name: Zuni
+      family: isolate
+  author:
+    - name: Elysia Warner
+    - name: Samuel Ahmed
+  solvers_choice: True
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-3
+  name: Kilivila
+  number: 3
+  page: 03
+  language:
+    - name: Kilivila
+      family: Austronesian
+  author:
+    - name: Samuel Ahmed
+  solvers_choice: True
+  best_solutions:
+  - country: Russia
+    team: Russia Strelka
+    name: Grigorii Solnyshkin
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-4
+  name: Agbirigba
+  number: 4
+  page: 04
+  language:
+    - name: Ikwerre
+      family: Atlantic-Congo
+  author:
+    - name: Liam McKnight
+  best_solutions:
+  - country: Russia
+    team: Russia Belka
+    name: Leonid Zaitsev
+  - country: Ukraine
+    team: Ukraine і
+    name: Artem Hrechka
+  - country: UK
+    team: UK U
+    name: Alexander James Robson
+
+- year: 2021
+  round: Individual
+  id: iol-2021-i-5
+  name: Rikbaktsa
+  number: 5
+  page: 05
+  language:
+    - name: Rikbaktsa
+      family: Macro-Jê
+  author:
+    - name: André Nikulin
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Rio Ogawa
+  - country: Republic of Korea
+    team: Korea Nieun
+    name: Jinwoo Jeong
+  - country: Russia
+    team: Russia Strelka
+    name: Elvira Ageeva
+
+- year: 2021
+  round: Team
+  id: iol-2021-t-1
+  name: Garífuna, Lokono and Kari’ña
+  number: 1
+  page: 06
+  language:
+    - name: Garífuna
+      family: Arawakan
+    - name: Lokono
+      family: Arawakan
+    - name: Kari’ña
+      family: Cariban
+  author:
+    - name: André Nikulin
+    - name: Milena Veneva
+  best_solutions:
+  - country: Japan
+    team: Japan Samurai
+    name: Hibiki Sugawara
+  - country: Ukraine
+    team: Ukraine і
+    name: Daria Kryvosheieva
+
+- year: 2022
+  round: Individual
+  id: iol-2022-i-1
+  name: Ubykh
+  number: 1
+  page: 01
+  language:
+    - name: Ubykh
+      family: Abkhaz–Adyghe
+  author:
+    - name: Peter Arkadiev
+  best_solutions:
+  - country: Hungary
+    team: Hungary Uborka
+    name: Anita Dalma Páhán
+  - country: Romania
+    team: Romania
+    name: Vlad-Ștefan Oros
+
+- year: 2022
+  round: Individual
+  id: iol-2022-i-2
+  name: Alabama
+  number: 2
+  page: 02
+  language:
+    - name: Alabama
+      family: Muskogean
+  author:
+    - name: Ivan Derzhanski
+
+- year: 2022
+  round: Individual
+  id: iol-2022-i-3
+  name: Nǀuuki (Nǁng)
+  number: 3
+  page: 03
+  language:
+    - name: Nǀuuki
+      family: Tuu
+  author:
+    - name: Liam McKnight
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: Czechia
+    team: Czechia
+    name: Matouš Šafránek
+  - country: UK
+    team: UK K
+    name: William Thomson
+
+- year: 2022
+  round: Individual
+  id: iol-2022-i-4
+  name: Arabana
+  number: 4
+  page: 04
+  language:
+    - name: Arabana
+      family: Pama–Nyungan
+  author:
+    - name: Tom McCoy
+  solvers_choice: True
+  best_solutions:
+  - country: Australia
+    team: Australia 
+    name: Eunsu Choi
+  - country: Hong Kong
+    team: Hong Kong
+    name: Ian Tam
+  - country: Japan
+    team: Japan Samurai
+    name: Takamichi Hoshii
+  - country: Moldova
+    team: Moldova
+    name: Alexandra Jelihovschi
+
+- year: 2022
+  round: Individual
+  id: iol-2022-i-5
+  name: Proto-Chamic, Phan Rang Cham and Tsat
+  number: 5
+  page: 05
+  language:
+    - name: Proto-Chamic
+      family: Chamic
+    - name: Phan Rang Cham
+      family: Chamic
+    - name: Tsat
+      family: Chamic
+  author:
+    - name: Tung-Le Pan
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 2
+    name: Konstantin Georgiev
+  - country: Hong Kong
+    team: Hong Kong
+    name: Henry Wong
+
+- year: 2022
+  round: Team
+  id: iol-2022-t-1
+  name: Manchu
+  number: 1
+  page: 06
+  language:
+    - name: Manchu
+      family: Tungusic
+  author:
+    - name: Minkyu Kim
+  best_solutions:
+  - country: Hungary
+    team: Hungary Uborka
+    name: Anita Dalma Páhán
+  - country: Romania
+    team: Romania
+    name: Vlad-Ștefan Oros

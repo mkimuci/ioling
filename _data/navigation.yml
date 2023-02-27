@@ -1,75 +1,71 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
+# Only when broadcasting!
+# - title: Live
+#   url: "/live/"
+#   side: left
 
-- title: "Templates"
-  url: "/design/"
-  side: left
-  dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Contests"
+  url: "/contests/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Upcoming"
+    url: "/upcoming/"
+  - title: "Past Contests"
+    url: "/past_contests/"
+  - title: "How to Participate"
+    url: "/participation/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Results"
+  url: "/results/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "By year"
+    url: "/results/by_year/"
+  - title: "By country"
+    url: "/results/by_country/"
+  # - title: "By participant"
+  #   url: "/results/by-participant/"
+  - title: "Hall of Fame"
+    url: "/results/hall_of_fame/"
 
-- title: Blog
-  url: "/blog/"
+- title: Problems
+  url: "/problems/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Samples"
+    url: "/problems/samples/"
+  - title: "By year"
+    url: "/problems/by_year"
+  - title: "Solvers' Choice"
+    url: "/problems/solvers_choice"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+- title: "About"
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "FAQ"
+    url: "/faq/"
+  - title: "History"
+    url: "/history/"
+  - title: "Regulations"
+    url: "/regulations/"
+  - title: "Sponsorship"
+    url: "/sponsorship/"
+
+- title: News
+  url: "/news/archive/"
+  side: left
+  # dropdown:
+  # - title: "News Archive"
+  #   url: "/news/archive/"
+
+- title: Sponsors
+  url: "/sponsorship/"
+  side: left
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left

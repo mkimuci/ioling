@@ -1,0 +1,6881 @@
+- year: 2003
+  individual:
+      gold:
+      - name: Alexandra Petrova
+        score: 93
+        team: Russia-St. Petersburg
+        country: Russia
+
+      - name: Boris Turovsky
+        score: 90
+        team: Russia-Moscow
+        country: Russia
+
+      - name: Eddin Najetovic
+        score: 88
+        team: Netherlands
+        country: Netherlands
+
+      silver:
+      - name: Mirjam Plooij
+        score: 81
+        team: Netherlands
+        country: Netherlands
+
+      - name: Maria Shkapa
+        score: 78
+        team: Russia-Moscow
+        country: Russia
+
+      bronze:
+      - name: Polina Oskolskaya
+        score: 75
+        team: Russia-St. Petersburg
+        country: Russia
+
+      - name: Ivan Dobrev
+        score: 74
+        team: Bulgaria 1
+        country: Bulgaria
+
+      honorable_mention:
+
+      best_solution:
+      - name: Yulia Glazova
+        team: Russia-St. Petersburg
+        country: Russia
+        problem: 2
+
+      - name: Alexandra Petrova
+        team: Russia-St. Petersburg
+        country: Russia
+        problem: 4
+
+      - name: Ivaylo Grozdev
+        team: Bulgaria 3
+        country: Bulgaria
+        problem: 4
+
+      - name: Kadri Rosmaa
+        team: Estonia
+        country: Estonia
+        problem: 4
+
+      - name: Alexandra Petrova
+        team: Russia-St. Petersburg
+        country: Russia
+        problem: 5
+
+      - name: Ivaylo Grozdev
+        team: Bulgaria 3
+        country: Bulgaria
+        problem: 5
+
+      - name: Jana Kuřetová
+        team: Czech Republic
+        country: Czechia
+        problem: 5
+
+      - name: Margarita Borovkova
+        team: Latvia
+        country: Latvia
+        problem: 5
+
+      - name: Maria Shkapa
+        team: Russia-Moscow
+        country: Russia
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 74.5
+        team: Netherlands
+        country: Netherlands
+
+      silver:
+      - place: 2
+        average: 73.5
+        team: Russia-St. Petersburg
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 70.5
+        team: Russia-Moscow
+        country: Russia
+
+  team:
+      gold:
+      - team: Netherlands
+        country: Netherlands
+        score: 98
+
+      silver:
+      - team: Russia-St. Petersburg
+        country: Russia
+        score: 91
+
+      bronze:
+      - team: Russia-Moscow
+        country: Russia
+        score: 83
+
+      honorable_mention:
+
+- year: 2004
+  individual:
+      gold:
+      - name: Ivan Dobrev
+        score: 88
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Alexander Piperski
+        score: 84
+        team: Russia-Moscow 1
+        country: Russia
+
+      - name: Ralitsa Markova
+        score: 82
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - name: Maria Mamykina
+        score: 76
+        team: Russia-Moscow 2
+        country: Russia
+
+      - name: Tsvetomila Mihaylova
+        score: 74
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Todor Tchervenkov
+        score: 74
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Tymon Słoczyński
+        score: 70
+        team: Poland
+        country: Poland
+
+      bronze:
+      - name: Alexandra Zabelina
+        score: 69
+        team: Russia-Moscow 1
+        country: Russia
+
+      - name: Xenia Kuzmina
+        score: 68
+        team: Russia-Moscow 2
+        country: Russia
+
+      - name: Alexey Nazarov
+        score: 68
+        team: Netherlands
+        country: Netherlands
+
+      - name: Margus Niitsoo
+        score: 68
+        team: Estonia
+        country: Estonia
+
+      - name: Nikita Medyankin
+        score: 67
+        team: Russia-Moscow 1
+        country: Russia
+
+      - name: Natalja Hartšenko
+        score: 67
+        team: Estonia
+        country: Estonia
+
+      - name: Sophia Oskolskaya
+        score: 66
+        team: Russia-St. Petersburg
+        country: Russia
+
+      honorable_mention:
+
+      best_solution:
+      - name: Desislava Radieva
+        team: Bulgaria 2
+        country: Bulgaria
+        problem: 1
+
+      - name: Kirill Grigoryev
+        team: Russia-St. Petersburg
+        country: Russia
+        problem: 1
+
+      - name: Natalja Hartšenko
+        team: Estonia
+        country: Estonia
+        problem: 1
+
+      - name: Sophia Oskolskaya
+        team: Russia-St. Petersburg
+        country: Russia
+        problem: 1
+
+      - name: Alexey Nazarov
+        team: Netherlands
+        country: Netherlands
+        problem: 2
+
+      - name: Tymon Słoczyński
+        team: Poland
+        country: Poland
+        problem: 2
+
+      - name: Ralitsa Markova
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 3
+
+      - name: Natalja Hartšenko
+        team: Estonia
+        country: Estonia
+        problem: 4
+
+      - name: Taisija Šantare
+        team: Latvia
+        country: Latvia
+        problem: 4
+
+  average:
+      gold:
+      - place: 1
+        average: 79.5
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - place: 2
+        average: 71
+        team: Russia-Moscow 1
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 64.5
+        team: Russia-Moscow 2
+        country: Russia
+
+  team:
+      gold:
+      - team: Russia-St. Petersburg
+        country: Russia
+        score: N/A
+
+      silver:
+      - team: Latvia
+        country: Latvia
+        score: N/A
+
+      bronze:
+      - team: Bulgaria 1
+        country: Bulgaria
+        score: N/A
+
+      honorable_mention:
+
+- year: 2005
+  individual:
+      gold:
+      - name: Ivan Dobrev
+        score: 95
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - name: Eleonora Glazova
+        score: 87.5
+        team: St. Petersburg
+        country: Russia
+
+      bronze:
+      - name: Nikita Medyankin
+        score: 83
+        team: Moscow
+        country: Russia
+
+      - name: Tsvetomila Mihaylova
+        score: 83
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Alexander Piperski
+        score: 82.5
+        team: Moscow
+        country: Russia
+
+      - name: Ivaylo Grozdev
+        score: 80
+        team: Bulgaria 1
+        country: Bulgaria
+
+      honorable_mention:
+      - name: Igor Vinogradov
+        score: 77
+        team: Moscow
+        country: Russia
+
+      - name: Robin Jastrzebski
+        score: 76
+        team: Netherlands 2
+        country: Netherlands
+
+      - name: Kiril Dimov
+        score: 75
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Alexei Nazarov
+        score: 72
+        team: Netherlands 1
+        country: Netherlands
+
+      - name: Ivar Merilo
+        score: 72
+        team: Estonia
+        country: Estonia
+
+      - name: Aleksandra Ņivina
+        score: 68.5
+        team: Latvia
+        country: Latvia
+
+      - name: Todor Tchervenkov
+        score: 67.5
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Sofia Krasnoshchekova
+        score: 67
+        team: St. Petersburg
+        country: Russia
+
+      - name: Simon Vigonski
+        score: 65.5
+        team: Estonia
+        country: Estonia
+
+
+      best_solution:
+      - name: Ivan Dobrev
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 1
+
+      - name: Alexander Piperski
+        team: Moscow
+        country: Russia
+        problem: 2
+
+      - name: Alexei Nazarov
+        team: Netherlands 1
+        country: Netherlands
+        problem: 2
+
+      - name: Jovana Ateljević
+        team: Yugoslavia
+        country: Serbia
+        problem: 2
+
+      - name: Maciej Kanafa
+        team: Poland 2
+        country: Poland
+        problem: 3
+
+      - name: Simon Vigonski
+        team: Estonia
+        country: Estonia
+        problem: 3
+
+      - name: Elena Khanina
+        team: Moscow
+        country: Russia
+        problem: 4
+
+      - name: Robin Jastrzebski
+        team: Netherlands 2
+        country: Netherlands
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 81.375
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - place: 2
+        average: 75.125
+        team: Moscow
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 65
+        team: St. Petersburg
+        country: Russia
+
+  team:
+      gold:
+      - team: Netherlands 1
+        country: Netherlands
+        score: N/A
+
+      silver:
+      - team: Moscow
+        country: Russia
+        score: N/A
+
+      bronze:
+      - team: St. Petersburg
+        country: Russia
+        score: N/A
+
+      honorable_mention:
+
+- year: 2006
+  individual:
+      gold:
+      - name: Maria Kholodilova
+        score: 87
+        team: St. Petersburg
+        country: Russia
+
+      - name: Ivaylo Dimitrov
+        score: 84
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Pavel Sofroniev
+        score: 82
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - name: Yordan Mehandzhiyski
+        score: 79
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Eleonora Glazova
+        score: 77
+        team: St. Petersburg
+        country: Russia
+
+      - name: Daniil Zorin
+        score: 76
+        team: Moscow
+        country: Russia
+
+      - name: Mihail Minkov
+        score: 76
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Sergey Malyshev
+        score: 75
+        team: Moscow
+        country: Russia
+
+      - name: Alexander Daskalov
+        score: 74
+        team: Bulgaria 1
+        country: Bulgaria
+
+      bronze:
+      - name: Yulia Taran
+        score: 71
+        team: St. Petersburg
+        country: Russia
+
+      - name: Nikita Medyankin
+        score: 70
+        team: Moscow
+        country: Russia
+
+      - name: Diana Aitai
+        score: 70
+        team: Estonia 1
+        country: Estonia
+
+      - name: Paweł Świątkowski
+        score: 69
+        team: Poland 2
+        country: Poland
+
+      honorable_mention:
+      - name: Kärt Varendi
+        score: 61
+        team: Estonia 2
+        country: Estonia
+
+      - name: Simon Vigonski
+        score: 61
+        team: Estonia 1
+        country: Estonia
+
+
+      best_solution:
+      - name: Ivaylo Dimitrov
+        team: Bulgaria 2
+        country: Bulgaria
+        problem: 2
+
+      - name: Maria Kholodilova
+        team: St. Petersburg
+        country: Russia
+        problem: 3
+
+      - name: Natalia Ostapuk
+        team: St. Petersburg
+        country: Russia
+        problem: 4
+
+      - name: Desislava Radieva
+        team: Bulgaria 2
+        country: Bulgaria
+        problem: 5
+
+      - name: Diana Aitai
+        team: Estonia 1
+        country: Estonia
+        problem: 5
+
+      - name: Paweł Świątkowski
+        team: Poland 2
+        country: Poland
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 73
+        team: Bulgaria 1
+        country: Bulgaria
+
+      silver:
+      - place: 2
+        average: 72.33
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 72.25
+        team: St. Petersburg
+        country: Russia
+
+  team:
+      gold:
+      - team: Bulgaria 2
+        country: Bulgaria
+        score: 82
+
+      silver:
+      - team: Netherlands
+        country: Netherlands
+        score: 75
+
+      bronze:
+      - team: Poland 1
+        country: Poland
+        score: 72
+
+      honorable_mention:
+
+- year: 2007
+  individual:
+      gold:
+      - name: Adam Hesterberg
+        score: 90
+        team: USA 1
+        country: USA
+
+      - name: Łukasz Cegieła
+        score: 85.5
+        team: Poland 1
+        country: Poland
+
+      silver:
+      - name: Kira Kiranova
+        score: 78
+        team: Moscow
+        country: Russia
+
+      - name: Arseniy Vetushko-Kalevich
+        score: 76.5
+        team: St. Petersburg 1
+        country: Russia
+
+      - name: Mihail Minkov
+        score: 76.5
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Sander Pajusalu
+        score: 70.5
+        team: Estonia 1
+        country: Estonia
+
+      - name: Teele Vaalma
+        score: 69
+        team: Estonia 2
+        country: Estonia
+
+      - name: Angel Naydenov
+        score: 69
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - name: Anna Shlomina
+        score: 65
+        team: St. Petersburg 2
+        country: Russia
+
+      - name: Yordan Mehandzhiyski
+        score: 63.5
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Elizaveta Rebrova
+        score: 63
+        team: Moscow
+        country: Russia
+
+      - name: Maria Kholodilova
+        score: 62
+        team: St. Petersburg 1
+        country: Russia
+
+      honorable_mention:
+
+      best_solution:
+      - name: Melissa Saviste
+        team: Estonia 2
+        country: Estonia
+        problem: 2
+
+      - name: Łukasz Cegieła
+        team: Poland 1
+        country: Poland
+        problem: 3
+
+      - name: Mateusz Dolata
+        team: Poland 1
+        country: Poland
+        problem: 4
+
+  average:
+      gold:
+      - place: 1
+        average: 59.625
+        team: Estonia 1
+        country: Estonia
+
+      silver:
+      - place: 2
+        average: 59.250
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 58.750
+        team: Moscow
+        country: Russia
+
+  team:
+      gold:
+      - team: USA 2
+        country: USA
+        score: N/A
+
+      - team: Moscow
+        country: Russia
+        score: N/A
+
+      silver:
+      - team: Bulgaria 2
+        country: Bulgaria
+        score: N/A
+
+      - team: Bulgaria 1
+        country: Bulgaria
+        score: N/A
+
+      bronze:
+      honorable_mention:
+
+- year: 2008
+  individual:
+      gold:
+      - name: Alexander Daskalov
+        score: 85
+        team: Bulgaria West
+        country: Bulgaria
+
+      - name: Hanzhi Zhu
+        score: 83
+        team: USA 2
+        country: USA
+
+      - name: Milan Abel Lopuhaä
+        score: 82
+        team: Netherlands
+        country: Netherlands
+
+      silver:
+      - name: Anand Natarajan
+        score: 79
+        team: USA 1
+        country: USA
+
+      - name: Maciej Janicki
+        score: 79
+        team: Poland 1
+        country: Poland
+
+      - name: Morris Alper
+        score: 78
+        team: USA 1
+        country: USA
+
+      - name: Dmitry Perevozchikov
+        score: 78
+        team: Moscow
+        country: Russia
+
+      - name: Łukasz Cegieła
+        score: 77
+        team: Poland 1
+        country: Poland
+
+      - name: Andrey Nikulin
+        score: 75
+        team: Moscow
+        country: Russia
+
+      - name: Marcin Filar
+        score: 73
+        team: Poland 1
+        country: Poland
+
+      bronze:
+      - name: Jeffrey Lim
+        score: 71
+        team: USA 2
+        country: USA
+
+      - name: Guy Tabachnick
+        score: 71
+        team: USA 1
+        country: USA
+
+      - name: Joon Kyu Kang
+        score: 71
+        team: Korea KMLA
+        country: Republic of Korea
+
+      - name: Radosław Burny
+        score: 71
+        team: Poland 2
+        country: Poland
+
+      - name: Diana Sofronieva
+        score: 71
+        team: Bulgaria East
+        country: Bulgaria
+
+      - name: Karol Konaszyński
+        score: 70
+        team: Poland 2
+        country: Poland
+
+      - name: Yordan Mehandzhiyski
+        score: 70
+        team: Bulgaria West
+        country: Bulgaria
+
+      - name: Rebecca Jacobs
+        score: 69
+        team: USA 2
+        country: USA
+
+      - name: Tatyana Polevaya
+        score: 68
+        team: St. Petersburg
+        country: Russia
+
+      - name: Georgi Rangelov
+        score: 68
+        team: Bulgaria East
+        country: Bulgaria
+
+      honorable_mention:
+
+      best_solution:
+      - name: Hanzhi Zhu
+        team: USA 2
+        country: USA
+        problem: 1
+
+      - name: Erle Morgaine Monfils
+        team: Netherlands
+        country: Netherlands
+        problem: 2
+
+      - name: Miha Čančula
+        team: Slovenia
+        country: Slovenia
+        problem: 2
+
+      - name: Alexander Daskalov
+        team: Bulgaria West
+        country: Bulgaria
+        problem: 3
+
+      - name: Radosław Burny
+        team: Poland 2
+        country: Poland
+        problem: 3
+
+      - name: Jae-Kyu Lee
+        team: USA 2
+        country: USA
+        problem: 4
+
+  average:
+      gold:
+      silver:
+      bronze:
+  team:
+      gold:
+      - team: USA 2
+        country: USA
+        score: 85
+
+      - team: Bulgaria East
+        country: Bulgaria
+        score: 85
+
+      silver:
+      - team: Netherlands
+        country: Netherlands
+        score: 67
+
+      - team: USA 1
+        country: USA
+        score: 66
+
+      bronze:
+      honorable_mention:
+
+- year: 2009
+  individual:
+      gold:
+      - name: Diana Sofronieva
+        score: 92
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Łukasz Cegieła
+        score: 89
+        team: Poland 1
+        country: Poland
+
+      silver:
+      - name: Vitaly Pavlenko
+        score: 78
+        team: Moscow
+        country: Russia
+
+      - name: Andrey Nikulin
+        score: 75
+        team: Moscow
+        country: Russia
+
+      - name: Artūrs Semeņuks
+        score: 74
+        team: Latvia
+        country: Latvia
+
+      - name: Yordan Mehandzhiyski
+        score: 74
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Irene Tamm
+        score: 69
+        team: Estonia
+        country: Estonia
+
+      - name: Łukasz Kalinowski
+        score: 67
+        team: Poland 2
+        country: Poland
+
+      - name: Witold Małecki
+        score: 64
+        team: Poland 2
+        country: Poland
+
+      - name: Rebecca Jacobs
+        score: 63
+        team: USA Red
+        country: USA
+
+      - name: Aakanksha Sarda
+        score: 63
+        team: India
+        country: India
+
+      bronze:
+      - name: Deyana Kamburova
+        score: 59
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Szymon Musioł
+        score: 58
+        team: Poland 2
+        country: Poland
+
+      - name: Elena Volkova
+        score: 56
+        team: Moscow
+        country: Russia
+
+      - name: Laura Adamson
+        score: 55
+        team: Estonia
+        country: Estonia
+
+      - name: Alan Huang
+        score: 54
+        team: USA Red
+        country: USA
+
+      - name: Tomasz Dobrzycki
+        score: 54
+        team: Poland 2
+        country: Poland
+
+      - name: Ben Caller
+        score: 54
+        team: Great Britain
+        country: UK
+
+      - name: John Berman
+        score: 53
+        team: USA Blue
+        country: USA
+
+      - name: Jun Yeop Lee
+        score: 53
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Sergei Bernstein
+        score: 51
+        team: USA Blue
+        country: USA
+
+      - name: Hye jin Ryu
+        score: 51
+        team: Korea 1
+        country: Republic of Korea
+
+      honorable_mention:
+      - name: Anand Natarajan
+        score: 50
+        team: USA Red
+        country: USA
+
+      - name: Vivaek Shivakumar
+        score: 50
+        team: USA Blue
+        country: USA
+
+      - name: Adam Polak
+        score: 50
+        team: Poland 1
+        country: Poland
+
+      - name: Tony Keller
+        score: 50
+        team: Germany
+        country: Germany
+
+      - name: Maciej Jaromin
+        score: 49
+        team: Poland 1
+        country: Poland
+
+      - name: Ignace Schoot
+        score: 49
+        team: Netherlands
+        country: Netherlands
+
+      - name: Jens Theilen
+        score: 49
+        team: Germany
+        country: Germany
+
+      - name: Ruadhan Treacy
+        score: 48
+        team: Ireland
+        country: Ireland
+
+      - name: Eva-Lotta Käsper
+        score: 48
+        team: Estonia
+        country: Estonia
+
+      - name: Charley van der Sman
+        score: 47
+        team: Netherlands
+        country: Netherlands
+
+      - name: Hyung Min Son
+        score: 47
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Anastas Tenev
+        score: 47
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Morris Alper
+        score: 46
+        team: USA Red
+        country: USA
+
+      - name: Daryl Hansen
+        score: 46
+        team: USA Blue
+        country: USA
+
+      - name: Niels uit de Bos
+        score: 46
+        team: Netherlands
+        country: Netherlands
+
+      - name: Victor Valov
+        score: 46
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Aleksejs Peguševs
+        score: 45
+        team: Latvia
+        country: Latvia
+
+      - name: Diana Glazova
+        score: 44
+        team: St. Petersburg
+        country: Russia
+
+      - name: Polina Loseva
+        score: 43
+        team: Moscow
+        country: Russia
+
+      - name: Soon Ki Kwon
+        score: 43
+        team: Korea 2
+        country: Republic of Korea
+
+
+      best_solution:
+      - name: Alan Huang
+        team: USA Red
+        country: USA
+        problem: 1
+
+      - name: Andrey Nikulin
+        team: Moscow
+        country: Russia
+        problem: 1
+
+      - name: Elena Volkova
+        team: Moscow
+        country: Russia
+        problem: 2
+
+      - name: Aakanksha Sarda
+        team: India
+        country: India
+        problem: 3
+
+      - name: Hye jin Ryu
+        team: Korea 1
+        country: Republic of Korea
+        problem: 3
+
+      - name: Andrey Nikulin
+        team: Moscow
+        country: Russia
+        problem: 4
+
+      - name: Diana Sofronieva
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 4
+
+      - name: Łukasz Cegieła
+        team: Poland 1
+        country: Poland
+        problem: 4
+
+      - name: John Berman
+        team: USA Blue
+        country: USA
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 63
+        team: Moscow
+        country: Russia
+
+      silver:
+      - place: 2
+        average: 62
+        team: Bulgaria 1
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 57
+        team: Poland 2
+        country: Poland
+
+  team:
+      gold:
+      - team: USA Red
+        country: USA
+        score: 2261
+
+      silver:
+      - team: Korea 1
+        country: Republic of Korea
+        score: 2124.5
+
+      bronze:
+      - team: Moscow
+        country: Russia
+        score: 2025
+
+      honorable_mention:
+
+- year: 2010
+  individual:
+      gold:
+      - name: Vadim Tukh
+        score: 99
+        team: St. Petersburg
+        country: Russia
+
+      - name: Andrey Nikulin
+        score: 99
+        team: Moscow
+        country: Russia
+
+      - name: Ben Sklaroff
+        score: 96
+        team: USA Red
+        country: USA
+
+      silver:
+      - name: Tian-Yi Damien Jiang
+        score: 94
+        team: USA Blue
+        country: USA
+
+      - name: Martin Camacho
+        score: 94
+        team: USA Blue
+        country: USA
+
+      - name: Allen Yuan
+        score: 93
+        team: USA Red
+        country: USA
+
+      - name: Daria Vasilyeva
+        score: 93
+        team: St. Petersburg
+        country: Russia
+
+      - name: Aleksejs Peguševs
+        score: 90
+        team: Latvia
+        country: Latvia
+
+      - name: Łukasz Kalinowski
+        score: 89
+        team: Poland 2
+        country: Poland
+
+      - name: Krzysztof Pawlak
+        score: 86
+        team: Poland 2
+        country: Poland
+
+      - name: Maciej Dulęba
+        score: 84
+        team: Poland 1
+        country: Poland
+
+      - name: Daniel Rucki
+        score: 84
+        team: Poland 1
+        country: Poland
+
+      bronze:
+      - name: Mirjam Parve
+        score: 82
+        team: Estonia
+        country: Estonia
+
+      - name: Miroslav Manolov
+        score: 81
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Alexander Iriza
+        score: 80
+        team: USA Blue
+        country: USA
+
+      - name: Alan Chang
+        score: 79
+        team: USA Blue
+        country: USA
+
+      - name: Vitaly Pavlenko
+        score: 77
+        team: Moscow
+        country: Russia
+
+      - name: Artūrs Semeņuks
+        score: 75
+        team: Latvia
+        country: Latvia
+
+      - name: Mona Teppor
+        score: 75
+        team: Estonia
+        country: Estonia
+
+      - name: Diana Glazova
+        score: 73
+        team: St. Petersburg
+        country: Russia
+
+      - name: Jakob Park
+        score: 73
+        team: Germany
+        country: Germany
+
+      - name: Roman Stasiński
+        score: 71
+        team: Poland 1
+        country: Poland
+
+      - name: Szymon Kanonowicz
+        score: 71
+        team: Poland 1
+        country: Poland
+
+      - name: Ellen Sinot
+        score: 70
+        team: Netherlands
+        country: Netherlands
+
+      - name: Younus Porteous 
+        score: 69
+        team: UK 1
+        country: UK
+
+      - name: Ana Pavlović
+        score: 67
+        team: Serbia
+        country: Serbia
+
+      - name: Jeeun Song
+        score: 67
+        team: Korea 1
+        country: Republic of Korea
+
+      honorable_mention:
+      - name: Olivier Paauw
+        score: 66
+        team: Netherlands
+        country: Netherlands
+
+      - name: Estere Šeinkmane
+        score: 66
+        team: Latvia
+        country: Latvia
+
+      - name: In-Sung Na
+        score: 65
+        team: USA Red
+        country: USA
+
+      - name: Tadej Novak
+        score: 65
+        team: Slovenia 1
+        country: Slovenia
+
+      - name: Jekaterina Malina
+        score: 64
+        team: Latvia
+        country: Latvia
+
+      - name: Seung Heon Lee
+        score: 64
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Craig Bohrson
+        score: 63
+        team: UK 1
+        country: UK
+
+      - name: Jeremy Ng
+        score: 63
+        team: Singapore
+        country: Singapore
+
+      - name: Velizar Velkov
+        score: 63
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Michelle Jayasuriya
+        score: 63
+        team: Australia
+        country: Australia
+
+      - name: Mihhail Afanasjev
+        score: 61
+        team: Estonia
+        country: Estonia
+
+      - name: Velichko Valkov
+        score: 61
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Brian Kong
+        score: 60
+        team: USA Red
+        country: USA
+
+      - name: Ignace Schoot 
+        score: 60
+        team: Netherlands
+        country: Netherlands
+
+      - name: Karin Sonesson
+        score: 59
+        team: Sweden
+        country: Sweden
+
+      - name: Morten Støstand
+        score: 59
+        team: Norway
+        country: Norway
+
+      - name: Fenno Noij 
+        score: 59
+        team: Netherlands
+        country: Netherlands
+
+      - name: Elitsa Milanova
+        score: 59
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Anja Bregar
+        score: 58
+        team: Slovenia 2
+        country: Slovenia
+
+      - name: Artur Zygadło
+        score: 58
+        team: Poland 2
+        country: Poland
+
+      - name: Carl Rietschel
+        score: 57
+        team: UK 2
+        country: UK
+
+      - name: Nadine Sedlaczeck
+        score: 57
+        team: Germany
+        country: Germany
+
+      - name: Maximilian König
+        score: 57
+        team: Germany
+        country: Germany
+
+
+      best_solution:
+      - name: Szymon Kanonowicz
+        team: Poland 1
+        country: Poland
+        problem: 1
+
+      - name: Tian-Yi Damien Jiang
+        team: USA Blue
+        country: USA
+        problem: 1
+
+      - name: Jeeun Song
+        team: Korea 1
+        country: Republic of Korea
+        problem: 2
+
+      - name: Martin Camacho
+        team: USA Blue
+        country: USA
+        problem: 2
+
+      - name: Nadine Sedlaczeck
+        team: Germany
+        country: Germany
+        problem: 3
+
+      - name: Vitaly Pavlenko
+        team: Moscow
+        country: Russia
+        problem: 3
+
+      - name: Aleksejs Peguševs
+        team: Latvia
+        country: Latvia
+        problem: 4
+
+      - name: Ben Sklaroff
+        team: USA Red
+        country: USA
+        problem: 4
+
+      - name: Tadej Novak
+        team: Slovenia 1
+        country: Slovenia
+        problem: 4
+
+      - name: Alexey Doilnitsyn
+        team: St. Petersburg
+        country: Russia
+        problem: 5
+
+      - name: Andrey Nikulin
+        team: Moscow
+        country: Russia
+        problem: 5
+
+      - name: Nathan Somers
+        team: UK 2
+        country: UK
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 86.75
+        team: USA Blue
+        country: USA
+
+      silver:
+      - place: 2
+        average: 80.25
+        team: St. Petersburg
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 78.5
+        team: USA Red
+        country: USA
+
+  team:
+      gold:
+      - team: Latvia
+        country: Latvia
+        score: 96
+
+      silver:
+      - team: Moscow
+        country: Russia
+        score: 86
+
+      bronze:
+      - team: Poland 2
+        country: Poland
+        score: 82
+
+      honorable_mention:
+
+- year: 2011
+  individual:
+      gold:
+      - name: Morris Alper
+        score: 80
+        team: USA Red
+        country: USA
+
+      - name: Eva-Lotta Käsper
+        score: 70
+        team: Estonia
+        country: Estonia
+
+      - name: Daria Vasilyeva
+        score: 67
+        team: St. Petersburg
+        country: Russia
+
+      - name: Aleksey Kozlov
+        score: 66
+        team: Moscow
+        country: Russia
+
+      silver:
+      - name: Allen Yuan
+        score: 64
+        team: USA White
+        country: USA
+
+      - name: Wesley Jones
+        score: 64
+        team: USA Red
+        country: USA
+
+      - name: Anton Sokolov
+        score: 64
+        team: St. Petersburg
+        country: Russia
+
+      - name: Jekaterina Malina
+        score: 64
+        team: Latvia
+        country: Latvia
+
+      - name: Alexander Wade
+        score: 62
+        team: USA Blue
+        country: USA
+
+      - name: Victor Valov
+        score: 62
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Duligur Ibeling
+        score: 61
+        team: USA Red
+        country: USA
+
+      - name: Paul Lau
+        score: 61
+        team: Australia
+        country: Australia
+
+      bronze:
+      - name: Elena Rykunova
+        score: 60
+        team: Moscow
+        country: Russia
+
+      - name: Min Kyu Kim
+        score: 60
+        team: Korea Hangul
+        country: Republic of Korea
+
+      - name: Rok Kaufman
+        score: 59
+        team: Slovenia
+        country: Slovenia
+
+      - name: Artūrs Semeņuks
+        score: 59
+        team: Latvia
+        country: Latvia
+
+      - name: Hyun Park
+        score: 59
+        team: Korea Sejong
+        country: Republic of Korea
+
+      - name: Vadim Tukh
+        score: 58
+        team: St. Petersburg
+        country: Russia
+
+      - name: Nik Moore
+        score: 57
+        team: UK
+        country: UK
+
+      - name: Daniel Rucki
+        score: 57
+        team: Poland 2
+        country: Poland
+
+      - name: Daniel Mitropolsky
+        score: 57
+        team: Canada
+        country: Canada
+
+      - name: Aaron Klein
+        score: 56
+        team: USA Red
+        country: USA
+
+      - name: Mihhail Afanasjev
+        score: 54
+        team: Estonia
+        country: Estonia
+
+      - name: Dimitar Hristov
+        score: 54
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Ralf Ahi
+        score: 53
+        team: Estonia
+        country: Estonia
+
+      honorable_mention:
+      - name: Piotr Gałuszka
+        score: 50
+        team: UK
+        country: UK
+
+      - name: Sagar Sarda
+        score: 49
+        team: India
+        country: India
+
+      - name: Ophir Lifshitz
+        score: 48
+        team: USA Blue
+        country: USA
+
+      - name: Anna Sarukhanova
+        score: 48
+        team: Moscow
+        country: Russia
+
+      - name: Ivaylo Youmerski
+        score: 48
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Caroline Ellison
+        score: 47
+        team: USA Blue
+        country: USA
+
+      - name: Mateusz Skórski
+        score: 47
+        team: Poland 2
+        country: Poland
+
+      - name: Maciej Dulęba
+        score: 47
+        team: Poland 2
+        country: Poland
+
+      - name: Arjun Srinivasan
+        score: 46
+        team: USA White
+        country: USA
+
+      - name: Sandra Schumann
+        score: 46
+        team: Estonia
+        country: Estonia
+
+      - name: Shaun Tan Yi Jie
+        score: 45
+        team: Singapore
+        country: Singapore
+
+      - name: Maciej Tyszko
+        score: 45
+        team: Poland 2
+        country: Poland
+
+      - name: Anton Kukhto
+        score: 44
+        team: Moscow
+        country: Russia
+
+      - name: Koen van Asseldonk
+        score: 44
+        team: Netherlands
+        country: Netherlands
+
+      - name: Yulia Markova
+        score: 44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Erik Andersen
+        score: 43
+        team: USA White
+        country: USA
+
+      - name: Kuzma Smirnov
+        score: 42
+        team: St. Petersburg
+        country: Russia
+
+      - name: Jonathan Hongsoon Kim
+        score: 42
+        team: Korea Sejong
+        country: Republic of Korea
+
+      - name: Medbh Campbell
+        score: 42
+        team: Ireland
+        country: Ireland
+
+      - name: Chelsea Voss
+        score: 41
+        team: USA White
+        country: USA
+
+      - name: Joelle Tan
+        score: 41
+        team: Singapore
+        country: Singapore
+
+      - name: Petar Genov
+        score: 41
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Mateja Hrast
+        score: 40
+        team: Slovenia
+        country: Slovenia
+
+      - name: William Zhang
+        score: 40
+        team: Canada
+        country: Canada
+
+      - name: Magdalena Dakeva
+        score: 40
+        team: Bulgaria 2
+        country: Bulgaria
+
+
+      best_solution:
+      - name: Morris Alper
+        team: USA Red
+        country: USA
+        problem: 2
+
+      - name: Rok Kaufman
+        team: Slovenia
+        country: Slovenia
+        problem: 2
+
+      - name: Caroline Ellison
+        team: USA Blue
+        country: USA
+        problem: 3
+
+      - name: Alexander Wade
+        team: USA Blue
+        country: USA
+        problem: 4
+
+      - name: Vadim Tukh
+        team: St. Petersburg
+        country: Russia
+        problem: 4
+
+  average:
+      gold:
+      - place: 1
+        average: 65.25
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 57.75
+        team: St. Petersburg
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 55.75
+        team: Estonia
+        country: Estonia
+
+  team:
+      gold:
+      - team: USA Red
+        country: USA
+        score: 85
+
+      silver:
+      - team: St. Petersburg
+        country: Russia
+        score: 69
+
+      bronze:
+      - team: Moscow
+        country: Russia
+        score: 64
+
+      honorable_mention:
+
+- year: 2012
+  individual:
+      gold:
+      - name: Anton Sokolov
+        score: 88
+        team: St. Petersburg
+        country: Russia
+
+      - name: Alexander Wade
+        score: 85
+        team: USA 2
+        country: USA
+
+      - name: Anderson  Wang
+        score: 80
+        team: USA 1
+        country: USA
+
+      - name: Vadim Tukh
+        score: 80
+        team: St. Petersburg
+        country: Russia
+
+      - name: Konrad Myszkowski
+        score: 78
+        team: Poland 2
+        country: Poland
+
+      - name: Jonathan Hongsoon Kim
+        score: 77
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Marin Ivanov
+        score: 76
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Kristian Kostadinov
+        score: 74
+        team: Bulgaria 2
+        country: Bulgaria
+
+      silver:
+      - name: Darryl Wu
+        score: 71
+        team: USA 1
+        country: USA
+
+      - name: Allan Sadun
+        score: 69
+        team: USA 1
+        country: USA
+
+      - name: Tom White
+        score: 68
+        team: UK
+        country: UK
+
+      - name: Eva-Lotta Käsper
+        score: 68
+        team: Estonia
+        country: Estonia
+
+      - name: Daniel Rucki
+        score: 67
+        team: Poland 1
+        country: Poland
+
+      - name: Aaron Klein
+        score: 66
+        team: USA 2
+        country: USA
+
+      - name: Ilya Pogodaev
+        score: 62
+        team: St. Petersburg
+        country: Russia
+
+      - name: Max Allmendinger
+        score: 62
+        team: Germany
+        country: Germany
+
+      - name: Rok Kaufman
+        score: 61
+        team: Slovenia 1
+        country: Slovenia
+
+      - name: Ivan Tadeu Ferreira Antunes Filho
+        score: 61
+        team: Brazil
+        country: Brazil
+
+      - name: Ji Wook Kim
+        score: 60
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Hong Bum Choi
+        score: 60
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Sagar Sarda
+        score: 60
+        team: India
+        country: India
+
+      bronze:
+      - name: Pedro Neves Lopes
+        score: 58
+        team: Brazil
+        country: Brazil
+
+      - name: Erik Andersen
+        score: 57
+        team: USA 2
+        country: USA
+
+      - name: Magdalena Dakeva
+        score: 57
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Ants-Oskar Mäesalu
+        score: 56
+        team: Estonia
+        country: Estonia
+
+      - name: Omri Faraggi
+        score: 55
+        team: UK
+        country: UK
+
+      - name: Anna Sarukhanova
+        score: 54
+        team: Moscow
+        country: Russia
+
+      - name: Melanie Duncan
+        score: 53
+        team: UK
+        country: UK
+
+      - name: Baichuan Li
+        score: 52
+        team: UK
+        country: UK
+
+      - name: Anita Mudzhumdar
+        score: 52
+        team: Moscow
+        country: Russia
+
+      - name: Estere Šeinkmane
+        score: 52
+        team: Latvia
+        country: Latvia
+
+      - name: Yash Sinha
+        score: 52
+        team: India
+        country: India
+
+      - name: Amelia Shaye Lim Jin
+        score: 51
+        team: Singapore
+        country: Singapore
+
+      - name: Edyta Gajdzik
+        score: 50
+        team: Poland 1
+        country: Poland
+
+      - name: Mette-Triin Purde
+        score: 50
+        team: Estonia
+        country: Estonia
+
+      - name: Anne Ng Yin-Yi 
+        score: 49
+        team: Singapore
+        country: Singapore
+
+      - name: Erik Tamre
+        score: 49
+        team: Estonia
+        country: Estonia
+
+      honorable_mention:
+      - name: Dariusz Matlak
+        score: 48
+        team: Poland 2
+        country: Poland
+
+      - name: Yutaro Yamada
+        score: 48
+        team: Japan
+        country: Japan
+
+      - name: Milena Velikova
+        score: 48
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Samuel Zbarsky
+        score: 47
+        team: USA 1
+        country: USA
+
+      - name: Zinaida Romashkina
+        score: 47
+        team: Moscow
+        country: Russia
+
+      - name: Vuk Marković
+        score: 46
+        team: Serbia
+        country: Serbia
+
+      - name: Mateusz Kopeć
+        score: 46
+        team: Poland 1
+        country: Poland
+
+      - name: Maylis Ribette
+        score: 46
+        team: Germany
+        country: Germany
+
+      - name: Kai-Xing Goh
+        score: 46
+        team: Australia
+        country: Australia
+
+      - name: Valentina Prevc
+        score: 45
+        team: Slovenia 1
+        country: Slovenia
+
+      - name: Tan Chih King Clarence
+        score: 45
+        team: Singapore
+        country: Singapore
+
+      - name: Joanna Cichowska
+        score: 45
+        team: Poland 2
+        country: Poland
+
+      - name: Harry Go
+        score: 45
+        team: Canada
+        country: Canada
+
+      - name: Surya Narayanan Hari 
+        score: 44
+        team: India
+        country: India
+
+      - name: Mariya Lazarova
+        score: 44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Melania Berbatova
+        score: 44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Darko Ninković
+        score: 43
+        team: Serbia
+        country: Serbia
+
+      - name: Kamil Rychlewicz
+        score: 43
+        team: Poland 2
+        country: Poland
+
+      - name: Jia Zhang
+        score: 43
+        team: China 1
+        country: China
+
+      - name: Rafael Kazuhiro Miyazaki
+        score: 43
+        team: Brazil
+        country: Brazil
+
+      - name: Miroslav Manolov
+        score: 41
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Lara  Jerman
+        score: 40
+        team: Slovenia 2
+        country: Slovenia
+
+      - name: Piotr Bobołowicz
+        score: 40
+        team: Poland 1
+        country: Poland
+
+      - name: Elena Rykunova
+        score: 39
+        team: Moscow
+        country: Russia
+
+
+      best_solution:
+      - name: Darryl Wu
+        team: USA 1
+        country: USA
+        problem: 1
+
+      - name: Ants-Oskar Mäesalu
+        team: Estonia
+        country: Estonia
+        problem: 2
+
+      - name: Rafael Kazuhiro Miyazaki
+        team: Brazil
+        country: Brazil
+        problem: 2
+
+      - name: Yash Sinha
+        team: India
+        country: India
+        problem: 2
+
+      - name: Alexander Wade
+        team: USA 2
+        country: USA
+        problem: 3
+
+      - name: Estere Šeinkmane
+        team: Latvia
+        country: Latvia
+        problem: 3
+
+      - name: Anderson  Wang
+        team: USA 1
+        country: USA
+        problem: 4
+
+      - name: Anita Mudzhumdar
+        team: Moscow
+        country: Russia
+        problem: 4
+
+      - name: Alexander Wade
+        team: USA 2
+        country: USA
+        problem: 5
+
+      - name: Anton Sokolov
+        team: St. Petersburg
+        country: Russia
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 67
+        team: St. Petersburg
+        country: Russia
+
+      silver:
+      - place: 2
+        average: 66.75
+        team: USA 1
+        country: USA
+
+      bronze:
+      - place: 3
+        average: 59.5
+        team: USA 2
+        country: USA
+
+  team:
+      gold:
+      - team: USA 2
+        country: USA
+        score: 93.4
+
+      silver:
+      - team: Netherlands
+        country: Netherlands
+        score: 89.8
+
+      bronze:
+      - team: Poland 2
+        country: Poland
+        score: 89.2
+
+      honorable_mention:
+
+- year: 2013
+  individual:
+      gold:
+      - name: Alexander Wade
+        score: 87
+        team: USA Red
+        country: USA
+
+      - name: Anton Sokolov
+        score: 83
+        team: St. Petersburg
+        country: Russia
+
+      - name: Matyáš Medek
+        score: 80
+        team: Czech Republic
+        country: Czechia
+
+      - name: Gabriel Alves da Silva Diniz
+        score: 78
+        team: Brazil
+        country: Brazil
+
+      - name: Michał Hadryś
+        score: 77
+        team: Poland 1
+        country: Poland
+
+      - name: Iva Gumnishka
+        score: 73
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Estere Šeinkmane
+        score: 70
+        team: Latvia
+        country: Latvia
+
+      silver:
+      - name: Omri Faraggi
+        score: 67
+        team: UK North
+        country: UK
+
+      - name: Yash Sinha
+        score: 67
+        team: India
+        country: India
+
+      - name: Polina Pleshak
+        score: 66
+        team: St. Petersburg
+        country: Russia
+
+      - name: Kuzma Smirnov
+        score: 65
+        team: St. Petersburg
+        country: Russia
+
+      - name: Martyna Siejba
+        score: 65
+        team: Poland 1
+        country: Poland
+
+      - name: Aaron Klein
+        score: 64
+        team: USA Red
+        country: USA
+
+      - name: Airika Arrik
+        score: 64
+        team: Estonia
+        country: Estonia
+
+      - name: Ivan Zverev
+        score: 63
+        team: Russia 2
+        country: Russia
+
+      - name: Boryana Hadzhiyska
+        score: 63
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Jeffrey Ling
+        score: 62
+        team: USA Blue
+        country: USA
+
+      - name: Huisu Yun
+        score: 62
+        team: Korea Sori
+        country: Republic of Korea
+
+      - name: Yulia Markova
+        score: 61
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - name: Nilai Sarda
+        score: 59
+        team: India
+        country: India
+
+      - name: Marin Ivanov
+        score: 59
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Vesko Milev
+        score: 59
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Tom McCoy
+        score: 58
+        team: USA Red
+        country: USA
+
+      - name: Jacob Karlsson Lagerros
+        score: 58
+        team: Sweden Gul
+        country: Sweden
+
+      - name: Ivan Lyutskanov
+        score: 58
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Martyna Judd
+        score: 58
+        team: Australia 1
+        country: Australia
+
+      - name: Ants-Oskar Mäesalu
+        score: 57
+        team: Estonia
+        country: Estonia
+
+      - name: Milena Velikova
+        score: 56
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Ekaterina Novikova
+        score: 55
+        team: Russia 2
+        country: Russia
+
+      - name: JeongYeon Choi
+        score: 55
+        team: Korea Woori
+        country: Republic of Korea
+
+      - name: Maciej Kucharski
+        score: 54
+        team: Poland 1
+        country: Poland
+
+      - name: Daniel Lovsted
+        score: 53
+        team: Canada
+        country: Canada
+
+      - name: Maximilian Schindler
+        score: 52
+        team: USA Red
+        country: USA
+
+      - name: Zhuling Sarah Tham
+        score: 51
+        team: Singapore
+        country: Singapore
+
+      - name: Jan Bajer
+        score: 51
+        team: Poland 2
+        country: Poland
+
+      - name: Jiyun Sung
+        score: 51
+        team: Korea Sori
+        country: Republic of Korea
+
+      honorable_mention:
+      - name: Rebecca Burks
+        score: 50
+        team: USA Blue
+        country: USA
+
+      - name: Erik Andersen
+        score: 50
+        team: USA Blue
+        country: USA
+
+      - name: Maria-Cristina Ionescu
+        score: 50
+        team: Romania
+        country: Romania
+
+      - name: Jakub Woliński
+        score: 50
+        team: Poland 2
+        country: Poland
+
+      - name: Tomasz Skalski
+        score: 50
+        team: Poland 1
+        country: Poland
+
+      - name: Neema Kotonya
+        score: 49
+        team: UK North
+        country: UK
+
+      - name: Keng Ji Chow
+        score: 49
+        team: Singapore
+        country: Singapore
+
+      - name: Minsheng Liu
+        score: 49
+        team: China 2
+        country: China
+
+      - name: Qitong Cao
+        score: 48
+        team: China 1
+        country: China
+
+      - name: André Navarro Barros
+        score: 48
+        team: Brazil
+        country: Brazil
+
+      - name: Eleonora Micko
+        score: 47
+        team: Latvia
+        country: Latvia
+
+      - name: Yongjun Byun
+        score: 47
+        team: Korea Sori
+        country: Republic of Korea
+
+      - name: Ivana Grubor
+        score: 46
+        team: Serbia
+        country: Serbia
+
+      - name: Daniels Kozirevs
+        score: 46
+        team: Latvia
+        country: Latvia
+
+      - name: Elysia Warner
+        score: 45
+        team: UK South
+        country: UK
+
+      - name: Harry Goodhew
+        score: 45
+        team: UK North
+        country: UK
+
+      - name: Uroš Prešern
+        score: 45
+        team: Slovenia
+        country: Slovenia
+
+      - name: Aleksejs Popovs
+        score: 45
+        team: Latvia
+        country: Latvia
+
+      - name: Tianhu Zhang
+        score: 45
+        team: China 2
+        country: China
+
+      - name: Dayeon Lee
+        score: 44
+        team: Korea Woori
+        country: Republic of Korea
+
+      - name: Hyunchae Kim
+        score: 44
+        team: Korea Sori
+        country: Republic of Korea
+
+      - name: Stella Lau
+        score: 44
+        team: Canada
+        country: Canada
+
+      - name: Daniel Pitt
+        score: 43
+        team: UK South
+        country: UK
+
+      - name: Lovisa Helmius
+        score: 43
+        team: Sweden Blå
+        country: Sweden
+
+      - name: Anastazija Djuran
+        score: 43
+        team: Serbia
+        country: Serbia
+
+      - name: Marius Todea
+        score: 43
+        team: Romania
+        country: Romania
+
+      - name: Michał Mazur
+        score: 43
+        team: Poland 2
+        country: Poland
+
+      - name: Theo Tindall
+        score: 42
+        team: UK South
+        country: UK
+
+      - name: Bartosz Wojtalewicz
+        score: 42
+        team: Poland 2
+        country: Poland
+
+      - name: Lotte Meester
+        score: 42
+        team: Netherlands
+        country: Netherlands
+
+      - name: Prachatos Mitra
+        score: 42
+        team: India
+        country: India
+
+      - name: Murilo Dória Guimarães
+        score: 42
+        team: Brazil
+        country: Brazil
+
+      - name: Lara Jerman
+        score: 41
+        team: Slovenia
+        country: Slovenia
+
+      - name: Attila Dániel Szabó
+        score: 41
+        team: Hungary
+        country: Hungary
+
+      - name: Sicong Liu
+        score: 41
+        team: China 1
+        country: China
+
+
+      best_solution:
+      - name: Huisu Yun
+        team: Korea Sori
+        country: Republic of Korea
+        problem: 1
+
+      - name: Matyáš Medek
+        team: Czech Republic
+        country: Czechia
+        problem: 1
+
+      - name: Estere Šeinkmane
+        team: Latvia
+        country: Latvia
+        problem: 2
+
+      - name: Matyáš Medek
+        team: Czech Republic
+        country: Czechia
+        problem: 2
+
+      - name: Kuzma Smirnov
+        team: St. Petersburg
+        country: Russia
+        problem: 4
+
+      - name: Gabriel Alves da Silva Diniz
+        team: Brazil
+        country: Brazil
+        problem: 5
+
+      - name: Nilai Sarda
+        team: India
+        country: India
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 65.25
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 62.5
+        team: St. Petersburg
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 61.5
+        team: Poland 1
+        country: Poland
+
+  team:
+      gold:
+      - team: USA Red
+        country: USA
+        score: N/A
+
+      silver:
+      - team: St. Petersburg
+        country: Russia
+        score: N/A
+
+      bronze:
+      - team: Bulgaria 1
+        country: Bulgaria
+        score: N/A
+
+      honorable_mention:
+
+- year: 2014
+  individual:
+      gold:
+      - name: Miłosz Mazurkiewicz-Dubieński
+        score: 84
+        team: Poland 1
+        country: Poland
+
+      - name: Darryl Wu
+        score: 81
+        team: USA Red
+        country: USA
+
+      - name: Daniel Lovsted
+        score: 73
+        team: Canada
+        country: Canada
+
+      - name: Elysia Jane Warner
+        score: 65
+        team: UK
+        country: UK
+
+      - name: Danila Shumskiy
+        score: 64
+        team: Russia 2
+        country: Russia
+
+      - name: Anastasiia Dmitrieva
+        score: 64
+        team: Russia 1
+        country: Russia
+
+      - name: Dan Mircea Mirea
+        score: 63
+        team: Romania
+        country: Romania
+
+      silver:
+      - name: Catherine Wu
+        score: 62
+        team: USA Blue
+        country: USA
+
+      - name: Ada Melentyeva
+        score: 62
+        team: Ukraine
+        country: Ukraine
+
+      - name: Tianlu Chen
+        score: 61
+        team: China 1
+        country: China
+
+      - name: Alexander Babiak
+        score: 59
+        team: USA Red
+        country: USA
+
+      - name: Yan Huang
+        score: 59
+        team: Canada
+        country: Canada
+
+      - name: Ming Zhang
+        score: 58
+        team: China 2
+        country: China
+
+      - name: Lara Jerman
+        score: 58
+        team: Slovenia
+        country: Slovenia
+
+      - name: Keisuke Yamada
+        score: 57
+        team: Japan 2
+        country: Japan
+
+      - name: Run Chen
+        score: 57
+        team: China 1
+        country: China
+
+      - name: Hampus Erik David Lane
+        score: 55
+        team: Sweden 2
+        country: Sweden
+
+      - name: Stanisław Wilczyński
+        score: 55
+        team: Poland 2
+        country: Poland
+
+      - name: Dailin Xue
+        score: 54
+        team: China 2
+        country: China
+
+      - name: Deven Lahoti
+        score: 54
+        team: USA Red
+        country: USA
+
+      bronze:
+      - name: Anindya Sharma
+        score: 52
+        team: India
+        country: India
+
+      - name: Maciej Kocot
+        score: 51
+        team: Poland 1
+        country: Poland
+
+      - name: Elena Chaparova
+        score: 51
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Matyáš Medek
+        score: 50
+        team: Czech Republic
+        country: Czechia
+
+      - name: Yoojin Jang
+        score: 49
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Dmitrii Zelenskii
+        score: 49
+        team: Russia 1
+        country: Russia
+
+      - name: Rajan Dalal
+        score: 49
+        team: India
+        country: India
+
+      - name: Annika Kluge
+        score: 48
+        team: Estonia
+        country: Estonia
+
+      - name: Emma Kristina Johansen
+        score: 48
+        team: Sweden 1
+        country: Sweden
+
+      - name: Kevin Li
+        score: 47
+        team: USA Blue
+        country: USA
+
+      - name: James Bloxham
+        score: 46
+        team: USA Blue
+        country: USA
+
+      - name: Gleb Nikolaev
+        score: 46
+        team: Russia 2
+        country: Russia
+
+      - name: Yulia Markova
+        score: 44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: James Matthew Abel
+        score: 44
+        team: Australia 1
+        country: Australia
+
+      - name: Eliška Freibergerová
+        score: 43
+        team: Czech Republic
+        country: Czechia
+
+      - name: Šonita Koroļova
+        score: 43
+        team: Latvia
+        country: Latvia
+
+      - name: Heran Yang
+        score: 42
+        team: China 1
+        country: China
+
+      - name: Vitālijs Gusevs
+        score: 42
+        team: Latvia
+        country: Latvia
+
+      - name: Glenn Ee Je Hong
+        score: 41
+        team: Singapore
+        country: Singapore
+
+      - name: Simon Huang
+        score: 40
+        team: Canada
+        country: Canada
+
+      - name: Maria Aristova
+        score: 39
+        team: Russia 2
+        country: Russia
+
+      honorable_mention:
+      - name: Adam Dobrakowski
+        score: 38
+        team: Poland 2
+        country: Poland
+
+      - name: Delin Liu
+        score: 38
+        team: China 2
+        country: China
+
+      - name: Vlada Chernysheva
+        score: 38
+        team: Russia 1
+        country: Russia
+
+      - name: Minh-Tam Nguyen
+        score: 38
+        team: Canada
+        country: Canada
+
+      - name: Brandon Epstein
+        score: 37
+        team: USA Blue
+        country: USA
+
+      - name: Ilia Makarchuk
+        score: 37
+        team: Russia 2
+        country: Russia
+
+      - name: Margarita Tsvetkova
+        score: 37
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Vlad-Andrei Neacşu
+        score: 37
+        team: Romania
+        country: Romania
+
+      - name: Gabriel Alves da Silva Diniz
+        score: 36
+        team: Brazil
+        country: Brazil
+
+      - name: Nishiyama Naoki
+        score: 36
+        team: Japan 1
+        country: Japan
+
+      - name: Jacqueline Bredenberg
+        score: 36
+        team: USA Red
+        country: USA
+
+      - name: Vikram Sondergaard
+        score: 36
+        team: Australia 2
+        country: Australia
+
+      - name: Alastair James Carr
+        score: 36
+        team: UK
+        country: UK
+
+      - name: Poh Ying Ming
+        score: 35
+        team: Singapore
+        country: Singapore
+
+      - name: Richard Akira Heru
+        score: 35
+        team: Singapore
+        country: Singapore
+
+      - name: Tomáš Cieslar
+        score: 35
+        team: Czech Republic
+        country: Czechia
+
+      - name: Kristian Georgiev
+        score: 35
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Uroš Prešern
+        score: 35
+        team: Slovenia
+        country: Slovenia
+
+      - name: Veronika Timar
+        score: 35
+        team: Hungary 1
+        country: Hungary
+
+      - name: Bart Lievaart
+        score: 35
+        team: Netherlands
+        country: Netherlands
+
+      - name: Iulia Marinescu
+        score: 34
+        team: Romania
+        country: Romania
+
+      - name: Oskar Julius Berndal
+        score: 33
+        team: Sweden 2
+        country: Sweden
+
+      - name: Ivan Enshin
+        score: 33
+        team: Russia 1
+        country: Russia
+
+      - name: Anthony Bruce Ma
+        score: 33
+        team: Australia 1
+        country: Australia
+
+      - name: Matthew Conor Nixon
+        score: 32
+        team: Ireland
+        country: Ireland
+
+      - name: Inhye Jeong
+        score: 32
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Katarzyna Kowalska
+        score: 32
+        team: Poland 1
+        country: Poland
+
+      - name: Qitong Cao
+        score: 32
+        team: China 1
+        country: China
+
+
+      best_solution:
+      - name: Elena Chaparova
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 1
+
+      - name: Gleb Nikolaev
+        team: Russia 2
+        country: Russia
+        problem: 1
+
+      - name: Dan Mircea Mirea
+        team: Romania
+        country: Romania
+        problem: 2
+
+      - name: Darryl Wu
+        team: USA Red
+        country: USA
+        problem: 2
+
+      - name: Miłosz Mazurkiewicz-Dubieński
+        team: Poland 1
+        country: Poland
+        problem: 2
+
+      - name: Anindya Sharma
+        team: India
+        country: India
+        problem: 3
+
+      - name: Simon Huang
+        team: Canada
+        country: Canada
+        problem: 3
+
+      - name: Catherine Wu
+        team: USA Blue
+        country: USA
+        problem: 4
+
+      - name: Tianlu Chen
+        team: China 1
+        country: China
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 57.5
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 52.5
+        team: Canada
+        country: Canada
+
+      bronze:
+      - place: 3
+        average: 48
+        team: Poland 1
+        country: Poland
+
+      - place: 3
+        average: 48
+        team: China 1
+        country: China
+
+      - place: 3
+        average: 48
+        team: USA Blue
+        country: USA
+
+  team:
+      gold:
+      - team: USA Red
+        country: USA
+        score: 29
+
+      silver:
+      - team: Russia 1
+        country: Russia
+        score: 24
+
+      bronze:
+      - team: Russia 2
+        country: Russia
+        score: 23.5
+
+      honorable_mention:
+
+- year: 2015
+  individual:
+      gold:
+      - name: James Wedgwood
+        score: 89
+        team: USA Red
+        country: USA
+
+      - name: Samuel Ahmed
+        score: 81
+        team: UK East
+        country: UK
+
+      - name: James Bloxham
+        score: 79
+        team: USA Red
+        country: USA
+
+      - name: Danail Penev
+        score: 77
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Kevin Yang
+        score: 69
+        team: USA Red
+        country: USA
+
+      - name: Liam McKnight
+        score: 64
+        team: UK West
+        country: UK
+
+      - name: Ada Melentyeva
+        score: 62
+        team: Ukraine 1
+        country: Ukraine
+
+      silver:
+      - name: Kevin M Li
+        score: 60
+        team: USA Blue
+        country: USA
+
+      - name: Poh Ying Ming
+        score: 59
+        team: Singapore
+        country: Singapore
+
+      - name: Conor Stuart-Roe
+        score: 58
+        team: USA Red
+        country: USA
+
+      - name: Valentin Dimov
+        score: 55
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Daniel Vedeneev
+        score: 54
+        team: Russia 2
+        country: Russia
+
+      - name: Stanislaw Frejlak
+        score: 52
+        team: Poland White
+        country: Poland
+
+      - name: Jin Xu
+        score: 51
+        team: China 1
+        country: China
+
+      - name: Julian Gau
+        score: 51
+        team: USA Blue
+        country: USA
+
+      - name: Dan Mircea Mirea
+        score: 50
+        team: Romania
+        country: Romania
+
+      - name: Ralitsa Dardjonova
+        score: 49
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Katarzyna Kowalska
+        score: 49
+        team: Poland White
+        country: Poland
+
+      - name: Anthony Bracey
+        score: 48
+        team: UK West
+        country: UK
+
+      - name: Ivan Oleksiyuk
+        score: 48
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Teodora-Elena Solovan
+        score: 48
+        team: Romania
+        country: Romania
+
+      - name: Tina Vladimirova
+        score: 47
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Jan Petr
+        score: 47
+        team: Czech Republic
+        country: Czechia
+
+      - name: Ruowang Zhang
+        score: 47
+        team: China 2
+        country: China
+
+      bronze:
+      - name: Zdravko Ivanov
+        score: 46
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Bálint Ugrin
+        score: 46
+        team: Hungary 2
+        country: Hungary
+
+      - name: Piotr Gajdzica
+        score: 46
+        team: Poland Red
+        country: Poland
+
+      - name: Nilai Sarda
+        score: 46
+        team: USA Blue
+        country: USA
+
+      - name: Anastasiia Alokhina
+        score: 45
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Pim Spelier
+        score: 44
+        team: Netherlands
+        country: Netherlands
+
+      - name: Naomi Solomons
+        score: 43
+        team: UK East
+        country: UK
+
+      - name: Anna Tatarenko
+        score: 42
+        team: Russia 2
+        country: Russia
+
+      - name: Jaeyeong Yang
+        score: 42
+        team: Korea 2
+        country: Republic of Korea
+
+      - name: Nadezhda Dimitrova
+        score: 41
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Radina Dobreva
+        score: 41
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Anthony Bruce Ma
+        score: 41
+        team: Australia 2
+        country: Australia
+
+      - name: Aalok Sathe
+        score: 41
+        team: India Green
+        country: India
+
+      - name: Diana Murzagaliyeva
+        score: 41
+        team: Kazakhstan 1
+        country: Kazakhstan
+
+      - name: Luke Gardiner
+        score: 41
+        team: Ireland
+        country: Ireland
+
+      - name: Emma McLean
+        score: 40
+        team: Canada
+        country: Canada
+
+      - name: Irina Česnokova
+        score: 40
+        team: Latvia
+        country: Latvia
+
+      - name: Naoki Nishiyama
+        score: 39
+        team: Japan Ninja
+        country: Japan
+
+      - name: Isabelle Lee Yen
+        score: 39
+        team: Taiwan
+        country: Taiwan
+
+      - name: Samvida Sudheesh Venkatesh
+        score: 39
+        team: India Saffron
+        country: India
+
+      - name: Matija Lovšin
+        score: 39
+        team: Slovenia
+        country: Slovenia
+
+      - name: Timurs Davilovs
+        score: 39
+        team: Latvia
+        country: Latvia
+
+      honorable_mention:
+      - name: James Matthew Abel
+        score: 38
+        team: Australia 2
+        country: Australia
+
+      - name: Abe ten Voorde
+        score: 38
+        team: Netherlands
+        country: Netherlands
+
+      - name: Mateusz Wlodarczyk
+        score: 38
+        team: Poland White
+        country: Poland
+
+      - name: Eliza Siemaszko
+        score: 38
+        team: Poland Red
+        country: Poland
+
+      - name: Kevin Q Li
+        score: 38
+        team: USA Blue
+        country: USA
+
+      - name: Anton Piankov
+        score: 38
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Yuto Yagi
+        score: 37
+        team: Japan Ninja
+        country: Japan
+
+      - name: Ben Zhang
+        score: 37
+        team: Canada
+        country: Canada
+
+      - name: Maria Aristova
+        score: 36
+        team: Russia 1
+        country: Russia
+
+      - name: Anastasia Golubeva
+        score: 35
+        team: Russia 1
+        country: Russia
+
+      - name: Harry Taylor
+        score: 35
+        team: UK West
+        country: UK
+
+      - name: Sesh Raghav Sadasivam
+        score: 35
+        team: India Saffron
+        country: India
+
+      - name: Saujas Srinivasa Vaduguru
+        score: 35
+        team: India Saffron
+        country: India
+
+      - name: Linda Freienthal
+        score: 34
+        team: Estonia
+        country: Estonia
+
+      - name: Cid Swanenvleugel
+        score: 34
+        team: Netherlands
+        country: Netherlands
+
+      - name: Huihan Li
+        score: 34
+        team: China 1
+        country: China
+
+      - name: Sato Hirotaka
+        score: 33
+        team: Japan Ninja
+        country: Japan
+
+      - name: Alyona Kim
+        score: 33
+        team: Kazakhstan 1
+        country: Kazakhstan
+
+      - name: Joonas Jürgen Kisel
+        score: 32
+        team: Estonia
+        country: Estonia
+
+      - name: Elena Savinova
+        score: 32
+        team: Russia 1
+        country: Russia
+
+      - name: Isobel Voysey
+        score: 32
+        team: UK East
+        country: UK
+
+      - name: Abhishek Mohan Dedhe
+        score: 32
+        team: India Green
+        country: India
+
+      - name: James Hyett
+        score: 32
+        team: Canada
+        country: Canada
+
+      - name: Jun Hyosung
+        score: 31
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Anastasia Dmitrieva
+        score: 30
+        team: Russia 1
+        country: Russia
+
+      - name: Stephanie Wong
+        score: 30
+        team: UK West
+        country: UK
+
+      - name: Tomáš Cieslar
+        score: 30
+        team: Czech Republic
+        country: Czechia
+
+      - name: Lee Joonhak
+        score: 30
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Glib Shakhov
+        score: 30
+        team: Ukraine 2
+        country: Ukraine
+
+      - name: Lew Jing Shan
+        score: 29
+        team: Singapore
+        country: Singapore
+
+      - name: Cho Ahram
+        score: 29
+        team: Korea 1
+        country: Republic of Korea
+
+
+      best_solution:
+      - name: Matija Lovšin
+        team: Slovenia
+        country: Slovenia
+        problem: 1
+
+      - name: Stanislaw Frejlak
+        team: Poland White
+        country: Poland
+        problem: 2
+
+      - name: Ada Melentyeva
+        team: Ukraine 1
+        country: Ukraine
+        problem: 3
+
+      - name: James Bloxham
+        team: USA Red
+        country: USA
+        problem: 3
+
+      - name: Dan Mircea Mirea
+        team: Romania
+        country: Romania
+        problem: 4
+
+      - name: Isabelle Lee Yen
+        team: Taiwan
+        country: Taiwan
+        problem: 5
+
+      - name: James Wedgwood
+        team: USA Red
+        country: USA
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 73.75
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 53.25
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 48.75
+        team: USA Blue
+        country: USA
+
+  team:
+      gold:
+      - team: UK West
+        country: UK
+        score: N/A
+
+      silver:
+      - team: USA Red
+        country: USA
+        score: N/A
+
+      bronze:
+      - team: Netherlands
+        country: Netherlands
+        score: N/A
+
+      - team: Poland White
+        country: Poland
+        score: N/A
+
+      honorable_mention:
+
+- year: 2016
+  individual:
+      gold:
+      - name: Jaeyeong Yang
+        score: 92
+        team: Korea Woori
+        country: Republic of Korea
+
+      - name: James Wedgwood
+        score: 90
+        team: USA Red
+        country: USA
+
+      - name: Liam McKnight
+        score: 84
+        team: UK
+        country: UK
+
+      - name: Max Zhang
+        score: 71
+        team: Australia 1
+        country: Australia
+
+      - name: Jan Petr
+        score: 70
+        team: Czech Republic
+        country: Czechia
+
+      - name: Ekaterina Voloshinova
+        score: 69
+        team: Russia Belka
+        country: Russia
+
+      - name: Ivan Samodelkin
+        score: 68
+        team: Russia Belka
+        country: Russia
+
+      - name: Kristian Georgiev
+        score: 67
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Samuel Ahmed
+        score: 66
+        team: UK
+        country: UK
+
+      - name: Polina Nasledskova
+        score: 66
+        team: Russia Strelka
+        country: Russia
+
+      silver:
+      - name: Margarita Misirpashayeva
+        score: 64
+        team: USA Blue
+        country: USA
+
+      - name: Ioana Bouroș
+        score: 64
+        team: Romania
+        country: Romania
+
+      - name: Shuheng Niu
+        score: 61
+        team: USA Red
+        country: USA
+
+      - name: Joonas Jürgen Kisel
+        score: 60
+        team: Estonia
+        country: Estonia
+
+      - name: Matija Lovšin
+        score: 59
+        team: Slovenia
+        country: Slovenia
+
+      - name: Tina Vladimirova
+        score: 59
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Zofia Bronisława Kaczmarek
+        score: 59
+        team: Poland Ą
+        country: Poland
+
+      - name: Erik Metz
+        score: 58
+        team: USA Red
+        country: USA
+
+      - name: Luo Yiming
+        score: 58
+        team: China 2
+        country: China
+
+      - name: Krzysztof Choszczyk
+        score: 58
+        team: Poland Ę
+        country: Poland
+
+      - name: Anna Tatarenko
+        score: 57
+        team: Russia Strelka
+        country: Russia
+
+      - name: Julia Panchenko
+        score: 56
+        team: Russia Belka
+        country: Russia
+
+      - name: Mihail Paskov
+        score: 56
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Henry Wu
+        score: 55
+        team: Australia Baulko
+        country: Australia
+
+      - name: Shen-Chang Huang
+        score: 55
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Maria Aristova
+        score: 54
+        team: Russia Strelka
+        country: Russia
+
+      - name: Maciej Antoni Paliga
+        score: 54
+        team: Poland Ę
+        country: Poland
+
+      bronze:
+      - name: Tsuyoshi Kobayashi
+        score: 52
+        team: Japan Samurai
+        country: Japan
+
+      - name: Elena Shukshina
+        score: 52
+        team: Russia Belka
+        country: Russia
+
+      - name: Daniel Vedeneev
+        score: 52
+        team: Russia Strelka
+        country: Russia
+
+      - name: Aalok Sathe
+        score: 51
+        team: India Saffron
+        country: India
+
+      - name: Wyatt R. Reeves
+        score: 49
+        team: USA Blue
+        country: USA
+
+      - name: Bruno Kenzo Ozaki
+        score: 49
+        team: Brazil 1
+        country: Brazil
+
+      - name: Wang Runze
+        score: 49
+        team: China 1
+        country: China
+
+      - name: David Avellan-Hultman
+        score: 49
+        team: Sweden
+        country: Sweden
+
+      - name: Amanda Elon Kann
+        score: 49
+        team: Sweden
+        country: Sweden
+
+      - name: Agnieszka Dudek
+        score: 49
+        team: Poland Ą
+        country: Poland
+
+      - name: Bai Ruiheng
+        score: 48
+        team: China 2
+        country: China
+
+      - name: Emil Ingelsten
+        score: 48
+        team: Sweden
+        country: Sweden
+
+      - name: Claire O'Connor
+        score: 47
+        team: Ireland
+        country: Ireland
+
+      - name: Yu Shuyue
+        score: 47
+        team: China 1
+        country: China
+
+      - name: Zuzana Gruberová
+        score: 47
+        team: Czech Republic
+        country: Czechia
+
+      - name: Theodor Cucu
+        score: 44
+        team: Romania
+        country: Romania
+
+      - name: Li Huihan
+        score: 44
+        team: China 1
+        country: China
+
+      - name: Tsvetelina Stefanova
+        score: 44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Mazzag Bálint
+        score: 43
+        team: Hungary 2
+        country: Hungary
+
+      - name: Nadezhda Dimitrova
+        score: 43
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Siye Zhu
+        score: 42
+        team: USA Blue
+        country: USA
+
+      - name: Mariia Stepaniuk
+        score: 42
+        team: Ukraine
+        country: Ukraine
+
+      - name: Wojciech Andrzej Piątek
+        score: 42
+        team: Poland Ę
+        country: Poland
+
+      - name: Isobel Alice Voysey
+        score: 41
+        team: UK
+        country: UK
+
+      - name: Roman Skurikhin
+        score: 41
+        team: Ukraine
+        country: Ukraine
+
+      - name: Yejoo, Han
+        score: 40
+        team: Korea Woori
+        country: Republic of Korea
+
+      honorable_mention:
+      - name: Kevin Sun
+        score: 39
+        team: Canada
+        country: Canada
+
+      - name: Dónal Farren
+        score: 39
+        team: Ireland
+        country: Ireland
+
+      - name: Rafał Krzysztof Pragacz
+        score: 39
+        team: Poland Ą
+        country: Poland
+
+      - name: Laurestine Irene Bradford
+        score: 38
+        team: USA Red
+        country: USA
+
+      - name: Yuto Yagi
+        score: 38
+        team: Japan Ninja
+        country: Japan
+
+      - name: Shi Yuanjun
+        score: 38
+        team: China 2
+        country: China
+
+      - name: Jack LaFleur
+        score: 37
+        team: USA Blue
+        country: USA
+
+      - name: Minh-Tam Nguyen
+        score: 37
+        team: Canada
+        country: Canada
+
+      - name: Robin Alexander Young
+        score: 37
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Diviki-Nagy Botond
+        score: 36
+        team: Hungary 2
+        country: Hungary
+
+      - name: Ivan Oleksiyuk
+        score: 36
+        team: Ukraine
+        country: Ukraine
+
+      - name: Dawid Rafał Bucki
+        score: 36
+        team: Poland Ą
+        country: Poland
+
+      - name: James Hogan
+        score: 35
+        team: Canada
+        country: Canada
+
+      - name: Ferrán López Guitart
+        score: 35
+        team: Spain
+        country: Spain
+
+      - name: Robert Nõmmann
+        score: 34
+        team: Estonia
+        country: Estonia
+
+      - name: Willie Jeng
+        score: 34
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Haštal Hapka
+        score: 34
+        team: Czech Republic
+        country: Czechia
+
+      - name: Irina Česnokova
+        score: 33
+        team: Latvia
+        country: Latvia
+
+      - name: Pádraig Sheehy
+        score: 33
+        team: Ireland
+        country: Ireland
+
+      - name: Hirotaka Sato
+        score: 32
+        team: Japan Samurai
+        country: Japan
+
+      - name: Souly Alexandra
+        score: 32
+        team: Hungary 1
+        country: Hungary
+
+      - name: Liu Yuyang
+        score: 32
+        team: China 1
+        country: China
+
+      - name: Zdravko Ivanov
+        score: 32
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Tom Ryan
+        score: 32
+        team: Australia 1
+        country: Australia
+
+
+      best_solution:
+      - name: Kevin Sun
+        team: Canada
+        country: Canada
+        problem: 1
+
+      - name: Liam McKnight
+        team: UK
+        country: UK
+        problem: 1
+
+      - name: Bai Ruiheng
+        team: China 2
+        country: China
+        problem: 2
+
+      - name: Max Zhang
+        team: Australia 1
+        country: Australia
+        problem: 2
+
+      - name: David Avellan-Hultman
+        team: Sweden
+        country: Sweden
+        problem: 3
+
+      - name: Ivan Samodelkin
+        team: Russia Belka
+        country: Russia
+        problem: 4
+
+      - name: Jaeyeong Yang
+        team: Korea Woori
+        country: Republic of Korea
+        problem: 4
+
+      - name: Hirotaka Sato
+        team: Japan Samurai
+        country: Japan
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 61.75
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 61.25
+        team: Russia Belka
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 57.25
+        team: Russia Strelka
+        country: Russia
+
+  team:
+      gold:
+      - team: Sweden
+        country: Sweden
+        score: 57
+
+      silver:
+      - team: Australia 1
+        country: Australia
+        score: 56
+
+      bronze:
+      - team: UK
+        country: UK
+        score: 49
+
+      honorable_mention:
+      - team: USA Red
+        country: USA
+        score: 47.5
+
+      - team: USA Blue
+        country: USA
+        score: 45
+
+      - team: Russia Belka
+        country: Russia
+        score: 43
+
+      - team: Korea Woori
+        country: Republic of Korea
+        score: 41
+
+      - team: Spain
+        country: Spain
+        score: 41
+
+      - team: China 1
+        country: China
+        score: 39
+
+      - team: Bulgaria 2
+        country: Bulgaria
+        score: 39
+
+
+- year: 2017
+  individual:
+      gold:
+      - name: Samuel Ahmed
+        score: 92.1
+        team: UK K
+        country: UK
+
+      - name: Przemysław Podleśny
+        score: 88.4
+        team: Poland Ą
+        country: Poland
+
+      - name: Liam McKnight
+        score: 86.2
+        team: UK U
+        country: UK
+
+      - name: Ruei Hung Alex Lee
+        score: 80.9
+        team: TaiTWO
+        country: Taiwan
+
+      - name: Zdravko Ivanov
+        score: 80.4
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Simeon Hellsten
+        score: 78.7
+        team: UK K
+        country: UK
+
+      - name: Brian Xiao
+        score: 78.2
+        team: USA Red
+        country: USA
+
+      - name: Elena Keskinova
+        score: 78
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Valentin Dimov
+        score: 78
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Theodor Cucu
+        score: 75
+        team: Romania
+        country: Romania
+
+      silver:
+      - name: Andrew Tockman
+        score: 70.15
+        team: USA Red
+        country: USA
+
+      - name: Takumi Yoshino
+        score: 68.9
+        team: Japan 2
+        country: Japan
+
+      - name: Joonas Jürgen Kisel
+        score: 68.5
+        team: Estonia
+        country: Estonia
+
+      - name: Harry Taylor
+        score: 68.3
+        team: UK K
+        country: UK
+
+      - name: Jan Petr
+        score: 68.3
+        team: Czech Republic
+        country: Czechia
+
+      - name: Anja Zdovc
+        score: 67.3
+        team: Slovenia
+        country: Slovenia
+
+      - name: Eliška Freibergerová
+        score: 66.8
+        team: Czech Republic
+        country: Czechia
+
+      - name: Paweł Piekarz
+        score: 64.65
+        team: Poland Ą
+        country: Poland
+
+      - name: Tereza Maláčová
+        score: 64.5
+        team: Czech Republic
+        country: Czechia
+
+      - name: Joseph Feffer
+        score: 63
+        team: USA Blue
+        country: USA
+
+      - name: Ben Morris
+        score: 63
+        team: UK U
+        country: UK
+
+      - name: Ziyan Lei
+        score: 62.3
+        team: USA Red
+        country: USA
+
+      - name: Chih-Lun Julian Liu
+        score: 60.6
+        team: TaiTWO
+        country: Taiwan
+
+      - name: Chinmaya Kausik
+        score: 58.5
+        team: India Saffron
+        country: India
+
+      - name: Assel Ismoldayeva
+        score: 58.5
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Daniel Vedeneev
+        score: 57.9
+        team: Russia Strelka
+        country: Russia
+
+      - name: Yao, Yung-Jui
+        score: 57.5
+        team: TaiONE
+        country: Taiwan
+
+      - name: Szymon Stolarczyk
+        score: 57.5
+        team: Poland Ę
+        country: Poland
+
+      bronze:
+      - name: Ekaterina Voloshinova
+        score: 56.3
+        team: Russia Strelka
+        country: Russia
+
+      - name: Emil Indzhev
+        score: 55.5
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Chirag C. D
+        score: 54.8
+        team: India Green
+        country: India
+
+      - name: Iga Jaworska
+        score: 54.6
+        team: Poland Ą
+        country: Poland
+
+      - name: Ziche Chen
+        score: 54.25
+        team: China
+        country: China
+
+      - name: Aleksei Starchenko
+        score: 54.1
+        team: Russia Strelka
+        country: Russia
+
+      - name: Ana Meta Dolinar
+        score: 54
+        team: Slovenia
+        country: Slovenia
+
+      - name: Siye Zhu
+        score: 53.8
+        team: USA Red
+        country: USA
+
+      - name: Emilian Toma
+        score: 53.75
+        team: Romania
+        country: Romania
+
+      - name: Can Yeşildere
+        score: 53.5
+        team: Turkey
+        country: Turkey
+
+      - name: Sonia Reilly
+        score: 53.2
+        team: USA Blue
+        country: USA
+
+      - name: Alicja Maksymiuk
+        score: 53
+        team: Poland Ę
+        country: Poland
+
+      - name: Emil Ingelsten
+        score: 52.8
+        team: Sweden Blå
+        country: Sweden
+
+      - name: Tatiana Romanova
+        score: 52.7
+        team: Russia Strelka
+        country: Russia
+
+      - name: Ștefan Răzvan Bălăucă
+        score: 52.2
+        team: Romania
+        country: Romania
+
+      - name: Tina Vladimirova
+        score: 52.1
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Matei Costin Banu
+        score: 52
+        team: Romania
+        country: Romania
+
+      - name: Yuito Yoneyama
+        score: 51
+        team: Japan 1
+        country: Japan
+
+      - name: Yuyang Liu
+        score: 50.6
+        team: China
+        country: China
+
+      - name: Nazar Semkiv
+        score: 50.5
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Aleksej Jurca
+        score: 50
+        team: Slovenia
+        country: Slovenia
+
+      - name: Martin Nikolov
+        score: 49.75
+        team: Bulgaria 2
+        country: Bulgaria
+
+      honorable_mention:
+      - name: Vlada Petrusenko
+        score: 49
+        team: Ukraine 2
+        country: Ukraine
+
+      - name: Pan, Tung-Le
+        score: 48.55
+        team: TaiTWO
+        country: Taiwan
+
+      - name: Nicole Hedblom
+        score: 48.5
+        team: Sweden Gul
+        country: Sweden
+
+      - name: Ryuhoh Ide
+        score: 48.5
+        team: Japan 1
+        country: Japan
+
+      - name: Michaela Svatošová
+        score: 48.25
+        team: Czech Republic
+        country: Czechia
+
+      - name: Loona Volke
+        score: 47.7
+        team: Estonia
+        country: Estonia
+
+      - name: Gustavo Palote da Silva Martins
+        score: 47.5
+        team: Brazil
+        country: Brazil
+
+      - name: Islambek Tanabay
+        score: 47
+        team: Kazakhstan 1
+        country: Kazakhstan
+
+      - name: Alexandra Souly
+        score: 46.5
+        team: Hungary 1
+        country: Hungary
+
+      - name: Thomas Chen
+        score: 46.45
+        team: Netherlands
+        country: Netherlands
+
+      - name: Filip Karcz
+        score: 46
+        team: Poland Ę
+        country: Poland
+
+      - name: Linghui Zheng
+        score: 46
+        team: China
+        country: China
+
+      - name: Viktor Baltin
+        score: 45.1
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Angikar Ghosal
+        score: 45
+        team: India Saffron
+        country: India
+
+      - name: Junnosuke Kajita
+        score: 44.7
+        team: Japan 2
+        country: Japan
+
+      - name: Arsenii Oleinik
+        score: 44.5
+        team: Russia Belka
+        country: Russia
+
+      - name: Willie Jeng
+        score: 44.2
+        team: TaiONE
+        country: Taiwan
+
+      - name: Martijn Bij de Vaate
+        score: 43
+        team: Netherlands
+        country: Netherlands
+
+      - name: Maria Ershova
+        score: 42.8
+        team: Russia Belka
+        country: Russia
+
+      - name: Svetlana Baranova
+        score: 42.5
+        team: Russia Belka
+        country: Russia
+
+      - name: Weronika Motkowska
+        score: 42
+        team: Poland Ę
+        country: Poland
+
+      - name: Jakub Famulski
+        score: 42
+        team: Poland Ą
+        country: Poland
+
+      - name: Bálint Mazzag
+        score: 42
+        team: Hungary 2
+        country: Hungary
+
+      - name: Jae Hee Kuh
+        score: 41.75
+        team: Korea 1
+        country: Republic of Korea
+
+      - name: Yelyzaveta Stoliarchuk
+        score: 41.3
+        team: Ukraine 2
+        country: Ukraine
+
+      - name: Alina Yan
+        score: 41
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Angellika Vojevodina
+        score: 41
+        team: Latvia
+        country: Latvia
+
+      - name: Shardul Chiplunkar
+        score: 41
+        team: India Saffron
+        country: India
+
+      - name: Richard Luhtaru
+        score: 41
+        team: Estonia
+        country: Estonia
+
+      - name: Rujul Gandhi
+        score: 40.75
+        team: India Green
+        country: India
+
+      - name: Sagnik Anupam
+        score: 38.6
+        team: India Saffron
+        country: India
+
+      - name: Oleh Kuzyk
+        score: 38.5
+        team: Ukraine 1
+        country: Ukraine
+
+      - name: Seonmin Lee
+        score: 38.5
+        team: Korea 1
+        country: Republic of Korea
+
+
+      best_solution:
+      - name: Ana Meta Dolinar
+        team: Slovenia
+        country: Slovenia
+        problem: 1
+
+      - name: Angikar Ghosal
+        team: India Saffron
+        country: India
+        problem: 1
+
+      - name: Przemysław Podleśny
+        team: Poland Ą
+        country: Poland
+        problem: 1
+
+      - name: Ruei Hung Alex Lee
+        team: TaiTWO
+        country: Taiwan
+        problem: 2
+
+      - name: Brian Xiao
+        team: USA Red
+        country: USA
+        problem: 3
+
+      - name: Joonas Jürgen Kisel
+        team: Estonia
+        country: Estonia
+        problem: 4
+
+      - name: Przemysław Podleśny
+        team: Poland Ą
+        country: Poland
+        problem: 4
+
+      - name: Daniel Vedeneev
+        team: Russia Strelka
+        country: Russia
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 67.73
+        team: UK K
+        country: UK
+
+      silver:
+      bronze:
+  team:
+      gold:
+      - team: TaiTWO
+        country: Taiwan
+        score: N/A
+
+      silver:
+      - team: Poland Ą
+        country: Poland
+        score: N/A
+
+      bronze:
+      - team: Slovenia
+        country: Slovenia
+        score: N/A
+
+      honorable_mention:
+
+- year: 2018
+  individual:
+      gold:
+      - name: Przemysław Podleśny
+        score: 95.25
+        team: Poland Biali
+        country: Poland
+
+      - name: Liam McKnight
+        score: 87.9
+        team: UK K
+        country: UK
+
+      - name: Swapnil Garg
+        score: 85.6
+        team: USA Red
+        country: USA
+
+      - name: Viktor Baltin
+        score: 84.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Zdravko Ivanov
+        score: 82
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Benjamin LaFond
+        score: 81.4
+        team: USA Blue
+        country: USA
+
+      - name: Diego Król
+        score: 80
+        team: Poland Czerwoni
+        country: Poland
+
+      - name: Rujul Gandhi
+        score: 79
+        team: India Saffron
+        country: India
+
+      - name: Pranav Krishna
+        score: 78.9
+        team: USA Blue
+        country: USA
+
+      - name: Alicja Maksymiuk
+        score: 78
+        team: Poland Czerwoni
+        country: Poland
+
+      - name: Benedict Randall Shaw
+        score: 77.7
+        team: UK K
+        country: UK
+
+      - name: Angikar Ghosal
+        score: 76
+        team: India Saffron
+        country: India
+
+      - name: Andrew Tockman
+        score: 75.5
+        team: USA Red
+        country: USA
+
+      silver:
+      - name: Jakub Petr
+        score: 68.4
+        team: Czechia Tým Nářečíčkářů
+        country: Czechia
+
+      - name: Chih-Chun Wang
+        score: 67.6
+        team: Taiwan Typhoon
+        country: Taiwan
+
+      - name: Tatiana Romanova
+        score: 64.5
+        team: Russia Strelka
+        country: Russia
+
+      - name: Mihir Singhal
+        score: 64.1
+        team: USA Blue
+        country: USA
+
+      - name: Simeon Hellsten
+        score: 63.8
+        team: UK K
+        country: UK
+
+      - name: Yeoh Zi Song
+        score: 63.8
+        team: Malaysia B
+        country: Malaysia
+
+      - name: Ugrin Bálint József
+        score: 63.7
+        team: Hungary A
+        country: Hungary
+
+      - name: Emil Ingelsten
+        score: 63.6
+        team: Sverige Blå
+        country: Sweden
+
+      - name: Patryk Sapała-Niedzin
+        score: 62.9
+        team: Poland Biali
+        country: Poland
+
+      - name: Tung-Le Pan
+        score: 62.15
+        team: Taiwan Typhoon
+        country: Taiwan
+
+      - name: Elena Keskinova
+        score: 61.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Ethan A. Chi
+        score: 61
+        team: USA Red
+        country: USA
+
+      - name: Aparna Ajit Gupte
+        score: 58.6
+        team: India Green
+        country: India
+
+      - name: João Henrique Oliveira Fontes
+        score: 57.75
+        team: Brazil Pões
+        country: Brazil
+
+      - name: Russell Emerine
+        score: 56.6
+        team: USA Blue
+        country: USA
+
+      - name: You-Kuan Lin
+        score: 55.4
+        team: Taiwan Earthquake
+        country: Taiwan
+
+      - name: Illya Koval
+        score: 54.3
+        team: Ukraine
+        country: Ukraine
+
+      bronze:
+      - name: Vlada Petrusenko
+        score: 53
+        team: Ukraine
+        country: Ukraine
+
+      - name: David Avellan-Hultman
+        score: 53
+        team: Sverige Blå
+        country: Sweden
+
+      - name: Tsvetelina Stefanova
+        score: 52
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Brian Xiao
+        score: 51
+        team: USA Red
+        country: USA
+
+      - name: Ken Jiang
+        score: 50.5
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Ye Liu
+        score: 50.5
+        team: China KUN
+        country: China
+
+      - name: Edmund Lea
+        score: 50.4
+        team: UK U
+        country: UK
+
+      - name: Hari Raghava Prasad
+        score: 50.15
+        team: UK K
+        country: UK
+
+      - name: James Phillips
+        score: 50
+        team: Canberra Grammar School
+        country: Australia
+
+      - name: Yana Shishkina
+        score: 49.15
+        team: Russia Belka
+        country: Russia
+
+      - name: Gustavo Palote da Silva Martins
+        score: 49
+        team: Brazil Pões
+        country: Brazil
+
+      - name: Ekaterina Voloshinova
+        score: 48.9
+        team: Russia Strelka
+        country: Russia
+
+      - name: Eliška Freibergerová
+        score: 48.4
+        team: Czechia Tým Nářečíčkářů
+        country: Czechia
+
+      - name: Sean White
+        score: 48
+        team: UK U
+        country: UK
+
+      - name: Vári-Kakas Andor
+        score: 47.65
+        team: Hungary B
+        country: Hungary
+
+      - name: Árvay-Vass Iván
+        score: 47.5
+        team: Hungary A
+        country: Hungary
+
+      - name: Takumi Nishino
+        score: 47.4
+        team: Japan Ninja
+        country: Japan
+
+      - name: Angellika Vojevodina
+        score: 47.25
+        team: Latvia 2
+        country: Latvia
+
+      - name: Arkādijs Šaldovs
+        score: 46.75
+        team: Latvia 2
+        country: Latvia
+
+      - name: Kevin Liang
+        score: 45.5
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Shinjini Ghosh
+        score: 45.25
+        team: India Saffron
+        country: India
+
+      - name: Bianca-Mihaela Gănescu
+        score: 45
+        team: Romania
+        country: Romania
+
+      - name: Pranava Dhar
+        score: 44.9
+        team: India Green
+        country: India
+
+      - name: Hansol Pi
+        score: 44
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Martin Puškin
+        score: 44
+        team: Estonia 
+        country: Estonia
+
+      - name: Georgi Yotov
+        score: 43.9
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Ziche Chen
+        score: 43.85
+        team: China QIAN
+        country: China
+
+      - name: Tiago Scholten
+        score: 43.7
+        team: Netherlands
+        country: Netherlands
+
+      - name: Kristina Vashpanova
+        score: 43.25
+        team: Russia Belka
+        country: Russia
+
+      - name: Danyar Kasenov
+        score: 42.75
+        team: Russia Strelka
+        country: Russia
+
+      honorable_mention:
+      - name: Hana Viktorija Balan
+        score: 41.85
+        team: Team Slovenia
+        country: Slovenia
+
+      - name: Ekaterina Kozlova
+        score: 41.7
+        team: Russia Belka
+        country: Russia
+
+      - name: Rui Min
+        score: 41.5
+        team: China QIAN
+        country: China
+
+      - name: Jeongkeun Choi
+        score: 41.3
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Pedro Marinho Rocha
+        score: 41
+        team: Brazil Pães
+        country: Brazil
+
+      - name: Michaela Svatošová
+        score: 40.9
+        team: Czechia Tým Křivopřísežníků
+        country: Czechia
+
+      - name: Greta Hristozova
+        score: 40.65
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Shuli Jones
+        score: 40.4
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Ri-Sheng Huang
+        score: 40
+        team: Taiwan Earthquake
+        country: Taiwan
+
+      - name: Takayuki Yamazaki
+        score: 39.3
+        team: Japan Ninja
+        country: Japan
+
+      - name: Vít Metka
+        score: 38.5
+        team: Czechia Tým Křivopřísežníků
+        country: Czechia
+
+      - name: Yu-Hsuan Lee
+        score: 38.5
+        team: Taiwan Typhoon
+        country: Taiwan
+
+      - name: Dana Ospanova
+        score: 38.1
+        team: Kazakhstan 1
+        country: Kazakhstan
+
+      - name: Jisu Choi
+        score: 38
+        team: Brisbane State High School
+        country: Australia
+
+      - name: Arvid Lunnemark
+        score: 38
+        team: Sverige Gul
+        country: Sweden
+
+      - name: Assel Ismoldayeva
+        score: 37.6
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Panagiotis Kapellis
+        score: 37.5
+        team: Finland
+        country: Finland
+
+      - name: Kristian Santiago Terlien
+        score: 37.3
+        team: Netherlands
+        country: Netherlands
+
+      - name: Jenny Wang
+        score: 37.25
+        team: Brisbane State High School
+        country: Australia
+
+
+      best_solution:
+      - name: Andrew Tockman
+        team: USA Red
+        country: USA
+        problem: 1
+
+      - name: Elena Keskinova
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 1
+
+      - name: Aparna Ajit Gupte
+        team: India Green
+        country: India
+        problem: 2
+
+      - name: You-Kuan Lin
+        team: Taiwan Earthquake
+        country: Taiwan
+        problem: 2
+
+      - name: Artur Corrêa Souza
+        team: Brazil Pães
+        country: Brazil
+        problem: 3
+
+      - name: Elena Keskinova
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 3
+
+      - name: Sean White
+        team: UK U
+        country: UK
+        problem: 3
+
+      - name: Rujul Gandhi
+        team: India Saffron
+        country: India
+        problem: 4
+
+      - name: Angikar Ghosal
+        team: India Saffron
+        country: India
+        problem: 5
+
+      - name: Przemysław Podleśny
+        team: Poland Biali
+        country: Poland
+        problem: 5
+
+      - name: Swapnil Garg
+        team: USA Red
+        country: USA
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 70.25
+        team: USA Blue
+        country: USA
+
+      silver:
+      - place: 2
+        average: 70.15
+        team: Bulgaria 1
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 69.89
+        team: UK K
+        country: UK
+
+  team:
+      gold:
+      - team: USA Blue
+        country: USA
+        score: 84.83
+
+      silver:
+      - team: USA Red
+        country: USA
+        score: 75.34
+
+      - team: Bulgaria 1
+        country: Bulgaria
+        score: 72.85
+
+      bronze:
+      - team: Brazil Pões
+        country: Brazil
+        score: 64.64
+
+      - team: UK U
+        country: UK
+        score: 60.01
+
+      - team: Czechia Tým Křivopřísežníků
+        country: Czechia
+        score: 59.88
+
+      honorable_mention:
+
+- year: 2019
+  individual:
+      gold:
+      - name: Ken Jiang
+        score: 98.7
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Wesley Zhang
+        score: 95.6
+        team: USA Red
+        country: USA
+
+      - name: Takumi Yoshino
+        score: 93.1
+        team: Japan Ninja
+        country: Japan
+
+      - name: Zdravko Ivanov
+        score: 88.2
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Matey Petkov
+        score: 87.65
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Haokun Wu
+        score: 84.5
+        team: China QIAN
+        country: China
+
+      - name: Sam Corner
+        score: 78.9
+        team: UK U
+        country: UK
+
+      - name: Simeon Hellsten
+        score: 78.3
+        team: UK K
+        country: UK
+
+      - name: Benedict Randall Shaw
+        score: 76.4
+        team: UK K
+        country: UK
+
+      - name: Andrew Tockman
+        score: 76.1
+        team: USA Red
+        country: USA
+
+      silver:
+      - name: Diego Król
+        score: 74.9
+        team: Poland Żubr
+        country: Poland
+
+      - name: João Henrique Oliveira Fontes
+        score: 73.95
+        team: Brazil Nhorõwa
+        country: Brazil
+
+      - name: Ziyan Lei
+        score: 73.1
+        team: USA Red
+        country: USA
+
+      - name: Tianqi Jiang
+        score: 72.4
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Elena Keskinova
+        score: 71.75
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Jakub Petr
+        score: 71
+        team: Czechia
+        country: Czechia
+
+      - name: Nathan Kim
+        score: 68.4
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Denis Korotchenko
+        score: 68.2
+        team: Russia Strelka
+        country: Russia
+
+      - name: Skyelar Raiti
+        score: 67.1
+        team: USA Blue
+        country: USA
+
+      - name: Russell Emerine
+        score: 66.15
+        team: USA Red
+        country: USA
+
+      - name: Gustavo Palote da Silva Martins
+        score: 65.1
+        team: Brazil Nhorõwa
+        country: Brazil
+
+      - name: Ishan Ganguly
+        score: 64.55
+        team: India Saffron
+        country: India
+
+      - name: Harrison Moore
+        score: 64.3
+        team: UK U
+        country: UK
+
+      - name: Tsvetelina Stefanova
+        score: 64
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Maxim Barganov
+        score: 63.5
+        team: Russia Strelka
+        country: Russia
+
+      - name: Zi Song Yeoh
+        score: 63.3
+        team: Malaysia A
+        country: Malaysia
+
+      - name: Jeremy Zhou
+        score: 62.2
+        team: USA Blue
+        country: USA
+
+      - name: Pranav Krishna
+        score: 62.2
+        team: USA Blue
+        country: USA
+
+      - name: Jinru Bai
+        score: 61.15
+        team: China KUN
+        country: China
+
+      - name: Kristian Terlien
+        score: 60.25
+        team: Netherlands Beter Als Jouw
+        country: Netherlands
+
+      - name: Daniel Turaev
+        score: 60.25
+        team: UK K
+        country: UK
+
+      bronze:
+      - name: Tatiana Romanova
+        score: 58.95
+        team: Russia Strelka
+        country: Russia
+
+      - name: Kövér Blanka 
+        score: 58.9
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Ekaterina Kozlova
+        score: 58.4
+        team: Russia Strelka
+        country: Russia
+
+      - name: Stanislava Khizhniakova
+        score: 58.3
+        team: Russia Belka
+        country: Russia
+
+      - name: Chih-Chun Wang
+        score: 58.2
+        team: TaiNine
+        country: Taiwan
+
+      - name: Vlada Petrusenko
+        score: 57.9
+        team: Ukraine
+        country: Ukraine
+
+      - name: Viktor Baltin
+        score: 57.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Matei-Costin Banu
+        score: 57.3
+        team: Romania
+        country: Romania
+
+      - name: Ekaterina Kropanina
+        score: 57.2
+        team: Russia Belka
+        country: Russia
+
+      - name: Angikar Ghosal
+        score: 55.95
+        team: India Saffron
+        country: India
+
+      - name: Aparna Ajit Gupte
+        score: 54.8
+        team: India Saffron
+        country: India
+
+      - name: Haenaem Oh
+        score: 53.95
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Hant Mikit Kolk
+        score: 53.3
+        team: Estonia
+        country: Estonia
+
+      - name: Takumi Ose
+        score: 53.2
+        team: Japan Ninja
+        country: Japan
+
+      - name: Tsubasa Takahashi
+        score: 53.05
+        team: Japan Ninja
+        country: Japan
+
+      - name: Dana Ospanova
+        score: 52.9
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Nestors Starostins
+        score: 52.5
+        team: Latvia
+        country: Latvia
+
+      - name: Daria Kryvosheieva
+        score: 51.6
+        team: Ukraine
+        country: Ukraine
+
+      - name: Marko Ivanov
+        score: 51.15
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Kilian Meissner
+        score: 50.7
+        team: UK U
+        country: UK
+
+      - name: Blaskovics Ákos 
+        score: 50.45
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Rok Tadej Brunšek
+        score: 49.5
+        team: Slovenia
+        country: Slovenia
+
+      - name: Zhe Ren Ooi
+        score: 48.75
+        team: Malaysia A
+        country: Malaysia
+
+      - name: Alex Walker
+        score: 48.7
+        team: UK U
+        country: UK
+
+      - name: Kristina Vashpanova
+        score: 47.85
+        team: Russia Belka
+        country: Russia
+
+      - name: Lanruo Xie
+        score: 47.2
+        team: China KUN
+        country: China
+
+      - name: Antara Raaghavi Bhattacharya
+        score: 47.05
+        team: India Green
+        country: India
+
+      - name: Seonoo Kim
+        score: 46.5
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Lee, Yu-Hsuan
+        score: 46.05
+        team: TaiNine
+        country: Taiwan
+
+      honorable_mention:
+      - name: Roman Shabanov
+        score: 44.95
+        team: Netherlands Beter Als Jouw
+        country: Netherlands
+
+      - name: Nicole Obretincheva
+        score: 44.8
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Michal Jireš
+        score: 44.55
+        team: Czechia
+        country: Czechia
+
+      - name: Alicja Maksymiuk
+        score: 43.95
+        team: Poland Żubr
+        country: Poland
+
+      - name: Vít Metka
+        score: 43.8
+        team: Czechia
+        country: Czechia
+
+      - name: Seeeun Hong
+        score: 43.75
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Reona Kubomiya
+        score: 43.65
+        team: Japan Samurai
+        country: Japan
+
+      - name: Iakov Raskind
+        score: 43
+        team: Russia Belka
+        country: Russia
+
+      - name: Taeeon Park
+        score: 42.7
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Árvay-Vass Iván 
+        score: 42.45
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Katherine He
+        score: 41.75
+        team: USA Blue
+        country: USA
+
+      - name: Ana Meta Dolinar
+        score: 41.5
+        team: Slovenia
+        country: Slovenia
+
+      - name: Lin, You-Kuan
+        score: 41.3
+        team: TaiEight
+        country: Taiwan
+
+      - name: Chen, Po-Wen
+        score: 41.25
+        team: TaiEight
+        country: Taiwan
+
+      - name: Izabela Znój
+        score: 41
+        team: Poland Bóbr
+        country: Poland
+
+      - name: Džonatans Miks Melgalvis
+        score: 40.8
+        team: Latvia
+        country: Latvia
+
+      - name: Yerdos Zhanpeissov
+        score: 40.7
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Peng, Kai-Yang
+        score: 40.6
+        team: TaiNine
+        country: Taiwan
+
+      - name: Sebastjan Kordiš
+        score: 40.4
+        team: Slovenia
+        country: Slovenia
+
+      - name: Dobák Dániel 
+        score: 40.05
+        team: Hungary Uborka
+        country: Hungary
+
+      - name: Ruijia Li
+        score: 40
+        team: China QIAN
+        country: China
+
+      - name: Yelyzaveta Stoliarchuk
+        score: 39.8
+        team: Ukraine
+        country: Ukraine
+
+      - name: Ove Üllar Viesemann
+        score: 39.8
+        team: Estonia
+        country: Estonia
+
+      - name: Maja Sellmer
+        score: 38.8
+        team: Germany
+        country: Germany
+
+      - name: Shashwat Goel
+        score: 38.7
+        team: India Green
+        country: India
+
+      - name: Chen, Jun-Wei
+        score: 38.65
+        team: TaiEight
+        country: Taiwan
+
+      - name: Walt Kraeger
+        score: 38.65
+        team: Netherlands Beter Als Jouw
+        country: Netherlands
+
+      - name: Hansol Pi
+        score: 38.05
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Vanda Fousková
+        score: 37.4
+        team: Czechia
+        country: Czechia
+
+      - name: Krzysztof Olejniczak
+        score: 37.35
+        team: Poland Żubr
+        country: Poland
+
+      - name: Zed Li
+        score: 37.25
+        team: Canada Moose
+        country: Canada Anglophone
+
+
+      best_solution:
+      - name: Ken Jiang
+        team: Canada Moose
+        country: Canada Anglophone
+        problem: 1
+
+      - name: Lin, You-Kuan
+        team: TaiEight
+        country: Taiwan
+        problem: 3
+
+      - name: Haokun Wu
+        team: China QIAN
+        country: China
+        problem: 4
+
+      - name: Matey Petkov
+        team: Bulgaria 2
+        country: Bulgaria
+        problem: 4
+
+      - name: Aparna Ajit Gupte
+        team: India Saffron
+        country: India
+        problem: 5
+
+      - name: Kristina Vashpanova
+        team: Russia Belka
+        country: Russia
+        problem: 5
+
+      - name: Wesley Zhang
+        team: USA Red
+        country: USA
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 77.74
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 70.44
+        team: Bulgaria 1
+        country: Bulgaria
+
+      bronze:
+      - place: 3
+        average: 69.19
+        team: Canada Moose
+        country: Canada Anglophone
+
+  team:
+      gold:
+      - team: Slovenia
+        country: Slovenia
+        score: 113
+
+      silver:
+      - team: China KUN
+        country: China
+        score: 108
+
+      - team: Russia Strelka
+        country: Russia
+        score: 107
+
+      bronze:
+      - team: Poland Bóbr
+        country: Poland
+        score: 104
+
+      - team: Russia Belka
+        country: Russia
+        score: 102
+
+      - team: Malaysia A
+        country: Malaysia
+        score: 102
+
+      honorable_mention:
+      - team: Ukraine
+        country: Ukraine
+        score: 99
+
+      - team: Poland Żubr
+        country: Poland
+        score: 99
+
+      - team: Bulgaria 2
+        country: Bulgaria
+        score: 99
+
+
+- year: 2021
+  individual:
+      gold:
+      - name: Roman Shabanov
+        score: 78.3
+        team: Netherlands Patat
+        country: Netherlands
+
+      - name: Daria Kryvosheieva
+        score: 77.5
+        team: Ukraine і
+        country: Ukraine
+
+      - name: Jonathan Huang
+        score: 64.6
+        team: USA Red
+        country: USA
+
+      - name: Ritam Nag
+        score: 63.1
+        team: India Saffron
+        country: India
+
+      - name: Hibiki Sugawara
+        score: 60.2
+        team: Japan Samurai
+        country: Japan
+
+      - name: Jan Tryka
+        score: 59.5
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Takamichi Hoshii
+        score: 58.9
+        team: Japan Ninja
+        country: Japan
+
+      - name: Chun-Chi Lin
+        score: 58.6
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Antara Raaghavi Bhattacharya
+        score: 58.4
+        team: India Saffron
+        country: India
+
+      - name: Xie Lingrui
+        score: 58
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Mihai-Alexandru Bratu
+        score: 57.9
+        team: Romania
+        country: Romania
+
+      - name: Elvira Ageeva
+        score: 56.5
+        team: Russia Strelka
+        country: Russia
+
+      silver:
+      - name: Aleksandra Limonova
+        score: 55.1
+        team: Russia Belka
+        country: Russia
+
+      - name: Tam Lok Hang
+        score: 54.5
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Alexander Dimitrov
+        score: 54.1
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Bartosz Chomiński
+        score: 53.6
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Aleksandra Naydenova
+        score: 53
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Ip Tsz Oi
+        score: 52.8
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Leonid Zaitsev
+        score: 52.4
+        team: Russia Belka
+        country: Russia
+
+      - name: Toh Jing En Daniel
+        score: 52.1
+        team: Singapore
+        country: Singapore
+
+      - name: Grigorii Solnyshkin
+        score: 51.4
+        team: Russia Strelka
+        country: Russia
+
+      - name: Artem Borisov
+        score: 51.3
+        team: Russia Strelka
+        country: Russia
+
+      - name: Nigel Yong
+        score: 49.8
+        team: Singapore
+        country: Singapore
+
+      - name: Samantha Kao
+        score: 49.4
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Dylan Lim Chun Kiat
+        score: 49.4
+        team: Singapore
+        country: Singapore
+
+      - name: Ema Grofová
+        score: 48.8
+        team: Czechia
+        country: Czechia
+
+      - name: Miklós Gyetvai
+        score: 48.5
+        team: Hungary A
+        country: Hungary
+
+      - name: Zijing Wei
+        score: 48.4
+        team: China Kun
+        country: China
+
+      - name: Olga Zinovyeva
+        score: 48
+        team: Russia Strelka
+        country: Russia
+
+      - name: Rio Ogawa
+        score: 47.9
+        team: Japan Samurai
+        country: Japan
+
+      - name: Walt Kraeger
+        score: 47.5
+        team: Netherlands Friet
+        country: Netherlands
+
+      bronze:
+      - name: Lili Probojcsevity
+        score: 46.7
+        team: Hungary B
+        country: Hungary
+
+      - name: Shao-Chi Ou
+        score: 46.6
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Deyana Shevchenko
+        score: 46.4
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Kunaal Chandrashekar
+        score: 46
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Oliver Tennisberg
+        score: 45.7
+        team: Estonia 1
+        country: Estonia
+
+      - name: Jeremy Zhou
+        score: 45.5
+        team: USA Blue
+        country: USA
+
+      - name: Vedant Singh
+        score: 45.4
+        team: India Green
+        country: India
+
+      - name: Miłosz Muszyński
+        score: 45.2
+        team: Poland Pszczółki
+        country: Poland
+
+      - name: Riley Kong
+        score: 44.9
+        team: USA Red
+        country: USA
+
+      - name: Ng Truman Toby
+        score: 44.6
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      - name: Matic Petek
+        score: 43.8
+        team: Slovenia 1
+        country: Slovenia
+
+      - name: Vasilena Lazarova
+        score: 43.8
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Mihaela Koleva
+        score: 42.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Ilya Tarasov
+        score: 42.7
+        team: Russia Belka
+        country: Russia
+
+      - name: Ivaylo Dimitrov
+        score: 42.6
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Nicoleta Dobrică
+        score: 42.4
+        team: Romania
+        country: Romania
+
+      - name: Toby Collins
+        score: 42.3
+        team: UK K
+        country: UK
+
+      - name: Yi-Ning Chang
+        score: 42
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Kyuhan Kyung
+        score: 42
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Jonathan Song
+        score: 41.5
+        team: USA Blue
+        country: USA
+
+      - name: Louis Cho
+        score: 41.5
+        team: Streichholzschächtelchen
+        country: Germany
+
+      - name: Bianca-Maria Crișan
+        score: 41.4
+        team: Romania
+        country: Romania
+
+      - name: Shashwat Mundra
+        score: 40.7
+        team: India Green
+        country: India
+
+      - name: Zekai Wu
+        score: 40.2
+        team: China Qian
+        country: China
+
+      - name: Vishruth Ram Konakanchi
+        score: 40
+        team: India Saffron
+        country: India
+
+      - name: Benjamin Myer Neithardt
+        score: 39.7
+        team: USA Blue
+        country: USA
+
+      - name: Kent Do
+        score: 39.4
+        team: Sweden Gul
+        country: Sweden
+
+      - name: Oscar Despard
+        score: 39.3
+        team: Ireland
+        country: Ireland
+
+      - name: Nestors Starostins
+        score: 39
+        team: Latvia 1
+        country: Latvia
+
+      - name: Noah Gorrell
+        score: 38.9
+        team: Canberra Grammar School
+        country: Australia
+
+      - name: Yen-Hsi Huang
+        score: 38.8
+        team: Taiwan Plum Blossom
+        country: Taiwan
+
+      - name: Darya Peressypkina
+        score: 38.7
+        team: Kazakhstan Fenix
+        country: Kazakhstan
+
+      - name: Yage Grace Xin
+        score: 38
+        team: China Qian
+        country: China
+
+      honorable_mention:
+      - name: Harrison William Moore
+        score: 37.4
+        team: UK U
+        country: UK
+
+      - name: Maksims Libensons
+        score: 37.4
+        team: Latvia 2
+        country: Latvia
+
+      - name: Evelyn Sun
+        score: 37.2
+        team: USA Red
+        country: USA
+
+      - name: Natalia Timulakova
+        score: 37.2
+        team: Ireland
+        country: Ireland
+
+      - name: Lorenss Martinsons
+        score: 37
+        team: Latvia 1
+        country: Latvia
+
+      - name: Blanka Kövér
+        score: 36.9
+        team: Hungary B
+        country: Hungary
+
+      - name: Marcin Słupczyński
+        score: 36.3
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Thomas Frith
+        score: 35.7
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Aanya Goyal
+        score: 35.5
+        team: UK K
+        country: UK
+
+      - name: Oleksandr Hoviadin
+        score: 35.2
+        team: Ukraine ї
+        country: Ukraine
+
+      - name: Uliana Shkel
+        score: 34.9
+        team: Ukraine і
+        country: Ukraine
+
+      - name: Seungjoon Son
+        score: 34.9
+        team: Korea Giyeok
+        country: Republic of Korea
+
+      - name: Levente Hartstang
+        score: 34.7
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Alexander James Robson
+        score: 34.5
+        team: UK U
+        country: UK
+
+      - name: Adithya Ram Kalyanam
+        score: 34.3
+        team: USA Blue
+        country: USA
+
+      - name: Jinwoo Jeong
+        score: 34.2
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Haoyang Yin
+        score: 34
+        team: China Kun
+        country: China
+
+      - name: Puyuan Ye
+        score: 33.7
+        team: China Kun
+        country: China
+
+      - name: Ondřej Peterka
+        score: 33.2
+        team: Czechia
+        country: Czechia
+
+      - name: Roosmari Pihlak
+        score: 33.1
+        team: Estonia 2
+        country: Estonia
+
+      - name: Peilin Ye
+        score: 32.8
+        team: China Kun
+        country: China
+
+      - name: Silang Feng
+        score: 32.6
+        team: China Qian
+        country: China
+
+      - name: Junnosuke Tanaka
+        score: 32.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Hanna Egyházi
+        score: 32.5
+        team: Hungary B
+        country: Hungary
+
+      - name: Konrad Jannes Köhler
+        score: 32.4
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Merlin Fischer
+        score: 32.4
+        team: Streichholzschächtelchen
+        country: Germany
+
+      - name: Weronika Piecuch
+        score: 32
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Michał Boroń
+        score: 32
+        team: Quietscheentchen
+        country: Germany
+
+      - name: Toby Weston
+        score: 31.8
+        team: UK U
+        country: UK
+
+      - name: Yann Choi
+        score: 31.7
+        team: Korea Nieun
+        country: Republic of Korea
+
+      - name: Inka Pekkola
+        score: 31.7
+        team: Finland
+        country: Finland
+
+      - name: Urszula Obirek
+        score: 31.6
+        team: Poland Trzmiele
+        country: Poland
+
+      - name: Tatsuki Morohoshi
+        score: 31.3
+        team: Japan Ninja
+        country: Japan
+
+      - name: Džonatans Miks Melgalvis
+        score: 30.9
+        team: Latvia 1
+        country: Latvia
+
+      - name: Eric Wu
+        score: 30.4
+        team: Taiwan Red Cypress
+        country: Taiwan
+
+      - name: Maud De Wit
+        score: 30.3
+        team: Netherlands Friet
+        country: Netherlands
+
+      - name: Darena Georgieva
+        score: 30.2
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Solomiia Tymoshenko
+        score: 30
+        team: Ukraine ї
+        country: Ukraine
+
+      - name: Junkai Wang
+        score: 29.9
+        team: China Qian
+        country: China
+
+      - name: Jan Malej
+        score: 29.8
+        team: Slovenia 1
+        country: Slovenia
+
+
+      best_solution:
+      - name: Daria Kryvosheieva
+        team: Ukraine і
+        country: Ukraine
+        problem: 1
+
+      - name: Hibiki Sugawara
+        team: Japan Samurai
+        country: Japan
+        problem: 1
+
+      - name: Grigorii Solnyshkin
+        team: Russia Strelka
+        country: Russia
+        problem: 3
+
+      - name: Alexander James Robson
+        team: UK U
+        country: UK
+        problem: 4
+
+      - name: Artem Hrechka
+        team: Ukraine і
+        country: Ukraine
+        problem: 4
+
+      - name: Leonid Zaitsev
+        team: Russia Belka
+        country: Russia
+        problem: 4
+
+      - name: Elvira Ageeva
+        team: Russia Strelka
+        country: Russia
+        problem: 5
+
+      - name: Jinwoo Jeong
+        team: Korea Nieun
+        country: Republic of Korea
+        problem: 5
+
+      - name: Rio Ogawa
+        team: Japan Samurai
+        country: Japan
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 52.48
+        team: Hong Kong EAT
+        country: Hong Kong
+
+      silver:
+      - place: 2
+        average: 51.80
+        team: Russia Strelka
+        country: Russia
+
+      bronze:
+      - place: 3
+        average: 47.13
+        team: India Saffron
+        country: India
+
+  team:
+      gold:
+      - team: Ukraine і
+        country: Ukraine
+        score: 56.8
+
+      silver:
+      - team: USA Red
+        country: USA
+        score: 55.8
+
+      bronze:
+      - team: India Saffron
+        country: India
+        score: 47.50
+
+      - team: Canada Moose
+        country: Canada Anglophone
+        score: 47
+
+      honorable_mention:
+      - team: USA Blue
+        country: USA
+        score: 45.5
+
+      - team: Czechia
+        country: Czechia
+        score: 44.9
+
+      - team: UK U
+        country: UK
+        score: 43.8
+
+      - team: Russia Belka
+        country: Russia
+        score: 42.7
+
+      - team: Romania
+        country: Romania
+        score: 42.4
+
+
+- year: 2022
+  individual:
+      gold:
+      - name: Artem Borisov
+        score: 82.9
+        team: Individual 01
+        country: Individual 01
+
+      - name: Jun Hyeong Yook
+        score: 68.2
+        team: Korea Mal
+        country: Republic of Korea
+
+      - name: Alison Craig-Greene
+        score: 68.1
+        team: UK U
+        country: UK
+
+      - name: Luke Robitaille
+        score: 64
+        team: USA Red
+        country: USA
+
+      - name: Aleksandar Dimitrov
+        score: 63.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Konstantin Georgiev
+        score: 61
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Mihai-Alexandru Bratu
+        score: 60.6
+        team: Romania
+        country: Romania
+
+      - name: Takamichi Hoshii
+        score: 60.4
+        team: Japan Samurai
+        country: Japan
+
+      - name: Seiko Ishii
+        score: 60.3
+        team: Japan Ninja
+        country: Japan
+
+      silver:
+      - name: Ian Tam
+        score: 58.2
+        team: Hong Kong
+        country: Hong Kong
+
+      - name: Kunaal Chandrashekar
+        score: 58.1
+        team: Canada Moose
+        country: Canada
+
+      - name: Vlad-Ștefan Oros
+        score: 57.5
+        team: Romania
+        country: Romania
+
+      - name: Riley Kong
+        score: 56.8
+        team: USA Red
+        country: USA
+
+      - name: Rishab Parthasarathy
+        score: 55.6
+        team: USA Red
+        country: USA
+
+      - name: William Thomson
+        score: 55.6
+        team: UK K
+        country: UK
+
+      - name: Benjamin Mcavoy-Bickford
+        score: 55.2
+        team: USA Red
+        country: USA
+
+      - name: Wojciech Szot 
+        score: 54.5
+        team: Poland Trzciny
+        country: Poland
+
+      - name: Gergana Petrova
+        score: 53.5
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Daria Kryvosheieva
+        score: 52.2
+        team: Ukraine
+        country: Ukraine
+
+      - name: Bartłomiej Rozenberg
+        score: 51.2
+        team: Poland Trzciny
+        country: Poland
+
+      - name: Long Yo Lee
+        score: 50.6
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: George Zhou
+        score: 49.9
+        team: UK U
+        country: UK
+
+      - name: Yi-Ning Chang
+        score: 49.8
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Yelyzaveta Sherepenko
+        score: 49
+        team: Ukraine
+        country: Ukraine
+
+      - name: Merlin Fischer
+        score: 48.6
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Fernando César
+        score: 48.4
+        team: Brazil Açaí
+        country: Brazil
+
+      - name: Toby Collins
+        score: 48.2
+        team: UK K
+        country: UK
+
+      - name: Siddhant Attavar
+        score: 48
+        team: India
+        country: India
+
+      - name: Artem Boyko
+        score: 47.9
+        team: Individual 02
+        country: Individual 02
+
+      - name: Stratos Voudouris
+        score: 47.8
+        team: UK K
+        country: UK
+
+      - name: Matouš Šafránek
+        score: 47.8
+        team: Czechia
+        country: Czechia
+
+      - name: Lorenss Martinsons
+        score: 47.5
+        team: Latvia
+        country: Latvia
+
+      bronze:
+      - name: Anita Dalma Páhán
+        score: 47
+        team: Hungary Uborka
+        country: Hungary
+
+      - name: Hyunsoo Park
+        score: 46.3
+        team: Korea Mal
+        country: Republic of Korea
+
+      - name: Henry Wong
+        score: 45.2
+        team: Hong Kong
+        country: Hong Kong
+
+      - name: Olivia Tennisberg
+        score: 44.5
+        team: Estonia
+        country: Estonia
+
+      - name: Aida Davletova
+        score: 44.3
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Viktoriia Zubkova
+        score: 44.3
+        team: Individual 04
+        country: Individual 04
+
+      - name: Ikoma Kudo
+        score: 44.1
+        team: Japan Samurai
+        country: Japan
+
+      - name: Egyházi Hanna
+        score: 43
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Réka Wagener
+        score: 43
+        team: Germany Eszett
+        country: Germany
+
+      - name: Benjamin Móricz
+        score: 42.9
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Vita Korošin
+        score: 42.8
+        team: Slovenia
+        country: Slovenia
+
+      - name: Teodor Malchev
+        score: 42.8
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Tanupat Trakulthongchai
+        score: 42.7
+        team: Thailand
+        country: Thailand
+
+      - name: Max Naigeborin
+        score: 42.6
+        team: Brazil Açaí
+        country: Brazil
+
+      - name: Elvira Ageeva
+        score: 41.8
+        team: Individual 03
+        country: Individual 03
+
+      - name: Katja Andolšek
+        score: 41.7
+        team: Slovenia
+        country: Slovenia
+
+      - name: Aleksandra Naydenova
+        score: 41.7
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Aidan Wang
+        score: 41.4
+        team: Canada Moose
+        country: Canada
+
+      - name: Jan Karpiński
+        score: 41.3
+        team: Poland Źdźbła
+        country: Poland
+
+      - name: Nestors Starostins
+        score: 41.3
+        team: Latvia
+        country: Latvia
+
+      - name: Nicoleta Dobrică
+        score: 41.1
+        team: Romania
+        country: Romania
+
+      - name: Darya Peressypkina
+        score: 40.8
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Kevin Yan
+        score: 40.7
+        team: Canada Moose
+        country: Canada
+
+      - name: Junhyuk Kwon
+        score: 40.5
+        team: Korea Geul
+        country: Republic of Korea
+
+      - name: Inka Pekkola
+        score: 40.5
+        team: Finland
+        country: Finland
+
+      - name: Rok Tadej Brunšek
+        score: 40.2
+        team: Slovenia
+        country: Slovenia
+
+      - name: Józef Szymański
+        score: 39.9
+        team: Poland Źdźbła
+        country: Poland
+
+      honorable_mention:
+      - name: Wong Jer Ren
+        score: 39.4
+        team: Malaysia
+        country: Malaysia
+
+      - name: Constantin Lidberg Dimos
+        score: 39.1
+        team: Sweden Gul
+        country: Sweden
+
+      - name: Panawat Tiacharoen
+        score: 39
+        team: Thailand
+        country: Thailand
+
+      - name: Yuma Kawano
+        score: 39
+        team: Japan Ninja
+        country: Japan
+
+      - name: Ching Chao Ma
+        score: 38.5
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Brendan Bethlehem
+        score: 38.3
+        team: UK U
+        country: UK
+
+      - name: Eunsu Choi
+        score: 38.3
+        team: Australia 
+        country: Australia
+
+      - name: Jeonghoo Moon
+        score: 37.5
+        team: Korea Mal
+        country: Republic of Korea
+
+      - name: Arthur Mckeever
+        score: 37.5
+        team: Ireland
+        country: Ireland
+
+      - name: Reona Kubomiya
+        score: 37.3
+        team: Japan Ninja
+        country: Japan
+
+      - name: Yuma Morisawa
+        score: 37.2
+        team: Japan Samurai
+        country: Japan
+
+      - name: Han Jang
+        score: 36.9
+        team: Korea Geul
+        country: Republic of Korea
+
+      - name: Leonardo Paillo
+        score: 36.8
+        team: Brazil Açaí
+        country: Brazil
+
+      - name: Matěj Čapka
+        score: 36.6
+        team: Czechia
+        country: Czechia
+
+      - name: Manoela Ferraz
+        score: 36.3
+        team: Brazil Açaí
+        country: Brazil
+
+      - name: Kris Giglok
+        score: 36.1
+        team: Poland Trzciny
+        country: Poland
+
+      - name: Alexandra Jelihovschi
+        score: 36.1
+        team: Moldova
+        country: Moldova
+
+      - name: Kuba Ścierzyński
+        score: 36
+        team: Poland Źdźbła
+        country: Poland
+
+      - name: Shashwat Mundra
+        score: 35.9
+        team: India
+        country: India
+
+      - name: Michał Boroń
+        score: 35.2
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Samantha Kao
+        score: 35
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Pepijn Neger
+        score: 35
+        team: Netherlands
+        country: Netherlands
+
+      - name: Eppu Leinonen
+        score: 34.9
+        team: Finland
+        country: Finland
+
+      - name: Katarzyna Szwed
+        score: 34.8
+        team: Poland Trzciny
+        country: Poland
+
+      - name: Wesley Andrade
+        score: 34.2
+        team: Brazil Guaraná
+        country: Brazil
+
+      - name: Denys Tereshchenko
+        score: 34.1
+        team: Ukraine
+        country: Ukraine
+
+      - name: Akhmet Shaiman
+        score: 34
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Liis Siigur
+        score: 34
+        team: Estonia
+        country: Estonia
+
+      - name: Emmy Bonser
+        score: 33.7
+        team: USA Blue
+        country: USA
+
+      - name: Margetta Pajuste
+        score: 33.6
+        team: Estonia
+        country: Estonia
+
+      - name: Lai Otsuka
+        score: 33.5
+        team: Brazil Guaraná
+        country: Brazil
+
+      - name: Yen Hsi Huang
+        score: 33.4
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+
+      best_solution:
+      - name: Anita Dalma Páhán
+        team: Hungary Uborka
+        country: Hungary
+        problem: 1
+
+      - name: Vlad-Ștefan Oros
+        team: Romania
+        country: Romania
+        problem: 1
+
+      - name: Matouš Šafránek
+        team: Czechia
+        country: Czechia
+        problem: 3
+
+      - name: William Thomson
+        team: UK K
+        country: UK
+        problem: 3
+
+      - name: Alexandra Jelihovschi
+        team: Moldova
+        country: Moldova
+        problem: 4
+
+      - name: Eunsu Choi
+        team: Australia 
+        country: Australia
+        problem: 4
+
+      - name: Ian Tam
+        team: Hong Kong
+        country: Hong Kong
+        problem: 4
+
+      - name: Takamichi Hoshii
+        team: Japan Samurai
+        country: Japan
+        problem: 4
+
+      - name: Henry Wong
+        team: Hong Kong
+        country: Hong Kong
+        problem: 5
+
+      - name: Konstantin Georgiev
+        team: Bulgaria 2
+        country: Bulgaria
+        problem: 5
+
+  average:
+      gold:
+      - place: 1
+        average: 57.90
+        team: USA Red
+        country: USA
+
+      silver:
+      - place: 2
+        average: 47.98
+        team: Romania
+        country: Romania
+
+      bronze:
+      - place: 3
+        average: 47.23
+        team: Japan Samurai
+        country: Japan
+
+  team:
+      gold:
+      - team: Korea Mal
+        country: Republic of Korea
+        score: 68.1
+
+      silver:
+      - team: Taiwan Blue Magpie
+        country: Taiwan
+        score: 63.1
+
+      - team: Japan Samurai
+        country: Japan
+        score: 62.5
+
+      bronze:
+      - team: USA Red
+        country: USA
+        score: 61.9
+
+      - team: Japan Ninja
+        country: Japan
+        score: 61.9
+
+      - team: UK K
+        country: UK
+        score: 60.6
+
+      honorable_mention:
+      - team: Taiwan Black Bear
+        country: Taiwan
+        score: 55.0
+
+      - team: Korea Geul
+        country: Republic of Korea
+        score: 53.8
+
+      - team: Hong Kong
+        country: Hong Kong
+        score: 53.8
+
+      - team: Czechia
+        country: Czechia
+        score: 53.1
+
+      - team: Bulgaria 2
+        country: Bulgaria
+        score: 52.5
+
+      - team: Bulgaria 1
+        country: Bulgaria
+        score: 52.5
+
+

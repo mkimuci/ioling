@@ -1,0 +1,364 @@
+- year: 2004
+  country: Bulgaria
+  team: Bulgaria 1
+  results:
+  - name: Ivan Dobrev
+    medal: Gold
+  - name: Ralitsa Markova
+    medal: Gold
+  - name: Todor Tchervenkov
+    medal: Silver
+  - name: Tsvetomila Mihaylova
+    medal: Silver
+
+- year: 2009
+  country: Poland
+  team: Poland 2
+  results:
+  - name: Witold Małecki
+    medal: Silver
+  - name: Szymon Musioł
+    medal: Bronze
+  - name: Tomasz Dobrzycki
+    medal: Bronze
+  - name: Łukasz Kalinowski
+    medal: Silver
+
+- year: 2010
+  country: Poland
+  team: Poland 1
+  results:
+  - name: Daniel Rucki
+    medal: Silver
+  - name: Maciej Dulęba
+    medal: Silver
+  - name: Szymon Kanonowicz
+    medal: Bronze
+  - name: Roman Stasiński
+    medal: Bronze
+
+- year: 2010
+  country: USA
+  team: USA Blue
+  results:
+  - name: Martin Camacho
+    medal: Silver
+  - name: Tian-Yi Damien Jiang
+    medal: Silver
+  - name: Alexander Iriza
+    medal: Bronze
+  - name: Alan Chang
+    medal: Bronze
+
+- year: 2011
+  country: USA
+  team: USA Red
+  results:
+  - name: Morris Alper
+    medal: Gold
+  - name: Duligur Ibeling
+    medal: Silver
+  - name: Wesley Jones
+    medal: Silver
+  - name: Aaron Klein
+    medal: Bronze
+
+- year: 2012
+  country: Estonia
+  team: Estonia
+  results:
+  - name: Eva-Lotta Käsper
+    medal: Silver
+  - name: Ants-Oskar Mäesalu
+    medal: Bronze
+  - name: Mette-Triin Purde
+    medal: Bronze
+  - name: Erik Tamre
+    medal: Bronze
+
+- year: 2012
+  country: UK
+  team: UK
+  results:
+  - name: Tom White
+    medal: Silver
+  - name: Omri Faraggi
+    medal: Bronze
+  - name: Melanie Duncan
+    medal: Bronze
+  - name: Baichuan Li
+    medal: Bronze
+
+- year: 2013
+  country: Bulgaria
+  team: Bulgaria 2
+  results:
+  - name: Marin Ivanov
+    medal: Bronze
+  - name: Ivan Lyutskanov
+    medal: Bronze
+  - name: Yulia Markova
+    medal: Silver
+  - name: Milena Velikova
+    medal: Bronze
+
+- year: 2013
+  country: USA
+  team: USA Red
+  results:
+  - name: Aaron Klein
+    medal: Silver
+  - name: Tom McCoy
+    medal: Bronze
+  - name: Maximilian Schindler
+    medal: Bronze
+  - name: Alexander Wade
+    medal: Gold
+
+- year: 2015
+  country: Bulgaria
+  team: Bulgaria 2
+  results:
+  - name: Ralitsa Dardjonova
+    medal: Silver
+  - name: Radina Dobreva
+    medal: Bronze
+  - name: Danail Penev
+    medal: Gold
+  - name: Zdravko Ivanov
+    medal: Bronze
+
+- year: 2015
+  country: USA
+  team: USA Red
+  results:
+  - name: James Bloxham
+    medal: Gold
+  - name: Conor Stuart-Roe
+    medal: Silver
+  - name: James Wedgwood
+    medal: Gold
+  - name: Kevin Yang
+    medal: Gold
+
+- year: 2016
+  country: Russia
+  team: Russia Belka
+  results:
+  - name: Elena Shukshina
+    medal: Bronze
+  - name: Ivan Samodelkin
+    medal: Gold
+  - name: Julia Panchenko
+    medal: Silver
+  - name: Ekaterina Voloshinova
+    medal: Gold
+
+- year: 2016
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Anna Tatarenko
+    medal: Silver
+  - name: Daniel Vedeneev
+    medal: Bronze
+  - name: Maria Aristova
+    medal: Silver
+  - name: Polina Nasledskova
+    medal: Gold
+
+- year: 2017
+  country: Bulgaria
+  team: Bulgaria 1
+  results:
+  - name: Assel Ismoldayeva
+    medal: Silver
+  - name: Tina Vladimirova
+    medal: Bronze
+  - name: Valentin Dimov
+    medal: Gold
+  - name: Zdravko Ivanov
+    medal: Gold
+
+- year: 2017
+  country: Romania
+  team: Romania
+  results:
+  - name: Emilian Toma
+    medal: Bronze
+  - name: Matei Costin Banu
+    medal: Bronze
+  - name: Ștefan Răzvan Bălăucă
+    medal: Bronze
+  - name: Theodor Cucu
+    medal: Gold
+
+- year: 2017
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Aleksei Starchenko
+    medal: Bronze
+  - name: Daniel Vedeneev
+    medal: Silver
+  - name: Ekaterina Voloshinova
+    medal: Bronze
+  - name: Tatiana Romanova
+    medal: Bronze
+
+- year: 2017
+  country: USA
+  team: USA Red
+  results:
+  - name: Andrew Tockman
+    medal: Silver
+  - name: Brian Xiao
+    medal: Gold
+  - name: Siye Zhu
+    medal: Bronze
+  - name: Ziyan Lei
+    medal: Silver
+
+- year: 2018
+  country: Bulgaria
+  team: Bulgaria 1
+  results:
+  - name: Viktor Baltin
+    medal: Gold
+  - name: Zdravko Ivanov
+    medal: Gold
+  - name: Elena Keskinova
+    medal: Silver
+  - name: Tsvetelina Stefanova
+    medal: Bronze
+
+- year: 2018
+  country: UK
+  team: UK K
+  results:
+  - name: Simeon Hellsten
+    medal: Silver
+  - name: Liam McKnight
+    medal: Gold
+  - name: Hari Raghava Prasad
+    medal: Bronze
+  - name: Benedict Randall Shaw
+    medal: Gold
+
+- year: 2018
+  country: USA
+  team: USA Blue
+  results:
+  - name: Russell Emerine
+    medal: Silver
+  - name: Pranav Krishna
+    medal: Gold
+  - name: Benjamin LaFond
+    medal: Gold
+  - name: Mihir Singhal
+    medal: Silver
+
+- year: 2018
+  country: USA
+  team: USA Red
+  results:
+  - name: Ethan A. Chi
+    medal: Silver
+  - name: Swapnil Garg
+    medal: Gold
+  - name: Andrew Tockman
+    medal: Gold
+  - name: Brian Xiao
+    medal: Bronze
+
+- year: 2019
+  country: Bulgaria
+  team: Bulgaria 1
+  results:
+  - name: Tsvetelina Stefanova
+    medal: Silver
+  - name: Viktor Baltin
+    medal: Bronze
+  - name: Zdravko Ivanov
+    medal: Gold
+  - name: Elena Keskinova
+    medal: Silver
+
+- year: 2019
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Ekaterina Kozlova
+    medal: Bronze
+  - name: Denis Korotchenko
+    medal: Silver
+  - name: Maxim Barganov
+    medal: Silver
+  - name: Tatiana Romanova
+    medal: Bronze
+
+- year: 2019
+  country: UK
+  team: UK U
+  results:
+  - name: Sam Corner
+    medal: Gold
+  - name: Kilian Meissner
+    medal: Bronze
+  - name: Harrison Moore
+    medal: Silver
+  - name: Alex Walker
+    medal: Bronze
+
+- year: 2019
+  country: USA
+  team: USA Red
+  results:
+  - name: Wesley Zhang
+    medal: Gold
+  - name: Russell Emerine
+    medal: Silver
+  - name: Ziyan Lei
+    medal: Silver
+  - name: Andrew Tockman
+    medal: Gold
+
+- year: 2021
+  country: Hong Kong
+  team: Hong Kong EAT
+  results:
+  - name: Ip Tsz Oi
+    medal: Silver
+  - name: Xie Lingrui
+    medal: Gold
+  - name: Tam Lok Hang
+    medal: Silver
+  - name: Ng Truman Toby
+    medal: Bronze
+
+- year: 2021
+  country: Russia
+  team: Russia Strelka
+  results:
+  - name: Elvira Ageeva
+    medal: Gold
+  - name: Artem Borisov
+    medal: Silver
+  - name: Olga Zinovyeva
+    medal: Silver
+  - name: Grigorii Solnyshkin
+    medal: Silver
+
+- year: 2022
+  country: USA
+  team: USA Red
+  results:
+  - name: Benjamin Mcavoy-Bickford
+    medal: Silver
+  - name: Luke Robitaille
+    medal: Gold
+  - name: Riley Kong
+    medal: Silver
+  - name: Rishab Parthasarathy
+    medal: Silver
+

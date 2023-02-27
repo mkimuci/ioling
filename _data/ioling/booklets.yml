@@ -1,0 +1,2183 @@
+- year: 2003
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2003-indiv-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2003-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2003-indiv-prob.nl.pdf
+      - language: '† English'
+        filename: iol-2003-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2003-indiv-prob.et.pdf
+      - language: 'Russian'
+        filename: iol-2003-indiv-prob.ru.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2003-indiv-sol.bg.pdf
+      - language: 'Czech'
+        filename: iol-2003-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2003-indiv-sol.nl.pdf
+      - language: '† English'
+        filename: iol-2003-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2003-indiv-sol.et.pdf
+      - language: 'Russian'
+        filename: iol-2003-indiv-sol.ru.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2003-team-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2003-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2003-team-prob.nl.pdf
+      - language: '† English'
+        filename: iol-2003-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2003-team-prob.et.pdf
+      - language: 'Russian'
+        filename: iol-2003-team-prob.ru.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2003-team-sol.bg.pdf
+      - language: 'Czech'
+        filename: iol-2003-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2003-team-sol.nl.pdf
+      - language: '† English'
+        filename: iol-2003-team-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2003-team-sol.et.pdf
+      - language: 'Russian'
+        filename: iol-2003-team-sol.ru.pdf
+
+- year: 2004
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2004-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2004-indiv-prob.nl.pdf
+      - language: '† English'
+        filename: iol-2004-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2004-indiv-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2004-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2004-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2004-indiv-prob.sr.pdf
+    sol:
+      - language: '† English'
+        filename: iol-2004-indiv-sol.en.pdf
+  team:
+    prob:
+      - language: '† English'
+        filename: iol-2004-team-prob.en.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2004-team.m.zip
+
+- year: 2005
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2005-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2005-indiv-prob.nl.pdf
+      - language: '† English'
+        filename: iol-2005-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2005-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2005-indiv-prob.fi.pdf
+      - language: 'Polish'
+        filename: iol-2005-indiv-prob.pl.pdf
+      - language: 'Romanian'
+        filename: iol-2005-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2005-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2005-indiv-prob.sr.pdf
+    sol:
+      - language: '† English'
+        filename: iol-2005-indiv-sol.en.pdf
+  team:
+    prob:
+      - language: '† English'
+        filename: iol-2005-team-prob.en.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2005-team.m.zip
+
+- year: 2006
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2006-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2006-indiv-prob.nl.pdf
+      - language: '† English'
+        filename: iol-2006-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2006-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2006-indiv-prob.fi.pdf
+      - language: 'Lithuanian'
+        filename: iol-2006-indiv-prob.lt.pdf
+      - language: 'Polish'
+        filename: iol-2006-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2006-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2006-indiv-prob.sr.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2006-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2006-indiv-sol.nl.pdf
+      - language: '† English'
+        filename: iol-2006-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2006-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2006-indiv-sol.fi.pdf
+      - language: 'Lithuanian'
+        filename: iol-2006-indiv-sol.lt.pdf
+      - language: 'Polish'
+        filename: iol-2006-indiv-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2006-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2006-indiv-sol.sr.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2006-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2006-team-prob.nl.pdf
+      - language: 'Estonian'
+        filename: iol-2006-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2006-team-prob.fi.pdf
+      - language: 'Lithuanian'
+        filename: iol-2006-team-prob.lt.pdf
+      - language: 'Polish'
+        filename: iol-2006-team-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2006-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2006-team-prob.sr.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2006-team.m.zip
+
+- year: 2007
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2007-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2007-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2007-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2007-indiv-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2007-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2007-indiv-prob.ru.pdf
+      - language: 'Spanish'
+        filename: iol-2007-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2007-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2007-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2007-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2007-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2007-indiv-sol.et.pdf
+      - language: 'Polish'
+        filename: iol-2007-indiv-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2007-indiv-sol.ru.pdf
+      - language: 'Spanish'
+        filename: iol-2007-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2007-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2007-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2007-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2007-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2007-team-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2007-team-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2007-team-prob.ru.pdf
+      - language: 'Spanish'
+        filename: iol-2007-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2007-team-prob.sv.pdf
+    sol:
+      - language: 'Multilingual'
+        filename: iol-2007-team-sol.m.pdf
+
+- year: 2008
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2008-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2008-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2008-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2008-indiv-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2008-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2008-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2008-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2008-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2008-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2008-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2008-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2008-indiv-sol.et.pdf
+      - language: 'Polish'
+        filename: iol-2008-indiv-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2008-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2008-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2008-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2008-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2008-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2008-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2008-team-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2008-team-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2008-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2008-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2008-team-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2008-team-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2008-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2008-team-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2008-team-sol.et.pdf
+      - language: 'Polish'
+        filename: iol-2008-team-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2008-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2008-team-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2008-team-sol.sv.pdf
+
+- year: 2009
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2009-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2009-indiv-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2009-indiv-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2009-indiv-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2009-indiv-prob.et.pdf
+      - language: 'German'
+        filename: iol-2009-indiv-prob.de.pdf
+      - language: 'Korean'
+        filename: iol-2009-indiv-prob.kr.pdf
+      - language: 'Polish'
+        filename: iol-2009-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2009-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2009-indiv-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2009-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2009-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2009-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2009-indiv-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2009-indiv-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2009-indiv-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2009-indiv-sol.et.pdf
+      - language: 'German'
+        filename: iol-2009-indiv-sol.de.pdf
+      - language: 'Korean'
+        filename: iol-2009-indiv-sol.kr.pdf
+      - language: 'Polish'
+        filename: iol-2009-indiv-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2009-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2009-indiv-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2009-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2009-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2009-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2009-team-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2009-team-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2009-team-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2009-team-prob.et.pdf
+      - language: 'German'
+        filename: iol-2009-team-prob.de.pdf
+      - language: 'Polish'
+        filename: iol-2009-team-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2009-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2009-team-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2009-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2009-team-prob.sv.pdf
+    sol:
+      - language: 'English'
+        filename: iol-2009-team-sol.en.pdf
+
+- year: 2010
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2010-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2010-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2010-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2010-indiv-prob.et.pdf
+      - language: 'German'
+        filename: iol-2010-indiv-prob.de.pdf
+      - language: 'Polish'
+        filename: iol-2010-indiv-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2010-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2010-indiv-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2010-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2010-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2010-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2010-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2010-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2010-indiv-sol.et.pdf
+      - language: 'German'
+        filename: iol-2010-indiv-sol.de.pdf
+      - language: 'Polish'
+        filename: iol-2010-indiv-sol.pl.pdf
+      - language: 'Russian'
+        filename: iol-2010-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2010-indiv-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2010-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2010-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2010-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2010-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2010-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2010-team-prob.et.pdf
+      - language: 'German'
+        filename: iol-2010-team-prob.de.pdf
+      - language: 'Polish'
+        filename: iol-2010-team-prob.pl.pdf
+      - language: 'Russian'
+        filename: iol-2010-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2010-team-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2010-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2010-team-prob.sv.pdf
+    sol:
+      - language: 'English'
+        filename: iol-2010-team-sol.en.pdf
+
+- year: 2011
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2011-indiv-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2011-indiv-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2011-indiv-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2011-indiv-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2011-indiv-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2011-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2011-indiv-prob.pt.pdf
+      - language: 'Russian'
+        filename: iol-2011-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2011-indiv-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2011-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2011-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2011-indiv-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2011-indiv-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2011-indiv-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2011-indiv-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2011-indiv-sol.et.pdf
+      - language: 'Polish'
+        filename: iol-2011-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2011-indiv-sol.pt.pdf
+      - language: 'Russian'
+        filename: iol-2011-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2011-indiv-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2011-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2011-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2011-team-prob.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2011-team-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2011-team-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2011-team-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2011-team-prob.et.pdf
+      - language: 'Polish'
+        filename: iol-2011-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2011-team-prob.pt.pdf
+      - language: 'Russian'
+        filename: iol-2011-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2011-team-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2011-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2011-team-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2011-team-sol.bg.pdf
+      - language: 'Dutch'
+        filename: iol-2011-team-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2011-team-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2011-team-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2011-team-sol.et.pdf
+      - language: 'Polish'
+        filename: iol-2011-team-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2011-team-sol.pt.pdf
+      - language: 'Russian'
+        filename: iol-2011-team-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2011-team-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2011-team-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2011-team-sol.sv.pdf
+
+- year: 2012
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2012-indiv-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2012-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2012-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2012-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2012-indiv-prob.et.pdf
+      - language: 'German'
+        filename: iol-2012-indiv-prob.de.pdf
+      - language: 'Hebrew'
+        filename: iol-2012-indiv-prob.he.pdf
+      - language: 'Hungarian'
+        filename: iol-2012-indiv-prob.hu.pdf
+      - language: 'Polish'
+        filename: iol-2012-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2012-indiv-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2012-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2012-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2012-indiv-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2012-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2012-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2012-indiv-sol.bg.pdf
+      - language: 'Czech'
+        filename: iol-2012-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2012-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2012-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2012-indiv-sol.et.pdf
+      - language: 'German'
+        filename: iol-2012-indiv-sol.de.pdf
+      - language: 'Hebrew'
+        filename: iol-2012-indiv-sol.he.pdf
+      - language: 'Hungarian'
+        filename: iol-2012-indiv-sol.hu.pdf
+      - language: 'Polish'
+        filename: iol-2012-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2012-indiv-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2012-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2012-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2012-indiv-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2012-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2012-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2012-team-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2012-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2012-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2012-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2012-team-prob.et.pdf
+      - language: 'German'
+        filename: iol-2012-team-prob.de.pdf
+      - language: 'Hebrew'
+        filename: iol-2012-team-prob.he.pdf
+      - language: 'Hungarian'
+        filename: iol-2012-team-prob.hu.pdf
+      - language: 'Polish'
+        filename: iol-2012-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2012-team-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2012-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2012-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2012-team-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2012-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2012-team-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2012-team-sol.bg.pdf
+      - language: 'Czech'
+        filename: iol-2012-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2012-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2012-team-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2012-team-sol.et.pdf
+      - language: 'German'
+        filename: iol-2012-team-sol.de.pdf
+      - language: 'Hebrew'
+        filename: iol-2012-team-sol.he.pdf
+      - language: 'Hungarian'
+        filename: iol-2012-team-sol.hu.pdf
+      - language: 'Polish'
+        filename: iol-2012-team-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2012-team-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2012-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2012-team-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2012-team-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2012-team-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2012-team-sol.sv.pdf
+
+- year: 2013
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2013-indiv-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2013-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2013-indiv-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2013-indiv-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2013-indiv-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2013-indiv-prob.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2013-indiv-prob.hu.pdf
+      - language: 'Polish'
+        filename: iol-2013-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2013-indiv-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2013-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2013-indiv-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2013-indiv-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2013-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2013-indiv-prob.sv.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2013-indiv-sol.bg.pdf
+      - language: 'Czech'
+        filename: iol-2013-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2013-indiv-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2013-indiv-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2013-indiv-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2013-indiv-sol.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2013-indiv-sol.hu.pdf
+      - language: 'Polish'
+        filename: iol-2013-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2013-indiv-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2013-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2013-indiv-sol.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2013-indiv-sol.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2013-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2013-indiv-sol.sv.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2013-team-prob.bg.pdf
+      - language: 'Czech'
+        filename: iol-2013-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2013-team-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2013-team-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2013-team-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2013-team-prob.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2013-team-prob.hu.pdf
+      - language: 'Polish'
+        filename: iol-2013-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2013-team-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2013-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2013-team-prob.ru.pdf
+      - language: 'Serbian'
+        filename: iol-2013-team-prob.sr.pdf
+      - language: 'Slovenian'
+        filename: iol-2013-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2013-team-prob.sv.pdf
+
+- year: 2014
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2014-indiv-prob.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2014-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2014-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2014-indiv-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2014-indiv-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2014-indiv-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2014-indiv-prob.et.pdf
+      - language: 'French'
+        filename: iol-2014-indiv-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2014-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2014-indiv-prob.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2014-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2014-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2014-indiv-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2014-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2014-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2014-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2014-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2014-indiv-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2014-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2014-indiv-sol.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2014-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2014-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2014-indiv-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2014-indiv-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2014-indiv-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2014-indiv-sol.et.pdf
+      - language: 'French'
+        filename: iol-2014-indiv-sol.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2014-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2014-indiv-sol.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2014-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2014-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2014-indiv-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2014-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2014-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2014-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2014-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2014-indiv-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2014-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2014-team-prob.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2014-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2014-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2014-team-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2014-team-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2014-team-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2014-team-prob.et.pdf
+      - language: 'French'
+        filename: iol-2014-team-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2014-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2014-team-prob.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2014-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2014-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2014-team-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2014-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2014-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2014-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2014-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2014-team-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2014-team-prob.uk.pdf
+    sol:
+      - language: 'Multilingual'
+        filename: iol-2014-team-sol.m.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2014-team.m.pdf
+
+- year: 2015
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2015-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2015-indiv-prob.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2015-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2015-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2015-indiv-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2015-indiv-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2015-indiv-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2015-indiv-prob.et.pdf
+      - language: 'French'
+        filename: iol-2015-indiv-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2015-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2015-indiv-prob.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2015-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2015-indiv-prob.pl.pdf
+      - language: 'Romanian'
+        filename: iol-2015-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2015-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2015-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2015-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2015-indiv-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2015-indiv-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2015-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2015-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2015-indiv-sol.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2015-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2015-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2015-indiv-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2015-indiv-sol.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2015-indiv-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2015-indiv-sol.et.pdf
+      - language: 'French'
+        filename: iol-2015-indiv-sol.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2015-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2015-indiv-sol.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2015-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2015-indiv-sol.pl.pdf
+      - language: 'Romanian'
+        filename: iol-2015-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2015-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2015-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2015-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2015-indiv-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2015-indiv-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2015-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2015-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2015-team-prob.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2015-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2015-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2015-team-prob.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2015-team-prob.en-us.pdf
+      - language: 'English (B)'
+        filename: iol-2015-team-prob.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2015-team-prob.et.pdf
+      - language: 'French'
+        filename: iol-2015-team-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2015-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2015-team-prob.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2015-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2015-team-prob.pl.pdf
+      - language: 'Romanian'
+        filename: iol-2015-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2015-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2015-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2015-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2015-team-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2015-team-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2015-team-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2015-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2015-team-sol.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2015-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2015-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2015-team-sol.nl.pdf
+      - language: 'English (A)'
+        filename: iol-2015-team-sol.us.pdf
+      - language: 'English (B)'
+        filename: iol-2015-team-sol.en-gb.pdf
+      - language: 'Estonian'
+        filename: iol-2015-team-sol.et.pdf
+      - language: 'French'
+        filename: iol-2015-team-sol.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2015-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2015-team-sol.ja.pdf
+      - language: 'Latvian'
+        filename: iol-2015-team-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2015-team-sol.pl.pdf
+      - language: 'Romanian'
+        filename: iol-2015-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2015-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2015-team-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2015-team-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2015-team-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2015-team-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2015-team-sol.uk.pdf
+
+- year: 2016
+  indiv:
+    prob:
+      - language: 'Bengali'
+        filename: iol-2016-indiv-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2016-indiv-prob.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2016-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2016-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2016-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2016-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2016-indiv-prob.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2016-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2016-indiv-prob.ja.pdf
+      - language: 'Polish'
+        filename: iol-2016-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2016-indiv-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2016-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2016-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2016-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2016-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2016-indiv-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2016-indiv-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2016-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bengali'
+        filename: iol-2016-indiv-sol.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2016-indiv-sol.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2016-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2016-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2016-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2016-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2016-indiv-sol.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2016-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2016-indiv-sol.ja.pdf
+      - language: 'Polish'
+        filename: iol-2016-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2016-indiv-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2016-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2016-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2016-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2016-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2016-indiv-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2016-indiv-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2016-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bengali'
+        filename: iol-2016-team-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2016-team-prob.bg.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2016-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2016-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2016-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2016-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2016-team-prob.et.pdf
+      - language: 'Hungarian'
+        filename: iol-2016-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2016-team-prob.ja.pdf
+      - language: 'Polish'
+        filename: iol-2016-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2016-team-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2016-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2016-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2016-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2016-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2016-team-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2016-team-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2016-team-prob.uk.pdf
+    sol:
+      - language: 'Multilingual'
+        filename: iol-2016-team-sol.m.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2016-team.m.zip
+
+- year: 2017
+  indiv:
+    prob:
+      - language: '† Armenian'
+        filename: iol-2017-indiv-prob.hy.pdf
+      - language: 'Bulgarian'
+        filename: iol-2017-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2017-indiv-prob.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2017-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2017-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2017-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2017-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2017-indiv-prob.et.pdf
+      - language: 'French'
+        filename: iol-2017-indiv-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2017-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2017-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2017-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2017-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2017-indiv-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2017-indiv-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2017-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2017-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2017-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2017-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2017-indiv-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2017-indiv-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2017-indiv-prob.uk.pdf
+    sol:
+      - language: '† Armenian'
+        filename: iol-2017-indiv-sol.hy.pdf
+      - language: 'Bulgarian'
+        filename: iol-2017-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2017-indiv-sol.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2017-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2017-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2017-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2017-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2017-indiv-sol.et.pdf
+      - language: 'French'
+        filename: iol-2017-indiv-sol.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2017-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2017-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2017-indiv-sol.kr.pdf
+      - language: 'Latvian'
+        filename: iol-2017-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2017-indiv-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2017-indiv-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2017-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2017-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2017-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2017-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2017-indiv-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2017-indiv-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2017-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: '† Armenian'
+        filename: iol-2017-team-prob.hy.pdf
+      - language: 'Bulgarian'
+        filename: iol-2017-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2017-team-prob.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2017-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2017-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2017-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2017-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2017-team-prob.et.pdf
+      - language: 'French'
+        filename: iol-2017-team-prob.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2017-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2017-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2017-team-prob.kr.pdf
+      - language: 'Latvian'
+        filename: iol-2017-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2017-team-prob.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2017-team-prob.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2017-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2017-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2017-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2017-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2017-team-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2017-team-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2017-team-prob.uk.pdf
+    sol:
+      - language: '† Armenian'
+        filename: iol-2017-team-sol.hy.pdf
+      - language: 'Bulgarian'
+        filename: iol-2017-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2017-team-sol.zh-tr.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2017-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2017-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2017-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2017-team-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2017-team-sol.et.pdf
+      - language: 'French'
+        filename: iol-2017-team-sol.fr.pdf
+      - language: 'Hungarian'
+        filename: iol-2017-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2017-team-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2017-team-sol.kr.pdf
+      - language: 'Latvian'
+        filename: iol-2017-team-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2017-team-sol.pl.pdf
+      - language: 'Portuguese'
+        filename: iol-2017-team-sol.pt.pdf
+      - language: 'Romanian'
+        filename: iol-2017-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2017-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2017-team-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2017-team-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2017-team-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2017-team-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2017-team-sol.uk.pdf
+
+- year: 2018
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2018-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2018-indiv-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2018-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2018-indiv-prob.cs.pdf
+      - language: 'Danish'
+        filename: iol-2018-indiv-prob.da.pdf
+      - language: 'Dutch'
+        filename: iol-2018-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2018-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2018-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2018-indiv-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2018-indiv-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2018-indiv-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2018-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2018-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2018-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2018-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2018-indiv-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2018-indiv-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2018-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2018-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2018-indiv-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2018-indiv-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2018-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2018-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2018-indiv-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2018-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2018-indiv-sol.cs.pdf
+      - language: 'Danish'
+        filename: iol-2018-indiv-sol.da.pdf
+      - language: 'Dutch'
+        filename: iol-2018-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2018-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2018-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2018-indiv-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2018-indiv-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2018-indiv-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2018-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2018-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2018-indiv-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2018-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2018-indiv-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2018-indiv-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2018-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2018-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2018-indiv-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2018-indiv-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2018-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2018-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2018-team-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2018-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2018-team-prob.cs.pdf
+      - language: 'Danish'
+        filename: iol-2018-team-prob.da.pdf
+      - language: 'Dutch'
+        filename: iol-2018-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2018-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2018-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2018-team-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2018-team-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2018-team-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2018-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2018-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2018-team-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2018-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2018-team-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2018-team-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2018-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2018-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2018-team-prob.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2018-team-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2018-team-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2018-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2018-team-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2018-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2018-team-sol.cs.pdf
+      - language: 'Danish'
+        filename: iol-2018-team-sol.da.pdf
+      - language: 'Dutch'
+        filename: iol-2018-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2018-team-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2018-team-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2018-team-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2018-team-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2018-team-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2018-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2018-team-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2018-team-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2018-team-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2018-team-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2018-team-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2018-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2018-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2018-team-sol.sl.pdf
+      - language: 'Swedish'
+        filename: iol-2018-team-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2018-team-sol.uk.pdf
+
+- year: 2019
+  indiv:
+    prob:
+      - language: 'Bengali'
+        filename: iol-2019-indiv-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2019-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2019-indiv-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2019-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2019-indiv-prob.cs.pdf
+      - language: 'Danish'
+        filename: iol-2019-indiv-prob.da.pdf
+      - language: 'Dutch'
+        filename: iol-2019-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2019-indiv-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2019-indiv-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2019-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2019-indiv-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2019-indiv-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2019-indiv-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2019-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2019-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2019-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2019-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2019-indiv-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2019-indiv-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2019-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2019-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2019-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2019-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2019-indiv-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2019-indiv-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2019-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bengali'
+        filename: iol-2019-indiv-sol.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2019-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2019-indiv-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2019-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2019-indiv-sol.cs.pdf
+      - language: 'Danish'
+        filename: iol-2019-indiv-sol.da.pdf
+      - language: 'Dutch'
+        filename: iol-2019-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2019-indiv-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2019-indiv-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2019-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2019-indiv-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2019-indiv-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2019-indiv-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2019-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2019-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2019-indiv-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2019-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2019-indiv-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2019-indiv-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2019-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2019-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2019-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2019-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2019-indiv-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2019-indiv-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2019-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bengali'
+        filename: iol-2019-team-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2019-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2019-team-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2019-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2019-team-prob.cs.pdf
+      - language: 'Danish'
+        filename: iol-2019-team-prob.da.pdf
+      - language: 'Dutch'
+        filename: iol-2019-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2019-team-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2019-team-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2019-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2019-team-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2019-team-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2019-team-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2019-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2019-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2019-team-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2019-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2019-team-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2019-team-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2019-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2019-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2019-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2019-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2019-team-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2019-team-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2019-team-prob.uk.pdf
+    sol:
+      - language: 'Bengali'
+        filename: iol-2019-team-sol.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2019-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2019-team-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2019-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2019-team-sol.cs.pdf
+      - language: 'Danish'
+        filename: iol-2019-team-sol.da.pdf
+      - language: 'Dutch'
+        filename: iol-2019-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2019-team-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2019-team-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2019-team-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2019-team-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2019-team-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2019-team-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2019-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2019-team-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2019-team-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2019-team-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2019-team-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2019-team-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2019-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2019-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2019-team-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2019-team-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2019-team-sol.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2019-team-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2019-team-sol.uk.pdf
+    sup:
+      - language: 'Multilingual'
+        filename: iol-2019-team.m.zip
+
+- year: 2021
+  indiv:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2021-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2021-indiv-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2021-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2021-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2021-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2021-indiv-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2021-indiv-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2021-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2021-indiv-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2021-indiv-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2021-indiv-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2021-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2021-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2021-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2021-indiv-prob.lv.pdf
+      - language: '† Norwegian'
+        filename: iol-2021-indiv-prob.nb.pdf
+      - language: 'Polish'
+        filename: iol-2021-indiv-prob.pl.pdf
+      - language: '† Portuguese (B)'
+        filename: iol-2021-indiv-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2021-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2021-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2021-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2021-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2021-indiv-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2021-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2021-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2021-indiv-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2021-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2021-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2021-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2021-indiv-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2021-indiv-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2021-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2021-indiv-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2021-indiv-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2021-indiv-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2021-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2021-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2021-indiv-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2021-indiv-sol.lv.pdf
+      - language: '† Norwegian'
+        filename: iol-2021-indiv-sol.nb.pdf
+      - language: 'Polish'
+        filename: iol-2021-indiv-sol.pl.pdf
+      - language: '† Portuguese (B)'
+        filename: iol-2021-indiv-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2021-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2021-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2021-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2021-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2021-indiv-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2021-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Bulgarian'
+        filename: iol-2021-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2021-team-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2021-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2021-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2021-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2021-team-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2021-team-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2021-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2021-team-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2021-team-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2021-team-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2021-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2021-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2021-team-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2021-team-prob.lv.pdf
+      - language: '† Norwegian'
+        filename: iol-2021-team-prob.nb.pdf
+      - language: 'Polish'
+        filename: iol-2021-team-prob.pl.pdf
+      - language: '† Portuguese (B)'
+        filename: iol-2021-team-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2021-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2021-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2021-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2021-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2021-team-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2021-team-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2021-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2021-team-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2021-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2021-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2021-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2021-team-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2021-team-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2021-team-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2021-team-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2021-team-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2021-team-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2021-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2021-team-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2021-team-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2021-team-sol.lv.pdf
+      - language: '† Norwegian'
+        filename: iol-2021-team-sol.nb.pdf
+      - language: 'Polish'
+        filename: iol-2021-team-sol.pl.pdf
+      - language: '† Portuguese (B)'
+        filename: iol-2021-team-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2021-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2021-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2021-team-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2021-team-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2021-team-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2021-team-sol.uk.pdf
+
+- year: 2022
+  indiv:
+    prob:
+      - language: 'Azerbaijani'
+        filename: iol-2022-indiv-prob.az.pdf
+      - language: 'Bengali'
+        filename: iol-2022-indiv-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2022-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2022-indiv-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2022-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2022-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2022-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2022-indiv-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2022-indiv-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2022-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2022-indiv-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2022-indiv-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2022-indiv-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2022-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2022-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2022-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2022-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2022-indiv-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2022-indiv-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2022-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2022-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2022-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2022-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2022-indiv-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2022-indiv-prob.uk.pdf
+    sol:
+      - language: 'Azerbaijani'
+        filename: iol-2022-indiv-sol.az.pdf
+      - language: 'Bengali'
+        filename: iol-2022-indiv-sol.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2022-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2022-indiv-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2022-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2022-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2022-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2022-indiv-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2022-indiv-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2022-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2022-indiv-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2022-indiv-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2022-indiv-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2022-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2022-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2022-indiv-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2022-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2022-indiv-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2022-indiv-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2022-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2022-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2022-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2022-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2022-indiv-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2022-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Azerbaijani'
+        filename: iol-2022-team-prob.az.pdf
+      - language: 'Bengali'
+        filename: iol-2022-team-prob.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2022-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2022-team-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2022-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2022-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2022-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2022-team-prob.en.pdf
+      - language: 'English (A)'
+        filename: iol-2022-team-prob.us.pdf
+      - language: 'Estonian'
+        filename: iol-2022-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2022-team-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2022-team-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2022-team-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2022-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2022-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2022-team-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2022-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2022-team-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2022-team-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2022-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2022-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2022-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2022-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2022-team-prob.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2022-team-prob.uk.pdf
+    sol:
+      - language: 'Azerbaijani'
+        filename: iol-2022-team-sol.az.pdf
+      - language: 'Bengali'
+        filename: iol-2022-team-sol.bn.pdf
+      - language: 'Bulgarian'
+        filename: iol-2022-team-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2022-team-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2022-team-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2022-team-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2022-team-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2022-team-sol.en.pdf
+      - language: 'English (A)'
+        filename: iol-2022-team-sol.us.pdf
+      - language: 'Estonian'
+        filename: iol-2022-team-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2022-team-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2022-team-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2022-team-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2022-team-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2022-team-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2022-team-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2022-team-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2022-team-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2022-team-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2022-team-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2022-team-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2022-team-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2022-team-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2022-team-sol.sv.pdf
+      - language: 'Ukrainian'
+        filename: iol-2022-team-sol.uk.pdf
