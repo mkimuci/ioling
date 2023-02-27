@@ -1,20 +1,86 @@
 <aside>
+	{% if page.past_contest %}
 	<div class="panel radius">
-		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+		<h3>Past Contests</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.past_contest %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
 	</div>
-
-  <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
-
-
-	<div class="border-dotted radius b30">
-		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
-		<p class="text-left">
-			This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a>
-		</p>
+	{% endif %}
+	{% if page.past_problems %}
+	<div class="panel radius">
+		<h3>Past Problems</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.past_problems %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
 	</div>
+	{% endif %}
+	{% if page.results_by_year %}
+	<div class="panel radius">
+		<h3>Results by Year</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:100 %}
+			{% if page.results_by_year %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.participants_by_year %}
+	<div class="panel radius">
+		<h3>Participants by Year</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:1000 %}
+			{% if page.participants_by_year %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.results_by_country %}
+	<div class="panel radius">
+		<h3>Results by Country</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:1000 %}
+			{% if page.results_by_country %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
+	{% if page.participants_by_country %}
+	<div class="panel radius">
+		<h3>Results by Country</h3>
+			{% assign counter = 1 %}
+			{% for page in site.pages limit:1000 %}
+			{% if page.participants_by_country %}
+			<div id="panel{{ counter }}" class="content">
+				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
+			</div>
+			{% assign counter=counter | plus:1 %}
+			{% endif %}
+			{% endfor %}
+	</div>
+	{% endif %}
 </aside>
