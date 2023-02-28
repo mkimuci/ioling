@@ -4602,7 +4602,7 @@
         medal: silver
       - name: Xie Lingrui
         medal: gold
-      - name: Ian Tam
+      - name: Tam Lok Hang
         medal: silver
       - name: Ng Truman Toby
         medal: bronze
@@ -4994,8 +4994,14 @@
       - name: Konstantin Georgiev
         medal: gold
       - name: Stiliyan Petrov
-  - country: Canada Anglophone
+  - country: Canada
     teams:
+    - team: Canada Castor
+      participants:
+      - name: Bogdan Sava
+      - name: Cédric Campeau
+      - name: Isabella Zhang
+      - name: Serine F Shin
     - team: Canada Moose
       participants:
       - name: Aidan Wang
@@ -5005,14 +5011,6 @@
       - name: Kunaal Chandrashekar
         medal: silver
       - name: Perry Dai
-  - country: Canada Francophone
-    teams:
-    - team: Canada Castor
-      participants:
-      - name: Bogdan Sava
-      - name: Cédric Campeau
-      - name: Isabella Zhang
-      - name: Serine F Shin
   - country: Czechia
     teams:
     - team: Czechia

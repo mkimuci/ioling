@@ -1536,6 +1536,23 @@
             - name: Lawrence Pang
             - name: Minh-Tam Nguyen
               medal: honorable mentions
+    - year: 2022
+      teams:
+        - team: Canada Castor
+          participants:
+            - name: Bogdan Sava
+            - name: Cédric Campeau
+            - name: Isabella Zhang
+            - name: Serine F Shin
+        - team: Canada Moose
+          participants:
+            - name: Aidan Wang
+              medal: bronze
+            - name: Kevin Yan
+              medal: bronze
+            - name: Kunaal Chandrashekar
+              medal: silver
+            - name: Perry Dai
   individual_contest_medalists:
     gold:
       - year: 2014
@@ -1543,11 +1560,23 @@
         name: Daniel Lovsted
         score: 73
     silver:
+      - year: 2022
+        team: Canada Moose
+        name: Kunaal Chandrashekar
+        score: 58.1
       - year: 2014
         team: Canada
         name: Yan Huang
         score: 59
     bronze:
+      - year: 2022
+        team: Canada Moose
+        name: Aidan Wang
+        score: 41.4
+      - year: 2022
+        team: Canada Moose
+        name: Kevin Yan
+        score: 40.7
       - year: 2015
         team: Canada
         name: Emma McLean
@@ -1616,9 +1645,9 @@
         team: Canada
         name: Simon Huang
         problem: 3
-  summary_1: Canada first competed in the IOL in 2011, and has competed in 6 olympiads. They most recently competed in 2016.
-  summary_2: They have sent 24 participants in 6 teams.
-  summary_3: In competition, teams from Canada have brought home 6 medals (1 gold, 1 silver and 4 bronze), 2 best-solution prizes and 9 honorable mentions.
+  summary_1: Canada first competed in the IOL in 2011, and has competed in 7 olympiads. They most recently competed in 2022.
+  summary_2: They have sent 32 participants in 8 teams.
+  summary_3: In competition, teams from Canada have brought home 9 medals (1 gold, 2 silver and 6 bronze), 2 best-solution prizes and 9 honorable mentions.
   summary_4: In addition, Canada has sent 1 Repeat Medalist
 
 - iol_code: CEN
@@ -1665,17 +1694,6 @@
               medal: bronze
             - name: Ellina Zhang
             - name: Leo Tenenbaum
-    - year: 2022
-      teams:
-        - team: Canada Moose
-          participants:
-            - name: Aidan Wang
-              medal: bronze
-            - name: Kevin Yan
-              medal: bronze
-            - name: Kunaal Chandrashekar
-              medal: silver
-            - name: Perry Dai
   individual_contest_medalists:
     gold:
       - year: 2019
@@ -1683,10 +1701,6 @@
         name: Ken Jiang
         score: 98.7
     silver:
-      - year: 2022
-        team: Canada Moose
-        name: Kunaal Chandrashekar
-        score: 58.1
       - year: 2019
         team: Canada Moose
         name: Tianqi Jiang
@@ -1696,14 +1710,6 @@
         name: Nathan Kim
         score: 68.4
     bronze:
-      - year: 2022
-        team: Canada Moose
-        name: Aidan Wang
-        score: 41.4
-      - year: 2022
-        team: Canada Moose
-        name: Kevin Yan
-        score: 40.7
       - year: 2021
         team: Canada Moose
         name: Kunaal Chandrashekar
@@ -1745,9 +1751,9 @@
         team: Canada Moose
         name: Ken Jiang
         problem: 1
-  summary_1: Canada Anglophone first competed in the IOL in 2017, and has competed in 5 olympiads. They most recently competed in 2022.
-  summary_2: They have sent 20 participants in 5 teams.
-  summary_3: In competition, teams from Canada Anglophone have brought home 9 medals (1 gold, 3 silver and 5 bronze), 1 bronze trophy, 1 best-solution prize and 3 honorable mentions.
+  summary_1: Canada Anglophone first competed in the IOL in 2017, and has competed in 4 olympiads. They most recently competed in 2021.
+  summary_2: They have sent 16 participants in 4 teams.
+  summary_3: In competition, teams from Canada Anglophone have brought home 6 medals (1 gold, 2 silver and 3 bronze), 1 bronze trophy, 1 best-solution prize and 3 honorable mentions.
   summary_4: In addition, Canada Anglophone has sent 2 Repeat Medalists
 
 - iol_code: CFR
@@ -1785,16 +1791,8 @@
             - name: Ariel Soucy
             - name: Yiyuan Zhang
             - name: Aron Szocs
-    - year: 2022
-      teams:
-        - team: Canada Castor
-          participants:
-            - name: Bogdan Sava
-            - name: Cédric Campeau
-            - name: Isabella Zhang
-            - name: Serine F Shin
-  summary_1: Canada Francophone first competed in the IOL in 2017, and has competed in 5 olympiads. They most recently competed in 2022.
-  summary_2: They have sent 20 participants in 5 teams.
+  summary_1: Canada Francophone first competed in the IOL in 2017, and has competed in 4 olympiads. They most recently competed in 2021.
+  summary_2: They have sent 16 participants in 4 teams.
   summary_3: 
   summary_4: 
 
@@ -3233,7 +3231,7 @@
               medal: silver
             - name: Xie Lingrui
               medal: gold
-            - name: Ian Tam
+            - name: Tam Lok Hang
               medal: silver
             - name: Ng Truman Toby
               medal: bronze
@@ -3260,7 +3258,7 @@
         score: 58.2
       - year: 2021
         team: Hong Kong EAT
-        name: Ian Tam
+        name: Tam Lok Hang
         score: 54.5
       - year: 2021
         team: Hong Kong EAT
@@ -3297,7 +3295,7 @@
   summary_1: Hong Kong first competed in the IOL in 2019, and has competed in 3 olympiads. They most recently competed in 2022.
   summary_2: They have sent 16 participants in 4 teams.
   summary_3: In competition, teams from Hong Kong have brought home 6 medals (1 gold, 3 silver and 2 bronze), 1 first-place team cup, 2 best-solution prizes and 1 team contest honorable mention.
-  summary_4: In addition, Hong Kong has sent 1 Repeat Medalist and 1 Dream Team
+  summary_4: In addition, Hong Kong has sent 1 Dream Team
 
 - iol_code: HUN
   iol_name: Hungary
@@ -4532,11 +4530,6 @@
       - year: 2022
         team: Japan Ninja
         score: 61.9
-  individual_contest_team_average_scores:
-    third:
-    - year: 2022
-      team: Japan Samurai
-      score: 47.23
   best_solutions:
       - year: 2022
         team: Japan Samurai
@@ -5943,7 +5936,7 @@
               medal: honorable mentions
             - name: Wojciech Szot 
               medal: silver
-        - team: Poland Źdźbła
+        - team: Poland Źdżbła
           participants:
             - name: Aleksander Syrewicz
             - name: Jan Karpiński
@@ -6097,11 +6090,11 @@
         score: 70
     bronze:
       - year: 2022
-        team: Poland Źdźbła
+        team: Poland Źdżbła
         name: Jan Karpiński
         score: 41.3
       - year: 2022
-        team: Poland Źdźbła
+        team: Poland Źdżbła
         name: Józef Szymański
         score: 39.9
       - year: 2021
@@ -6183,7 +6176,7 @@
         name: Kris Giglok
         score: 36.1
       - year: 2022
-        team: Poland Źdźbła
+        team: Poland Źdżbła
         name: Kuba Ścierzyński
         score: 36
       - year: 2022
@@ -7084,11 +7077,6 @@
       - year: 2021
         team: Romania
         score: 42.4
-  individual_contest_team_average_scores:
-    second:
-    - year: 2022
-      team: Romania
-      score: 47.98
   best_solutions:
       - year: 2022
         team: Romania
@@ -9205,7 +9193,7 @@
               medal: silver
             - name: Samantha Kao
               medal: honorable mentions
-            - name: Yi-Ning Chang
+            - name: Yi Ning Chang 
               medal: silver
         - team: Taiwan Blue Magpie
           participants:
@@ -9232,7 +9220,7 @@
         score: 50.6
       - year: 2022
         team: Taiwan Black Bear
-        name: Yi-Ning Chang
+        name: Yi Ning Chang 
         score: 49.8
       - year: 2021
         team: Taiwan Plum Blossom
@@ -9379,7 +9367,7 @@
   summary_1: Taiwan first competed in the IOL in 2013, and has competed in 9 olympiads. They most recently competed in 2022.
   summary_2: They have sent 51 participants in 15 teams.
   summary_3: In competition, teams from Taiwan have brought home 17 medals (2 gold, 9 silver and 6 bronze), 2 trophies (1 gold and 1 silver), 4 best-solution prizes, 14 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Taiwan has sent 2 Repeat Medalists
+  summary_4: In addition, Taiwan has sent 1 Repeat Medalist
 
 - iol_code: THA
   iol_name: Thailand
@@ -11050,9 +11038,6 @@
         score: 47.5
   individual_contest_team_average_scores:
     first:
-    - year: 2022
-      team: USA Red
-      score: 57.90
     - year: 2019
       team: USA Red
       score: 77.74
@@ -11185,7 +11170,7 @@
         problem: 4
   summary_1: USA first competed in the IOL in 2007, and has competed in 15 olympiads. They most recently competed in 2022.
   summary_2: They have sent 124 participants in 31 teams.
-  summary_3: In competition, teams from USA have brought home 83 medals (21 gold, 38 silver and 24 bronze), 13 trophies (8 gold, 4 silver and 1 bronze), 9 first-place team cups, 22 best-solution prizes, 23 honorable mentions and 3 team contest honorable mentions.
+  summary_3: In competition, teams from USA have brought home 83 medals (21 gold, 38 silver and 24 bronze), 13 trophies (8 gold, 4 silver and 1 bronze), 8 first-place team cups, 22 best-solution prizes, 23 honorable mentions and 3 team contest honorable mentions.
   summary_4: In addition, USA has sent 16 Repeat Medalists and 9 Dream Teams
 
 - iol_code: UZB
