@@ -129,7 +129,17 @@ img { border-radius: $global-radius;}
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
-
+    img.profile     { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+    img.tinyflag    { border-radius: 0;
+                      margin: 1px 0;
+                      vertical-align: middle;
+                      max-width: 21px;
+                      max-height: 14px;
+                      top: -2px;
+                      position: relative;
+                      overflow: hidden;
+                    }
+                    
 figure {
     margin: 0 0 rem-calc(30) 0;
 }
