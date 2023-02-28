@@ -8,10 +8,10 @@
   class: icon-twitter
   title: "IOL official Twitter"
 
-- name: Blogger
-  url: https://international-linguistics-olympiad.blogspot.kr
-  class: icon-feather
-  title: "IOL official Blog"
+- name: Instagram
+  url: https://www.instagram.com/ioling.official/
+  class: icon-instagram
+  title: "IOL official Instagram"
 
 - name: Subscribe
   url: /subscribe

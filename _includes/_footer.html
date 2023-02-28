@@ -9,12 +9,14 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
-
-            <p class="shadow-black">
-              {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
-            </p>
+            <h5 class="shadow-black">{{ site.data.language.new_blog_entries }}</h5>
+              <ul class="no-bullet shadow-black">
+              {% for post in site.posts limit:4 %}
+                  <li>
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><b>{{ post.title }}</b></a>
+                  </li>
+              {% endfor %}
+              </ul>
           </div><!-- /.large-6.columns -->
 
 
@@ -56,19 +58,22 @@
 
       </div><!-- /#footer -->
 
-
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
             {{ site.credits }}
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns">
+          <section id="subfooter-right" class="small-6 medium-3 large-3 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
             </ul>
+          </section>
+
+          <section id="subfooter-right" class="small-6 medium-3 large-3 columns credits">
+            {{ site.webmaster }}
           </section>
         </nav>
       </div><!-- /#subfooter -->
