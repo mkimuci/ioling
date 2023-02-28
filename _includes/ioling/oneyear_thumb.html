@@ -1,0 +1,3 @@
+{% assign include.n=include.n | minus: 1 %}
+
+The {{ site.data.ioling.numbers[include.n].ordinal_uppercase }} {{ site.data.ioling.contests[include.n].title }} was held in {{ site.data.ioling.contests[include.n].city }}, {{ site.data.ioling.contests[include.n].country }} from {{ site.data.ioling.contests[include.n].startDate }} to {{ site.data.ioling.contests[include.n].endDate }}, {{ site.data.ioling.contests[include.n].year }}.

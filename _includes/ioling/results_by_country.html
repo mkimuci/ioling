@@ -1,0 +1,22 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Code</th>
+			{% if include.link %}
+			<th>Link</th>
+			{% endif %}
+		</tr>
+	</thead>
+	<tbody>
+		{% for country_item in site.data.ioling.countries %}
+		<tr>
+			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</td>
+			<td>{{ country_item.iol_code }}</td>
+			{% if include.link %}
+			<th><a href="/results/{{ country_item.iol_code }}"><span class="iconfont"></span>See Details</a></th>
+			{% endif %}
+		</tr>
+		{% endfor %}
+	</tbody>
+</table> 

@@ -1,0 +1,72 @@
+{% assign repeat_medalists = site.data.ioling.repeat_medalists %}
+
+<h3><a name="Repeat_Medalists"></a>Repeat Medalists</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Name</th>
+			<th>Medals</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for medalist_item in repeat_medalists %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", medalist_item.country | first %}
+		<tr bgcolor="#FFFFFF">
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
+			{{ medalist_item.country }}</td>
+			<td>{{ medalist_item.name }}</td>
+			<td>
+				{% for medal_item in medalist_item.medals %} 
+				{% if medal_item.medal == 'Gold' %}
+				🥇
+				{% endif %}
+				{% if medal_item.medal == 'Silver' %}
+				🥈
+				{% endif %}
+				{% if medal_item.medal == 'Bronze' %}
+				🥉
+				{% endif %} 
+				{{ medal_item.year }} {{ medal_item.medal }}<br/>
+				{% endfor %}
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+
+{% assign dream_teams = site.data.ioling.dream_teams %}
+
+<h3><a name="Dream_Teams"></a>Dream Teams</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Team</th>
+			<th>Names</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in dream_teams %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", team_item.country | first %}
+		<tr bgcolor="#FFFFFF">
+			<td>{{ team_item.year }}</td>
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
+			{{ team_item.team }}</td>
+			<td>
+				{% for medal_item in team_item.results %}
+				{% if medal_item.medal == 'Gold' %}
+				🥇
+				{% endif %}
+				{% if medal_item.medal == 'Silver' %}
+				🥈
+				{% endif %}
+				{% if medal_item.medal == 'Bronze' %}
+				🥉
+				{% endif %} {{ medal_item.name }}<br />
+				{% endfor %}
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
