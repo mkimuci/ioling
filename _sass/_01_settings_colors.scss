@@ -11,7 +11,9 @@
 
 */
 
-
+/* IOL */
+$iol-gold:     #DCD9B7;
+$iol-silver:   #D6D6D6;
 
 /* Basics
 ------------------------------------------------------------------- */
@@ -26,14 +28,21 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
+/*
 $ci-1               : #334D5C; // dark turquoise
 $ci-2               : #45B29D; // turquoise
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
+*/
 
-
+$ci-1               : #5b3a34; // IOLing custom
+$ci-2               : #ffbe4f; // IOLing custom
+$ci-3               : #EFC94C; // IOLing custom
+$ci-4               : #E27A3F; // IOLing custom
+$ci-5               : #DF4949; // IOLing custom
+$ci-6               : #FFF160; // IOLing custom
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
