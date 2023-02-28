@@ -44,8 +44,8 @@
   selection_local: 
   abbreviation: 
   link: http://www.ls-bd.org/
-  active: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit: FALSE
   footnote: 
   poc: Morshed Ibna Rahman
   email: rahmanmorshed@gmail.com
@@ -224,8 +224,8 @@
   selection_local: Den danske olympiade for lingvistik
   abbreviation: Sproliga
   link: https://sprogliga.dk/
-  active: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit: FALSE
   footnote: 
   poc: Anders Friis
   email: af@talentcamp.dk
@@ -584,8 +584,8 @@
   selection_local: Norsk Lingvistikkolympiade
   abbreviation: NOLINg
   link: http://noling.no
-  active: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit: FALSE
   footnote: 
   poc: Linn Anne Bjelland Brunborg
   email: noling@noling.no
