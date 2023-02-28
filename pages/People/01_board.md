@@ -14,7 +14,7 @@ sitemap: false
 * Harold Somers
 
 ### PC/Jury Chair <a href="mailto:pc.chair@ioling.org" target="_blank" class="icon-mail" title="PC/Jury Chair"></a>
-* Samuel Ahmed (2022)
+* Milena Veneva (2023)
 
 ### Secretary to Problem Committee
 * Gabrijela Hladnik
@@ -24,7 +24,7 @@ sitemap: false
 * Aleksandar Velinov (2023)
 * Bruno L'Astorina (2024)
 
-### Funding Chair
+### Funding Chair(s)
 * Lori Levin
 * Cara Greene
 
@@ -32,7 +32,7 @@ sitemap: false
 * Simona Klemenčič
 
 ### Archives and Website <a href="mailto:web@ioling.org" target="_blank" class="icon-mail" title="Website coordinator"></a>
-* Minkyu Kim 
+* Minkyu Kim
 
 ### Local Organizer Liaison
 * Mateja Hrast
