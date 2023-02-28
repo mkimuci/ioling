@@ -1,0 +1,25 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Host city</th>
+			{% if include.link %}
+			<th>Link</th>
+			{% endif %}
+		</tr>
+	</thead>
+	<tbody>
+		{% for contest_item in site.data.ioling.contests %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", contest_item.country | first %}
+		<tr>
+			<td>{{ contest_item.year }}</td>
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" /> {% endif %}{{ contest_item.city }}, {{ contest_item.country }}</td>
+			{% if include.link == 'results' %}
+			<th><a href="/results/{{ contest_item.year }}/"><span class="iconfont"></span> See Results</a></th>
+			{% else %}
+			<th><a href="/{{ contest_item.year }}/"><span class="iconfont"></span> See Details</a></th>
+			{% endif %}
+		</tr>
+		{% endfor %}
+	</tbody>
+</table> 

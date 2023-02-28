@@ -1,0 +1,22 @@
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown">Select a region</button><br>
+<ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
+{% for country_item in site.data.ioling.countries %}
+{% if country_item.accredit %}
+<li><a href="/local_organizers/#{{ country_item.iol_code }}">{{ country_item.iol_name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+Below is the complete list of currently accredited countries and regions as of {{ "now" | date: "%b %Y" }}:
+
+{% assign accredit_list = site.data.ioling.countries | where: "accredit", true | sort: "iol_name" | map: "iol_name" %}
+{{ accredit_list | join: ", " }}.
+
+{% for country_item in site.data.ioling.countries %}
+{% if country_item.accredit %}
+<h3><a name="{{ country_item.iol_code }}" href="/results/{{ country_item.iol_code }}"><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</a></h3>
+{% if country_item.selection_local or country_item.selection_en %}* Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviation %}{{ country_item.abbreviation }}, {% endif %}{{ country_item.selection_en }}{% if country_item.selection_local %} ({{ country_item.selection_local }}){% endif %}.{% endif %}
+{% if country_item.link %}* Website: [Link]({{ country_item.link }}){% endif %}
+{% if country_item.poc %}* Contact: [{{ country_item.poc }}](mailto:{{ country_item.email }}){% if country_item.poc2 %}, [{{ country_item.poc2 }}](mailto:{{ country_item.email2 }}){% endif %}{% endif %}
+{% endif %}
+{% endfor %}

@@ -1,0 +1,2 @@
+{% assign accredit_list = site.data.ioling.countries | where: "accredit", true | map: "iol_name" %}
+{{ accredit_list | join: ", " }}.

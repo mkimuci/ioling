@@ -1,0 +1,192 @@
+<nav id="pagination">
+    <a class="button radius" href="/results/{{ include.iol_code }}">Results &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.iol_code }}">Participants &raquo;</a>
+</nav>
+
+{% assign country_item = site.data.ioling.countries | where: "iol_code", include.iol_code | first %}
+
+{% assign country_results = site.data.ioling.results_by_countries | where: "iol_code", include.iol_code | first %}
+
+<div class="large-6 columns right">
+  <img src="/images/flags/{{ country_item.flag }}">
+</div>
+
+{{ country_results.summary_1 }} {{ country_results.summary_2 }}
+
+{% if country_results.summary_3 %}
+{{ country_results.summary_3 }}
+{% endif %}
+
+{% if country_results.summary_4 %}
+{{ country_results.summary_4 }} to the <a href="/hall_of_fame">Hall of Fame</a>.
+{% endif %}
+
+{% if country_item.active %}
+Team {{ country_item.iol_name }} is chosen through {% if country_item.abbreviation %}{{ country_item.abbreviation }}, {% endif %}{{ country_item.selection_en }}{% if country_item.selection_local %} ({{ country_item.selection_local }}){% endif %}.
+
+{% if country_item.link %}* Website: [Link]({{ country_item.link }}){% endif %}
+{% if country_item.poc %}* Contact: [{{ country_item.poc }}](mailto:{{ country_item.email }}){% if country_item.poc2 %}, [{{ country_item.poc2 }}](mailto:{{ country_item.email2 }}){% endif %}{% endif %}
+{% endif %}
+
+{% if country_item.footnote %}
+{{ country_item.footnote }}
+{% endif %}
+
+
+{% if country_results.individual_contest_medalists %}
+<h3>Individual Contest Medalists</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Medal</th>
+			<th>Name</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for participant_item in country_results.individual_contest_medalists.gold %}
+		<tr bgcolor="#FFFB9B">
+			<td>{{ participant_item.year }}</td>
+			<td>Gold</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for participant_item in country_results.individual_contest_medalists.silver %}
+		<tr bgcolor="#EEEEEE">
+			<td>{{ participant_item.year }}</td>
+			<td>Silver</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for participant_item in country_results.individual_contest_medalists.bronze %}
+		<tr bgcolor="#EEDECC">
+			<td>{{ participant_item.year }}</td>
+			<td>Bronze</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
+{% if country_results.honorable_mentions %}
+<h3>Honorable Mentions</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Award</th>
+			<th>Name</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for participant_item in country_results.honorable_mentions.honorable_mention %}
+		<tr>
+			<td>{{ participant_item.year }}</td>
+			<td>HM</td>
+			<td>{{ participant_item.name }}</td>
+			<td>{{ participant_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
+{% if country_results.individual_contest_team_average_scores %}
+<h3>Individual Contest Team Average Scores</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Place</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in country_results.individual_contest_team_average_scores.first %}
+		<tr bgcolor="#FFFB9B">
+			<td>{{ team_item.year }}</td>
+			<td>1st Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.individual_contest_team_average_scores.second %}
+		<tr bgcolor="#EEEEEE">
+			<td>{{ team_item.year }}</td>
+			<td>2nd Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.individual_contest_team_average_scores.third %}
+		<tr bgcolor="#EEDECC">
+			<td>{{ team_item.year }}</td>
+			<td>3rd Place</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
+{% if country_results.team_contest_winners %}
+<h3>Team Contest Trophies</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Trophy</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in country_results.team_contest_winners.gold %}
+		<tr bgcolor="#FFFB9B">
+			<td>{{ team_item.year }}</td>
+			<td>Gold</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.team_contest_winners.silver %}
+		<tr bgcolor="#EEEEEE">
+			<td>{{ team_item.year }}</td>
+			<td>Silver</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+		{% for team_item in country_results.team_contest_winners.bronze %}
+		<tr bgcolor="#EEDECC">
+			<td>{{ team_item.year }}</td>
+			<td>Bronze</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
+
+{% if country_results.team_contest_honorable_mentions %}
+<h3>Team Contest Honorable Mentions</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Award</th>
+			<th>Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for team_item in country_results.team_contest_honorable_mentions.honorable_mention %}
+		<tr>
+			<td>{{ team_item.year }}</td>
+			<td>HM</td>
+			<td>{{ team_item.team }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}

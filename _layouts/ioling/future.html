@@ -1,0 +1,37 @@
+<table width="100%">
+	<caption>List of future IOL host venues (provisional)</caption>
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Venue</th>
+			<th>Contact</th>
+			<th>Website</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for contest_item in site.data.ioling.future %}
+		<tr>
+			<td>{{ contest_item.year }}</td>
+			{% if contest_item.city %}
+			<td>{{ contest_item.city }}{% if contest_item.country %}, {{ contest_item.country }}{% endif %}
+			{% if contest_item.flag %} <img class="tinyflag" alt="Flag" src="{{ contest_item.flag }}" />{% endif %}
+			</td>
+			<td>{{ contest_item.poc }} 
+				{% if contest_item.contact %}
+				<<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>>
+				{% endif %}
+			</td>
+			{% if contest_item.website %}
+			<td><a href="{{ contest_item.website }}">Link</a></td>
+			{% else %}
+			<td>N/A</td>
+			{% endif %}
+			{% else %}
+			<td>(TBD)</td>
+			<td></td>
+			<td></td>
+			{% endif %}
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

@@ -1,0 +1,30 @@
+---
+layout: default
+format: toppage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<img hidden src="{{ site.urlimg }}{{ site.thumbnail }}" alt="thumbnail">
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+
+    {% for page_item in site.pages %}
+        {% if page_item.category == page.category %}
+        {% unless page_item.layout == "toppage" %}
+            {% include _frontpage-widget.html widget=page_item.widget %}
+        {% endunless %}
+        {% endif %}
+    {% endfor %}
+
+</div><!-- /.row -->
+

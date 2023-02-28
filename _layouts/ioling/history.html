@@ -1,0 +1,30 @@
+{% assign n = site.data.ioling.contests.size | minus: 1%}
+
+The following table presents a summary of the participation in the first {{ site.data.ioling.numbers[n].cardinal_lowercase }} instalments of the IOL ({{ site.data.ioling.contests.first.year }}-{{ site.data.ioling.contests.last.year }}): 
+
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Host city</th>
+			<th>Countries</th>
+			<th>Teams</th>
+			<th>Participants</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for contest_item in site.data.ioling.contests %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", contest_item.country | first %}
+		<tr>
+			<td>{{ contest_item.year }}</td>
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" /> {% endif %}{{ contest_item.city }}, {{ contest_item.country }}</td>
+			<td>{{ contest_item.number_of_countries }}</td>
+			<td>{{ contest_item.number_of_teams }}</td>
+			<td>{{ contest_item.number_of_participants }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+
+{% assign full_country_list = site.data.ioling.countries | sort: "iol_name" | map: "iol_name" %}
+Teams from these 41 countries have participated in at least one of the first {{ site.data.ioling.numbers[n].cardinal_lowercase }} IOLs: {{ full_country_list | join: ", " }}.

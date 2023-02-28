@@ -1,0 +1,46 @@
+<nav id="pagination">
+    <a class="button radius" href="/results/{{ include.iol_code }}">Results &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.iol_code }}">Participants &raquo;</a>
+</nav>
+
+{% assign country_item = site.data.ioling.countries | where: "iol_code", include.iol_code | first %}
+
+{% assign country_results = site.data.ioling.results_by_countries | where: "iol_code", include.iol_code | first %}
+
+{% for year_item in country_results.participants %}
+{% assign contest_item = site.data.ioling.contests | where: "year", year_item.year | first %}
+<h3><a name="{{ contest_item.year }}" href="/results/{{ contest_item.year }}">{{ contest_item.city }} {{ contest_item.year }}</a></h3>
+<div class="row">
+{% for team_item in year_item.teams %}
+<div class="medium-6 columns">
+<table width="100%">
+	<thead>
+		<tr>
+			<th>{{ team_item.team }}</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for participant_item in team_item.participants %}
+		<tr bgcolor="#FFFFFF">
+			<td>{{ participant_item.name }}
+				{% if participant_item.medal == 'gold' %}
+				🥇
+				{% endif %}
+				{% if participant_item.medal == 'silver' %}
+				🥈
+				{% endif %}
+				{% if participant_item.medal == 'bronze' %}
+				🥉
+				{% endif %}
+				{% if participant_item.medal == 'honorable mentions' %}
+				<img class="tinyflag" alt="Flag" src="/images/hm.png" />
+				{% endif %}
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+</div>
+{% endfor %}
+</div>
+{% endfor %}

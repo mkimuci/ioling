@@ -1,0 +1,94 @@
+<nav id="pagination">
+    <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
+    <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.year }}">Participants &raquo;</a>
+<!--     <a class="button radius" href="/results/{{ include.year }}">Gallery &raquo;</a>
+ -->  
+</nav>
+
+<hr>
+
+{% assign individual_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Individual" %}
+{% assign team_problems = site.data.ioling.problems | where: "year", include.year | where: "round", "Team" %}
+
+{% assign this_year_booklets = site.data.ioling.booklets | where: "year", include.year | first %}
+
+<h3>Individual Contest</h3>
+<div class="row">
+<div class="medium-6 columns">
+<ol>
+{% for problem_item in individual_problems %}
+<li><a href="/problems/{{ include.year }}/i{{ problem_item.number }}/">{{ problem_item.name }}</a></li>
+{% endfor %}
+</ol>
+</div>
+<div class="medium-6 columns">
+{% if this_year_booklets.indiv.prob %}
+<button href="#" data-dropdown="drop-indiv-prob-{{ include.year }}" aria-controls="drop-indiv-prob-{{ include.year }}" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop-indiv-prob-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.indiv.prob %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+{% if this_year_booklets.indiv.sup %}
+<button href="#" data-dropdown="drop-indiv-sup-{{ include.year }}" aria-controls="drop-indiv-sup-{{ include.year }}" aria-expanded="false" class="button dropdown small">Supplements</button>
+<ul id="drop-indiv-sup-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.indiv.sup %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+{% if this_year_booklets.indiv.sol %}
+<button href="#" data-dropdown="drop-indiv-sol-{{ include.year }}" aria-controls="drop-indiv-sol-{{ include.year }}" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop-indiv-sol-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.indiv.sol %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+</div>
+</div>
+
+<h3>Team Contest</h3>
+<div class="row">
+<div class="medium-6 columns">
+<ol>
+{% for problem_item in team_problems %}
+<li><a href="/problems/{{ include.year }}/t{{ problem_item.number }}/">{{ problem_item.name }}</a></li>
+{% endfor %}
+</ol>
+</div>
+<div class="medium-6 columns">
+{% if this_year_booklets.team.prob %}
+<button href="#" data-dropdown="drop-team-prob-{{ include.year }}" aria-controls="drop-team-prob-{{ include.year }}" aria-expanded="false" class="button dropdown small">Problems</button>
+<ul id="drop-team-prob-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.team.prob %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+{% if this_year_booklets.team.sup %}
+<button href="#" data-dropdown="drop-team-sup-{{ include.year }}" aria-controls="drop-team-sup-{{ include.year }}" aria-expanded="false" class="button dropdown small">Supplements</button>
+<ul id="drop-team-sup-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.team.sup %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+{% if this_year_booklets.team.sol %}
+<button href="#" data-dropdown="drop-team-sol-{{ include.year }}" aria-controls="drop-team-sol-{{ include.year }}" aria-expanded="false" class="button dropdown small">Solutions</button>
+<ul id="drop-team-sol-{{ include.year }}" data-dropdown-content class="f-dropdown" aria-hidden="true">
+  {% for booklet in this_year_booklets.team.sol %}
+  <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
+  {% endfor %}
+</ul>
+<br/>
+{% endif %}
+</div>
+</div>

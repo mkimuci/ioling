@@ -1,0 +1,20 @@
+{% assign solvers_choices = site.data.ioling.problems | where: "solvers_choice", true %}
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Problem</th>
+			<th>Author</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for solvers_choice_item in solvers_choices %}
+		{% assign authors = solvers_choice_item.author | map: "name" | join: ", " %}
+		<tr>
+			<td>{{ solvers_choice_item.year }}</td>
+			<td>{{ solvers_choice_item.name }}</td>
+			<td>{{ authors }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

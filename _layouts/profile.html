@@ -1,0 +1,83 @@
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+			</header>
+
+			<div itemprop="articleSection">
+				<div class="row">
+				<div class="medium-4 columns frontpage-widget t10">
+				<a href="{{ widget_url }}">
+					{% if page.profile.image %}
+						<img class="profile" src="{{ site.urlimg }}{{ page.profile.image }}" alt="" />
+					{% else %}
+						<img class="profile" src="{{ site.urlimg }}{{ site.default_profile }}" alt="" />
+					{% endif %}
+				</a>
+				</div>
+				<div class="medium-8 columns">
+				<h1>{{ page.profile.name }}</h1>
+				<p />
+				{% if page.profile.roles %}
+				<ul>
+				  {% for role_item in page.profile.roles %}
+				  <li>{{ role_item }}</li>
+				  {% endfor %}
+				</ul>
+				{% endif %}
+				{% if page.profile.contacts %}
+				<h3>Contact</h3>
+				<ul>
+				  {% for contact_item in page.profile.contacts %}
+				  <li><a href="mailto:{{ contact_item }}">{{ contact_item }}</a></li>
+				  {% endfor %}
+				</ul>
+				{% endif %}
+				{% if page.profile.quote %}
+				<h3>Quote</h3>
+				<i>{{ page.profile.quote }}</i>
+				{% endif %}
+				</div>
+				</div>
+
+				<div class="row">
+				<div class="medium-12 columns">
+				{% if page.profile.about %}
+				<h3>About</h3>
+				{{ page.profile.about }}
+				{% endif %}
+				<h3>IOL Participation History</h3>
+				<p />
+				<table width="100%">
+					<thead>
+						<tr>
+							<th>Year</th>
+							<th>Role</th>
+							<th>Results</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% for participation_item in page.profile.participations %}
+						<tr>
+							<td>{{ participation_item.year }}</td>
+							<td>{{ participation_item.role }}</td>
+							<td>{{ participation_item.results }}</td>
+						</tr>
+						{% endfor %}
+					</tbody>
+				</table>
+				</div>
+				</div>
+			</div>
+
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+</div><!-- /.row -->
+
+
+
