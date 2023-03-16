@@ -36,7 +36,7 @@ The IOL is one of 13 International Science Olympiads for secondary school studen
 No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our [past problems](/problems/by_year/) a try!
 
 ### Isle of Man 2022
-The 19th IOL, hosted by Isle of Man, has successfully concluded on July 29th, 2022. A total of 184 contestants of 43 teams representing 33 countries competed in IOL 2022. You can find more information <a href="https://www.ioling.org/2022">here</a>.
+The 19th IOL, hosted by Isle of Man, has successfully concluded on July 29th, 2022. A total of 184 contestants of 43 teams representing 33 countries competed in IOL 2022. You can find more information <a href="https://ioling.org/results/2022">here</a>.
 
 
 <!-- <a href="/sponsorship/">
