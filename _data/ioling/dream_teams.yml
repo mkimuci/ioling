@@ -38,7 +38,7 @@
     medal: Bronze
 
 - year: 2010
-  country: USA
+  country: United States of America
   team: USA Blue
   results:
   - name: Martin Camacho
@@ -51,7 +51,7 @@
     medal: Bronze
 
 - year: 2011
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Morris Alper
@@ -77,7 +77,7 @@
     medal: Bronze
 
 - year: 2012
-  country: UK
+  country: United Kingdom
   team: UK
   results:
   - name: Tom White
@@ -103,7 +103,7 @@
     medal: Bronze
 
 - year: 2013
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Aaron Klein
@@ -129,7 +129,7 @@
     medal: Bronze
 
 - year: 2015
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: James Bloxham
@@ -207,7 +207,7 @@
     medal: Bronze
 
 - year: 2017
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Andrew Tockman
@@ -233,7 +233,7 @@
     medal: Bronze
 
 - year: 2018
-  country: UK
+  country: United Kingdom
   team: UK K
   results:
   - name: Simeon Hellsten
@@ -246,7 +246,7 @@
     medal: Gold
 
 - year: 2018
-  country: USA
+  country: United States of America
   team: USA Blue
   results:
   - name: Russell Emerine
@@ -259,7 +259,7 @@
     medal: Silver
 
 - year: 2018
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Ethan A. Chi
@@ -298,7 +298,7 @@
     medal: Bronze
 
 - year: 2019
-  country: UK
+  country: United Kingdom
   team: UK U
   results:
   - name: Sam Corner
@@ -311,7 +311,7 @@
     medal: Bronze
 
 - year: 2019
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Wesley Zhang
@@ -350,7 +350,7 @@
     medal: Silver
 
 - year: 2022
-  country: USA
+  country: United States of America
   team: USA Red
   results:
   - name: Benjamin Mcavoy-Bickford
@@ -360,5 +360,44 @@
   - name: Riley Kong
     medal: Silver
   - name: Rishab Parthasarathy
+    medal: Silver
+
+- year: 2023
+  country: Belka
+  team: Belka
+  results:
+  - name: Viktoriia Zubkova
+    medal: Silver
+  - name: Artem Boyko
+    medal: Gold
+  - name: Alexander Shlykov
+    medal: Bronze
+  - name: Eleonora Stepanova
+    medal: Gold
+
+- year: 2023
+  country: Brazil
+  team: Brazil Bem-te-vi
+  results:
+  - name: Manoela Ferraz
+    medal: Bronze
+  - name: Leonardo Torres
+    medal: Gold
+  - name: Everton Albuquerque De Oliveira
+    medal: Bronze
+  - name: Leonardo Paillo
+    medal: Gold
+
+- year: 2023
+  country: United Kingdom
+  team: United Kingdom
+  results:
+  - name: Luke Borrel
+    medal: Bronze
+  - name: Alison Craig-Greene
+    medal: Silver
+  - name: William Keith Thomson
+    medal: Gold
+  - name: Daniel Titmas
     medal: Silver
 

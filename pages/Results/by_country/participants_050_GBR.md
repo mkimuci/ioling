@@ -3,7 +3,7 @@ permalink: /participants/GBR/
 layout: page
 header:
   image_fullwidth: head.png
-title: UK
+title: United Kingdom
 category: countries
 participants_by_country: true
 sidebar: right

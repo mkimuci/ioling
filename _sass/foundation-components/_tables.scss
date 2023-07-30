@@ -112,9 +112,9 @@ $table-margin-bottom: rem-calc(20) !default;
       text-align: $default-float;
     }
 
-    &.even,
-    &.alt,
-    &:nth-of-type(even) { background: $table-even-row-bg; }
+    // &.even,
+    // &.alt,
+    // &:nth-of-type(even) { background: $table-even-row-bg; }
   }
 
   thead tr th,

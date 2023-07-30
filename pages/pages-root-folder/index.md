@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: head.png
 widget3:
-  title: "Bansko 2023"
+  title: "Brasília 2024"
   url: '/upcoming/'
-  image: bg2023.jpg
-  text: '<b>Bansko (Bulgaria)</b> has been chosen as the host of the 20th International Linguistics Olympiad on July 21 - 29, 2023. You can find more information <a href="https://iol2023.linguistics.bg/">here</a>.'
+  image: brasilia2024.jpg
+  text: '<b>Brasília (Brazil)</b> has been chosen as the host of the 21st International Linguistics Olympiad on July 2024. You can find more information <a href="/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -31,12 +31,14 @@ homepage: true
 ---
 # Welcome to the IOL
 
-The IOL is one of 13 International Science Olympiads for secondary school students, and has been held annually since 2003. Each year, teams of young linguists from around the world gather and test their minds against the world's toughest puzzles in language and linguistics.
+The International Linguistics Olympiad (IOL) is an annual international competition that brings together secondary school students and experts from various fields of linguistics. Since its inception in 2003, the IOL has been hosted in a different country each summer. The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
 
-No prior knowledge of linguistics or languages is required: even the hardest problems require only your logical ability, patient work, and willingness to think around corners. Give some of our [past problems](/problems/by_year/) a try!
+The IOL encourages creativity and imagination and helps participants develop skills in language analysis and problem-solving. By promoting awareness and understanding of diverse cultures and histories, the competition plays a vital role in nurturing future linguistics experts and contributing to the development of this academic field. No prior knowledge of linguistics or languages is required, as even the most challenging problems only require logical ability, patient work, and a willingness to think outside the box.
 
-### Isle of Man 2022
-The 19th IOL, hosted by Isle of Man, has successfully concluded on July 29th, 2022. A total of 184 contestants of 43 teams representing 33 countries competed in IOL 2022. You can find more information <a href="https://ioling.org/results/2022">here</a>.
+Why not give some of our [past problems](/problems/by_year/) a try and see if you have what it takes to compete in the world's toughest puzzles in language and linguistics?
+
+### Bansko 2023
+The 20th Anniversary IOL, hosted by Bansko, Bulgaria, has successfully concluded on July 29th, 2023. A total of 205 contestants of 52 teams representing 38 countries competed in IOL 2023. You can find more information <a href="/results/2023">here</a>.
 
 
 <!-- <a href="/sponsorship/">

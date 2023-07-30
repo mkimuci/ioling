@@ -1,0 +1,27 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>#</th>
+			<th>Problem</th>
+			<th>Name</th>
+			<th>Country</th>
+			<th>Language</th>
+			<th>Link</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for bs_item in site.data.ioling.best_solutions %}
+		{% assign prob_item = site.data.ioling.problems | where: "id", bs_item.problem | first %}
+		<tr>
+			<td>{{ prob_item.year }}</td>
+			<td>{{ prob_item.number }}</td>
+			<td>{{ prob_item.name }}</td>
+			<td>{{ bs_item.name }}</td>
+			<td>{{ bs_item.country }}</td>
+			<td>{{ bs_item.language }}</td>
+			<td><a href="/best_solutions/{{ bs_item.filename }}">PDF</a></td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table> 

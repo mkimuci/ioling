@@ -3,7 +3,7 @@
 	<div class="panel radius">
 		<h3>Past Contests</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:100 %}
+			{% for page in site.pages limit:1000 %}
 			{% if page.past_contest %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
@@ -17,7 +17,7 @@
 	<div class="panel radius">
 		<h3>Past Problems</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:100 %}
+			{% for page in site.pages limit:1000 %}
 			{% if page.past_problems %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
@@ -31,7 +31,7 @@
 	<div class="panel radius">
 		<h3>Results by Year</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:100 %}
+			{% for page in site.pages limit:1000 %}
 			{% if page.results_by_year %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>

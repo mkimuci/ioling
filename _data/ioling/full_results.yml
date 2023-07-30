@@ -599,7 +599,7 @@
       - name: Adam Hesterberg
         score: 90
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Łukasz Cegieła
         score: 85.5
@@ -698,7 +698,7 @@
   team:
       gold:
       - team: USA 2
-        country: USA
+        country: United States of America
         score: N/A
 
       - team: Moscow
@@ -728,7 +728,7 @@
       - name: Hanzhi Zhu
         score: 83
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Milan Abel Lopuhaä
         score: 82
@@ -739,7 +739,7 @@
       - name: Anand Natarajan
         score: 79
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Maciej Janicki
         score: 79
@@ -749,7 +749,7 @@
       - name: Morris Alper
         score: 78
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Dmitry Perevozchikov
         score: 78
@@ -775,12 +775,12 @@
       - name: Jeffrey Lim
         score: 71
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Guy Tabachnick
         score: 71
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Joon Kyu Kang
         score: 71
@@ -810,7 +810,7 @@
       - name: Rebecca Jacobs
         score: 69
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Tatyana Polevaya
         score: 68
@@ -827,7 +827,7 @@
       best_solution:
       - name: Hanzhi Zhu
         team: USA 2
-        country: USA
+        country: United States of America
         problem: 1
 
       - name: Erle Morgaine Monfils
@@ -852,7 +852,7 @@
 
       - name: Jae-Kyu Lee
         team: USA 2
-        country: USA
+        country: United States of America
         problem: 4
 
   average:
@@ -862,7 +862,7 @@
   team:
       gold:
       - team: USA 2
-        country: USA
+        country: United States of America
         score: 85
 
       - team: Bulgaria East
@@ -875,7 +875,7 @@
         score: 67
 
       - team: USA 1
-        country: USA
+        country: United States of America
         score: 66
 
       bronze:
@@ -933,7 +933,7 @@
       - name: Rebecca Jacobs
         score: 63
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Aakanksha Sarda
         score: 63
@@ -964,7 +964,7 @@
       - name: Alan Huang
         score: 54
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Tomasz Dobrzycki
         score: 54
@@ -974,12 +974,12 @@
       - name: Ben Caller
         score: 54
         team: Great Britain
-        country: UK
+        country: United Kingdom
 
       - name: John Berman
         score: 53
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Jun Yeop Lee
         score: 53
@@ -989,7 +989,7 @@
       - name: Sergei Bernstein
         score: 51
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Hye jin Ryu
         score: 51
@@ -1000,12 +1000,12 @@
       - name: Anand Natarajan
         score: 50
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Vivaek Shivakumar
         score: 50
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Adam Polak
         score: 50
@@ -1060,12 +1060,12 @@
       - name: Morris Alper
         score: 46
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Daryl Hansen
         score: 46
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Niels uit de Bos
         score: 46
@@ -1101,7 +1101,7 @@
       best_solution:
       - name: Alan Huang
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 1
 
       - name: Andrey Nikulin
@@ -1141,7 +1141,7 @@
 
       - name: John Berman
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 5
 
   average:
@@ -1166,7 +1166,7 @@
   team:
       gold:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 2261
 
       silver:
@@ -1197,23 +1197,23 @@
       - name: Ben Sklaroff
         score: 96
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - name: Tian-Yi Damien Jiang
         score: 94
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Martin Camacho
         score: 94
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Allen Yuan
         score: 93
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Daria Vasilyeva
         score: 93
@@ -1259,12 +1259,12 @@
       - name: Alexander Iriza
         score: 80
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Alan Chang
         score: 79
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Vitaly Pavlenko
         score: 77
@@ -1309,7 +1309,7 @@
       - name: Younus Porteous 
         score: 69
         team: UK 1
-        country: UK
+        country: United Kingdom
 
       - name: Ana Pavlović
         score: 67
@@ -1335,7 +1335,7 @@
       - name: In-Sung Na
         score: 65
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Tadej Novak
         score: 65
@@ -1355,7 +1355,7 @@
       - name: Craig Bohrson
         score: 63
         team: UK 1
-        country: UK
+        country: United Kingdom
 
       - name: Jeremy Ng
         score: 63
@@ -1385,7 +1385,7 @@
       - name: Brian Kong
         score: 60
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Ignace Schoot 
         score: 60
@@ -1425,7 +1425,7 @@
       - name: Carl Rietschel
         score: 57
         team: UK 2
-        country: UK
+        country: United Kingdom
 
       - name: Nadine Sedlaczeck
         score: 57
@@ -1446,7 +1446,7 @@
 
       - name: Tian-Yi Damien Jiang
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 1
 
       - name: Jeeun Song
@@ -1456,7 +1456,7 @@
 
       - name: Martin Camacho
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 2
 
       - name: Nadine Sedlaczeck
@@ -1476,7 +1476,7 @@
 
       - name: Ben Sklaroff
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 4
 
       - name: Tadej Novak
@@ -1496,7 +1496,7 @@
 
       - name: Nathan Somers
         team: UK 2
-        country: UK
+        country: United Kingdom
         problem: 5
 
   average:
@@ -1504,7 +1504,7 @@
       - place: 1
         average: 86.75
         team: USA Blue
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -1516,7 +1516,7 @@
       - place: 3
         average: 78.5
         team: USA Red
-        country: USA
+        country: United States of America
 
   team:
       gold:
@@ -1542,7 +1542,7 @@
       - name: Morris Alper
         score: 80
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Eva-Lotta Käsper
         score: 70
@@ -1563,12 +1563,12 @@
       - name: Allen Yuan
         score: 64
         team: USA White
-        country: USA
+        country: United States of America
 
       - name: Wesley Jones
         score: 64
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Anton Sokolov
         score: 64
@@ -1583,7 +1583,7 @@
       - name: Alexander Wade
         score: 62
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Victor Valov
         score: 62
@@ -1593,7 +1593,7 @@
       - name: Duligur Ibeling
         score: 61
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Paul Lau
         score: 61
@@ -1634,7 +1634,7 @@
       - name: Nik Moore
         score: 57
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Daniel Rucki
         score: 57
@@ -1649,7 +1649,7 @@
       - name: Aaron Klein
         score: 56
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Mihhail Afanasjev
         score: 54
@@ -1670,7 +1670,7 @@
       - name: Piotr Gałuszka
         score: 50
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Sagar Sarda
         score: 49
@@ -1680,7 +1680,7 @@
       - name: Ophir Lifshitz
         score: 48
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Anna Sarukhanova
         score: 48
@@ -1695,7 +1695,7 @@
       - name: Caroline Ellison
         score: 47
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Mateusz Skórski
         score: 47
@@ -1710,7 +1710,7 @@
       - name: Arjun Srinivasan
         score: 46
         team: USA White
-        country: USA
+        country: United States of America
 
       - name: Sandra Schumann
         score: 46
@@ -1745,7 +1745,7 @@
       - name: Erik Andersen
         score: 43
         team: USA White
-        country: USA
+        country: United States of America
 
       - name: Kuzma Smirnov
         score: 42
@@ -1765,7 +1765,7 @@
       - name: Chelsea Voss
         score: 41
         team: USA White
-        country: USA
+        country: United States of America
 
       - name: Joelle Tan
         score: 41
@@ -1796,7 +1796,7 @@
       best_solution:
       - name: Morris Alper
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 2
 
       - name: Rok Kaufman
@@ -1806,12 +1806,12 @@
 
       - name: Caroline Ellison
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 3
 
       - name: Alexander Wade
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 4
 
       - name: Vadim Tukh
@@ -1824,7 +1824,7 @@
       - place: 1
         average: 65.25
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -1841,7 +1841,7 @@
   team:
       gold:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 85
 
       silver:
@@ -1867,12 +1867,12 @@
       - name: Alexander Wade
         score: 85
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Anderson  Wang
         score: 80
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Vadim Tukh
         score: 80
@@ -1903,17 +1903,17 @@
       - name: Darryl Wu
         score: 71
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Allan Sadun
         score: 69
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Tom White
         score: 68
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Eva-Lotta Käsper
         score: 68
@@ -1928,7 +1928,7 @@
       - name: Aaron Klein
         score: 66
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Ilya Pogodaev
         score: 62
@@ -1974,7 +1974,7 @@
       - name: Erik Andersen
         score: 57
         team: USA 2
-        country: USA
+        country: United States of America
 
       - name: Magdalena Dakeva
         score: 57
@@ -1989,7 +1989,7 @@
       - name: Omri Faraggi
         score: 55
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Anna Sarukhanova
         score: 54
@@ -1999,12 +1999,12 @@
       - name: Melanie Duncan
         score: 53
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Baichuan Li
         score: 52
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Anita Mudzhumdar
         score: 52
@@ -2065,7 +2065,7 @@
       - name: Samuel Zbarsky
         score: 47
         team: USA 1
-        country: USA
+        country: United States of America
 
       - name: Zinaida Romashkina
         score: 47
@@ -2171,7 +2171,7 @@
       best_solution:
       - name: Darryl Wu
         team: USA 1
-        country: USA
+        country: United States of America
         problem: 1
 
       - name: Ants-Oskar Mäesalu
@@ -2191,7 +2191,7 @@
 
       - name: Alexander Wade
         team: USA 2
-        country: USA
+        country: United States of America
         problem: 3
 
       - name: Estere Šeinkmane
@@ -2201,7 +2201,7 @@
 
       - name: Anderson  Wang
         team: USA 1
-        country: USA
+        country: United States of America
         problem: 4
 
       - name: Anita Mudzhumdar
@@ -2211,7 +2211,7 @@
 
       - name: Alexander Wade
         team: USA 2
-        country: USA
+        country: United States of America
         problem: 5
 
       - name: Anton Sokolov
@@ -2230,18 +2230,18 @@
       - place: 2
         average: 66.75
         team: USA 1
-        country: USA
+        country: United States of America
 
       bronze:
       - place: 3
         average: 59.5
         team: USA 2
-        country: USA
+        country: United States of America
 
   team:
       gold:
       - team: USA 2
-        country: USA
+        country: United States of America
         score: 93.4
 
       silver:
@@ -2262,7 +2262,7 @@
       - name: Alexander Wade
         score: 87
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Anton Sokolov
         score: 83
@@ -2298,7 +2298,7 @@
       - name: Omri Faraggi
         score: 67
         team: UK North
-        country: UK
+        country: United Kingdom
 
       - name: Yash Sinha
         score: 67
@@ -2323,7 +2323,7 @@
       - name: Aaron Klein
         score: 64
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Airika Arrik
         score: 64
@@ -2343,7 +2343,7 @@
       - name: Jeffrey Ling
         score: 62
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Huisu Yun
         score: 62
@@ -2374,7 +2374,7 @@
       - name: Tom McCoy
         score: 58
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Jacob Karlsson Lagerros
         score: 58
@@ -2424,7 +2424,7 @@
       - name: Maximilian Schindler
         score: 52
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Zhuling Sarah Tham
         score: 51
@@ -2445,12 +2445,12 @@
       - name: Rebecca Burks
         score: 50
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Erik Andersen
         score: 50
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Maria-Cristina Ionescu
         score: 50
@@ -2470,7 +2470,7 @@
       - name: Neema Kotonya
         score: 49
         team: UK North
-        country: UK
+        country: United Kingdom
 
       - name: Keng Ji Chow
         score: 49
@@ -2515,12 +2515,12 @@
       - name: Elysia Warner
         score: 45
         team: UK South
-        country: UK
+        country: United Kingdom
 
       - name: Harry Goodhew
         score: 45
         team: UK North
-        country: UK
+        country: United Kingdom
 
       - name: Uroš Prešern
         score: 45
@@ -2555,7 +2555,7 @@
       - name: Daniel Pitt
         score: 43
         team: UK South
-        country: UK
+        country: United Kingdom
 
       - name: Lovisa Helmius
         score: 43
@@ -2580,7 +2580,7 @@
       - name: Theo Tindall
         score: 42
         team: UK South
-        country: UK
+        country: United Kingdom
 
       - name: Bartosz Wojtalewicz
         score: 42
@@ -2659,7 +2659,7 @@
       - place: 1
         average: 65.25
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -2676,7 +2676,7 @@
   team:
       gold:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: N/A
 
       silver:
@@ -2702,7 +2702,7 @@
       - name: Darryl Wu
         score: 81
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Daniel Lovsted
         score: 73
@@ -2712,7 +2712,7 @@
       - name: Elysia Jane Warner
         score: 65
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Danila Shumskiy
         score: 64
@@ -2733,7 +2733,7 @@
       - name: Catherine Wu
         score: 62
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Ada Melentyeva
         score: 62
@@ -2748,7 +2748,7 @@
       - name: Alexander Babiak
         score: 59
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Yan Huang
         score: 59
@@ -2793,7 +2793,7 @@
       - name: Deven Lahoti
         score: 54
         team: USA Red
-        country: USA
+        country: United States of America
 
       bronze:
       - name: Anindya Sharma
@@ -2844,12 +2844,12 @@
       - name: Kevin Li
         score: 47
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: James Bloxham
         score: 46
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Gleb Nikolaev
         score: 46
@@ -2925,7 +2925,7 @@
       - name: Brandon Epstein
         score: 37
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Ilia Makarchuk
         score: 37
@@ -2955,7 +2955,7 @@
       - name: Jacqueline Bredenberg
         score: 36
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Vikram Sondergaard
         score: 36
@@ -2965,7 +2965,7 @@
       - name: Alastair James Carr
         score: 36
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Poh Ying Ming
         score: 35
@@ -3061,7 +3061,7 @@
 
       - name: Darryl Wu
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 2
 
       - name: Miłosz Mazurkiewicz-Dubieński
@@ -3081,7 +3081,7 @@
 
       - name: Catherine Wu
         team: USA Blue
-        country: USA
+        country: United States of America
         problem: 4
 
       - name: Tianlu Chen
@@ -3094,7 +3094,7 @@
       - place: 1
         average: 57.5
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -3116,12 +3116,12 @@
       - place: 3
         average: 48
         team: USA Blue
-        country: USA
+        country: United States of America
 
   team:
       gold:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 29
 
       silver:
@@ -3142,17 +3142,17 @@
       - name: James Wedgwood
         score: 89
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Samuel Ahmed
         score: 81
         team: UK East
-        country: UK
+        country: United Kingdom
 
       - name: James Bloxham
         score: 79
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Danail Penev
         score: 77
@@ -3162,12 +3162,12 @@
       - name: Kevin Yang
         score: 69
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Liam McKnight
         score: 64
         team: UK West
-        country: UK
+        country: United Kingdom
 
       - name: Ada Melentyeva
         score: 62
@@ -3178,7 +3178,7 @@
       - name: Kevin M Li
         score: 60
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Poh Ying Ming
         score: 59
@@ -3188,7 +3188,7 @@
       - name: Conor Stuart-Roe
         score: 58
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Valentin Dimov
         score: 55
@@ -3213,7 +3213,7 @@
       - name: Julian Gau
         score: 51
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Dan Mircea Mirea
         score: 50
@@ -3233,7 +3233,7 @@
       - name: Anthony Bracey
         score: 48
         team: UK West
-        country: UK
+        country: United Kingdom
 
       - name: Ivan Oleksiyuk
         score: 48
@@ -3279,7 +3279,7 @@
       - name: Nilai Sarda
         score: 46
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Anastasiia Alokhina
         score: 45
@@ -3294,7 +3294,7 @@
       - name: Naomi Solomons
         score: 43
         team: UK East
-        country: UK
+        country: United Kingdom
 
       - name: Anna Tatarenko
         score: 42
@@ -3395,7 +3395,7 @@
       - name: Kevin Q Li
         score: 38
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Anton Piankov
         score: 38
@@ -3425,7 +3425,7 @@
       - name: Harry Taylor
         score: 35
         team: UK West
-        country: UK
+        country: United Kingdom
 
       - name: Sesh Raghav Sadasivam
         score: 35
@@ -3475,7 +3475,7 @@
       - name: Isobel Voysey
         score: 32
         team: UK East
-        country: UK
+        country: United Kingdom
 
       - name: Abhishek Mohan Dedhe
         score: 32
@@ -3500,7 +3500,7 @@
       - name: Stephanie Wong
         score: 30
         team: UK West
-        country: UK
+        country: United Kingdom
 
       - name: Tomáš Cieslar
         score: 30
@@ -3546,7 +3546,7 @@
 
       - name: James Bloxham
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 3
 
       - name: Dan Mircea Mirea
@@ -3561,7 +3561,7 @@
 
       - name: James Wedgwood
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 5
 
   average:
@@ -3569,7 +3569,7 @@
       - place: 1
         average: 73.75
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -3581,17 +3581,17 @@
       - place: 3
         average: 48.75
         team: USA Blue
-        country: USA
+        country: United States of America
 
   team:
       gold:
       - team: UK West
-        country: UK
+        country: United Kingdom
         score: N/A
 
       silver:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: N/A
 
       bronze:
@@ -3616,12 +3616,12 @@
       - name: James Wedgwood
         score: 90
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Liam McKnight
         score: 84
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Max Zhang
         score: 71
@@ -3651,7 +3651,7 @@
       - name: Samuel Ahmed
         score: 66
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Polina Nasledskova
         score: 66
@@ -3662,7 +3662,7 @@
       - name: Margarita Misirpashayeva
         score: 64
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Ioana Bouroș
         score: 64
@@ -3672,7 +3672,7 @@
       - name: Shuheng Niu
         score: 61
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Joonas Jürgen Kisel
         score: 60
@@ -3697,7 +3697,7 @@
       - name: Erik Metz
         score: 58
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Luo Yiming
         score: 58
@@ -3768,7 +3768,7 @@
       - name: Wyatt R. Reeves
         score: 49
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Bruno Kenzo Ozaki
         score: 49
@@ -3848,7 +3848,7 @@
       - name: Siye Zhu
         score: 42
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Mariia Stepaniuk
         score: 42
@@ -3863,7 +3863,7 @@
       - name: Isobel Alice Voysey
         score: 41
         team: UK
-        country: UK
+        country: United Kingdom
 
       - name: Roman Skurikhin
         score: 41
@@ -3894,7 +3894,7 @@
       - name: Laurestine Irene Bradford
         score: 38
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Yuto Yagi
         score: 38
@@ -3909,7 +3909,7 @@
       - name: Jack LaFleur
         score: 37
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Minh-Tam Nguyen
         score: 37
@@ -4005,7 +4005,7 @@
 
       - name: Liam McKnight
         team: UK
-        country: UK
+        country: United Kingdom
         problem: 1
 
       - name: Bai Ruiheng
@@ -4043,7 +4043,7 @@
       - place: 1
         average: 61.75
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -4070,16 +4070,16 @@
 
       bronze:
       - team: UK
-        country: UK
+        country: United Kingdom
         score: 49
 
       honorable_mention:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 47.5
 
       - team: USA Blue
-        country: USA
+        country: United States of America
         score: 45
 
       - team: Russia Belka
@@ -4109,7 +4109,7 @@
       - name: Samuel Ahmed
         score: 92.1
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Przemysław Podleśny
         score: 88.4
@@ -4119,7 +4119,7 @@
       - name: Liam McKnight
         score: 86.2
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Ruei Hung Alex Lee
         score: 80.9
@@ -4134,12 +4134,12 @@
       - name: Simeon Hellsten
         score: 78.7
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Brian Xiao
         score: 78.2
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Elena Keskinova
         score: 78
@@ -4160,7 +4160,7 @@
       - name: Andrew Tockman
         score: 70.15
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Takumi Yoshino
         score: 68.9
@@ -4175,7 +4175,7 @@
       - name: Harry Taylor
         score: 68.3
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Jan Petr
         score: 68.3
@@ -4205,17 +4205,17 @@
       - name: Joseph Feffer
         score: 63
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Ben Morris
         score: 63
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Ziyan Lei
         score: 62.3
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Chih-Lun Julian Liu
         score: 60.6
@@ -4286,7 +4286,7 @@
       - name: Siye Zhu
         score: 53.8
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Emilian Toma
         score: 53.75
@@ -4295,13 +4295,13 @@
 
       - name: Can Yeşildere
         score: 53.5
-        team: Turkey
-        country: Turkey
+        team: Türkiye
+        country: Türkiye
 
       - name: Sonia Reilly
         score: 53.2
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Alicja Maksymiuk
         score: 53
@@ -4548,7 +4548,7 @@
 
       - name: Brian Xiao
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 3
 
       - name: Joonas Jürgen Kisel
@@ -4571,7 +4571,7 @@
       - place: 1
         average: 67.73
         team: UK K
-        country: UK
+        country: United Kingdom
 
       silver:
       bronze:
@@ -4604,12 +4604,12 @@
       - name: Liam McKnight
         score: 87.9
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Swapnil Garg
         score: 85.6
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Viktor Baltin
         score: 84.8
@@ -4624,7 +4624,7 @@
       - name: Benjamin LaFond
         score: 81.4
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Diego Król
         score: 80
@@ -4639,7 +4639,7 @@
       - name: Pranav Krishna
         score: 78.9
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Alicja Maksymiuk
         score: 78
@@ -4649,7 +4649,7 @@
       - name: Benedict Randall Shaw
         score: 77.7
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Angikar Ghosal
         score: 76
@@ -4659,7 +4659,7 @@
       - name: Andrew Tockman
         score: 75.5
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - name: Jakub Petr
@@ -4680,12 +4680,12 @@
       - name: Mihir Singhal
         score: 64.1
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Simeon Hellsten
         score: 63.8
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Yeoh Zi Song
         score: 63.8
@@ -4720,7 +4720,7 @@
       - name: Ethan A. Chi
         score: 61
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Aparna Ajit Gupte
         score: 58.6
@@ -4735,7 +4735,7 @@
       - name: Russell Emerine
         score: 56.6
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: You-Kuan Lin
         score: 55.4
@@ -4766,7 +4766,7 @@
       - name: Brian Xiao
         score: 51
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Ken Jiang
         score: 50.5
@@ -4781,12 +4781,12 @@
       - name: Edmund Lea
         score: 50.4
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Hari Raghava Prasad
         score: 50.15
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: James Phillips
         score: 50
@@ -4816,7 +4816,7 @@
       - name: Sean White
         score: 48
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Vári-Kakas Andor
         score: 47.65
@@ -4998,7 +4998,7 @@
       best_solution:
       - name: Andrew Tockman
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 1
 
       - name: Elena Keskinova
@@ -5028,7 +5028,7 @@
 
       - name: Sean White
         team: UK U
-        country: UK
+        country: United Kingdom
         problem: 3
 
       - name: Rujul Gandhi
@@ -5048,7 +5048,7 @@
 
       - name: Swapnil Garg
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 5
 
   average:
@@ -5056,7 +5056,7 @@
       - place: 1
         average: 70.25
         team: USA Blue
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -5068,17 +5068,17 @@
       - place: 3
         average: 69.89
         team: UK K
-        country: UK
+        country: United Kingdom
 
   team:
       gold:
       - team: USA Blue
-        country: USA
+        country: United States of America
         score: 84.83
 
       silver:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 75.34
 
       - team: Bulgaria 1
@@ -5091,7 +5091,7 @@
         score: 64.64
 
       - team: UK U
-        country: UK
+        country: United Kingdom
         score: 60.01
 
       - team: Czechia Tým Křivopřísežníků
@@ -5111,7 +5111,7 @@
       - name: Wesley Zhang
         score: 95.6
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Takumi Yoshino
         score: 93.1
@@ -5136,22 +5136,22 @@
       - name: Sam Corner
         score: 78.9
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Simeon Hellsten
         score: 78.3
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Benedict Randall Shaw
         score: 76.4
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Andrew Tockman
         score: 76.1
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - name: Diego Król
@@ -5167,7 +5167,7 @@
       - name: Ziyan Lei
         score: 73.1
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Tianqi Jiang
         score: 72.4
@@ -5197,12 +5197,12 @@
       - name: Skyelar Raiti
         score: 67.1
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Russell Emerine
         score: 66.15
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Gustavo Palote da Silva Martins
         score: 65.1
@@ -5217,7 +5217,7 @@
       - name: Harrison Moore
         score: 64.3
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Tsvetelina Stefanova
         score: 64
@@ -5237,12 +5237,12 @@
       - name: Jeremy Zhou
         score: 62.2
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Pranav Krishna
         score: 62.2
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Jinru Bai
         score: 61.15
@@ -5257,7 +5257,7 @@
       - name: Daniel Turaev
         score: 60.25
         team: UK K
-        country: UK
+        country: United Kingdom
 
       bronze:
       - name: Tatiana Romanova
@@ -5358,7 +5358,7 @@
       - name: Kilian Meissner
         score: 50.7
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Blaskovics Ákos 
         score: 50.45
@@ -5378,7 +5378,7 @@
       - name: Alex Walker
         score: 48.7
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Kristina Vashpanova
         score: 47.85
@@ -5459,7 +5459,7 @@
       - name: Katherine He
         score: 41.75
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Ana Meta Dolinar
         score: 41.5
@@ -5595,7 +5595,7 @@
 
       - name: Wesley Zhang
         team: USA Red
-        country: USA
+        country: United States of America
         problem: 5
 
   average:
@@ -5603,7 +5603,7 @@
       - place: 1
         average: 77.74
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -5675,7 +5675,7 @@
       - name: Jonathan Huang
         score: 64.6
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Ritam Nag
         score: 63.1
@@ -5847,7 +5847,7 @@
       - name: Jeremy Zhou
         score: 45.5
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Vedant Singh
         score: 45.4
@@ -5862,7 +5862,7 @@
       - name: Riley Kong
         score: 44.9
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Ng Truman Toby
         score: 44.6
@@ -5902,7 +5902,7 @@
       - name: Toby Collins
         score: 42.3
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Yi-Ning Chang
         score: 42
@@ -5917,7 +5917,7 @@
       - name: Jonathan Song
         score: 41.5
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Louis Cho
         score: 41.5
@@ -5947,7 +5947,7 @@
       - name: Benjamin Myer Neithardt
         score: 39.7
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Kent Do
         score: 39.4
@@ -5988,7 +5988,7 @@
       - name: Harrison William Moore
         score: 37.4
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Maksims Libensons
         score: 37.4
@@ -5998,7 +5998,7 @@
       - name: Evelyn Sun
         score: 37.2
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Natalia Timulakova
         score: 37.2
@@ -6028,7 +6028,7 @@
       - name: Aanya Goyal
         score: 35.5
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Oleksandr Hoviadin
         score: 35.2
@@ -6053,12 +6053,12 @@
       - name: Alexander James Robson
         score: 34.5
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Adithya Ram Kalyanam
         score: 34.3
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Jinwoo Jeong
         score: 34.2
@@ -6128,7 +6128,7 @@
       - name: Toby Weston
         score: 31.8
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Yann Choi
         score: 31.7
@@ -6204,7 +6204,7 @@
 
       - name: Alexander James Robson
         team: UK U
-        country: UK
+        country: United Kingdom
         problem: 4
 
       - name: Artem Hrechka
@@ -6259,7 +6259,7 @@
 
       silver:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 55.8
 
       bronze:
@@ -6273,7 +6273,7 @@
 
       honorable_mention:
       - team: USA Blue
-        country: USA
+        country: United States of America
         score: 45.5
 
       - team: Czechia
@@ -6281,7 +6281,7 @@
         score: 44.9
 
       - team: UK U
-        country: UK
+        country: United Kingdom
         score: 43.8
 
       - team: Russia Belka
@@ -6309,12 +6309,12 @@
       - name: Alison Craig-Greene
         score: 68.1
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Luke Robitaille
         score: 64
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Aleksandar Dimitrov
         score: 63.8
@@ -6360,22 +6360,22 @@
       - name: Riley Kong
         score: 56.8
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Rishab Parthasarathy
         score: 55.6
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: William Thomson
         score: 55.6
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Benjamin Mcavoy-Bickford
         score: 55.2
         team: USA Red
-        country: USA
+        country: United States of America
 
       - name: Wojciech Szot 
         score: 54.5
@@ -6405,7 +6405,7 @@
       - name: George Zhou
         score: 49.9
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Yi-Ning Chang
         score: 49.8
@@ -6430,7 +6430,7 @@
       - name: Toby Collins
         score: 48.2
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Siddhant Attavar
         score: 48
@@ -6445,7 +6445,7 @@
       - name: Stratos Voudouris
         score: 47.8
         team: UK K
-        country: UK
+        country: United Kingdom
 
       - name: Matouš Šafránek
         score: 47.8
@@ -6622,7 +6622,7 @@
       - name: Brendan Bethlehem
         score: 38.3
         team: UK U
-        country: UK
+        country: United Kingdom
 
       - name: Eunsu Choi
         score: 38.3
@@ -6737,7 +6737,7 @@
       - name: Emmy Bonser
         score: 33.7
         team: USA Blue
-        country: USA
+        country: United States of America
 
       - name: Margetta Pajuste
         score: 33.6
@@ -6773,7 +6773,7 @@
 
       - name: William Thomson
         team: UK K
-        country: UK
+        country: United Kingdom
         problem: 3
 
       - name: Alexandra Jelihovschi
@@ -6811,7 +6811,7 @@
       - place: 1
         average: 57.90
         team: USA Red
-        country: USA
+        country: United States of America
 
       silver:
       - place: 2
@@ -6842,7 +6842,7 @@
 
       bronze:
       - team: USA Red
-        country: USA
+        country: United States of America
         score: 61.9
 
       - team: Japan Ninja
@@ -6850,7 +6850,7 @@
         score: 61.9
 
       - team: UK K
-        country: UK
+        country: United Kingdom
         score: 60.6
 
       honorable_mention:
@@ -6877,5 +6877,556 @@
       - team: Bulgaria 1
         country: Bulgaria
         score: 52.5
+
+
+- year: 2023
+  individual:
+      gold:
+      - name: Tam Lok Hang
+        score: 96.5
+        team: Hong Kong
+        country: Hong Kong
+
+      - name: Ryusei Omiya
+        score: 93.5
+        team: Japan Samurai
+        country: Japan
+
+      - name: Wonhyun Soh
+        score: 93
+        team: Korea Soym
+        country: Republic of Korea
+
+      - name: Vlad-Ștefan Oros
+        score: 91
+        team: Romania 1
+        country: Romania
+
+      - name: Daria Kryvosheieva
+        score: 90.5
+        team: Ukraine
+        country: Ukraine
+
+      - name: William Keith Thomson
+        score: 89.5
+        team: United Kingdom
+        country: United Kingdom
+
+      - name: Artem Boyko
+        score: 88
+        team: Belka
+        country: Belka
+
+      - name: Kunaal Chandrashekar
+        score: 83.5
+        team: Canada Anglophone
+        country: Canada Anglophone
+
+      - name: Konstantin Georgiev
+        score: 82
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Leonardo Torres
+        score: 82
+        team: Brazil Bem-te-vi
+        country: Brazil
+
+      - name: Leonardo Paillo
+        score: 80.5
+        team: Brazil Bem-te-vi
+        country: Brazil
+
+      - name: Eleonora Stepanova
+        score: 80.5
+        team: Belka
+        country: Belka
+
+      silver:
+      - name: Elena Păvăloaia
+        score: 77.5
+        team: Romania 2
+        country: Romania
+
+      - name: Panawat Tiacharoen
+        score: 76.5
+        team: Thailand
+        country: Thailand
+
+      - name: Mihai-Alexandru Bratu
+        score: 76
+        team: Romania 1
+        country: Romania
+
+      - name: Viktoriia Zubkova
+        score: 76
+        team: Belka
+        country: Belka
+
+      - name: Jordan Chi
+        score: 75
+        team: Australia Scotch
+        country: Australia
+
+      - name: Samantha Kao
+        score: 74
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Zhang Yixuan
+        score: 73.5
+        team: Hong Kong
+        country: Hong Kong
+
+      - name: He Jianxing
+        score: 72
+        team: China Qian
+        country: China
+
+      - name: Rei Kano
+        score: 71.5
+        team: Japan Samurai
+        country: Japan
+
+      - name: Wong Tok Shing Henry
+        score: 70.5
+        team: Hong Kong
+        country: Hong Kong
+
+      - name: Wojciech Szot
+        score: 69.5
+        team: Poland Ę
+        country: Poland
+
+      - name: Daniel Titmas
+        score: 69
+        team: United Kingdom
+        country: United Kingdom
+
+      - name: Alison Craig-Greene
+        score: 68
+        team: United Kingdom
+        country: United Kingdom
+
+      - name: Matei Chirila
+        score: 67
+        team: Romania 1
+        country: Romania
+
+      - name: Nestors Starostins
+        score: 67
+        team: Latvia
+        country: Latvia
+
+      - name: Sukrith Velmineti
+        score: 65.5
+        team: Canada Anglophone
+        country: Canada Anglophone
+
+      - name: Teodor Malchev
+        score: 65.5
+        team: Bulgaria 1
+        country: Bulgaria
+
+      - name: Deeraj Pothapragada
+        score: 63
+        team: USA Red
+        country: United States of America
+
+      - name: Eric Wu
+        score: 62.5
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Bartłomiej Rozenberg
+        score: 62.5
+        team: Poland Ę
+        country: Poland
+
+      - name: Gyuhwa Lee
+        score: 62.5
+        team: Korea Namk
+        country: Republic of Korea
+
+      - name: Faraz Ahmed Siddiqui
+        score: 62.5
+        team: India 1
+        country: India
+
+      - name: Benjamin Móricz
+        score: 62.5
+        team: Hungary Uborka
+        country: Hungary
+
+      - name: Rami Hennawi
+        score: 62.5
+        team: Bulgaria 2
+        country: Bulgaria
+
+      bronze:
+      - name: Luke Borrel
+        score: 62
+        team: United Kingdom
+        country: United Kingdom
+
+      - name: Chung Chi-En
+        score: 62
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Teresa Lage
+        score: 62
+        team: Brazil Quero-quero
+        country: Brazil
+
+      - name: Arul Kolla
+        score: 61.5
+        team: USA Red
+        country: United States of America
+
+      - name: Jonasz Kościkiewicz
+        score: 61.5
+        team: Poland Ę
+        country: Poland
+
+      - name: Zori Schmidt
+        score: 61
+        team: USA Blue
+        country: United States of America
+
+      - name: Merlin Jonathan Fischer
+        score: 60.5
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Everton Albuquerque De Oliveira
+        score: 60.5
+        team: Brazil Bem-te-vi
+        country: Brazil
+
+      - name: Alexander Shlykov
+        score: 60.5
+        team: Belka
+        country: Belka
+
+      - name: Jiang Yiling
+        score: 60
+        team: China Qian
+        country: China
+
+      - name: Perry Dai
+        score: 60
+        team: Canada Anglophone
+        country: Canada Anglophone
+
+      - name: Benjamin Yang
+        score: 59
+        team: USA Blue
+        country: United States of America
+
+      - name: Luiz Satoshi Yunomae Oikawa
+        score: 59
+        team: Brazil Quero-quero
+        country: Brazil
+
+      - name: Darren Su
+        score: 58.5
+        team: USA Red
+        country: United States of America
+
+      - name: Chen Nuo
+        score: 58.5
+        team: China Qian
+        country: China
+
+      - name: Brest Lenarčič
+        score: 58
+        team: Slovenia
+        country: Slovenia
+
+      - name: Mihaela Anghel
+        score: 57.5
+        team: Romania 2
+        country: Romania
+
+      - name: Hiroto Yasui
+        score: 57.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Gangrae Kim
+        score: 57
+        team: Korea Soym
+        country: Republic of Korea
+
+      - name: Li Jiying
+        score: 57
+        team: China Kun
+        country: China
+
+      - name: Wang Po-Hsiang
+        score: 56.5
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Valeriia Pishchymukha
+        score: 56
+        team: Romania 2
+        country: Romania
+
+      - name: Rando Lukk
+        score: 55.5
+        team: Estonia
+        country: Estonia
+
+      - name: João Pedro Alves Ferreira
+        score: 55
+        team: Brazil Quero-quero
+        country: Brazil
+
+      - name: Mikhail Iomdin
+        score: 54.5
+        team: Israel
+        country: Israel
+
+      - name: Nikolay Georgiev
+        score: 54.5
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Carl Fredrik Constantin Lidberg Dimos
+        score: 54
+        team: Sweden knug
+        country: Sweden
+
+      - name: Satoshi Tsukada
+        score: 53.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Huang Yen-Hsi
+        score: 52
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Matěj Čapka
+        score: 52
+        team: Czechia
+        country: Czechia
+
+      - name: Manoela Ferraz
+        score: 52
+        team: Brazil Bem-te-vi
+        country: Brazil
+
+      - name: Bognár András Károly
+        score: 51
+        team: Hungary Teniszütő
+        country: Hungary
+
+      honorable_mention:
+      - name: Hou Jen-Chien
+        score: 50.5
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Alicja Urbanowicz
+        score: 50.5
+        team: Poland Ą
+        country: Poland
+
+      - name: Elena-Tamara Ivanof
+        score: 50
+        team: Romania 2
+        country: Romania
+
+      - name: Tokai Miyaji
+        score: 50
+        team: Japan Samurai
+        country: Japan
+
+      - name: Andrei-Cristian Nedelea-Bolboacă
+        score: 49.5
+        team: Romania 1
+        country: Romania
+
+      - name: Michał Napieralski
+        score: 49
+        team: Poland Ą
+        country: Poland
+
+      - name: Zhengmo Ma
+        score: 48.5
+        team: China Kun
+        country: China
+
+      - name: Victoria Li
+        score: 48.5
+        team: Canada Anglophone
+        country: Canada Anglophone
+
+      - name: Jingyuan Li
+        score: 48
+        team: USA Blue
+        country: United States of America
+
+      - name: Wojciech Raszczuk
+        score: 47.5
+        team: Poland Ą
+        country: Poland
+
+      - name: Yuzuki Sugiura
+        score: 47.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Paddy Clancy
+        score: 47.5
+        team: Ireland
+        country: Ireland
+
+      - name: Sofia Lundgren
+        score: 47
+        team: Switzerland Rüeblichueche
+        country: Switzerland
+
+      - name: Anshul Krishnadas Bhagwat
+        score: 47
+        team: India 1
+        country: India
+
+      - name: Marvin Kessler
+        score: 46.5
+        team: Switzerland Röstigrabe
+        country: Switzerland
+
+      - name: Ho Janson
+        score: 46.5
+        team: Malaysia
+        country: Malaysia
+
+      - name: Geonwoo Yoon
+        score: 46.5
+        team: Korea Namk
+        country: Republic of Korea
+
+      - name: Carolina Bastos
+        score: 46
+        team: Brazil Quero-quero
+        country: Brazil
+
+      - name: Lim Ming Wen
+        score: 45
+        team: Malaysia
+        country: Malaysia
+
+      - name: Saumya Goyal
+        score: 45
+        team: India 2
+        country: India
+
+      - name: Eppu Leinonen
+        score: 45
+        team: Finland
+        country: Finland
+
+      - name: Nia Dimitrova
+        score: 45
+        team: Bulgaria 2
+        country: Bulgaria
+
+      - name: Ujaan Rakshit
+        score: 44.5
+        team: India 2
+        country: India
+
+      - name: Konrad Jannes Köhler
+        score: 44
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Zian Shang
+        score: 44
+        team: Australia Scotch
+        country: Australia
+
+      - name: Kittapas Kitsanadecha
+        score: 43.5
+        team: Thailand
+        country: Thailand
+
+      - name: Ruka Seishi
+        score: 43.5
+        team: Japan Ninja
+        country: Japan
+
+      - name: Tong Su
+        score: 43.5
+        team: China Qian
+        country: China
+
+      - name: Minea Tiitinen
+        score: 42.5
+        team: Finland
+        country: Finland
+
+
+      best_solution:
+  average:
+      gold:
+      silver:
+      bronze:
+  team:
+      gold:
+      - team: United Kingdom
+        country: United Kingdom
+        score: 256
+
+      silver:
+      - team: USA Red
+        country: United States of America
+        score: 238
+
+      - team: Canada Anglophone
+        country: Canada Anglophone
+        score: 223
+
+      bronze:
+      - team: Finland
+        country: Finland
+        score: 220
+
+      - team: Hungary Uborka
+        country: Hungary
+        score: 218
+
+      - team: Poland Ę
+        country: Poland
+        score: 217
+
+      honorable_mention:
+      - team: Brazil Quero-quero
+        country: Brazil
+        score: 214
+
+      - team: Hong Kong
+        country: Hong Kong
+        score: 212
+
+      - team: Thailand
+        country: Thailand
+        score: 209.5
+
+      - team: China Qian
+        country: China
+        score: 207
+
+      - team: Slovenia
+        country: Slovenia
+        score: 202
+
+      - team: Korea Namk
+        country: Republic of Korea
+        score: 201
 
 

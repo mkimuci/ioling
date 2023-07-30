@@ -3,15 +3,13 @@ permalink: /previous_languages/
 layout: page
 header:
   image_fullwidth: head.png
-title: "IOL19 working languages"
+title: "IOL 2023 working languages"
 category: 
 sitemap: false
 ---
 
-The list of the working languages of the 19th IOL (IOL 2022 Castletown) is as follows:
+The list of the working languages of the 20th IOL (IOL 2023 Bansko) is as follows:
 
-* Azerbaijani
-* Bengali
 * Bulgarian
 * Chinese (simplified)
 * Chinese (traditional)
@@ -33,4 +31,6 @@ The list of the working languages of the 19th IOL (IOL 2022 Castletown) is as fo
 * Slovenian
 * Spanish
 * Swedish
+* Thai
+* Turkish
 * Ukrainian

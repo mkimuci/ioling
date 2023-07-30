@@ -29,8 +29,8 @@
   active: TRUE
   accredit: FALSE
   footnote: 
-  poc: 
-  email: 
+  poc: Nargiz Mahmudzada
+  email: nargizmahmudzada@gmail.com
   poc2: 
   email2: 
 
@@ -844,8 +844,8 @@
   poc2: 
   email2: 
 
-- iol_name: Turkey
-  official_name: Turkey
+- iol_name: Türkiye
+  official_name: Türkiye
   iso_2: TR
   iso_3: TUR
   iol_code: TUR
@@ -853,7 +853,7 @@
   selection_en: Turkish National Linguistics Olympiad
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
-  link: https://linguisticturkey.com
+  link: https://linguisticTürkiye.com
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -861,24 +861,6 @@
   email: soydemirs@mefis.k12.tr
   poc2: 
   email2: 
-
-- iol_name: UK
-  official_name: United Kingdom
-  iso_2: GB
-  iso_3: GBR
-  iol_code: GBR
-  flag: gb.png
-  selection_en: UK Linguistics Olympiad
-  selection_local: 
-  abbreviation: UKLO
-  link: http://www.uklo.org
-  active: TRUE
-  accredit: TRUE
-  footnote: 
-  poc: Neil Sheldon
-  email: neilsheldon@gmail.com
-  poc2: Graeme Trousdale
-  email2: graeme.trousdale@ed.ac.uk
 
 - iol_name: Ukraine
   official_name: Ukraine
@@ -916,7 +898,25 @@
   poc2: 
   email2: 
 
-- iol_name: USA
+- iol_name: United Kingdom
+  official_name: United Kingdom
+  iso_2: GB
+  iso_3: GBR
+  iol_code: GBR
+  flag: gb.png
+  selection_en: UK Linguistics Olympiad
+  selection_local: 
+  abbreviation: UKLO
+  link: http://www.uklo.org
+  active: TRUE
+  accredit: TRUE
+  footnote: 
+  poc: Neil Sheldon
+  email: neilsheldon@gmail.com
+  poc2: Graeme Trousdale
+  email2: graeme.trousdale@ed.ac.uk
+
+- iol_name: United States of America
   official_name: United States of America
   iso_2: US
   iso_3: USA
@@ -929,10 +929,10 @@
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: Dragomir Radev
-  email: dragomir.radev@yale.edu
-  poc2: 
-  email2: 
+  poc: Lori Levin
+  email: levin@andrew.cmu.edu
+  poc2: Aleka Blackwell
+  email2: alekablackwell@gmail.com
 
 - iol_name: Uzbekistan
   official_name: Uzbekistan

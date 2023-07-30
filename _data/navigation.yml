@@ -30,6 +30,8 @@
   #   url: "/results/by-participant/"
   - title: "Hall of Fame"
     url: "/results/hall_of_fame/"
+  - title: "Best Solutions"
+    url: "/results/best_solutions/"
 
 - title: Problems
   url: "/problems/"
@@ -50,6 +52,8 @@
     url: "/faq/"
   - title: "History"
     url: "/history/"
+  - title: "A Tale of Two Trophies"
+    url: "/trophies/"
   - title: "Regulations"
     url: "/regulations/"
   - title: "Sponsorship"

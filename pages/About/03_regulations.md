@@ -33,9 +33,34 @@ and whereas international science olympiads are now organised in many fields and
 
 ## IOL Rules and Guidelines for Contestants
 
-IOL Rules and Guidelines for Contestants are provided in 21 language versions. 
+Last Updated 5 Apr 2023.
 
-<button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Download</button><br>
+<button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Select Language</button><br>
 <ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
-  <li><a href="/rules/IOL_Rules.pdf">Multilanguage</a></li>
+  <li><a href="/rules/IOL_Rules.pdf">MULTILANGUAGE (PDF)</a></li>  
+  <li><a href="/guidelines/az/">Azərbaycanca</a></li>
+  <li><a href="/guidelines/bg/">Български</a></li>
+  <li><a href="/guidelines/cs/">Čeština</a></li>
+  <li><a href="/guidelines/da/">Dansk</a></li>
+  <li><a href="/guidelines/de/">Deutsch</a></li>
+  <li><a href="/guidelines/en/">English</a></li>
+  <li><a href="/guidelines/es/">Español</a></li>
+  <li><a href="/guidelines/et/">Eesti</a></li>
+  <li><a href="/guidelines/fr/">Français</a></li>
+  <li><a href="/guidelines/ko/">한국어</a></li>
+  <li><a href="/guidelines/lv/">Latviešu</a></li>
+  <li><a href="/guidelines/hu/">Magyar</a></li>
+  <li><a href="/guidelines/nl/">Nederlands</a></li>
+  <li><a href="/guidelines/ja/">日本語</a></li>
+  <li><a href="/guidelines/pl/">Polski</a></li>
+  <li><a href="/guidelines/pt/">Português</a></li>
+  <li><a href="/guidelines/ro/">Română</a></li>
+  <li><a href="/guidelines/ru/">Русский</a></li>
+  <li><a href="/guidelines/sl/">Slovenščina</a></li>
+  <li><a href="/guidelines/fi/">Suomi</a></li>
+  <li><a href="/guidelines/sv/">Svenska</a></li>
+  <li><a href="/guidelines/tr/">Türkçe</a></li>
+  <li><a href="/guidelines/uk/">Українська</a></li>
+  <li><a href="/guidelines/zh/">中文 (大陆简体)</a></li>
+  <li><a href="/guidelines/zt/">中文 (臺灣正體)</a></li>
 </ul>

@@ -88,3 +88,51 @@
   team: Japan Samurai
   filename: iol-2021-i-5-best-Ogawa.ja.pdf
   language: Japanese
+- problem: iol-2022-i-1
+  name: Vlad-Ștefan Oros
+  country: Romania
+  team: Romania
+  filename: iol-2022-i-1-best-Oros.ro.pdf
+  language: Romanian
+- problem: iol-2022-i-1
+  name: Anita Dalma Páhán
+  country: Hungary
+  team: Hungary Uborka
+  filename: iol-2022-i-1-best-Pahan.hu.pdf
+  language: Hungarian
+- problem: iol-2022-i-4
+  name: Ian Tam
+  country: Hong Kong
+  team: Hong Kong
+  filename: iol-2022-i-4-best-Tam.en.pdf
+  language: English
+- problem: iol-2022-i-4
+  name: Eunsu Choi
+  country: Australia
+  team: Australia
+  filename: iol-2022-i-4-best-Choi.en.pdf
+  language: English
+- problem: iol-2022-i-4
+  name: Takamichi Hoshii
+  country: Japan
+  team: Japan Samurai
+  filename: iol-2022-i-4-best-Hoshii.ja.pdf
+  language: Japanese
+- problem: iol-2022-i-4
+  name: Alexandra Jelihovschi
+  country: Moldova
+  team: Moldova
+  filename: iol-2022-i-4-best-Jelihovschi.ro.pdf
+  language: Romanian
+- problem: iol-2022-i-5
+  name: Konstantin Georgiev
+  country: Bulgaria
+  team: Bulgaria 2
+  filename: iol-2022-i-5-best-Georgiev.bg.pdf
+  language: Bulgarian
+- problem: iol-2022-i-5
+  name: Henry Wong
+  country: Hong Kong
+  team: Hong Kong
+  filename: iol-2022-i-5-best-Wong.en.pdf
+  language: English
