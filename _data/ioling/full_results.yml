@@ -5839,7 +5839,7 @@
         team: Canada Moose
         country: Canada Anglophone
 
-      - name: Oliver Tennisberg
+      - name: Olivia Tennisberg
         score: 45.7
         team: Estonia 1
         country: Estonia
@@ -7372,6 +7372,56 @@
 
 
       best_solution:
+      - name: Brest Lenarčič
+        team: Slovenia
+        country: Slovenia
+        problem: 1
+
+      - name: Ryusei Omiya
+        team: Japan Samurai
+        country: Japan
+        problem: 1
+
+      - name: Yijie Wang
+        team: Australia Scotch
+        country: Australia
+        problem: 1
+
+      - name: Tam Lok Hang
+        team: Hong Kong
+        country: Hong Kong
+        problem: 2
+
+      - name: Tam Lok Hang
+        team: Hong Kong
+        country: Hong Kong
+        problem: 3
+
+      - name: Michał Napieralski
+        team: Poland Ą
+        country: Poland
+        problem: 4
+
+      - name: Daria Kryvosheieva
+        team: Ukraine
+        country: Ukraine
+        problem: 5
+
+      - name: He Jianxing
+        team: China Qian
+        country: China
+        problem: 5
+
+      - name: Konstantin Georgiev
+        team: Bulgaria 1
+        country: Bulgaria
+        problem: 5
+
+      - name: Tam Lok Hang
+        team: Hong Kong
+        country: Hong Kong
+        problem: 5
+
   average:
       gold:
       silver:

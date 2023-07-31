@@ -265,6 +265,10 @@
         team: Australia 1
         score: 56
   best_solutions:
+      - year: 2023
+        team: Australia Scotch
+        name: Yijie Wang
+        problem: 1
       - year: 2022
         team: Australia 
         name: Eunsu Choi
@@ -275,7 +279,7 @@
         problem: 2
   summary_1: Australia first competed in the IOL in 2009, and has competed in 14 olympiads. They most recently competed in 2023.
   summary_2: They have sent 85 participants in 22 teams.
-  summary_3: In competition, teams from Australia have brought home 9 medals (1 gold, 3 silver and 5 bronze), 1 silver trophy, 2 best-solution prizes and 10 honorable mentions.
+  summary_3: In competition, teams from Australia have brought home 9 medals (1 gold, 3 silver and 5 bronze), 1 silver trophy, 3 best-solution prizes and 10 honorable mentions.
   summary_4: 
 
 - iol_code: AZE
@@ -1531,6 +1535,10 @@
       team: Bulgaria 2
       score: 72.33
   best_solutions:
+      - year: 2023
+        team: Bulgaria 1
+        name: Konstantin Georgiev
+        problem: 5
       - year: 2022
         team: Bulgaria 2
         name: Konstantin Georgiev
@@ -1589,7 +1597,7 @@
         problem: 5
   summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 20 olympiads. They most recently competed in 2023.
   summary_2: They have sent 162 participants in 42 teams.
-  summary_3: In competition, teams from Bulgaria have brought home 83 medals (22 gold, 25 silver and 36 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 14 best-solution prizes, 24 honorable mentions and 4 team contest honorable mentions.
+  summary_3: In competition, teams from Bulgaria have brought home 83 medals (22 gold, 25 silver and 36 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 15 best-solution prizes, 24 honorable mentions and 4 team contest honorable mentions.
   summary_4: In addition, Bulgaria has sent 19 Repeat Medalists and 6 Dream Teams
 
 - iol_code: CAN
@@ -2350,6 +2358,10 @@
       team: China 1
       score: 48
   best_solutions:
+      - year: 2023
+        team: China Qian
+        name: He Jianxing
+        problem: 5
       - year: 2019
         team: China QIAN
         name: Haokun Wu
@@ -2364,7 +2376,7 @@
         problem: 5
   summary_1: China first competed in the IOL in 2012, and has competed in 10 olympiads. They most recently competed in 2023.
   summary_2: They have sent 76 participants in 19 teams.
-  summary_3: In competition, teams from China have brought home 26 medals (1 gold, 10 silver and 15 bronze), 1 silver trophy, 3 best-solution prizes, 20 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from China have brought home 26 medals (1 gold, 10 silver and 15 bronze), 1 silver trophy, 4 best-solution prizes, 20 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, China has sent 1 Repeat Medalist
 
 - iol_code: COL
@@ -2893,7 +2905,7 @@
       teams:
         - team: Estonia 1
           participants:
-            - name: Oliver Tennisberg
+            - name: Olivia Tennisberg
               medal: bronze
             - name: Pärl Pind
             - name: Ingrid Alla
@@ -2971,7 +2983,7 @@
         score: 44.5
       - year: 2021
         team: Estonia 1
-        name: Oliver Tennisberg
+        name: Olivia Tennisberg
         score: 45.7
       - year: 2019
         team: Estonia
@@ -3144,7 +3156,7 @@
   summary_1: Estonia was one of the original six countries to participate in the IOL, and has competed in 20 olympiads. They most recently competed in 2023.
   summary_2: They have sent 91 participants in 23 teams.
   summary_3: In competition, teams from Estonia have brought home 26 medals (1 gold, 7 silver and 18 bronze), 1 first-place team cup, 8 best-solution prizes and 16 honorable mentions.
-  summary_4: In addition, Estonia has sent 3 Repeat Medalists and 1 Dream Team
+  summary_4: In addition, Estonia has sent 4 Repeat Medalists and 1 Dream Team
 
 - iol_code: FIN
   iol_name: Finland
@@ -3596,6 +3608,18 @@
       team: Hong Kong EAT
       score: 52.48
   best_solutions:
+      - year: 2023
+        team: Hong Kong
+        name: Tam Lok Hang
+        problem: 2
+      - year: 2023
+        team: Hong Kong
+        name: Tam Lok Hang
+        problem: 3
+      - year: 2023
+        team: Hong Kong
+        name: Tam Lok Hang
+        problem: 5
       - year: 2022
         team: Hong Kong
         name: Ian Tam
@@ -3606,7 +3630,7 @@
         problem: 5
   summary_1: Hong Kong first competed in the IOL in 2019, and has competed in 4 olympiads. They most recently competed in 2023.
   summary_2: They have sent 20 participants in 5 teams.
-  summary_3: In competition, teams from Hong Kong have brought home 9 medals (2 gold, 5 silver and 2 bronze), 1 first-place team cup, 2 best-solution prizes and 2 team contest honorable mentions.
+  summary_3: In competition, teams from Hong Kong have brought home 9 medals (2 gold, 5 silver and 2 bronze), 1 first-place team cup, 5 best-solution prizes and 2 team contest honorable mentions.
   summary_4: In addition, Hong Kong has sent 1 Repeat Medalist and 1 Dream Team
 
 - iol_code: HUN
@@ -4996,6 +5020,10 @@
       team: Japan Samurai
       score: 47.23
   best_solutions:
+      - year: 2023
+        team: Japan Samurai
+        name: Ryusei Omiya
+        problem: 1
       - year: 2022
         team: Japan Samurai
         name: Takamichi Hoshii
@@ -5014,7 +5042,7 @@
         problem: 5
   summary_1: Japan first competed in the IOL in 2012, and has competed in 11 olympiads. They most recently competed in 2023.
   summary_2: They have sent 76 participants in 20 teams.
-  summary_3: In competition, teams from Japan have brought home 19 medals (6 gold, 4 silver and 9 bronze), 2 trophies (1 silver and 1 bronze), 4 best-solution prizes and 18 honorable mentions.
+  summary_3: In competition, teams from Japan have brought home 19 medals (6 gold, 4 silver and 9 bronze), 2 trophies (1 silver and 1 bronze), 5 best-solution prizes and 18 honorable mentions.
   summary_4: In addition, Japan has sent 2 Repeat Medalists
 
 - iol_code: KAZ
@@ -6908,6 +6936,10 @@
       team: Poland 2
       score: 57
   best_solutions:
+      - year: 2023
+        team: Poland Ą
+        name: Michał Napieralski
+        problem: 4
       - year: 2018
         team: Poland Biali
         name: Przemysław Podleśny
@@ -6962,7 +6994,7 @@
         problem: 2
   summary_1: Poland first competed in the IOL in 2004, and has competed in 19 olympiads. They most recently competed in 2023.
   summary_2: They have sent 145 participants in 37 teams.
-  summary_3: In competition, teams from Poland have brought home 58 medals (10 gold, 27 silver and 21 bronze), 7 trophies (1 silver and 6 bronze), 13 best-solution prizes, 36 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Poland have brought home 58 medals (10 gold, 27 silver and 21 bronze), 7 trophies (1 silver and 6 bronze), 14 best-solution prizes, 36 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Poland has sent 7 Repeat Medalists and 2 Dream Teams
 
 - iol_code: KOR
@@ -9348,6 +9380,10 @@
         team: Slovenia
         score: 202
   best_solutions:
+      - year: 2023
+        team: Slovenia
+        name: Brest Lenarčič
+        problem: 1
       - year: 2017
         team: Slovenia
         name: Ana Meta Dolinar
@@ -9370,7 +9406,7 @@
         problem: 2
   summary_1: Slovenia first competed in the IOL in 2008, and has competed in 15 olympiads. They most recently competed in 2023.
   summary_2: They have sent 74 participants in 20 teams.
-  summary_3: In competition, teams from Slovenia have brought home 14 medals (4 silver and 10 bronze), 2 trophies (1 gold and 1 bronze), 5 best-solution prizes, 12 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Slovenia have brought home 14 medals (4 silver and 10 bronze), 2 trophies (1 gold and 1 bronze), 6 best-solution prizes, 12 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Slovenia has sent 3 Repeat Medalists
 
 - iol_code: ESP
@@ -10503,6 +10539,10 @@
         team: Ukraine
         score: 99
   best_solutions:
+      - year: 2023
+        team: Ukraine
+        name: Daria Kryvosheieva
+        problem: 5
       - year: 2021
         team: Ukraine і
         name: Daria Kryvosheieva
@@ -10517,7 +10557,7 @@
         problem: 3
   summary_1: Ukraine first competed in the IOL in 2014, and has competed in 9 olympiads. They most recently competed in 2023.
   summary_2: They have sent 48 participants in 12 teams.
-  summary_3: In competition, teams from Ukraine have brought home 15 medals (3 gold, 5 silver and 7 bronze), 1 gold trophy, 3 best-solution prizes, 12 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Ukraine have brought home 15 medals (3 gold, 5 silver and 7 bronze), 1 gold trophy, 4 best-solution prizes, 12 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Ukraine has sent 3 Repeat Medalists
 
 - iol_code: ARE

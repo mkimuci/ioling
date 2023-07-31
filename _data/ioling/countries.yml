@@ -403,7 +403,7 @@
   selection_en: Isle of Man regional competition
   selection_local: 
   abbreviation: 
-  link: https://sites.google.com/site/lingomann/home
+  link: https://lingomann.com
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -436,15 +436,15 @@
   iso_3: JPN
   iol_code: JPN
   flag: jp.png
-  selection_en: IOLing Japan
-  selection_local: 国際言語学オリンピック―日本
+  selection_en: JOL
+  selection_local: 日本言語学オリンピック
   abbreviation: 
-  link: http://iolingjapan.org
+  link: https://iolingjapan.org
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: JOL
-  email: jolinguistics@gmail.com
+  poc: Shinjiro Kazama
+  email: kazamas@tufs.ac.jp
   poc2: 
   email2: 
 
@@ -637,7 +637,7 @@
   selection_en: Korea Linguistics Olympiad
   selection_local: 한국언어학올림피아드
   abbreviation: KLO
-  link: http://krlo.kr
+  link: http://krlo.co.kr
   active: TRUE
   accredit: TRUE
   footnote: 

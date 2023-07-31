@@ -2087,6 +2087,16 @@
       family: Xincan
   author:
     - name: Samuel Ahmed
+  best_solutions:
+  - country: Australia
+    team: Australia Scotch
+    name: Yijie Wang
+  - country: Japan
+    team: Japan Samurai
+    name: Ryusei Omiya
+  - country: Slovenia
+    team: Slovenia
+    name: Brest Lenarčič
 
 - year: 2023
   round: Individual
@@ -2099,6 +2109,10 @@
       family: Arawakan
   author:
     - name: Ksenia Gilyarova
+  best_solutions:
+  - country: Hong Kong
+    team: Hong Kong
+    name: Tam Lok Hang
 
 - year: 2023
   round: Individual
@@ -2111,6 +2125,10 @@
       family: Anim
   author:
     - name: David Hultman
+  best_solutions:
+  - country: Hong Kong
+    team: Hong Kong
+    name: Tam Lok Hang
 
 - year: 2023
   round: Individual
@@ -2125,6 +2143,10 @@
     - name: Aleksejs Peguševs
     - name: Aleksejs Peguševs
   solvers_choice: True
+  best_solutions:
+  - country: Poland
+    team: Poland Ą
+    name: Michał Napieralski
 
 - year: 2023
   round: Individual
@@ -2137,6 +2159,19 @@
       family: Atlantic-Congo
   author:
     - name: Aleksejs Peguševs
+  best_solutions:
+  - country: Bulgaria
+    team: Bulgaria 1
+    name: Konstantin Georgiev
+  - country: China
+    team: China Qian
+    name: He Jianxing
+  - country: Hong Kong
+    team: Hong Kong
+    name: Tam Lok Hang
+  - country: Ukraine
+    team: Ukraine
+    name: Daria Kryvosheieva
 
 - year: 2023
   round: Team
@@ -2150,3 +2185,13 @@
   author:
     - name: Boris Iomdin
     - name: Milena Veneva
+  best_solutions:
+  - country: Australia
+    team: Australia Scotch
+    name: Yijie Wang
+  - country: Japan
+    team: Japan Samurai
+    name: Ryusei Omiya
+  - country: Slovenia
+    team: Slovenia
+    name: Brest Lenarčič

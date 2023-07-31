@@ -2181,3 +2181,156 @@
         filename: iol-2022-team-sol.sv.pdf
       - language: 'Ukrainian'
         filename: iol-2022-team-sol.uk.pdf
+
+- year: 2023
+  indiv:
+    prob:
+      - language: 'Azerbaijani'
+        filename: iol-2023-indiv-prob.az.pdf
+      - language: 'Bulgarian'
+        filename: iol-2023-indiv-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2023-indiv-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2023-indiv-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2023-indiv-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2023-indiv-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2023-indiv-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2023-indiv-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2023-indiv-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2023-indiv-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2023-indiv-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2023-indiv-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2023-indiv-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2023-indiv-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2023-indiv-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2023-indiv-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2023-indiv-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2023-indiv-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2023-indiv-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2023-indiv-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2023-indiv-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2023-indiv-prob.sv.pdf
+      - language: 'Thai'
+        filename: iol-2023-indiv-prob.th.pdf
+      - language: 'Turkish'
+        filename: iol-2023-indiv-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2023-indiv-prob.uk.pdf
+    sol:
+      - language: 'Bulgarian'
+        filename: iol-2023-indiv-sol.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2023-indiv-sol.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2023-indiv-sol.zh.pdf
+      - language: 'Czech'
+        filename: iol-2023-indiv-sol.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2023-indiv-sol.nl.pdf
+      - language: 'English'
+        filename: iol-2023-indiv-sol.en.pdf
+      - language: 'Estonian'
+        filename: iol-2023-indiv-sol.et.pdf
+      - language: 'Finnish'
+        filename: iol-2023-indiv-sol.fi.pdf
+      - language: 'French'
+        filename: iol-2023-indiv-sol.fr.pdf
+      - language: 'German'
+        filename: iol-2023-indiv-sol.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2023-indiv-sol.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2023-indiv-sol.ja.pdf
+      - language: 'Korean'
+        filename: iol-2023-indiv-sol.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2023-indiv-sol.lv.pdf
+      - language: 'Polish'
+        filename: iol-2023-indiv-sol.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2023-indiv-sol.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2023-indiv-sol.ro.pdf
+      - language: 'Russian'
+        filename: iol-2023-indiv-sol.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2023-indiv-sol.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2023-indiv-sol.es.pdf
+      - language: 'Swedish'
+        filename: iol-2023-indiv-sol.sv.pdf
+      - language: 'Thai'
+        filename: iol-2023-indiv-sol.th.pdf
+      - language: 'Turkish'
+        filename: iol-2023-indiv-sol.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2023-indiv-sol.uk.pdf
+  team:
+    prob:
+      - language: 'Azerbaijani'
+        filename: iol-2023-team-prob.az.pdf
+      - language: 'Bulgarian'
+        filename: iol-2023-team-prob.bg.pdf
+      - language: 'Chinese (正體)'
+        filename: iol-2023-team-prob.zt.pdf
+      - language: 'Chinese (简体)'
+        filename: iol-2023-team-prob.zh.pdf
+      - language: 'Czech'
+        filename: iol-2023-team-prob.cs.pdf
+      - language: 'Dutch'
+        filename: iol-2023-team-prob.nl.pdf
+      - language: 'English'
+        filename: iol-2023-team-prob.en.pdf
+      - language: 'Estonian'
+        filename: iol-2023-team-prob.et.pdf
+      - language: 'Finnish'
+        filename: iol-2023-team-prob.fi.pdf
+      - language: 'French'
+        filename: iol-2023-team-prob.fr.pdf
+      - language: 'German'
+        filename: iol-2023-team-prob.de.pdf
+      - language: 'Hungarian'
+        filename: iol-2023-team-prob.hu.pdf
+      - language: 'Japanese'
+        filename: iol-2023-team-prob.ja.pdf
+      - language: 'Korean'
+        filename: iol-2023-team-prob.ko.pdf
+      - language: 'Latvian'
+        filename: iol-2023-team-prob.lv.pdf
+      - language: 'Polish'
+        filename: iol-2023-team-prob.pl.pdf
+      - language: 'Portuguese (B)'
+        filename: iol-2023-team-prob.bl.pdf
+      - language: 'Romanian'
+        filename: iol-2023-team-prob.ro.pdf
+      - language: 'Russian'
+        filename: iol-2023-team-prob.ru.pdf
+      - language: 'Slovenian'
+        filename: iol-2023-team-prob.sl.pdf
+      - language: 'Spanish'
+        filename: iol-2023-team-prob.es.pdf
+      - language: 'Swedish'
+        filename: iol-2023-team-prob.sv.pdf
+      - language: 'Turkish'
+        filename: iol-2023-team-prob.tr.pdf
+      - language: 'Ukrainian'
+        filename: iol-2023-team-prob.uk.pdf
