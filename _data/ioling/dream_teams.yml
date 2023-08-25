@@ -363,19 +363,6 @@
     medal: Silver
 
 - year: 2023
-  country: Belka
-  team: Belka
-  results:
-  - name: Viktoriia Zubkova
-    medal: Silver
-  - name: Artem Boyko
-    medal: Gold
-  - name: Alexander Shlykov
-    medal: Bronze
-  - name: Eleonora Stepanova
-    medal: Gold
-
-- year: 2023
   country: Brazil
   team: Brazil Bem-te-vi
   results:

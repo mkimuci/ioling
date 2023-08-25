@@ -443,8 +443,8 @@
   active: TRUE
   accredit: TRUE
   footnote: 
-  poc: Shinjiro Kazama
-  email: kazamas@tufs.ac.jp
+  poc: JOL
+  email: jol@iolingjapan.org
   poc2: 
   email2: 
 
@@ -598,6 +598,24 @@
   iso_3: PAK
   iol_code: PAK
   flag: pk.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: FALSE
+  accredit: FALSE
+  footnote: 
+  poc: 
+  email: 
+  poc2: 
+  email2: 
+
+- iol_name: Philippines
+  official_name: Philippines
+  iso_2: PH
+  iso_3: PHL
+  iol_code: PHL
+  flag: ph.png
   selection_en: 
   selection_local: 
   abbreviation: 
@@ -781,7 +799,7 @@
   selection_en: Lingolympiad
   selection_local: 
   abbreviation: 
-  link: https://sites.google.com/site/lingolympiaden/
+  link: http://www.lingolympiad.org/
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -853,12 +871,12 @@
   selection_en: Turkish National Linguistics Olympiad
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
-  link: https://linguisticTürkiye.com
+  link: https://linguisticturkey.com
   active: TRUE
   accredit: TRUE
   footnote: 
   poc: Sule Soydemir
-  email: soydemirs@mefis.k12.tr
+  email: sulesoydemir@gmail.com
   poc2: 
   email2: 
 

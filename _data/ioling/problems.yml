@@ -2087,6 +2087,7 @@
       family: Xincan
   author:
     - name: Samuel Ahmed
+  slide: iol-2023-i-1-slide.pdf
   best_solutions:
   - country: Australia
     team: Australia Scotch
@@ -2109,6 +2110,8 @@
       family: Arawakan
   author:
     - name: Ksenia Gilyarova
+  slide: iol-2023-i-2-slide.pdf
+  solvers_choice: True
   best_solutions:
   - country: Hong Kong
     team: Hong Kong
@@ -2125,6 +2128,7 @@
       family: Anim
   author:
     - name: David Hultman
+  slide: iol-2023-i-3-slide.pdf
   best_solutions:
   - country: Hong Kong
     team: Hong Kong
@@ -2140,9 +2144,9 @@
     - name: Plains Cree
       family: Algic
   author:
+    - name: Lidija Stanovnik
     - name: Aleksejs Peguševs
-    - name: Aleksejs Peguševs
-  solvers_choice: True
+  slide: iol-2023-i-4-slide.pdf
   best_solutions:
   - country: Poland
     team: Poland Ą
@@ -2159,6 +2163,7 @@
       family: Atlantic-Congo
   author:
     - name: Aleksejs Peguševs
+  slide: iol-2023-i-5-slide.pdf
   best_solutions:
   - country: Bulgaria
     team: Bulgaria 1
@@ -2185,6 +2190,7 @@
   author:
     - name: Boris Iomdin
     - name: Milena Veneva
+  slide: iol-2023-t-1-slide.pdf
   best_solutions:
   - country: Australia
     team: Australia Scotch

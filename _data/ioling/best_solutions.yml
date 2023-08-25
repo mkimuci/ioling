@@ -136,3 +136,63 @@
   team: Hong Kong
   filename: iol-2022-i-5-best-Wong.en.pdf
   language: English
+- problem: iol-2023-i-1
+  name: Brest Lenarčič
+  country: Slovenia
+  team: Slovenia
+  filename: iol-2023-i-1-best-Lenarcic.sl.pdf
+  language: Slovene
+- problem: iol-2023-i-1
+  name: Ryusei Omiya
+  country: Japan
+  team: Japan Samurai
+  filename: iol-2023-i-1-best-Omiya.ja.pdf
+  language: Japanese
+- problem: iol-2023-i-1
+  name: Yijie Wang
+  country: Australia
+  team: Australia Scotch
+  filename: iol-2023-i-1-best-Wang.en.pdf
+  language: English
+- problem: iol-2023-i-2
+  name: Ian Tam
+  country: Hong Kong
+  team: Hong Kong
+  filename: iol-2023-i-2-best-Tam.en.pdf
+  language: English
+- problem: iol-2023-i-3
+  name: Ian Tam
+  country: Hong Kong
+  team: Hong Kong
+  filename: iol-2023-i-3-best-Tam.en.pdf
+  language: English
+- problem: iol-2023-i-4
+  name: Michał Napieralski
+  country: Poland
+  team: Poland Ą
+  filename: iol-2023-i-4-best-Napieralski.pl.pdf
+  language: Polish
+- problem: iol-2023-i-5
+  name: Konstantin Georgiev
+  country: Bulgaria
+  team: Bulgaria 1
+  filename: iol-2023-i-5-best-Georgiev.bg.pdf
+  language: Bulgarian
+- problem: iol-2023-i-5
+  name: He Jianxing
+  country: China
+  team: China Qian
+  filename: iol-2023-i-5-best-He.zh.pdf
+  language: Chinese (简体)
+- problem: iol-2023-i-5
+  name: Daria Kryvosheieva
+  country: Ukraine
+  team: Ukraine
+  filename: iol-2023-i-5-best-Kryvosheieva.uk.pdf
+  language: Ukrainian
+- problem: iol-2023-i-5
+  name: Ian Tam
+  country: Hong Kong
+  team: Hong Kong
+  filename: iol-2023-i-5-best-Tam.en.pdf
+  language: English

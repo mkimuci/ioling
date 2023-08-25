@@ -3547,7 +3547,7 @@
       teams:
         - team: Hong Kong
           participants:
-            - name: Tam Lok Hang
+            - name: Ian Tam
               medal: gold
             - name: Wong Tok Shing Henry
               medal: silver
@@ -3558,7 +3558,7 @@
     gold:
       - year: 2023
         team: Hong Kong
-        name: Tam Lok Hang
+        name: Ian Tam
         score: 96.5
       - year: 2021
         team: Hong Kong EAT
@@ -3610,15 +3610,15 @@
   best_solutions:
       - year: 2023
         team: Hong Kong
-        name: Tam Lok Hang
+        name: Ian Tam
         problem: 2
       - year: 2023
         team: Hong Kong
-        name: Tam Lok Hang
+        name: Ian Tam
         problem: 3
       - year: 2023
         team: Hong Kong
-        name: Tam Lok Hang
+        name: Ian Tam
         problem: 5
       - year: 2022
         team: Hong Kong

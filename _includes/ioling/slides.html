@@ -1,0 +1,40 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Round</th>
+			<th>No.</th>
+			<th>Problem Name</th>
+			<th>Author(s)</th>
+			<th>Link</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for contest_item in site.data.ioling.contests %}
+		{% assign year_problems = site.data.ioling.problems | where: "year", contest_item.year %}
+
+			{% for prob_item in year_problems %}
+			{% assign prob_item = site.data.ioling.problems | where: "id", bs_item.problem | first %}
+
+			{% if prob_item.slide %}
+			<tr>
+				<td>{{ prob_item.year }}</td>
+				<td>{{ prob_item.round }}</td>
+				<td>{{ prob_item.number }}</td>
+				<td>{{ prob_item.name }}</td>
+				<td>
+					{% if prob_item.author %}
+					{% assign authors = prob_item.author %}
+					{% for author in authors %}
+					{{ author.name }}<br/>
+					{% endfor %}
+					{% endif %}
+				</td>
+				<td><a href="/slides/{{ prob_item.slide }}">Download</a></td>
+			</tr>
+			{% endif %}
+			{% endfor %}
+
+		{% endfor %}
+	</tbody>
+</table> 

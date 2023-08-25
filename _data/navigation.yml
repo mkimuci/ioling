@@ -41,6 +41,8 @@
     url: "/problems/samples/"
   - title: "By year"
     url: "/problems/by_year"
+  - title: "Slides"
+    url: "/problems/slides"
   - title: "Solvers' Choice"
     url: "/problems/solvers_choice"
 

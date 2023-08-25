@@ -3,7 +3,7 @@ permalink: /results/TUR/
 layout: page
 header:
   image_fullwidth: head.png
-title: Turkey
+title: Türkiye
 category: countries
 results_by_country: true
 sidebar: right
