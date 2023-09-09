@@ -17,6 +17,8 @@ category: contests
 sitemap: false
 ---
 
+<iframe width="640" height="320" src="https://www.youtube.com/embed/LXU70FEBm20?si=BHSISESWI-viEEob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 ## Important Dates
