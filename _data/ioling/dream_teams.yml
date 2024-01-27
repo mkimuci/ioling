@@ -331,7 +331,7 @@
     medal: Silver
   - name: Xie Lingrui
     medal: Gold
-  - name: Ian Tam
+  - name: Tam Lok Hang
     medal: Silver
   - name: Ng Truman Toby
     medal: Bronze
@@ -361,6 +361,19 @@
     medal: Silver
   - name: Rishab Parthasarathy
     medal: Silver
+
+- year: 2023
+  country: Belka
+  team: Belka
+  results:
+  - name: Viktoriia Zubkova
+    medal: Silver
+  - name: Artem Boyko
+    medal: Gold
+  - name: Alexander Shlykov
+    medal: Bronze
+  - name: Eleonora Stepanova
+    medal: Gold
 
 - year: 2023
   country: Brazil

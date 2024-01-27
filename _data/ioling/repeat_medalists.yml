@@ -44,24 +44,14 @@
   - year: 2019
     medal: Bronze
 
-- name: Mihai-Alexandru Bratu
-  country: Romania
+- name: Łukasz Cegieła
+  country: Poland
   medals:
-  - year: 2021
+  - year: 2007
     medal: Gold
-  - year: 2022
+  - year: 2009
     medal: Gold
-  - year: 2023
-    medal: Silver
-
-- name: Simeon Hellsten
-  country: United Kingdom
-  medals:
-  - year: 2017
-    medal: Gold
-  - year: 2019
-    medal: Gold
-  - year: 2018
+  - year: 2008
     medal: Silver
 
 - name: Andrew Tockman
@@ -74,14 +64,14 @@
   - year: 2017
     medal: Silver
 
-- name: Łukasz Cegieła
-  country: Poland
+- name: Mihai-Alexandru Bratu
+  country: Romania
   medals:
-  - year: 2007
+  - year: 2021
     medal: Gold
-  - year: 2009
+  - year: 2022
     medal: Gold
-  - year: 2008
+  - year: 2023
     medal: Silver
 
 - name: Alexander Wade
@@ -102,6 +92,16 @@
   - year: 2013
     medal: Gold
   - year: 2011
+    medal: Silver
+
+- name: Simeon Hellsten
+  country: United Kingdom
+  medals:
+  - year: 2017
+    medal: Gold
+  - year: 2019
+    medal: Gold
+  - year: 2018
     medal: Silver
 
 - name: Vadim Tukh
@@ -132,12 +132,12 @@
   - year: 2019
     medal: Gold
 
-- name: Takamichi Hoshii
-  country: Japan
+- name: James Wedgwood
+  country: United States of America
   medals:
-  - year: 2021
+  - year: 2015
     medal: Gold
-  - year: 2022
+  - year: 2016
     medal: Gold
 
 - name: Przemysław Podleśny
@@ -156,12 +156,12 @@
   - year: 2023
     medal: Gold
 
-- name: James Wedgwood
-  country: United States of America
+- name: Takamichi Hoshii
+  country: Japan
   medals:
-  - year: 2015
+  - year: 2021
     medal: Gold
-  - year: 2016
+  - year: 2022
     medal: Gold
 
 - name: Elena Keskinova
@@ -194,6 +194,16 @@
   - year: 2017
     medal: Silver
 
+- name: Tam Lok Hang
+  country: Hong Kong
+  medals:
+  - year: 2023
+    medal: Gold
+  - year: 2021
+    medal: Silver
+  - year: 2022
+    medal: Silver
+
 - name: Kunaal Chandrashekar
   country: Canada Anglophone
   medals:
@@ -204,20 +214,12 @@
   - year: 2021
     medal: Bronze
 
-- name: Ada Melentyeva
-  country: Ukraine
-  medals:
-  - year: 2015
-    medal: Gold
-  - year: 2014
-    medal: Silver
-
-- name: Morris Alper
+- name: Darryl Wu
   country: United States of America
   medals:
-  - year: 2011
+  - year: 2014
     medal: Gold
-  - year: 2008
+  - year: 2012
     medal: Silver
 
 - name: Artem Borisov
@@ -228,12 +230,12 @@
   - year: 2021
     medal: Silver
 
-- name: Eva-Lotta Käsper
-  country: Estonia
+- name: Vlad-Ștefan Oros
+  country: Romania
   medals:
-  - year: 2011
+  - year: 2023
     medal: Gold
-  - year: 2012
+  - year: 2022
     medal: Silver
 
 - name: Dan Mircea Mirea
@@ -252,12 +254,36 @@
   - year: 2017
     medal: Silver
 
-- name: Valentin Dimov
-  country: Bulgaria
+- name: Morris Alper
+  country: United States of America
   medals:
-  - year: 2017
+  - year: 2011
     medal: Gold
+  - year: 2008
+    medal: Silver
+
+- name: Eva-Lotta Käsper
+  country: Estonia
+  medals:
+  - year: 2011
+    medal: Gold
+  - year: 2012
+    medal: Silver
+
+- name: Daria Vasilyeva
+  country: Russia
+  medals:
+  - year: 2011
+    medal: Gold
+  - year: 2010
+    medal: Silver
+
+- name: Ada Melentyeva
+  country: Ukraine
+  medals:
   - year: 2015
+    medal: Gold
+  - year: 2014
     medal: Silver
 
 - name: Diego Król
@@ -276,12 +302,20 @@
   - year: 2006
     medal: Silver
 
-- name: Vlad-Ștefan Oros
-  country: Romania
+- name: Pranav Krishna
+  country: United States of America
   medals:
-  - year: 2023
+  - year: 2018
     medal: Gold
-  - year: 2022
+  - year: 2019
+    medal: Silver
+
+- name: Valentin Dimov
+  country: Bulgaria
+  medals:
+  - year: 2017
+    medal: Gold
+  - year: 2015
     medal: Silver
 
 - name: Alison Craig-Greene
@@ -292,36 +326,12 @@
   - year: 2023
     medal: Silver
 
-- name: Darryl Wu
-  country: United States of America
-  medals:
-  - year: 2014
-    medal: Gold
-  - year: 2012
-    medal: Silver
-
 - name: Artem Boyko
   country: Individual 02
   medals:
   - year: 2023
     medal: Gold
   - year: 2022
-    medal: Silver
-
-- name: Pranav Krishna
-  country: United States of America
-  medals:
-  - year: 2018
-    medal: Gold
-  - year: 2019
-    medal: Silver
-
-- name: Daria Vasilyeva
-  country: Russia
-  medals:
-  - year: 2011
-    medal: Gold
-  - year: 2010
     medal: Silver
 
 - name: Ekaterina Voloshinova
@@ -334,20 +344,28 @@
   - year: 2018
     medal: Bronze
 
-- name: Antara Raaghavi Bhattacharya
-  country: India
-  medals:
-  - year: 2021
-    medal: Gold
-  - year: 2019
-    medal: Bronze
-
-- name: Elvira Ageeva
+- name: Maria Kholodilova
   country: Russia
   medals:
-  - year: 2021
+  - year: 2006
     medal: Gold
-  - year: 2022
+  - year: 2007
+    medal: Bronze
+
+- name: Alicja Maksymiuk
+  country: Poland
+  medals:
+  - year: 2018
+    medal: Gold
+  - year: 2017
+    medal: Bronze
+
+- name: Angikar Ghosal
+  country: India
+  medals:
+  - year: 2018
+    medal: Gold
+  - year: 2019
     medal: Bronze
 
 - name: Viktor Baltin
@@ -358,44 +376,20 @@
   - year: 2019
     medal: Bronze
 
-- name: Jaeyeong Yang
-  country: Republic of Korea
+- name: Antara Raaghavi Bhattacharya
+  country: India
   medals:
-  - year: 2016
+  - year: 2021
     medal: Gold
-  - year: 2015
+  - year: 2019
     medal: Bronze
 
-- name: Diana Sofronieva
-  country: Bulgaria
+- name: Alexander Piperski
+  country: Russia
   medals:
-  - year: 2009
+  - year: 2004
     medal: Gold
-  - year: 2008
-    medal: Bronze
-
-- name: Theodor Cucu
-  country: Romania
-  medals:
-  - year: 2017
-    medal: Gold
-  - year: 2016
-    medal: Bronze
-
-- name: Brian Xiao
-  country: United States of America
-  medals:
-  - year: 2017
-    medal: Gold
-  - year: 2018
-    medal: Bronze
-
-- name: Alicja Maksymiuk
-  country: Poland
-  medals:
-  - year: 2018
-    medal: Gold
-  - year: 2017
+  - year: 2005
     medal: Bronze
 
 - name: Estere Šeinkmane
@@ -414,18 +408,42 @@
   - year: 2013
     medal: Bronze
 
-- name: Marin Ivanov
-  country: Bulgaria
-  medals:
-  - year: 2012
-    medal: Gold
-  - year: 2013
-    medal: Bronze
-
 - name: James Bloxham
   country: United States of America
   medals:
   - year: 2015
+    medal: Gold
+  - year: 2014
+    medal: Bronze
+
+- name: Brian Xiao
+  country: United States of America
+  medals:
+  - year: 2017
+    medal: Gold
+  - year: 2018
+    medal: Bronze
+
+- name: Jaeyeong Yang
+  country: Republic of Korea
+  medals:
+  - year: 2016
+    medal: Gold
+  - year: 2015
+    medal: Bronze
+
+- name: Theodor Cucu
+  country: Romania
+  medals:
+  - year: 2017
+    medal: Gold
+  - year: 2016
+    medal: Bronze
+
+- name: Matyáš Medek
+  country: Czechia
+  medals:
+  - year: 2013
     medal: Gold
   - year: 2014
     medal: Bronze
@@ -438,6 +456,14 @@
   - year: 2018
     medal: Bronze
 
+- name: Elvira Ageeva
+  country: Russia
+  medals:
+  - year: 2021
+    medal: Gold
+  - year: 2022
+    medal: Bronze
+
 - name: Ivaylo Dimitrov
   country: Bulgaria
   medals:
@@ -446,36 +472,20 @@
   - year: 2021
     medal: Bronze
 
-- name: Matyáš Medek
-  country: Czechia
+- name: Diana Sofronieva
+  country: Bulgaria
   medals:
+  - year: 2009
+    medal: Gold
+  - year: 2008
+    medal: Bronze
+
+- name: Marin Ivanov
+  country: Bulgaria
+  medals:
+  - year: 2012
+    medal: Gold
   - year: 2013
-    medal: Gold
-  - year: 2014
-    medal: Bronze
-
-- name: Angikar Ghosal
-  country: India
-  medals:
-  - year: 2018
-    medal: Gold
-  - year: 2019
-    medal: Bronze
-
-- name: Maria Kholodilova
-  country: Russia
-  medals:
-  - year: 2006
-    medal: Gold
-  - year: 2007
-    medal: Bronze
-
-- name: Alexander Piperski
-  country: Russia
-  medals:
-  - year: 2004
-    medal: Gold
-  - year: 2005
     medal: Bronze
 
 - name: Yordan Mehandzhiyski
@@ -488,26 +498,6 @@
   - year: 2007
     medal: Bronze
   - year: 2008
-    medal: Bronze
-
-- name: Tina Vladimirova
-  country: Bulgaria
-  medals:
-  - year: 2015
-    medal: Silver
-  - year: 2016
-    medal: Silver
-  - year: 2017
-    medal: Bronze
-
-- name: Daniel Rucki
-  country: Poland
-  medals:
-  - year: 2010
-    medal: Silver
-  - year: 2012
-    medal: Silver
-  - year: 2011
     medal: Bronze
 
 - name: Daniel Vedeneev
@@ -530,6 +520,26 @@
   - year: 2011
     medal: Bronze
 
+- name: Daniel Rucki
+  country: Poland
+  medals:
+  - year: 2010
+    medal: Silver
+  - year: 2012
+    medal: Silver
+  - year: 2011
+    medal: Bronze
+
+- name: Tina Vladimirova
+  country: Bulgaria
+  medals:
+  - year: 2015
+    medal: Silver
+  - year: 2016
+    medal: Silver
+  - year: 2017
+    medal: Bronze
+
 - name: Bartłomiej Rozenberg
   country: Poland
   medals:
@@ -546,30 +556,6 @@
   - year: 2019
     medal: Silver
 
-- name: Eleonora Glazova
-  country: Russia
-  medals:
-  - year: 2005
-    medal: Silver
-  - year: 2006
-    medal: Silver
-
-- name: Joonas Jürgen Kisel
-  country: Estonia
-  medals:
-  - year: 2016
-    medal: Silver
-  - year: 2017
-    medal: Silver
-
-- name: Mihail Minkov
-  country: Bulgaria
-  medals:
-  - year: 2006
-    medal: Silver
-  - year: 2007
-    medal: Silver
-
 - name: Russell Emerine
   country: United States of America
   medals:
@@ -578,22 +564,12 @@
   - year: 2019
     medal: Silver
 
-- name: Ian Tam
-  country: Hong Kong
+- name: Łukasz Kalinowski
+  country: Poland
   medals:
-  - year: 2021
+  - year: 2009
     medal: Silver
-  - year: 2022
-    medal: Silver
-  - year: 2023
-    medal: Gold
-
-- name: Allen Yuan
-  country: United States of America
-  medals:
   - year: 2010
-    medal: Silver
-  - year: 2011
     medal: Silver
 
 - name: João Henrique Oliveira Fontes
@@ -612,12 +588,36 @@
   - year: 2019
     medal: Silver
 
-- name: Łukasz Kalinowski
-  country: Poland
+- name: Joonas Jürgen Kisel
+  country: Estonia
   medals:
-  - year: 2009
+  - year: 2016
     medal: Silver
+  - year: 2017
+    medal: Silver
+
+- name: Mihail Minkov
+  country: Bulgaria
+  medals:
+  - year: 2006
+    medal: Silver
+  - year: 2007
+    medal: Silver
+
+- name: Eleonora Glazova
+  country: Russia
+  medals:
+  - year: 2005
+    medal: Silver
+  - year: 2006
+    medal: Silver
+
+- name: Allen Yuan
+  country: United States of America
+  medals:
   - year: 2010
+    medal: Silver
+  - year: 2011
     medal: Silver
 
 - name: Samantha Kao
@@ -640,16 +640,6 @@
   - year: 2022
     medal: Bronze
 
-- name: Emil Ingelsten
-  country: Sweden
-  medals:
-  - year: 2018
-    medal: Silver
-  - year: 2016
-    medal: Bronze
-  - year: 2017
-    medal: Bronze
-
 - name: Eliška Freibergerová
   country: Czechia
   medals:
@@ -658,6 +648,16 @@
   - year: 2014
     medal: Bronze
   - year: 2018
+    medal: Bronze
+
+- name: Emil Ingelsten
+  country: Sweden
+  medals:
+  - year: 2018
+    medal: Silver
+  - year: 2016
+    medal: Bronze
+  - year: 2017
     medal: Bronze
 
 - name: Artūrs Semeņuks
@@ -690,12 +690,12 @@
   - year: 2018
     medal: Bronze
 
-- name: Omri Faraggi
-  country: United Kingdom
+- name: Anna Tatarenko
+  country: Russia
   medals:
-  - year: 2013
+  - year: 2016
     medal: Silver
-  - year: 2012
+  - year: 2015
     medal: Bronze
 
 - name: Yi-Ning Chang
@@ -706,12 +706,36 @@
   - year: 2021
     medal: Bronze
 
-- name: Benjamin Móricz
-  country: Hungary
+- name: Aparna Ajit Gupte
+  country: India
   medals:
-  - year: 2023
+  - year: 2018
     medal: Silver
+  - year: 2019
+    medal: Bronze
+
+- name: Rok Kaufman
+  country: Slovenia
+  medals:
+  - year: 2012
+    medal: Silver
+  - year: 2011
+    medal: Bronze
+
+- name: Rebecca Jacobs
+  country: United States of America
+  medals:
+  - year: 2009
+    medal: Silver
+  - year: 2008
+    medal: Bronze
+
+- name: Merlin Fischer
+  country: Germany
+  medals:
   - year: 2022
+    medal: Silver
+  - year: 2023
     medal: Bronze
 
 - name: Gustavo Palote da Silva Martins
@@ -722,20 +746,28 @@
   - year: 2018
     medal: Bronze
 
-- name: Anna Tatarenko
-  country: Russia
+- name: Wong Tok Shing Henry
+  country: Hong Kong
   medals:
-  - year: 2016
-    medal: Silver
-  - year: 2015
-    medal: Bronze
-
-- name: Aleksandra Naydenova
-  country: Bulgaria
-  medals:
-  - year: 2021
+  - year: 2023
     medal: Silver
   - year: 2022
+    medal: Bronze
+
+- name: Chih-Chun Wang
+  country: Taiwan
+  medals:
+  - year: 2018
+    medal: Silver
+  - year: 2019
+    medal: Bronze
+
+- name: Riley Kong
+  country: United States of America
+  medals:
+  - year: 2022
+    medal: Silver
+  - year: 2021
     medal: Bronze
 
 - name: Vitaly Pavlenko
@@ -746,12 +778,12 @@
   - year: 2010
     medal: Bronze
 
-- name: Aparna Ajit Gupte
-  country: India
+- name: Matija Lovšin
+  country: Slovenia
   medals:
-  - year: 2018
+  - year: 2016
     medal: Silver
-  - year: 2019
+  - year: 2015
     medal: Bronze
 
 - name: Toby Collins
@@ -762,28 +794,60 @@
   - year: 2021
     medal: Bronze
 
-- name: Yash Sinha
-  country: India
+- name: Yulia Markova
+  country: Bulgaria
+  medals:
+  - year: 2013
+    medal: Silver
+  - year: 2014
+    medal: Bronze
+
+- name: Viktoriia Zubkova
+  country: Individual 04
+  medals:
+  - year: 2023
+    medal: Silver
+  - year: 2022
+    medal: Bronze
+
+- name: Teodor Malchev
+  country: Bulgaria
+  medals:
+  - year: 2023
+    medal: Silver
+  - year: 2022
+    medal: Bronze
+
+- name: Omri Faraggi
+  country: United Kingdom
   medals:
   - year: 2013
     medal: Silver
   - year: 2012
     medal: Bronze
 
-- name: Matija Lovšin
-  country: Slovenia
+- name: Tsvetomila Mihaylova
+  country: Bulgaria
   medals:
-  - year: 2016
+  - year: 2004
     medal: Silver
-  - year: 2015
+  - year: 2005
     medal: Bronze
 
-- name: Chih-Chun Wang
-  country: Taiwan
+- name: Aleksandra Naydenova
+  country: Bulgaria
   medals:
-  - year: 2018
+  - year: 2021
     medal: Silver
-  - year: 2019
+  - year: 2022
+    medal: Bronze
+
+- name: Benjamin Móricz
+  country: Hungary
+  medals:
+  - year: 2023
+    medal: Silver
+  - year: 2022
     medal: Bronze
 
 - name: Jeremy Zhou
@@ -802,60 +866,12 @@
   - year: 2014
     medal: Bronze
 
-- name: Teodor Malchev
-  country: Bulgaria
-  medals:
-  - year: 2023
-    medal: Silver
-  - year: 2022
-    medal: Bronze
-
-- name: Rok Kaufman
-  country: Slovenia
-  medals:
-  - year: 2012
-    medal: Silver
-  - year: 2011
-    medal: Bronze
-
-- name: Viktoriia Zubkova
-  country: Individual 04
-  medals:
-  - year: 2023
-    medal: Silver
-  - year: 2022
-    medal: Bronze
-
-- name: Tsvetomila Mihaylova
-  country: Bulgaria
-  medals:
-  - year: 2004
-    medal: Silver
-  - year: 2005
-    medal: Bronze
-
-- name: Yulia Markova
-  country: Bulgaria
+- name: Yash Sinha
+  country: India
   medals:
   - year: 2013
     medal: Silver
-  - year: 2014
-    medal: Bronze
-
-- name: Rebecca Jacobs
-  country: United States of America
-  medals:
-  - year: 2009
-    medal: Silver
-  - year: 2008
-    medal: Bronze
-
-- name: Riley Kong
-  country: United States of America
-  medals:
-  - year: 2022
-    medal: Silver
-  - year: 2021
+  - year: 2012
     medal: Bronze
 
 - name: Nikita Medyankin
@@ -868,12 +884,76 @@
   - year: 2006
     medal: Bronze
 
+- name: Nadezhda Dimitrova
+  country: Bulgaria
+  medals:
+  - year: 2015
+    medal: Bronze
+  - year: 2016
+    medal: Bronze
+
+- name: Darya Peressypkina
+  country: Kazakhstan
+  medals:
+  - year: 2021
+    medal: Bronze
+  - year: 2022
+    medal: Bronze
+
+- name: David Avellan-Hultman
+  country: Sweden
+  medals:
+  - year: 2016
+    medal: Bronze
+  - year: 2018
+    medal: Bronze
+
+- name: Nilai Sarda
+  country: India
+  medals:
+  - year: 2013
+    medal: Bronze
+  - year: 2015
+    medal: Bronze
+
+- name: Rok Tadej Brunšek
+  country: Slovenia
+  medals:
+  - year: 2019
+    medal: Bronze
+  - year: 2022
+    medal: Bronze
+
+- name: Vlada Petrusenko
+  country: Ukraine
+  medals:
+  - year: 2018
+    medal: Bronze
+  - year: 2019
+    medal: Bronze
+
+- name: Nicoleta Dobrică
+  country: Romania
+  medals:
+  - year: 2021
+    medal: Bronze
+  - year: 2022
+    medal: Bronze
+
 - name: Siye Zhu
   country: United States of America
   medals:
   - year: 2016
     medal: Bronze
   - year: 2017
+    medal: Bronze
+
+- name: Olivia Tennisberg
+  country: Estonia
+  medals:
+  - year: 2021
+    medal: Bronze
+  - year: 2022
     medal: Bronze
 
 - name: Ziche Chen
@@ -898,70 +978,6 @@
   - year: 2018
     medal: Bronze
   - year: 2019
-    medal: Bronze
-
-- name: Rok Tadej Brunšek
-  country: Slovenia
-  medals:
-  - year: 2019
-    medal: Bronze
-  - year: 2022
-    medal: Bronze
-
-- name: David Avellan-Hultman
-  country: Sweden
-  medals:
-  - year: 2016
-    medal: Bronze
-  - year: 2018
-    medal: Bronze
-
-- name: Olivia Tennisberg
-  country: Estonia
-  medals:
-  - year: 2021
-    medal: Bronze
-  - year: 2022
-    medal: Bronze
-
-- name: Nilai Sarda
-  country: India
-  medals:
-  - year: 2013
-    medal: Bronze
-  - year: 2015
-    medal: Bronze
-
-- name: Nicoleta Dobrică
-  country: Romania
-  medals:
-  - year: 2021
-    medal: Bronze
-  - year: 2022
-    medal: Bronze
-
-- name: Darya Peressypkina
-  country: Kazakhstan
-  medals:
-  - year: 2021
-    medal: Bronze
-  - year: 2022
-    medal: Bronze
-
-- name: Vlada Petrusenko
-  country: Ukraine
-  medals:
-  - year: 2018
-    medal: Bronze
-  - year: 2019
-    medal: Bronze
-
-- name: Nadezhda Dimitrova
-  country: Bulgaria
-  medals:
-  - year: 2015
-    medal: Bronze
-  - year: 2016
     medal: Bronze
 
 - name: Ants-Oskar Mäesalu

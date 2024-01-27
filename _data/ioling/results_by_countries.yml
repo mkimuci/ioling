@@ -3381,7 +3381,7 @@
       teams:
         - team: Germany Umlaut
           participants:
-            - name: Merlin Jonathan Fischer
+            - name: Merlin Fischer
               medal: bronze
             - name: Daniel Pahi
             - name: Konrad Jannes Köhler
@@ -3400,7 +3400,7 @@
     bronze:
       - year: 2023
         team: Germany Umlaut
-        name: Merlin Jonathan Fischer
+        name: Merlin Fischer
         score: 60.5
       - year: 2022
         team: Germany Eszett
@@ -3472,7 +3472,7 @@
   summary_1: Germany first competed in the IOL in 2008, and has competed in 9 olympiads. They most recently competed in 2023.
   summary_2: They have sent 44 participants in 11 teams.
   summary_3: In competition, teams from Germany have brought home 6 medals (2 silver and 4 bronze), 1 best-solution prize and 12 honorable mentions.
-  summary_4: 
+  summary_4: In addition, Germany has sent 1 Repeat Medalist
 
 - iol_code: GRC
   iol_name: Greece
@@ -3529,7 +3529,7 @@
               medal: silver
             - name: Xie Lingrui
               medal: gold
-            - name: Ian Tam
+            - name: Tam Lok Hang
               medal: silver
             - name: Ng Truman Toby
               medal: bronze
@@ -3537,9 +3537,9 @@
       teams:
         - team: Hong Kong
           participants:
-            - name: Henry Wong
+            - name: Wong Tok Shing Henry
               medal: bronze
-            - name: Ian Tam
+            - name: Tam Lok Hang
               medal: silver
             - name: Ryan Lo
             - name: Samantha Yung
@@ -3547,7 +3547,7 @@
       teams:
         - team: Hong Kong
           participants:
-            - name: Ian Tam
+            - name: Tam Lok Hang
               medal: gold
             - name: Wong Tok Shing Henry
               medal: silver
@@ -3558,7 +3558,7 @@
     gold:
       - year: 2023
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         score: 96.5
       - year: 2021
         team: Hong Kong EAT
@@ -3575,11 +3575,11 @@
         score: 70.5
       - year: 2022
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         score: 58.2
       - year: 2021
         team: Hong Kong EAT
-        name: Ian Tam
+        name: Tam Lok Hang
         score: 54.5
       - year: 2021
         team: Hong Kong EAT
@@ -3588,7 +3588,7 @@
     bronze:
       - year: 2022
         team: Hong Kong
-        name: Henry Wong
+        name: Wong Tok Shing Henry
         score: 45.2
       - year: 2021
         team: Hong Kong EAT
@@ -3610,28 +3610,28 @@
   best_solutions:
       - year: 2023
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         problem: 2
       - year: 2023
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         problem: 3
       - year: 2023
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         problem: 5
       - year: 2022
         team: Hong Kong
-        name: Ian Tam
+        name: Tam Lok Hang
         problem: 4
       - year: 2022
         team: Hong Kong
-        name: Henry Wong
+        name: Wong Tok Shing Henry
         problem: 5
   summary_1: Hong Kong first competed in the IOL in 2019, and has competed in 4 olympiads. They most recently competed in 2023.
   summary_2: They have sent 20 participants in 5 teams.
   summary_3: In competition, teams from Hong Kong have brought home 9 medals (2 gold, 5 silver and 2 bronze), 1 first-place team cup, 5 best-solution prizes and 2 team contest honorable mentions.
-  summary_4: In addition, Hong Kong has sent 1 Repeat Medalist and 1 Dream Team
+  summary_4: In addition, Hong Kong has sent 2 Repeat Medalists and 1 Dream Team
 
 - iol_code: HUN
   iol_name: Hungary
@@ -6159,6 +6159,22 @@
   summary_3: 
   summary_4: 
 
+- iol_code: PHL
+  iol_name: Philippines
+  participants:
+    - year: 2023
+      teams:
+        - team: Philippines
+          participants:
+            - name: Sandrene Rylie Dy Sy
+            - name: Jeremy Jason Yap Chan
+            - name: Zachary Thomas Siytiu Sy
+            - name: Evan Tyler Siytiu Sy
+  summary_1: Philippines competed in the IOL in 2023.
+  summary_2: They have sent 4 participants in 1 team.
+  summary_3: 
+  summary_4: 
+
 - iol_code: POL
   iol_name: Poland
   participants:
@@ -6339,7 +6355,7 @@
       teams:
         - team: Poland 1
           participants:
-            - name: Miłosz Mazurkiewicz-Dubieński
+            - name: Milo Mazurkiewicz
               medal: gold
             - name: Maciej Kocot
               medal: bronze
@@ -6537,7 +6553,7 @@
         score: 88.4
       - year: 2014
         team: Poland 1
-        name: Miłosz Mazurkiewicz-Dubieński
+        name: Milo Mazurkiewicz
         score: 84
       - year: 2013
         team: Poland 1
@@ -6958,7 +6974,7 @@
         problem: 2
       - year: 2014
         team: Poland 1
-        name: Miłosz Mazurkiewicz-Dubieński
+        name: Milo Mazurkiewicz
         problem: 2
       - year: 2010
         team: Poland 1

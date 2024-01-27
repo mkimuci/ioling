@@ -97,7 +97,7 @@
   selection_en: Bulgarian National Olympiad in Linguistics
   selection_local: Олимпиада по математическа лингвистика
   abbreviation: 
-  link: http://mon.bg/go=page&pageId=16&subpageId=80
+  link: http://linguistics.bg
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -436,9 +436,9 @@
   iso_3: JPN
   iol_code: JPN
   flag: jp.png
-  selection_en: JOL
+  selection_en: Japan Linguistics Olympiad
   selection_local: 日本言語学オリンピック
-  abbreviation: 
+  abbreviation: JOL
   link: https://iolingjapan.org
   active: TRUE
   accredit: TRUE
@@ -620,7 +620,7 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: FALSE
+  active: TRUE
   accredit: FALSE
   footnote: 
   poc: 
@@ -655,7 +655,7 @@
   selection_en: Korea Linguistics Olympiad
   selection_local: 한국언어학올림피아드
   abbreviation: KLO
-  link: http://krlo.co.kr
+  link: https://krlo.co.kr
   active: TRUE
   accredit: TRUE
   footnote: 
@@ -943,7 +943,7 @@
   selection_en: North American Computational Linguistics Olympiad
   selection_local: 
   abbreviation: NACLO
-  link: http://www.nacloweb.org
+  link: https://naclo.org/
   active: TRUE
   accredit: TRUE
   footnote: 

@@ -2694,7 +2694,7 @@
 - year: 2014
   individual:
       gold:
-      - name: Miłosz Mazurkiewicz-Dubieński
+      - name: Milo Mazurkiewicz
         score: 84
         team: Poland 1
         country: Poland
@@ -3064,7 +3064,7 @@
         country: United States of America
         problem: 2
 
-      - name: Miłosz Mazurkiewicz-Dubieński
+      - name: Milo Mazurkiewicz
         team: Poland 1
         country: Poland
         problem: 2
@@ -5728,7 +5728,7 @@
         team: Russia Belka
         country: Russia
 
-      - name: Ian Tam
+      - name: Tam Lok Hang
         score: 54.5
         team: Hong Kong EAT
         country: Hong Kong
@@ -6342,7 +6342,7 @@
         country: Japan
 
       silver:
-      - name: Ian Tam
+      - name: Tam Lok Hang
         score: 58.2
         team: Hong Kong
         country: Hong Kong
@@ -6468,7 +6468,7 @@
         team: Korea Mal
         country: Republic of Korea
 
-      - name: Henry Wong
+      - name: Wong Tok Shing Henry
         score: 45.2
         team: Hong Kong
         country: Hong Kong
@@ -6786,24 +6786,24 @@
         country: Australia
         problem: 4
 
-      - name: Ian Tam
-        team: Hong Kong
-        country: Hong Kong
-        problem: 4
-
       - name: Takamichi Hoshii
         team: Japan Samurai
         country: Japan
         problem: 4
 
-      - name: Henry Wong
+      - name: Tam Lok Hang
         team: Hong Kong
         country: Hong Kong
-        problem: 5
+        problem: 4
 
       - name: Konstantin Georgiev
         team: Bulgaria 2
         country: Bulgaria
+        problem: 5
+
+      - name: Wong Tok Shing Henry
+        team: Hong Kong
+        country: Hong Kong
         problem: 5
 
   average:
@@ -6882,7 +6882,7 @@
 - year: 2023
   individual:
       gold:
-      - name: Ian Tam
+      - name: Tam Lok Hang
         score: 96.5
         team: Hong Kong
         country: Hong Kong
@@ -7094,7 +7094,7 @@
         team: USA Blue
         country: United States of America
 
-      - name: Merlin Jonathan Fischer
+      - name: Merlin Fischer
         score: 60.5
         team: Germany Umlaut
         country: Germany
@@ -7387,12 +7387,12 @@
         country: Australia
         problem: 1
 
-      - name: Ian Tam
+      - name: Tam Lok Hang
         team: Hong Kong
         country: Hong Kong
         problem: 2
 
-      - name: Ian Tam
+      - name: Tam Lok Hang
         team: Hong Kong
         country: Hong Kong
         problem: 3
@@ -7417,7 +7417,7 @@
         country: Bulgaria
         problem: 5
 
-      - name: Ian Tam
+      - name: Tam Lok Hang
         team: Hong Kong
         country: Hong Kong
         problem: 5

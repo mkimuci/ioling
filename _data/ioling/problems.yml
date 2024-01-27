@@ -1220,7 +1220,7 @@
     name: Darryl Wu
   - country: Poland
     team: Poland 1
-    name: Miłosz Mazurkiewicz-Dubieński
+    name: Milo Mazurkiewicz
 
 - year: 2014
   round: Individual
@@ -2026,7 +2026,7 @@
     name: Eunsu Choi
   - country: Hong Kong
     team: Hong Kong
-    name: Ian Tam
+    name: Tam Lok Hang
   - country: Japan
     team: Japan Samurai
     name: Takamichi Hoshii
@@ -2055,7 +2055,7 @@
     name: Konstantin Georgiev
   - country: Hong Kong
     team: Hong Kong
-    name: Henry Wong
+    name: Wong Tok Shing Henry
 
 - year: 2022
   round: Team
@@ -2087,7 +2087,6 @@
       family: Xincan
   author:
     - name: Samuel Ahmed
-  slide: iol-2023-i-1-slide.pdf
   best_solutions:
   - country: Australia
     team: Australia Scotch
@@ -2110,7 +2109,6 @@
       family: Arawakan
   author:
     - name: Ksenia Gilyarova
-  slide: iol-2023-i-2-slide.pdf
   solvers_choice: True
   best_solutions:
   - country: Hong Kong
@@ -2128,7 +2126,6 @@
       family: Anim
   author:
     - name: David Hultman
-  slide: iol-2023-i-3-slide.pdf
   best_solutions:
   - country: Hong Kong
     team: Hong Kong
@@ -2146,7 +2143,6 @@
   author:
     - name: Lidija Stanovnik
     - name: Aleksejs Peguševs
-  slide: iol-2023-i-4-slide.pdf
   best_solutions:
   - country: Poland
     team: Poland Ą
@@ -2163,7 +2159,6 @@
       family: Atlantic-Congo
   author:
     - name: Aleksejs Peguševs
-  slide: iol-2023-i-5-slide.pdf
   best_solutions:
   - country: Bulgaria
     team: Bulgaria 1
@@ -2190,7 +2185,6 @@
   author:
     - name: Boris Iomdin
     - name: Milena Veneva
-  slide: iol-2023-t-1-slide.pdf
   best_solutions:
   - country: Australia
     team: Australia Scotch
