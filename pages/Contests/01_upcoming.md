@@ -30,20 +30,20 @@ Before Jan 31, 2024
 
 The list of the IOL 2023 working languages can be seen on the [IOL 2023 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
 
+#### Requesting new working language*
+Before Jan 26, 2024
+
 #### Early Bird registration
-Jan 8 – 31, 2024
+Jan 26 – Feb 26, 2024
 
 #### Deposits for the teams with Early Bird registration
-By Feb 28, 2024 (30% non-refundable)
+TBA
 
 #### Standard registration
-Feb 1 – March 31, 2024
+TBA
 
 #### Payment for the teams with Standard registration
-By April 30, 2024
-
-#### Late registration opens
-April 1, 2024
+TBA
 
 ---
 

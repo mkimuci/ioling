@@ -11,7 +11,7 @@ widget3:
   title: "Brasília 2024"
   url: '/upcoming/'
   image: brasilia2024.jpg
-  text: '<b>Brasília (Brazil)</b> has been chosen as the host of the 21st International Linguistics Olympiad on July 2024. You can find more information <a href="/upcoming">here</a>.'
+  text: '<b>Brasília (Brazil)</b> has been chosen as the host of the 21st International Linguistics Olympiad on July 2024. You can find more information <a href="https://iol2024.org">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
