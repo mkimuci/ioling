@@ -7,4 +7,4 @@ title: "Local Organizers"
 sitemap: false
 ---
 
-{% include ioling/local_organizers.html %}
+The contents of this page have been moved to <a href="/countries/">here</a>.

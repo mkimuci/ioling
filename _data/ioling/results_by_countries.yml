@@ -2411,6 +2411,14 @@
   summary_3: 
   summary_4: 
 
+- iol_code: CRI
+  iol_name: Costa Rica
+  participants:
+  summary_1: Costa Rica has never participated in the IOL.
+  summary_2: They have sent 0 participant in 0 team.
+  summary_3: 
+  summary_4: 
+
 - iol_code: CZE
   iol_name: Czechia
   participants:
@@ -5671,6 +5679,14 @@
   summary_1: Malaysia first competed in the IOL in 2018, and has competed in 4 olympiads. They most recently competed in 2023.
   summary_2: They have sent 24 participants in 6 teams.
   summary_3: In competition, teams from Malaysia have brought home 3 medals (2 silver and 1 bronze), 1 bronze trophy and 3 honorable mentions.
+  summary_4: 
+
+- iol_code: MLT
+  iol_name: Malta
+  participants:
+  summary_1: Malta has never participated in the IOL.
+  summary_2: They have sent 0 participant in 0 team.
+  summary_3: 
   summary_4: 
 
 - iol_code: MDA

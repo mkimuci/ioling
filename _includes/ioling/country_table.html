@@ -1,0 +1,67 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Code</th>
+			<th>Local Competition</th>
+			<th>Contact</th>
+			<th>†</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for country_item in site.data.ioling.countries %}
+		{% if country_item.active %}
+		<tr>
+			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</td>
+			<td>{{ country_item.iol_code }}</td>
+			<td><a href="{{ country_item.link }}">
+				{% if country_item.abbreviation %}
+				{{ country_item.abbreviation }}, 
+				{% endif %}
+				{% if country_item.selection_local %}
+				{{ country_item.selection_local }}
+				{% else %}
+				{{ country_item.selection_en }}
+				{% endif %}
+			</a></td>
+			<td><a href="mailto:{{ country_item.email }}">✉️</a></td>
+			<td>{% if country_item.accredit_in_progress %}
+				⏳
+				{% else %}
+				{% if country_item.accredit %}
+				✅
+				{% else %}
+				❌
+				{% endif %}
+				{% endif %}
+			</td>
+		</tr>
+		{% endif %}
+		{% endfor %}
+	</tbody>
+</table> 
+
+† <b>Accreditation Status:</b> ✅ = Accredited; ❌ = Not Accredited; ⏳ = Application in Progress. Last updated 19 Feb 2024.
+
+Note: Under exceptional circumstances, two or more entities (“territories”) from the same country may apply to the International Board to be permitted to send separate teams to the IOL. Please refer to Section 2.4 Definitions of Countries of the <a href="/regulations/">Regulations of the International Linguistics Olympiad</a> for further details.
+
+# Previous Participants
+
+<table>
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Code</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for country_item in site.data.ioling.countries %}
+		{% unless country_item.active %}
+		<tr>
+			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</td>
+			<td>{{ country_item.iol_code }}</td>
+		</tr>
+		{% endunless %}
+		{% endfor %}
+	</tbody>
+</table> 

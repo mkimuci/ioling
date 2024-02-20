@@ -18,6 +18,10 @@
   - title: "How to Participate"
     url: "/participation/"
 
+- title: "Countries"
+  url: "/countries/"
+  side: left
+
 - title: "Results"
   url: "/results/"
   side: left
