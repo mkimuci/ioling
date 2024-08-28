@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "国际语奥参赛规则与指南"
-category: about
+
 sitemap: false
 ---
 

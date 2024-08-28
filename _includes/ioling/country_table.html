@@ -1,6 +1,8 @@
+<div class="no-bold-links">
 <table width="100%">
 	<thead>
 		<tr>
+			<th width="1em"></th>
 			<th>Country</th>
 			<th>Code</th>
 			<th>Local Competition</th>
@@ -12,7 +14,8 @@
 		{% for country_item in site.data.ioling.countries %}
 		{% if country_item.active %}
 		<tr>
-			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</td>
+			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /></td>
+			<td>{{ country_item.iol_name }}</td>
 			<td>{{ country_item.iol_code }}</td>
 			<td><a href="{{ country_item.link }}">
 				{% if country_item.abbreviation %}
@@ -40,6 +43,7 @@
 		{% endfor %}
 	</tbody>
 </table> 
+</div>
 
 † <b>Accreditation Status:</b> ✅ = Accredited; ❌ = Not Accredited; ⏳ = Application in Progress. Last updated 19 Feb 2024.
 
@@ -50,6 +54,7 @@ Note: Under exceptional circumstances, two or more entities (“territories”) 
 <table>
 	<thead>
 		<tr>
+			<th width="1em"></th>
 			<th>Country</th>
 			<th>Code</th>
 		</tr>
@@ -58,7 +63,8 @@ Note: Under exceptional circumstances, two or more entities (“territories”) 
 		{% for country_item in site.data.ioling.countries %}
 		{% unless country_item.active %}
 		<tr>
-			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /> {{ country_item.iol_name }}</td>
+			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /></td>
+			<td>{{ country_item.iol_name }}</td>
 			<td>{{ country_item.iol_code }}</td>
 		</tr>
 		{% endunless %}

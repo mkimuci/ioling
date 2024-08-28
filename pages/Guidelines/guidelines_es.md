@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Reglas y directrices de la IOL para los concursantes"
-category: about
+
 sitemap: false
 ---
 

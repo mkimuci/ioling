@@ -88,7 +88,7 @@
 
 - number: 9
   year: 2011
-  country: USA
+  country: United States of America
   city: Pittsburgh
   startDate: July 25
   endDate: July 30
@@ -110,7 +110,7 @@
 
 - number: 11
   year: 2013
-  country: UK
+  country: United Kingdom
   city: Manchester
   startDate: July 22
   endDate: July 26
@@ -216,5 +216,16 @@
   number_of_countries: 38
   number_of_teams: 52
   number_of_participants: 205
+  title: International Linguistics Olympiad
+
+- number: 21
+  year: 2024
+  country: Brazil
+  city: Brasília
+  startDate: July 24
+  endDate: July 30
+  number_of_countries: 38
+  number_of_teams: 52
+  number_of_participants: 206
   title: International Linguistics Olympiad
 

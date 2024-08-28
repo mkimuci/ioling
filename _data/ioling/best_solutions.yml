@@ -196,3 +196,39 @@
   team: Hong Kong
   filename: iol-2023-i-5-best-Tam.en.pdf
   language: English
+- problem: iol-2024-i-1
+  name: Brest Lenarčič
+  country: Slovenia
+  team: Slovenia
+  filename: iol-2024-i-1-best-Lenarcic.sl.pdf
+  language: Slovene
+- problem: iol-2024-i-2
+  name: Matěj Čapka
+  country: Czechia
+  team: Czechia
+  filename: iol-2024-i-2-best-Capka.cs.pdf
+  language: Czech
+- problem: iol-2024-i-3
+  name: Narongrith Artnarongrith
+  country: Thailand
+  team: Thailand
+  filename: iol-2024-i-3-best-Artnarongrith.th.pdf
+  language: Thai
+- problem: iol-2024-i-3
+  name: Tyson Lieu
+  country: Australia
+  team: Australia Warrang
+  filename: iol-2024-i-3-best-Lieu.en.pdf
+  language: English
+- problem: iol-2024-i-3
+  name: Sofia Soto
+  country: Colombia
+  team: Colombia
+  filename: iol-2024-i-3-best-Soto.es.pdf
+  language: Spanish
+- problem: iol-2024-i-5
+  name: Matěj Čapka
+  country: Czechia
+  team: Czechia
+  filename: iol-2024-i-5-best-Capka.cs.pdf
+  language: Czech

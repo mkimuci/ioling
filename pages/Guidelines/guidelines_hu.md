@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL szabályok és útmutatók a versenyzők számára"
-category: about
+
 sitemap: false
 ---
 

@@ -27,7 +27,7 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: TRUE
+  active: FALSE
   accredit_in_progress: 
   accredit: FALSE
   footnote: 
@@ -198,9 +198,9 @@
   selection_local: Olimpiada Lingüística de Costa Rica
   abbreviation: OLCR
   link: https://www.olcostarica.org/
-  active: TRUE
-  accredit_in_progress: TRUE
-  accredit: TRUE
+  active: FALSE
+  accredit_in_progress: FALSE
+  accredit: FALSE
   footnote: 
   poc: OLCR
   email: admin@olcostarica.org
@@ -349,7 +349,7 @@
   selection_en: Hong Kong Linguistics Olympiad
   selection_local: 
   abbreviation: HKLO
-  link: https://polyu.hk/amuVS
+  link: https://www.polyu.edu.hk/cbs/rp2u2/en/research/education-training/hklo/
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -394,6 +394,25 @@
   footnote: 
   poc: Manish Shrivastava
   email: m.shrivastava@iiit.ac.in
+  poc2: 
+  email2: 
+
+- iol_name: Iran
+  official_name: Iran
+  iso_2: IR
+  iso_3: IRN
+  iol_code: IRN
+  flag: ir.png
+  selection_en: 
+  selection_local: 
+  abbreviation: 
+  link: 
+  active: FALSE
+  accredit_in_progress: 
+  accredit: FALSE
+  footnote: 
+  poc: 
+  email: 
   poc2: 
   email2: 
 
@@ -1053,7 +1072,7 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: TRUE
+  active: FALSE
   accredit_in_progress: 
   accredit: FALSE
   footnote: 

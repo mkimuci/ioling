@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Reguli și instrucțiuni pentru participanții la IOL"
-category: about
+
 sitemap: false
 ---
 

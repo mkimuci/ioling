@@ -7,7 +7,13 @@ The {{ site.data.ioling.numbers[include.n].ordinal_uppercase }} {{ site.data.iol
 
 {% assign contest_item = site.data.ioling.full_results | where: "year", include.year | first%}
 
+{% if include.n < 19 %}
 The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest trophies, {{ contest_item.average.gold.size | plus: contest_item.average.silver.size | plus: contest_item.average.bronze.size }} team cups for highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% elsif include.n == 19 %}
+The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest medals, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% elsif include.n > 19 %}
+The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest medals, the Trophy to the country with the highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% endif %}
 
 <nav id="pagination">
     <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>

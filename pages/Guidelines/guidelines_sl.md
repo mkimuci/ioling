@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL pravila in navodila za tekmovalce"
-category: about
+
 sitemap: false
 ---
 

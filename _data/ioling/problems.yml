@@ -1870,7 +1870,6 @@
   author:
     - name: Elysia Warner
     - name: Samuel Ahmed
-  solvers_choice: True
 
 - year: 2021
   round: Individual
@@ -2195,3 +2194,99 @@
   - country: Slovenia
     team: Slovenia
     name: Brest Lenarčič
+
+- year: 2024
+  round: Individual
+  id: iol-2024-i-1
+  name: Koryak
+  number: 1
+  page: 01
+  language:
+    - name: Koryak
+      family: Chukotko–Kamchatkan
+  author:
+    - name: Ivan Derzhanski
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Brest Lenarčič
+
+- year: 2024
+  round: Individual
+  id: iol-2024-i-2
+  name: Hadza
+  number: 2
+  page: 02
+  language:
+    - name: Hadza
+      family: Isolate
+  author:
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: Czechia
+    team: Czechia
+    name: Matěj Čapka
+
+- year: 2024
+  round: Individual
+  id: iol-2024-i-3
+  name: Komnzo
+  number: 3
+  page: 04
+  language:
+    - name: Komnzo
+      family: Yam
+  author:
+    - name: Aida Davletova
+  best_solutions:
+  - country: Thailand
+    team: Thailand
+    name: Narongrith Artnarongrith
+  - country: Australia
+    team: Australia Warrang
+    name: Tyson Lieu
+  - country: Colombia
+    team: Colombia
+    name: Sofia Soto
+  solvers_choice: True
+
+- year: 2024
+  round: Individual
+  id: iol-2024-i-4
+  name: Dâw
+  number: 4
+  page: 05
+  language:
+    - name: Dâw
+      family: Naduhup
+  author:
+    - name: João Henrique Oliveira Fontes
+
+- year: 2024
+  round: Individual
+  id: iol-2024-i-5
+  name: Yanyuwa
+  number: 5
+  page: 06
+  language:
+    - name: Yanyuwa
+      family: Pama–Nyungan
+  author:
+    - name: Dan-Mircea Mirea
+  best_solutions:
+  - country: Czechia
+    team: Czechia
+    name: Matěj Čapka
+
+- year: 2024
+  round: Team
+  id: iol-2024-t-1
+  name: Lexicostatistics
+  number: 1
+  page: 06
+  language:
+    - name: Various
+      family: Various
+  author:
+    - name: Andrey Nikulin
+    - name: Milena Veneva

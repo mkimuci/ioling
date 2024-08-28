@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: head.png
 widget3:
-  title: "Brasília 2024"
+  title: "Taipei 2025"
   url: '/upcoming/'
-  image: brasilia2024.jpg
-  text: '<b>Brasília (Brazil)</b> has been chosen as the host of the 21st International Linguistics Olympiad on July 2024. You can find more information <a href="https://iol2024.org">here</a>.'
+  image: taipei2025.jpg
+  text: '<b>Taipei, Taiwan</b> has been chosen as the host of the 22nd International Linguistics Olympiad in the second half of July 2025. You can find more information <a href="/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -37,8 +37,8 @@ The IOL encourages creativity and imagination and helps participants develop ski
 
 Why not give some of our [past problems](/problems/by_year/) a try and see if you have what it takes to compete in the world's toughest puzzles in language and linguistics?
 
-### Bansko 2023
-The 20th Anniversary IOL, hosted by Bansko, Bulgaria, has successfully concluded on July 29th, 2023. A total of 205 contestants of 52 teams representing 38 countries competed in IOL 2023. You can find more information <a href="/results/2023">here</a>.
+### Brasília 2024
+The Twenty-first IOL, hosted by Brasília, Brazil, has successfully concluded on July 30th, 2024. A total of 206 contestants of 51 teams representing 38 countries and territories competed in IOL 2024. You can find more information <a href="/results/2024">here</a>.
 
 
 <!-- <a href="/sponsorship/">

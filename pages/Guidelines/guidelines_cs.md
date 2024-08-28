@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Pravidla IOL a instrukce pro soutěžící"
-category: about
+
 sitemap: false
 ---
 

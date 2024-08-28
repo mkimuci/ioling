@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "МОЛ: правила та поради учасникам"
-category: about
+
 sitemap: false
 ---
 

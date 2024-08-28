@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL noteikumi un vadlīnijas dalībniekiem"
-category: about
+
 sitemap: false
 ---
 

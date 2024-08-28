@@ -5871,3 +5871,480 @@
         medal: silver
       - name: Darren Su
         medal: bronze
+- year: 2024
+  countries:
+  - country: Australia
+    teams:
+    - team: Australia Meanjin
+      participants:
+      - name: Rory Ambrosius
+        medal: bronze
+      - name: Atako Nakamura
+      - name: Yolanda Liang
+      - name: Mia Braun
+    - team: Australia Warrang
+      participants:
+      - name: Tyson Lieu
+        medal: gold
+      - name: Matthew Gu
+      - name: James Fifield
+      - name: Conrad Liu
+  - country: Belka
+    teams:
+    - team: Belka
+      participants:
+      - name: Nadežda Efremova
+        medal: silver
+      - name: Ekaterina Churkina
+        medal: silver
+      - name: Mixail Nikitin
+        medal: bronze
+      - name: Eleonora Stepanova
+        medal: bronze
+  - country: Brazil
+    teams:
+    - team: Brazil Kûarasy
+      participants:
+      - name: Paulo Portela
+        medal: honorable mentions
+      - name: Pedro Rocha
+      - name: João Guilherme Camilo
+      - name: Sócrates Souto
+    - team: Brazil Îasy
+      participants:
+      - name: Felipe Moraes Barros
+        medal: silver
+      - name: Daiki Ando
+      - name: Luisa Ramscheid Güntert
+      - name: Giovanna Longo
+  - country: Bulgaria
+    teams:
+    - team: Bulgaria 1
+      participants:
+      - name: Magdalena Vigenina
+        medal: bronze
+      - name: Nikolay Georgiev
+        medal: bronze
+      - name: Ivanimira Nedelcheva
+        medal: bronze
+      - name: Theodor Totev
+    - team: Bulgaria 2
+      participants:
+      - name: Nia Dimitrova
+        medal: silver
+      - name: Ani Katelieva
+        medal: bronze
+      - name: Sirma Karadjova
+        medal: bronze
+      - name: Siyana Pavlova
+  - country: Canada Anglophone
+    teams:
+    - team: Canada Moose
+      participants:
+      - name: Marvin Mao
+        medal: silver
+      - name: Aidan Wang
+        medal: honorable mentions
+      - name: Sophia Davis Morris
+      - name: Perry Dai
+  - country: Canada Francophone
+    teams:
+    - team: Canada Castor
+      participants:
+      - name: Jonah Janzen
+      - name: Mingzhe Li
+      - name: Jade Diwan
+      - name: Serine Shin
+  - country: China
+    teams:
+    - team: China Kun
+      participants:
+      - name: Jiang Yiling
+        medal: silver
+      - name: Zhu Yucheng
+        medal: silver
+      - name: Guo Tianyuan
+        medal: honorable mentions
+      - name: Li Zhengze
+    - team: China Qian
+      participants:
+      - name: He Jianxing
+        medal: silver
+      - name: Gui Yijin
+        medal: honorable mentions
+      - name: Liu Jiahong
+        medal: honorable mentions
+      - name: Wen Feiran
+  - country: Colombia
+    teams:
+    - team: Colombia
+      participants:
+      - name: Sofia Soto
+      - name: Margarita Carranza
+      - name: Maria Ramos
+      - name: Mariana Aguirre
+  - country: Czechia
+    teams:
+    - team: Czechia
+      participants:
+      - name: Matěj Čapka
+        medal: silver
+      - name: Richard Dobíšek
+        medal: bronze
+      - name: Miroslav Havel
+        medal: bronze
+      - name: Vít Černý
+  - country: Estonia
+    teams:
+    - team: Estonia
+      participants:
+      - name: Karl-Erik Volberg
+      - name: Margaret Braun
+      - name: Lisette-Liis Loorits
+      - name: Margetta Pajuste
+  - country: Finland
+    teams:
+    - team: Finland
+      participants:
+      - name: Inka Pekkola
+      - name: Emma Suomalainen
+      - name: Terho Thorel
+      - name: Emilia Ovaskainen
+  - country: Germany
+    teams:
+    - team: Germany Eszett
+      participants:
+      - name: Lennart Zenker
+        medal: honorable mentions
+      - name: Stella Heinzelmann
+        medal: honorable mentions
+      - name: Eva Lotte Lindner
+      - name: Tara-Yasmin Heil
+    - team: Germany Umlaut
+      participants:
+      - name: Leonard Kottisch
+        medal: gold
+      - name: Mikhail Iomdin
+        medal: silver
+      - name: Philipp Lörcks
+      - name: Daniel Pahi
+  - country: Hong Kong
+    teams:
+    - team: Hong Kong
+      participants:
+      - name: Wong Tok Shing Henry
+        medal: silver
+      - name: Ji Shu Ching
+        medal: bronze
+      - name: Choi John Nathaniel
+        medal: bronze
+      - name: Lin Cheuk Hang
+        medal: honorable mentions
+  - country: Hungary
+    teams:
+    - team: Hungary Teniszütő
+      participants:
+      - name: Máté Gergely Virág
+        medal: silver
+      - name: Lili Baranyai
+      - name: Flóra Leiszter
+      - name: Júlia Hegedűs
+    - team: Hungary Uborka
+      participants:
+      - name: Rudolf András Virág
+        medal: silver
+      - name: Ágnes Anna Hornok
+      - name: Gergő Holló
+      - name: Pál Czanik
+  - country: India
+    teams:
+    - team: India Green
+      participants:
+      - name: Shrilakshmi Venkatraman
+        medal: bronze
+      - name: Ananya Agarwal
+        medal: honorable mentions
+      - name: H. Jatin Vikash
+      - name: Diya Agrawal
+    - team: India Saffron
+      participants:
+      - name: Animikha Dutta Dhar
+        medal: silver
+      - name: Faraz Ahmed Siddiqui
+        medal: bronze
+      - name: Aadibhav Prasad
+      - name: Pratyush Vempati
+  - country: Iran
+    teams:
+    - team: Iran
+      participants:
+      - name: Farnam Ahmadian
+        medal: honorable mentions
+      - name: Mohammad Hassan Zare Bidaki
+      - name: Amir Mahdi Jamshidiha
+      - name: Sara Toor
+  - country: Ireland
+    teams:
+    - team: Ireland
+      participants:
+      - name: Paddy Clancy
+        medal: honorable mentions
+      - name: Eliška Dvořáková
+      - name: Patrick Chen
+      - name: Dáithí De Buitléir
+  - country: Israel
+    teams:
+    - team: Israel
+      participants:
+      - name: Olya Besova
+        medal: bronze
+      - name: Martha Vogman
+      - name: Lev Ianushevich
+      - name: Roman Roginskii
+  - country: Japan
+    teams:
+    - team: Japan Ninja
+      participants:
+      - name: Ryusei Omiya
+        medal: gold
+      - name: Keisuke Taeda
+        medal: silver
+      - name: Chihiro Hachiya
+        medal: honorable mentions
+      - name: Joji Mushiaki
+    - team: Japan Samurai
+      participants:
+      - name: Satoshi Tsukada
+        medal: bronze
+      - name: Kantetsu Oh
+        medal: bronze
+      - name: Yuji Hokugo
+        medal: bronze
+      - name: Keigo Yoshioka
+  - country: Kazakhstan
+    teams:
+    - team: Kazakhstan
+      participants:
+      - name: Galymzhankyzy Amina
+      - name: Darkhan Poyezkanov
+      - name: Glukhikh Yegor
+      - name: Yessenkulov Yelizar
+  - country: Latvia
+    teams:
+    - team: Latvia
+      participants:
+      - name: Borislavs Konstantins Kučiks
+      - name: Anna Loseva
+      - name: Maksims Hodosevičs
+      - name: Varvara Gromova
+  - country: Malaysia
+    teams:
+    - team: Malaysia
+      participants:
+      - name: Lim Ming Wen
+      - name: Leang Kar Men
+      - name: Adib Asyraf Bin Abdul Aziz
+      - name: Tan Yu Xuan
+  - country: Malta
+    teams:
+    - team: Malta Maltilinguals
+      participants:
+      - name: Carlo Rossi
+        medal: honorable mentions
+      - name: Jade Xuereb
+      - name: Shanel Cassar
+      - name: Ariana Mccarthy
+  - country: Nepal
+    teams:
+    - team: Nepal
+      participants:
+      - name: Amash Khadka
+      - name: Krish Yadav
+  - country: Netherlands
+    teams:
+    - team: Netherlands
+      participants:
+      - name: Fiona Haarbrink
+      - name: Rens Van Haaster
+      - name: Matthijs Tang
+      - name: Andries Zijlstra
+  - country: Philippines
+    teams:
+    - team: Philippines
+      participants:
+      - name: Sandrene Rylie Sy
+      - name: Rainier Roi Tayam
+      - name: Erika Fiel Danac
+      - name: Maddigan Hailey Sy
+  - country: Poland
+    teams:
+    - team: Poland Chrząszcze
+      participants:
+      - name: Natalia Rewaj
+        medal: bronze
+      - name: Ignacy Jackl
+        medal: bronze
+      - name: Jakub Korzeniewicz
+      - name: Iwo Miśkowiak
+    - team: Poland Świerszcze
+      participants:
+      - name: Urszula Wąsiewicz
+        medal: gold
+      - name: Anna Bryłowska
+        medal: gold
+      - name: Krzysztof Lalicki
+        medal: honorable mentions
+      - name: Nina Borowiec
+        medal: honorable mentions
+  - country: Republic of Korea
+    teams:
+    - team: Korea Dal
+      participants:
+      - name: Gangrae Kim
+        medal: silver
+      - name: Jaehyun Lee
+        medal: honorable mentions
+      - name: Sihoo Lee
+      - name: Seoyeon Ku
+    - team: Korea Hae
+      participants:
+      - name: Gyuhwa Lee
+        medal: silver
+      - name: Nayoon Goo
+        medal: bronze
+      - name: Solyeop Kim
+        medal: honorable mentions
+      - name: Ahreum Ryu
+  - country: Romania
+    teams:
+    - team: Romania 1
+      participants:
+      - name: Matei Chirilă
+        medal: silver
+      - name: Elena Păvăloaia
+        medal: bronze
+      - name: Ioana-Steliana Barbu
+        medal: honorable mentions
+      - name: Ioana Stănoiu
+    - team: Romania 2
+      participants:
+      - name: Luiza-Teodora Mihai
+        medal: gold
+      - name: Karina-Adriana Stăncescu
+        medal: silver
+      - name: Mihaela Anghel
+        medal: silver
+      - name: Sergiu Manea
+        medal: honorable mentions
+  - country: Singapore
+    teams:
+    - team: Singapore
+      participants:
+      - name: Yutong Heng
+        medal: honorable mentions
+      - name: Cheng Dylan Shiying
+      - name: Tan Junheng
+      - name: Jaeden Soon Chuankai
+  - country: Slovenia
+    teams:
+    - team: Slovenia
+      participants:
+      - name: Brest Lenarčič
+        medal: gold
+      - name: Patricia Király
+        medal: silver
+      - name: Bruno Žižmund
+      - name: Nives Gošnjak
+  - country: Sweden
+    teams:
+    - team: Sweden Mård
+      participants:
+      - name: William Eriksson
+      - name: Markus Farnebäck
+      - name: Allan Ismail
+      - name: Moaaz Saad
+    - team: Sweden Älg
+      participants:
+      - name: Adam Ahlberg
+        medal: bronze
+      - name: Elvin Runeson
+        medal: honorable mentions
+      - name: Elisabet Xie
+      - name: Jacob Strömgård
+  - country: Switzerland
+    teams:
+    - team: Switzerland
+      participants:
+      - name: Sofia Lundgren
+      - name: Dana Niederhäuser
+      - name: Gavriel Harvey
+      - name: Hanna Balmer
+  - country: Taiwan
+    teams:
+    - team: Taiwan Black Bear
+      participants:
+      - name: Li-Bang Chen
+        medal: silver
+      - name: Po-Hsiang Wang
+        medal: bronze
+      - name: Jen-Chien Hou
+        medal: honorable mentions
+      - name: Cheng-You Ko
+    - team: Taiwan Blue Magpie
+      participants:
+      - name: Eric Wu
+        medal: silver
+      - name: Samantha Kao
+        medal: silver
+      - name: Yu-Chiao Liao
+      - name: Bo-Siang Chen
+  - country: Thailand
+    teams:
+    - team: Thailand
+      participants:
+      - name: Narongrith Artnarongrith
+        medal: gold
+      - name: Tanupat Trakulthongchai
+        medal: bronze
+      - name: Siravit Sriboonjareanchai
+      - name: Pitchayapa Cusinsup
+  - country: Ukraine
+    teams:
+    - team: Ukraine
+      participants:
+      - name: Denys Tereshchenko
+        medal: bronze
+      - name: Ostap Drushchak
+        medal: bronze
+      - name: Oleksandra Gol'Dina
+      - name: Kateryna Berehulyak
+  - country: United Kingdom
+    teams:
+    - team: UK
+      participants:
+      - name: Alison Craig-Greene
+        medal: gold
+      - name: Yipeng Xu
+        medal: gold
+      - name: Zachary Yen
+        medal: bronze
+      - name: Max Fisher-Ayres
+        medal: honorable mentions
+  - country: United States of America
+    teams:
+    - team: USA Blue
+      participants:
+      - name: Deeraj Pothapragada
+        medal: gold
+      - name: Aaron Chai
+      - name: Jonathan Sakunkoo
+      - name: Jonathan Ding
+    - team: USA Red
+      participants:
+      - name: Devin Joe
+        medal: gold
+      - name: Varin Sikka
+        medal: gold
+      - name: Kevin Wang
+        medal: honorable mentions
+      - name: Linus Law

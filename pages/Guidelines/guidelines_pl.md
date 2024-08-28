@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Zasady i wytyczne dla zawodników v IOL"
-category: about
+
 sitemap: false
 ---
 

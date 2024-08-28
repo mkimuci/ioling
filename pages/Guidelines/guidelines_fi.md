@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL:in säännöt ja ohjeet kilpailijoille"
-category: about
+
 sitemap: false
 ---
 

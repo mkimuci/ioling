@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL-i reeglid ja juhised osalejatele"
-category: about
+
 sitemap: false
 ---
 

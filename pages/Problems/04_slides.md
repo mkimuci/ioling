@@ -6,6 +6,11 @@ header:
 title: "Solution Presentations"
 sitemap: false
 category: problems
+widget:
+  title: "Solution Presentations"
+  url: '/problems/slides/'
+  image: 
+  text: "Archive of past solution presentation slides"
 ---
 
 Below you can find the slides used for the solution presentations from each year of the International Linguistics Olympiad.

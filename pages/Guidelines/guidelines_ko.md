@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL 참가자 규정 및 지침"
-category: about
+
 sitemap: false
 ---
 

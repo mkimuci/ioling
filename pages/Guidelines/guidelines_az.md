@@ -4,7 +4,6 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL-Müsabiqə Qaydaları"
-category: about
 sitemap: false
 ---
 

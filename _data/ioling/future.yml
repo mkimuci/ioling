@@ -1,33 +1,25 @@
-- year: 2024
-  city: Brasília
-  country: Brazil
-  flag: /images/flags/br.png
-  poc: Bruno L'Astorina
-  contact: b.lastorina@gmail.com
-  website: https://iol2024.org
-  
 - year: 2025
   city: Taipei
   country: Taiwan
   flag: /images/flags/tw.png
-  poc: TBA
-  contact: 
-  website: 
+  poc: Chenhao Chiu (邱振豪)
+  contact: chenhaochiu@ntu.edu.tw
+  website: N/A
 
 - year: 2026
-  city: 
-  country: TBA
-  flag: TBA
-  poc: TBA
-  contact: 
+  city: Romania
+  country: 
+  flag: /images/flags/ro.png
+  poc: N/A
+  contact: N/A
   website: 
 
 - year: 2027
-  city: 
-  country: TBA
-  flag: TBA
-  poc: TBA
-  contact: 
+  city: Thailand
+  country: 
+  flag: /images/flags/th.png
+  poc: N/A
+  contact: N/A 
   website: 
 
 - year: 2028

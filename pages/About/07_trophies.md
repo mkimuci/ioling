@@ -4,7 +4,7 @@ layout: page-fullwidth
 header:
   image_fullwidth: head.png
 title: "A Tale of Two Trophies"
-category: about
+category: 
 lang: en
 sitemap: false
 ---

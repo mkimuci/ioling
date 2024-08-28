@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "\regtitl"
-category: about
+
 sitemap: false
 ---
 

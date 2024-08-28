@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL-Yarışma Kuralları"
-category: about
+
 sitemap: false
 ---
 

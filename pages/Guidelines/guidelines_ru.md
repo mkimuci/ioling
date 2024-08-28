@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Правила и руководящие принципы для участников МОЛ"
-category: about
+
 sitemap: false
 ---
 

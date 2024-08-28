@@ -3,7 +3,13 @@
 
 {% assign contest_item = site.data.ioling.full_results | where: "year", include.year | first %}
 
+{% if include.year < 2023 %}
 The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest trophies, {{ contest_item.average.gold.size | plus: contest_item.average.silver.size | plus: contest_item.average.bronze.size }} team cups for highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% elsif include.year == 2023 %}
+The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest medals, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% elsif include.year > 2023 %}
+The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest medals, the Trophy to the country with the highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
+{% endif %}
 
 <nav id="pagination">
     <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
@@ -84,6 +90,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 </table>
 {% endif %}
 
+{% if include.year < 2023 %}
 <h3>Individual Contest Team Rankings</h3>
 <table width="100%">
 	<thead>
@@ -123,6 +130,27 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 		{% endfor %}
 	</tbody>
 </table>
+{% elsif include.year > 2023 %}
+<h3>Individual Contest Highest Average Score</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Country</th>
+			<th>Average Score</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for highest_item in contest_item.average.highest %}
+		{% assign flag_country = site.data.ioling.countries | where: "iol_name", highest_item.country | first %}
+		<tr bgcolor="#FFFFFF">
+			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
+			{{ highest_item.country }}</td>
+			<td>{{ highest_item.score }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+{% endif %}
 
 <h3>Team Contest Trophies</h3>
 <table width="100%">

@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL選手向けルール及びガイドライン"
-category: about
+
 sitemap: false
 ---
 

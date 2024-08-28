@@ -4,7 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL regels en richtlijnen voor deelnemers"
-category: about
+
 sitemap: false
 ---
 

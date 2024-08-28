@@ -24,7 +24,11 @@ Total {{ contest_meta.number_of_participants }} contestants of {{ contest_meta.n
 
 {% for country_item in participants_list.countries %}
 {% assign flag_country = site.data.ioling.countries | where: "iol_name", country_item.country | first %}
+{% if country_item.country == "Belka" %}
+<h3>Independent</h3>
+{% else %}
 <h3><a name="{{ country_item.country }}" href="/results/{{ flag_country.iol_code }}"><img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" /> {{ country_item.country }}</a></h3>
+{% endif %}
 <div class="row">
 {% for team_item in country_item.teams %}
 <div class="medium-6 columns">
