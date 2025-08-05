@@ -14,26 +14,24 @@ sitemap: false
 * Harold Somers
 
 ### PC/Jury Chair <a href="mailto:pc.chair@ioling.org" target="_blank" class="icon-mail" title="PC/Jury Chair"></a>
-* André Nikulin (2024)
+* Dan-Mircea Mirea (2026)
 
 ### Secretary to Problem Committee
-* Liam McKnight
+* Eimear McKnight
 
 ### Local Organizing Chairs
-* Robert Teare (2022)
-* Aleksandar Velinov (2023)
-* Bruno L'Astorina (2024)
-* Shu-kai Hsieh (2025)
+* Chenhao Chiu (2025)
+* Roxana Preda (2026)
+* TBA (2027)
 
 ### Funding Chair
-* Lori Levin
+* Cara Greene
 
 ### Public Relations Chair <a href="mailto:contact@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
-* Simona Klemenčič
+* Vlad A. Neacșu
 
 ### Archives and Website <a href="mailto:web@ioling.org" target="_blank" class="icon-mail" title="Website coordinator"></a>
-* Minkyu Kim
+* Tamila Krashtan
 
 ### Local Organizer Liaison
 * Mateja Hrast
-* Aleksandar Velinov

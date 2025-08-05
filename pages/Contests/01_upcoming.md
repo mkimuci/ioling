@@ -7,12 +7,12 @@ subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: taipei2025.jpg
-  text: "<b>Taipei, Taiwan</b> has been chosen as the host of the 22nd International Linguistics Olympiad in the second half of July 2025."
-title: "Taipei 2025"
-teaser: "<b>Taipei, Taiwan</b> has been chosen as the host of the 22nd International Linguistics Olympiad in the second half of July 2025."
+  image: bucharest2026.jpg
+  text: "<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad in late July 2026."
+title: "Bucharest 2026"
+teaser: "<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad in late July 2026."
 image: 
-  title: taipei2025.jpg
+  title: bucharest2026.jpg
 category: contests
 sitemap: false
 ---
@@ -23,15 +23,15 @@ sitemap: false
 
 ## Important Dates
 
+#### Website Launch
+Scheduled for December 2026
+
 #### Requesting new working language*
-Before Jan 31, 2025
+Before Jan 31, 2026
 
 * A new working language means a language that was not present in the previous IOL. Please, note that countries can ask for any language. Asking for a particular language (e.g. English) does **NOT** give an advantage during the contest – all language versions are equal.
 
-The list of the IOL 2024 working languages can be seen on the [IOL 2024 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
-
-#### Requesting new working language*
-Before Jan 31, 2025
+The list of the IOL 2025 working languages can be seen on the [IOL 2025 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
 
 #### Early Bird registration
 TBA

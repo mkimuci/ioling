@@ -1,13 +1,13 @@
 ---
-permalink: /results/DNK/
+permalink: /results/MAC/
 layout: page
 header:
   image_fullwidth: head.png
-title: Denmark
+title: Macau
 category: countries
 results_by_country: true
 sidebar: right
 sitemap: false
 ---
 
-{% include ioling/countries.html iol_code='DNK' %}
+{% include ioling/countries.html iol_code='MAC' %}

@@ -238,7 +238,7 @@
   results:
   - name: Simeon Hellsten
     medal: Silver
-  - name: Liam McKnight
+  - name: Eimear McKnight
     medal: Gold
   - name: Hari Raghava Prasad
     medal: Bronze
@@ -392,7 +392,7 @@
   country: United Kingdom
   team: United Kingdom
   results:
-  - name: Luke Borrel
+  - name: Eleanor Borrel
     medal: Bronze
   - name: Alison Craig-Greene
     medal: Silver
@@ -412,5 +412,57 @@
   - name: Mixail Nikitin
     medal: Bronze
   - name: Eleonora Stepanova
+    medal: Bronze
+
+- year: 2025
+  country: Belka
+  team: Belka
+  results:
+  - name: Ekaterina Churkina
+    medal: Gold
+  - name: Elizaveta Dyatlova
+    medal: Bronze
+  - name: Daria Kukshinova
+    medal: Silver
+  - name: Mixail Nikitin
+    medal: Silver
+
+- year: 2025
+  country: Japan
+  team: Japan Samurai
+  results:
+  - name: Hiroto Yasui
+    medal: Silver
+  - name: Yuki Azuma
+    medal: Silver
+  - name: Ryota Aizawa
+    medal: Silver
+  - name: Yu Matsumoto
+    medal: Silver
+
+- year: 2025
+  country: Taiwan
+  team: Taiwan Black Bear
+  results:
+  - name: Yu-Ning Feng
+    medal: Bronze
+  - name: Ang-Hsuan Yu
+    medal: Silver
+  - name: Yin-Shuo Chang
+    medal: Bronze
+  - name: Po-Yi Chung
+    medal: Bronze
+
+- year: 2025
+  country: United Kingdom
+  team: UK Foot–Strut
+  results:
+  - name: Yipeng Xu
+    medal: Gold
+  - name: James Anderson
+    medal: Silver
+  - name: Zachary Yen
+    medal: Silver
+  - name: Wai Ka Kwan Kevin
     medal: Bronze
 

@@ -6,6 +6,7 @@
 			<th>Country</th>
 			<th>Code</th>
 			<th>Local Competition</th>
+			<th>Abbr.</th>
 			<th>Contact</th>
 			<th>†</th>
 		</tr>
@@ -18,15 +19,15 @@
 			<td>{{ country_item.iol_name }}</td>
 			<td>{{ country_item.iol_code }}</td>
 			<td><a href="{{ country_item.link }}">
-				{% if country_item.abbreviation %}
-				{{ country_item.abbreviation }}, 
-				{% endif %}
 				{% if country_item.selection_local %}
 				{{ country_item.selection_local }}
 				{% else %}
 				{{ country_item.selection_en }}
 				{% endif %}
 			</a></td>
+			<td>{% if country_item.abbreviation %}
+				{{ country_item.abbreviation }}
+				{% endif %}</td>
 			<td><a href="mailto:{{ country_item.email }}">✉️</a></td>
 			<td>{% if country_item.accredit_in_progress %}
 				⏳
@@ -45,27 +46,35 @@
 </table> 
 </div>
 
-† <b>Accreditation Status:</b> ✅ = Accredited; ❌ = Not Accredited; ⏳ = Application in Progress. Last updated 19 Feb 2024.
+† <b>Accreditation Status:</b> ✅ = Accredited; ❌ = Not Accredited; ⏳ = Application in Progress. Last updated 1 Feb 2025.
 
 Note: Under exceptional circumstances, two or more entities (“territories”) from the same country may apply to the International Board to be permitted to send separate teams to the IOL. Please refer to Section 2.4 Definitions of Countries of the <a href="/regulations/">Regulations of the International Linguistics Olympiad</a> for further details.
 
 # Previous Participants
 
-<table>
+<table width="100%">
 	<thead>
 		<tr>
 			<th width="1em"></th>
 			<th>Country</th>
 			<th>Code</th>
+			<th>Status</th>
 		</tr>
 	</thead>
 	<tbody>
 		{% for country_item in site.data.ioling.countries %}
 		{% unless country_item.active %}
+		{% assign result = site.data.ioling.results_by_countries | where: "iol_code", country_item.iol_code | first %}
 		<tr>
 			<td><img class="tinyflag" alt="Flag" src="/images/flags/{{ country_item.flag }}" /></td>
 			<td>{{ country_item.iol_name }}</td>
 			<td>{{ country_item.iol_code }}</td>
+			<td>{% if result %}
+				Last participated in {% assign last_participation = result.participants | last %}
+				{{ last_participation.year | default: "N/A" }}
+				{% else %}
+				N/A
+				{% endif %}</td>
 		</tr>
 		{% endunless %}
 		{% endfor %}

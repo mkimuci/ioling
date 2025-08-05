@@ -1,11 +1,3 @@
-- year: 2025
-  city: Taipei
-  country: Taiwan
-  flag: /images/flags/tw.png
-  poc: Chenhao Chiu (邱振豪)
-  contact: chenhaochiu@ntu.edu.tw
-  website: N/A
-
 - year: 2026
   city: Romania
   country: 
@@ -15,17 +7,9 @@
   website: 
 
 - year: 2027
-  city: Thailand
-  country: 
+  city: Bangkok
+  country: Thailand
   flag: /images/flags/th.png
-  poc: N/A
-  contact: N/A 
-  website: 
-
-- year: 2028
-  city: 
-  country: TBA
-  flag: TBA
   poc: TBA
   contact: 
   website: 

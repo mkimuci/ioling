@@ -46,9 +46,9 @@
   selection_local: বাংলাদেশ ভাষাবিজ্ঞান অলিম্পিয়াড
   abbreviation: 
   link: https://www.ls-bd.org/
-  active: TRUE
+  active: FALSE
   accredit_in_progress: 
-  accredit: TRUE
+  accredit: FALSE
   footnote: 
   poc: Morshed Ibna Rahman
   email: rahmanmorshed@gmail.com
@@ -80,16 +80,16 @@
   iso_3: BGR
   iol_code: BGR
   flag: bg.png
-  selection_en: Bulgarian National Olympiad in Linguistics
-  selection_local: Олимпиада по математическа лингвистика
+  selection_en: Bulgarian Olympiad in Linguistics
+  selection_local: Олимпиада по лингвистика
   abbreviation: 
-  link: http://linguistics.bg
+  link: https://bgling.math.bas.bg/
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: Aleksandar Velinov
-  email: aleks.velinov@gmail.com
+  poc: Ivan Derzhanski
+  email: iad58g@gmail.com
   poc2: 
   email2: 
 
@@ -185,25 +185,6 @@
   footnote: 
   poc: Maria Losada
   email: director.olimpiadas@uan.edu.co
-  poc2: 
-  email2: 
-
-- iol_name: Costa Rica
-  official_name: Costa Rica
-  iso_2: CR
-  iso_3: CRI
-  iol_code: CRI
-  flag: cr.png
-  selection_en: Linguistics Olympiad of Costa Rica
-  selection_local: Olimpiada Lingüística de Costa Rica
-  abbreviation: OLCR
-  link: https://www.olcostarica.org/
-  active: FALSE
-  accredit_in_progress: FALSE
-  accredit: FALSE
-  footnote: 
-  poc: OLCR
-  email: admin@olcostarica.org
   poc2: 
   email2: 
 
@@ -311,13 +292,13 @@
   selection_en: German Linguistics Olympiad
   selection_local: Deutsche Linguistik-Olympiade
   abbreviation: DOL
-  link: http://www.leibniz-zas.de/linguistik-olympiade.html
+  link: https://linguistikolympiade.de
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: André Meinunger
-  email: meinunger@leibniz-zas.de
+  poc: Nathalie Topaj
+  email: n.topaj@linguistikolympiade.de
   poc2: 
   email2: 
 
@@ -327,16 +308,16 @@
   iso_3: GRC
   iol_code: GRC
   flag: gr.png
-  selection_en: 
-  selection_local: 
+  selection_en: Panhellenic Linguistics Olympiad
+  selection_local: Πανελλήνια Μαθητική Ολυμπιάδα Γλωσσολογίας
   abbreviation: 
-  link: 
-  active: FALSE
+  link: https://linguistics.phil.uoa.gr/panellinia_mathitiki_olympiada_glossologias/
+  active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
-  footnote: 
-  poc: 
-  email: 
+  accredit: TRUE
+  footnote: Greece is chosen through Panhellenic Linguistics Olympiad since 2025.
+  poc: GRLO
+  email: GRLingOlympiad@phil.uoa.gr
   poc2: 
   email2: 
 
@@ -368,7 +349,7 @@
   selection_en: Hungary Linguistics Olympiad
   selection_local: Magyar Nyelvészeti Diákolimpia
   abbreviation: 
-  link: http://ioling.ppke.hu/
+  link: https://www.ioling.hu/
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -403,16 +384,16 @@
   iso_3: IRN
   iol_code: IRN
   flag: ir.png
-  selection_en: 
-  selection_local: 
+  selection_en: Persian Language and Literature Olympiad
+  selection_local: المپیاد زبان و ادبیات فارسی
   abbreviation: 
-  link: 
-  active: FALSE
+  link: https://ysc.medu.gov.ir/
+  active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
+  accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: Bahram Madadi
+  email: bahrammadadi@gmail.com
   poc2: 
   email2: 
 
@@ -460,16 +441,16 @@
   iso_3: ISR
   iol_code: ISR
   flag: il.png
-  selection_en: 
-  selection_local: 
+  selection_en: Israeli Linguistics Olympiad
+  selection_local: האולימפיאדה הישראלית בבלשנות
   abbreviation: 
-  link: 
-  active: FALSE
+  link: https://israel-ling.org/olimpiada#eng
+  active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
+  accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: Israeli Linguistics Olympiad
+  email: linguistics.in.israel@gmail.com
   poc2: 
   email2: 
 
@@ -546,6 +527,25 @@
   footnote: 
   poc: 
   email: 
+  poc2: 
+  email2: 
+
+- iol_name: Macau
+  official_name: Macau
+  iso_2: MO
+  iso_3: MAC
+  iol_code: MAC
+  flag: mo.png
+  selection_en: Macau Linguistics Olympiad
+  selection_local: 澳門奧林匹克語言學
+  abbreviation: MOL
+  link: http://knf.org.hk/
+  active: TRUE
+  accredit_in_progress: 
+  accredit: TRUE
+  footnote: 
+  poc: KNF
+  email: info@knf.org.hk
   poc2: 
   email2: 
 
@@ -688,16 +688,16 @@
   iso_3: PHL
   iol_code: PHL
   flag: ph.png
-  selection_en: 
+  selection_en: Philippine Linguistics Olympiad
   selection_local: 
-  abbreviation: 
-  link: 
-  active: FALSE
+  abbreviation: PhLO
+  link: https://www.facebook.com/PhilippineComputationalLinguistics
+  active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
+  accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: PhLO
+  email: phloinfo@gmail.com 
   poc2: 
   email2: 
 
@@ -729,13 +729,13 @@
   selection_en: Korea Linguistics Olympiad
   selection_local: 한국언어학올림피아드
   abbreviation: KLO
-  link: https://krlo.co.kr
+  link: https://krlo.kr
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
   poc: KLO
-  email: contact@krlo.co.kr
+  email: klo@krlo.kr
   poc2: 
   email2: 
 
@@ -746,9 +746,9 @@
   iol_code: ROU
   flag: ro.png
   selection_en: Romainan National Olympiad in Linguistics
-  selection_local: Olimpiada Naţională de Lingvistică
+  selection_local: Olimpiada Națională de Lingvistică
   abbreviation: 
-  link: https://olimpiadalingvistica.wixsite.com/olimpiadalingvistica
+  link: https://www.facebook.com/olimpiadadelingvistica
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -767,7 +767,7 @@
   selection_en: Moscow Traditional Olympiad in Linguistics
   selection_local: Московская традиционная олимпиада по лингвистике
   abbreviation: 
-  link: http://www.lingling.ru/olymps/mos_olymp/index.php
+  link: https://ling.olimpiada.ru/trad_olymp
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -802,16 +802,16 @@
   iso_3: SGP
   iol_code: SGP
   flag: sg.png
-  selection_en: 
+  selection_en: Singapore Linguistics Olympiad
   selection_local: 
-  abbreviation: 
-  link: 
-  active: FALSE
-  accredit_in_progress: TRUE
-  accredit: FALSE
+  abbreviation: SLO
+  link: https://www.ntu.edu.sg/nie/SLO-2025
+  active: TRUE
+  accredit_in_progress: 
+  accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: Tamisha Tan
+  email: tamishaltan@ntu.edu.sg
   poc2: 
   email2: 
 
@@ -898,7 +898,7 @@
   iol_code: CHE
   flag: ch.png
   selection_en: Swiss Linguistic Olympiad
-  selection_local: 
+  selection_local: Linguistik-Olympiade/Olympiades de Linguistique/Olimpiadi della Linguistica
   abbreviation: 
   link: https://linguistics.olympiad.ch/
   active: TRUE
@@ -919,7 +919,7 @@
   selection_en: Taiwan Olympiad in Linguistics
   selection_local: 語言學奧林匹亞競賽臺灣隊
   abbreviation: TOL
-  link: http://lope.linguistics.ntu.edu.tw/ioltw/
+  link: https://ioltw.github.io/zh
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -958,9 +958,9 @@
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
   link: https://linguisticturkey.com
-  active: TRUE
+  active: FALSE
   accredit_in_progress: 
-  accredit: TRUE
+  accredit: FALSE
   footnote: 
   poc: Sule Soydemir
   email: sulesoydemir@gmail.com

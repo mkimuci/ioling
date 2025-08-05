@@ -14,7 +14,7 @@
 		{% assign year_problems = site.data.ioling.problems | where: "year", contest_item.year %}
 
 			{% for prob_item in year_problems %}
-			{% assign prob_item = site.data.ioling.problems | where: "id", bs_item.problem | first %}
+			{% assign prob_item = site.data.ioling.problems | where: "id", prob_item.problem | first %}
 
 			{% if prob_item.slide %}
 			<tr>
@@ -30,7 +30,7 @@
 					{% endfor %}
 					{% endif %}
 				</td>
-				<td><a href="/slides/{{ prob_item.slide }}">Download</a></td>
+				<td><a href="/slides/{{ prob_item.id }}-slide.pdf">Download</a></td>
 			</tr>
 			{% endif %}
 			{% endfor %}

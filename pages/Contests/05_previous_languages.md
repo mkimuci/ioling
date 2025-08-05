@@ -3,12 +3,12 @@ permalink: /previous_languages/
 layout: page
 header:
   image_fullwidth: head.png
-title: "IOL 2023 working languages"
+title: "IOL 2025 working languages"
 category: 
 sitemap: false
 ---
 
-The list of the working languages of the 20th IOL (IOL 2023 Bansko) is as follows:
+The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) is as follows:
 
 * Bulgarian
 * Chinese (simplified)
@@ -20,10 +20,10 @@ The list of the working languages of the 20th IOL (IOL 2023 Bansko) is as follow
 * Finnish
 * French
 * German
+* Greek
 * Hungarian
 * Japanese
 * Korean
-* Latvian
 * Polish
 * Portuguese (Brazilian)
 * Romanian
@@ -32,5 +32,4 @@ The list of the working languages of the 20th IOL (IOL 2023 Bansko) is as follow
 * Spanish
 * Swedish
 * Thai
-* Turkish
 * Ukrainian

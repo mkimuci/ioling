@@ -1414,7 +1414,7 @@
     name: Kevin Sun
   - country: United Kingdom
     team: UK
-    name: Liam McKnight
+    name: Eimear McKnight
 
 - year: 2016
   round: Individual
@@ -1503,7 +1503,7 @@
     name: Kevin Sun
   - country: United Kingdom
     team: UK
-    name: Liam McKnight
+    name: Eimear McKnight
 
 - year: 2017
   round: Individual
@@ -1898,7 +1898,7 @@
     - name: Ikwerre
       family: Atlantic-Congo
   author:
-    - name: Liam McKnight
+    - name: Eimear McKnight
   best_solutions:
   - country: Russia
     team: Russia Belka
@@ -1997,7 +1997,7 @@
     - name: Nǀuuki
       family: Tuu
   author:
-    - name: Liam McKnight
+    - name: Eimear McKnight
     - name: Samuel Ahmed
   best_solutions:
   - country: Czechia
@@ -2238,17 +2238,14 @@
       family: Yam
   author:
     - name: Aida Davletova
+  solvers_choice: True
   best_solutions:
-  - country: Thailand
-    team: Thailand
-    name: Narongrith Artnarongrith
   - country: Australia
     team: Australia Warrang
     name: Tyson Lieu
-  - country: Colombia
-    team: Colombia
-    name: Sofia Soto
-  solvers_choice: True
+  - country: Thailand
+    team: Thailand
+    name: Narongrith Artnarongrith
 
 - year: 2024
   round: Individual
@@ -2274,9 +2271,9 @@
   author:
     - name: Dan-Mircea Mirea
   best_solutions:
-  - country: Czechia
-    team: Czechia
-    name: Matěj Čapka
+  - country: Colombia
+    team: Colombia
+    name: Sofia Soto
 
 - year: 2024
   round: Team
@@ -2290,3 +2287,115 @@
   author:
     - name: Andrey Nikulin
     - name: Milena Veneva
+  best_solutions:
+  - country: Slovenia
+    team: Slovenia
+    name: Brest Lenarčič
+
+- year: 2025
+  round: Individual
+  id: iol-2025-i-1
+  name: Dzongkha
+  number: 1
+  page: 01
+  language:
+    - name: Dzongkha
+      family: Sino-Tibetan
+  author:
+    - name: Vlad A. Neacșu
+  solvers_choice: True
+  best_solutions:
+  - country: Belka
+    team: Belka
+    name: Ekaterina Churkina
+  - country: Thailand
+    team: Thailand
+    name: Tananon Kinthorn
+
+- year: 2025
+  round: Individual
+  id: iol-2025-i-2
+  name: Gaahmg
+  number: 2
+  page: 02
+  language:
+    - name: Gaahmg
+      family: Eastern Sudanic
+  author:
+    - name: David Hultman
+  best_solutions:
+  - country: United Kingdom
+    team: UK Trap–Bath
+    name: Max Fisher-Ayres
+
+- year: 2025
+  round: Individual
+  id: iol-2025-i-3
+  name: Kuria
+  number: 3
+  page: 03
+  language:
+    - name: Kuria
+      family: Atlantic-Congo
+  author:
+    - name: Eimear McKnight
+  best_solutions:
+  - country: Germany
+    team: Germany Umlaut
+    name: Leonard Kottisch
+
+- year: 2025
+  round: Individual
+  id: iol-2025-i-4
+  name: Kewa
+  number: 4
+  page: 04
+  language:
+    - name: Kewa
+      family: Trans–New Guinea
+  author:
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: Republic of Korea
+    team: Korea Sol
+    name: Jaehyun Lee
+
+- year: 2025
+  round: Individual
+  id: iol-2025-i-5
+  name: Kaqchikel
+  number: 5
+  page: 05
+  language:
+    - name: Kaqchikel
+      family: Mayan
+  author:
+    - name: Dan-Mircea Mirea
+  best_solutions:
+  - country: Hong Kong
+    team: Hong Kong Siu Mai
+    name: Ji Shu Ching
+  - country: Republic of Korea
+    team: Korea Sol
+    name: Jaehyun Lee
+
+- year: 2025
+  round: Team
+  id: iol-2025-t-1
+  name: Camling and Bantawa
+  number: 1
+  page: 01
+  language:
+    - name: Camling
+      family: Kiranti
+    - name: Bantawa
+      family: Kiranti
+  author:
+    - name: Samuel Ahmed
+  best_solutions:
+  - country: Belka
+    team: Belka
+    name: Ekaterina Churkina
+  - country: Thailand
+    team: Thailand
+    name: Tananon Kinthorn
