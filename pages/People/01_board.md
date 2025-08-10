@@ -20,12 +20,13 @@ sitemap: false
 * Eimear McKnight
 
 ### Local Organizing Chairs
+* Bruno L'Astorina (2024)
 * Chenhao Chiu (2025)
 * Roxana Preda (2026)
 * TBA (2027)
 
 ### Funding Chair
-* Cara Greene
+* _vacant_
 
 ### Public Relations Chair <a href="mailto:contact@ioling.org" target="_blank" class="icon-mail" title="Public Relations Chair"></a>
 * Vlad A. Neacșu
