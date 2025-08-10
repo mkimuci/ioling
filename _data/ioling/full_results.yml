@@ -7957,11 +7957,11 @@
         team: Colombia
         country: Colombia
         problem: 5
+
   average:
-      highest:
-      - place: 1
-        score: 53.55
-        country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Czechia
@@ -8027,7 +8027,7 @@
       - name: Aaron Chai
         score: 85.0
         team: USA Blue
-        country: United States
+        country: United States of America
 
       - name: Nikola Nikolov
         score: 85.0
@@ -8047,7 +8047,7 @@
       - name: Devin Joe
         score: 83.0
         team: USA Red
-        country: United States
+        country: United States of America
 
       - name: Ioana-Steliana Barbu
         score: 83.0
@@ -8067,7 +8067,7 @@
       - name: Kyle Zhang
         score: 82.0
         team: USA Red
-        country: United States
+        country: United States of America
 
       - name: Yipeng Xu
         score: 82.0
@@ -8143,7 +8143,7 @@
       - name: Jason Liu
         score: 75.0
         team: USA Blue
-        country: United States
+        country: United States of America
 
       - name: Zachary Yen
         score: 75.0
@@ -8264,7 +8264,7 @@
       - name: Nicla Marabito
         score: 67.0
         team: USA Red
-        country: United States
+        country: United States of America
 
       - name: Andrei Dragu
         score: 67.0
@@ -8314,7 +8314,7 @@
       - name: Nina Stadermann
         score: 64.0
         team: USA Blue
-        country: United States
+        country: United States of America
 
       - name: Máté Gergely Virág
         score: 63.5
@@ -8555,7 +8555,7 @@
       - name: Denys Tereshchenko
         score: 50.0
         team: USA Red
-        country: United States
+        country: United States of America
 
       - name: Ana-Teodora Grigorie
         score: 50.0
@@ -8638,12 +8638,11 @@
         team: Hong Kong Siu Mai
         country: Hong Kong
         problem: 5
-        
+
   average:
-      highest:
-      - place: 1
-        score: 69.94
-        country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Taiwan Blue Magpie

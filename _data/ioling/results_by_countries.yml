@@ -313,6 +313,10 @@
         team: Australia 1
         score: 56
   best_solutions:
+      - year: 2024
+        team: Australia Warrang
+        name: Tyson Lieu
+        problem: 3
       - year: 2023
         team: Australia Scotch
         name: Yijie Wang
@@ -327,7 +331,7 @@
         problem: 2
   summary_1: Australia first competed in the IOL in 2009, and has competed in 16 olympiads. They most recently competed in 2025.
   summary_2: They have sent 101 participants in 26 teams.
-  summary_3: In competition, teams from Australia have brought home 12 medals (2 gold, 4 silver and 6 bronze), 1 silver trophy, 3 best-solution prizes and 11 honorable mentions.
+  summary_3: In competition, teams from Australia have brought home 12 medals (2 gold, 4 silver and 6 bronze), 1 silver trophy, 4 best-solution prizes and 11 honorable mentions.
   summary_4: 
 
 - iol_code: AZE
@@ -2740,9 +2744,14 @@
             - name: Mariana Sarmiento Murcia
             - name: Mariana Aguirre Consuegra
             - name: Tomás José Camacho Niño
+  best_solutions:
+      - year: 2024
+        team: Colombia
+        name: Sofia Soto
+        problem: 5
   summary_1: Colombia first competed in the IOL in 2019, and has competed in 5 olympiads. They most recently competed in 2025.
   summary_2: They have sent 20 participants in 5 teams.
-  summary_3: 
+  summary_3: In competition, teams from Colombia have brought home 1 best-solution prize.
   summary_4: 
 
 - iol_code: CZE
@@ -3060,6 +3069,10 @@
         team: Czechia
         score: 44.9
   best_solutions:
+      - year: 2024
+        team: Czechia
+        name: Matěj Čapka
+        problem: 2
       - year: 2022
         team: Czechia
         name: Matouš Šafránek
@@ -3078,7 +3091,7 @@
         problem: 5
   summary_1: Czechia was one of the original six countries to participate in the IOL, and has competed in 15 olympiads. They most recently competed in 2025.
   summary_2: They have sent 61 participants in 16 teams.
-  summary_3: In competition, teams from Czechia have brought home 21 medals (2 gold, 10 silver and 9 bronze), 2 trophies (1 gold and 1 bronze), 4 best-solution prizes, 12 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from Czechia have brought home 21 medals (2 gold, 10 silver and 9 bronze), 2 trophies (1 gold and 1 bronze), 5 best-solution prizes, 12 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, Czechia has sent 5 Repeat Medalists
 
 - iol_code: DNK
@@ -3972,13 +3985,17 @@
         team: Germany Eszett
         score: 64.5
   best_solutions:
+      - year: 2025
+        team: Germany Umlaut
+        name: Leonard Kottisch
+        problem: 3
       - year: 2010
         team: Germany
         name: Nadine Sedlaczeck
         problem: 3
   summary_1: Germany first competed in the IOL in 2008, and has competed in 11 olympiads. They most recently competed in 2025.
   summary_2: They have sent 56 participants in 14 teams.
-  summary_3: In competition, teams from Germany have brought home 11 medals (1 gold, 5 silver and 5 bronze), 1 best-solution prize, 15 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from Germany have brought home 11 medals (1 gold, 5 silver and 5 bronze), 2 best-solution prizes, 15 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, Germany has sent 2 Repeat Medalists
 
 - iol_code: GRC
@@ -4200,6 +4217,10 @@
       team: Hong Kong EAT
       score: 52.48
   best_solutions:
+      - year: 2025
+        team: Hong Kong Siu Mai
+        name: Ji Shu Ching
+        problem: 5
       - year: 2023
         team: Hong Kong
         name: Tam Lok Hang
@@ -4222,7 +4243,7 @@
         problem: 5
   summary_1: Hong Kong first competed in the IOL in 2019, and has competed in 6 olympiads. They most recently competed in 2025.
   summary_2: They have sent 32 participants in 8 teams.
-  summary_3: In competition, teams from Hong Kong have brought home 14 medals (2 gold, 7 silver and 5 bronze), 1 first-place team cup, 5 best-solution prizes, 5 honorable mentions and 3 team contest honorable mentions.
+  summary_3: In competition, teams from Hong Kong have brought home 14 medals (2 gold, 7 silver and 5 bronze), 1 first-place team cup, 6 best-solution prizes, 5 honorable mentions and 3 team contest honorable mentions.
   summary_4: In addition, Hong Kong has sent 3 Repeat Medalists and 1 Dream Team
 
 - iol_code: HUN
@@ -8182,7 +8203,7 @@
   summary_1: Poland first competed in the IOL in 2004, and has competed in 21 olympiads. They most recently competed in 2025.
   summary_2: They have sent 161 participants in 41 teams.
   summary_3: In competition, teams from Poland have brought home 66 medals (14 gold, 27 silver and 25 bronze), 8 trophies (2 silver and 6 bronze), 14 best-solution prizes, 40 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Poland has sent 8 Repeat Medalists and 2 Dream Teams
+  summary_4: In addition, Poland has sent 9 Repeat Medalists and 2 Dream Teams
 
 - iol_code: KOR
   iol_name: Republic of Korea
@@ -8757,6 +8778,14 @@
         team: Korea Woori
         score: 41
   best_solutions:
+      - year: 2025
+        team: Korea Sol
+        name: Jaehyun Lee
+        problem: 4
+      - year: 2025
+        team: Korea Sol
+        name: Jaehyun Lee
+        problem: 5
       - year: 2021
         team: Korea Nieun
         name: Jinwoo Jeong
@@ -8779,7 +8808,7 @@
         problem: 3
   summary_1: Republic of Korea first competed in the IOL in 2008, and has competed in 17 olympiads. They most recently competed in 2025.
   summary_2: They have sent 136 participants in 34 teams.
-  summary_3: In competition, teams from Republic of Korea have brought home 33 medals (5 gold, 7 silver and 21 bronze), 2 trophies (1 gold and 1 silver), 5 best-solution prizes, 28 honorable mentions and 3 team contest honorable mentions.
+  summary_3: In competition, teams from Republic of Korea have brought home 33 medals (5 gold, 7 silver and 21 bronze), 2 trophies (1 gold and 1 silver), 7 best-solution prizes, 28 honorable mentions and 3 team contest honorable mentions.
   summary_4: In addition, Republic of Korea has sent 3 Repeat Medalists
 
 - iol_code: ROU
@@ -10839,6 +10868,10 @@
         team: Slovenia
         score: 202
   best_solutions:
+      - year: 2024
+        team: Slovenia
+        name: Brest Lenarčič
+        problem: 1
       - year: 2023
         team: Slovenia
         name: Brest Lenarčič
@@ -10865,7 +10898,7 @@
         problem: 2
   summary_1: Slovenia first competed in the IOL in 2008, and has competed in 17 olympiads. They most recently competed in 2025.
   summary_2: They have sent 82 participants in 22 teams.
-  summary_3: In competition, teams from Slovenia have brought home 17 medals (1 gold, 5 silver and 11 bronze), 3 trophies (1 gold and 2 bronze), 6 best-solution prizes, 13 honorable mentions and 1 team contest honorable mention.
+  summary_3: In competition, teams from Slovenia have brought home 17 medals (1 gold, 5 silver and 11 bronze), 3 trophies (1 gold and 2 bronze), 7 best-solution prizes, 13 honorable mentions and 1 team contest honorable mention.
   summary_4: In addition, Slovenia has sent 5 Repeat Medalists
 
 - iol_code: ESP
@@ -11909,9 +11942,18 @@
       - year: 2023
         team: Thailand
         score: 209.5
+  best_solutions:
+      - year: 2025
+        team: Thailand
+        name: Tananon Kinthorn
+        problem: 1
+      - year: 2024
+        team: Thailand
+        name: Narongrith Artnarongrith
+        problem: 3
   summary_1: Thailand first competed in the IOL in 2022, and has competed in 4 olympiads. They most recently competed in 2025.
   summary_2: They have sent 16 participants in 4 teams.
-  summary_3: In competition, teams from Thailand have brought home 6 medals (1 gold, 1 silver and 4 bronze), 1 bronze trophy, 2 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from Thailand have brought home 6 medals (1 gold, 1 silver and 4 bronze), 1 bronze trophy, 2 best-solution prizes, 2 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, Thailand has sent 2 Repeat Medalists
 
 - iol_code: TUR
@@ -12901,6 +12943,10 @@
       team: UK K
       score: 69.89
   best_solutions:
+      - year: 2025
+        team: UK Trap–Bath
+        name: Max Fisher-Ayres
+        problem: 2
       - year: 2022
         team: UK K
         name: William Thomson
@@ -12923,7 +12969,7 @@
         problem: 5
   summary_1: United Kingdom first competed in the IOL in 2009, and has competed in 16 olympiads. They most recently competed in 2025.
   summary_2: They have sent 100 participants in 25 teams.
-  summary_3: In competition, teams from United Kingdom have brought home 53 medals (20 gold, 16 silver and 17 bronze), 6 trophies (2 gold, 1 silver and 3 bronze), 1 first-place team cup, 5 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from United Kingdom have brought home 53 medals (20 gold, 16 silver and 17 bronze), 6 trophies (2 gold, 1 silver and 3 bronze), 1 first-place team cup, 6 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, United Kingdom has sent 9 Repeat Medalists and 5 Dream Teams
 
 - iol_code: USA
@@ -13289,8 +13335,41 @@
             - name: Kevin Wang
               medal: honorable mentions
             - name: Linus Law
+    - year: 2025
+      teams:
+        - team: USA Blue
+          participants:
+            - name: Nina Stadermann
+              medal: bronze
+            - name: Ethan Reames
+            - name: Jason Liu
+              medal: silver
+            - name: Aaron Chai
+              medal: gold
+        - team: USA Red
+          participants:
+            - name: Nicla Marabito
+              medal: bronze
+            - name: Denys Tereshchenko
+              medal: honorable mentions
+            - name: Kyle Zhang
+              medal: gold
+            - name: Devin Joe
+              medal: gold
   individual_contest_medalists:
     gold:
+      - year: 2025
+        team: USA Blue
+        name: Aaron Chai
+        score: 85.0
+      - year: 2025
+        team: USA Red
+        name: Devin Joe
+        score: 83.0
+      - year: 2025
+        team: USA Red
+        name: Kyle Zhang
+        score: 82.0
       - year: 2024
         team: USA Blue
         name: Deeraj Pothapragada
@@ -13388,6 +13467,10 @@
         name: Adam Hesterberg
         score: 90
     silver:
+      - year: 2025
+        team: USA Blue
+        name: Jason Liu
+        score: 75.0
       - year: 2023
         team: USA Red
         name: Deeraj Pothapragada
@@ -13545,6 +13628,14 @@
         name: Morris Alper
         score: 78
     bronze:
+      - year: 2025
+        team: USA Red
+        name: Nicla Marabito
+        score: 67.0
+      - year: 2025
+        team: USA Blue
+        name: Nina Stadermann
+        score: 64.0
       - year: 2023
         team: USA Red
         name: Arul Kolla
@@ -13659,6 +13750,10 @@
         score: 69
   honorable_mentions:
     honorable_mention:
+      - year: 2025
+        team: USA Red
+        name: Denys Tereshchenko
+        score: 50.0
       - year: 2024
         team: USA Red
         name: Kevin Wang
@@ -13951,9 +14046,9 @@
         team: USA 2
         name: Jae-Kyu Lee
         problem: 4
-  summary_1: United States of America first competed in the IOL in 2007, and has competed in 17 olympiads. They most recently competed in 2024.
-  summary_2: They have sent 140 participants in 35 teams.
-  summary_3: In competition, teams from United States of America have brought home 91 medals (24 gold, 39 silver and 28 bronze), 14 trophies (8 gold, 5 silver and 1 bronze), 9 first-place team cups, 22 best-solution prizes, 25 honorable mentions and 3 team contest honorable mentions.
+  summary_1: United States of America first competed in the IOL in 2007, and has competed in 18 olympiads. They most recently competed in 2025.
+  summary_2: They have sent 148 participants in 37 teams.
+  summary_3: In competition, teams from United States of America have brought home 97 medals (27 gold, 40 silver and 30 bronze), 14 trophies (8 gold, 5 silver and 1 bronze), 9 first-place team cups, 22 best-solution prizes, 26 honorable mentions and 3 team contest honorable mentions.
   summary_4: In addition, United States of America has sent 18 Repeat Medalists and 9 Dream Teams
 
 - iol_code: UZB
