@@ -24,7 +24,7 @@ and whereas the art of running contests in solving such problems has, after deca
 
 and whereas international science olympiads are now organised in many fields and universally recognised as an outstanding method for discovering, encouraging and challenging talented young people, the International Linguistics Olympiad (IOL) was devised and instituted on the twenty-second day of the month of December in the year two thousand and two.
 
-2009, revised 2011, 2013, 2015, 2016, 2017, 2019, 2022, 2023, 2024
+2009, revised 2011, 2013, 2015, 2016, 2017, 2019, 2022, 2023, 2024, 2025.
 
 <button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Download</button><br>
 <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
