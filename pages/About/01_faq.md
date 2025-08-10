@@ -16,11 +16,11 @@ If you are about to send a message to IOL via [our contact form](/contact/), ple
 
 The International Linguistics Olympiad (IOL) is a contest for students up to secondary school level where they compete in solving problems based on the scientific study of languages - linguistics. The contest does not involve knowing lots of languages. Participants compete in teams representing their countries. They qualify by winning a national contest, organised by an accredited national organisation. The IOL has certain criteria that need to be met in order for the national organisation to gain accreditation and send a delegation, but IOL is not itself responsible for these individual national contests. Non-accredited delegations may sometimes participate as guests (at the discretion of the hosts), paying full expenses.
 
-This is a document based on common questions and important information concerning the IOL, starting a new contest, applying, accreditation and more. We strongly advised anyone who's interested in this to also read [our rules](/regulations/). Please read this page before writing to us. If you contact us asking for information that is found here, we will take a longer time to get back to you - so please read this before contacting us.
+This is a document based on common questions and important information concerning the IOL, starting a new contest, applying, accreditation and more. We strongly advise anyone who's interested in this to also read [our rules](/regulations/). Please read this page before writing to us. If you contact us asking for information that is found here, we will take a longer time to get back to you - so please read this before contacting us.
 
 ## Questions
 
-#### My country does not have a contest (yet)/is not listed in the menu on IOLs website
+#### My country does not have a contest (yet)/is not listed in the menu on IOL's website
 In order to take part in the international contest, students need to qualify through a national contest. Non-accredited countries can take part for a limited time as guests while they're starting up a contest. However, after 2 years the contest must be accredited. You can read more about starting up a contest and getting accredited below.
 
 > Please note that students __CANNOT PARTICIPATE__ unless they have qualified through an accredited national contest or are associated with a serious enterprise to start one in a country. Students cannot participate on their own. No exceptions. 
@@ -36,11 +36,11 @@ Please remember that a national contest must be open to all students of secondar
 
 There is more information in this document as to how to set up a contest and become an accredited member of the IOL.
 
-#### I have question about a specific country that has a national contest
-Please contact the organisers of that contest directly. The IOL is not responsible for national contests, they are run independently from the IOL. You can find out the websites and contact details at https://ioling.org/local_organizers/.
+#### I have a question about a specific country that has a national contest
+Please contact the organisers of that contest directly. The IOL is not responsible for national contests, they are run independently from the IOL. You can find out the websites and contact details at [https://ioling.org/countries/](/countries/).
 
 #### As a student, how can I participate?
-First, check if your country has a national contest already by viewing the listing https://ioling.org/local_organizers/.  You can only participate in the IOL by qualifying through your national contest.
+First, check if your country has a national contest already by viewing [the listing of countries](/countries/). You can only participate in the IOL by qualifying through your national contest.
 
 All questions about specific national contests need to be directed to said national contest, the IOL does not directly organise the national contests.
 
@@ -59,12 +59,12 @@ It is unfortunate that there is no contest any more in your country, or that it 
 #### Can we start a new national contest?
 Yes. You do not need to seek our approval to start a contest. However, if you seek to become a full accredited member of the IOL, you will need to adhere to our criteria. These are outlined in more detail below.
 
-Until you have a full contest up and running, you may also be able take part as guests. It is up to the local organising committee (LOC) of each year?s international contest how many guests they can accommodate. Please contact them as soon as possible to let them know your intentions.
+Until you have a full contest up and running, you may also be able to take part as guests. It is up to the local organising committee (LOC) of each year's international contest how many guests they can accommodate. Please contact them as soon as possible to let them know your intentions.
 
 #### I'm an international/exchange student/on a gap year abroad, what can I do?
 You should normally participate in the national contest of the country you are in. But if there is no such contest, or you are about to return to your home country, you may be able rather to participate in your home competition. It is up to each national contest to decide how to deal with situations like this, so please contact them directly. The IOL does not administrate the national contests, so we cannot tell you whether you can compete in a certain national contest or not.
 
-Go to https://ioling.org/local_organizers/, click the country you want to compete in, follow the link to their own website for the national contest, find the contact information and send them a message. 
+Go to [https://ioling.org/countries/](/countries/), click the country you want to compete in, follow the link to their own website for the national contest, find the contact information and send them a message. 
 
 
 #### Can I participate in a country’s national contest if I’m not a resident/citizen there?
@@ -74,12 +74,12 @@ Normally, no, but this is up to each national contest to decide, so please conta
 Non-accredited delegations may be allowed to participate as guests for a limited time, only if they represent a serious effort to start a national contest. They are guests and as such are welcome at the discretion of the local Organising committee (LOC) and pay full costs. This is an opportunity that the IOL offers in order to encourage starting up contests. Countries can only make use of this opportunity two years consecutively and participation in the IOL is only allowed if the LOC approves, and the International Board is persuaded that the organisation is bona fide and has a good prospect of becoming an accredited national Organisation.  There is no guarantee that a non-accredited team will be allowed to participate. This has not yet happened, but the IOL grants the LOC the right to make this decision. The LOC of course needs to notify the countries and teams concerned as soon as possible. Non-accredited teams are liable for all their own expenses, including costs of accommodation, and participation in the social programme. 
 
 #### What does it cost to participate?
-Each country's delegation pays for their own transportation cost to the venue, visa fees (where applicable), medical insurance and sundry expenses, and also extra accommodation etc costs for arriving early or staying on after the contest. There is also (since 2010) a registration fee, which goes towards accommodation and board during the contest (5 nights for 1 team leader and 4 participants). This is paid to the LOC. Teams from accredited countries pay lower fees than those from non-accredited countries, who pay full costs. There will also be a higher fee if a country wishes to participate with more than one team. Please see the website for the current contest for more detailed information.
+Each country's delegation pays for their own transportation cost to the venue, visa fees (where applicable), medical insurance and sundry expenses, and also extra accommodation, etc costs for arriving early or staying on after the contest. There is also (since 2010) a registration fee, which goes towards accommodation and board during the contest (5 nights for 1 team leader and 4 participants). This is paid to the LOC. Teams from accredited countries pay lower fees than those from non-accredited countries, who pay full costs. There will also be a higher fee if a country wishes to participate with more than one team. Please see the website for the current contest for more detailed information.
 
 #### Who runs the IOL?
 The IOL has several different bodies: the International Board, the Local Organising Committee (LOC), the Problem Committee (PC), the Jury and the International Organising Committee (IOC). They have different compositions and responsibilities. Knowing about them will help you get answers to your questions quicker.
 
-#### Every year the international contest is in a different country. The organisation and administration surrounding each year’s specific event is carried out by the Local Organising Committee (LOC). They set up the website for each year’s event, manage the registration and other year-specific details. 
+Every year the international contest is in a different country. The organisation and administration surrounding each year’s specific event is carried out by the Local Organising Committee (LOC). They set up the website for each year’s event, manage the registration and other year-specific details. 
 
 The IOL Board handles issues spanning over longer time, such as evaluating new contests, supporting the LOC and coordinating efforts. 
 
@@ -90,15 +90,15 @@ During the IOL, representatives from each country, the Board and Jury meet and t
 If you have questions about the organisation of a specific IOL olympiad or registration, contact the LOC. If you have questions about starting up a new contest, ask the IOL Board. If you have questions about the problem set, ask the Problem Committee. Read the rules for more details on these different bodies.
 
 #### How can I get in contact with the Board of IOL?
-Please use [this contact form](/contact/) for questions concerning the IOL. Do make sure you’ve read through this page though, as the answer to your question may very well be here. For questions regarding details on specific details concerning the IOL of this year, please contact the Local Organising Committee of this year?s IOL.
+Please use [this contact form](/contact/) for questions concerning the IOL. Do make sure you’ve read through this page though, as the answer to your question may very well be here. For questions regarding details on specific details concerning the IOL of this year, please contact the Local Organising Committee of this year's IOL.
 
-For questions concerning specific existing national olympiads, please go to https://ioling.org/local_organizers/ and click the country you want to contact. 
+For questions concerning specific existing national olympiads, please go to [https://ioling.org/countries/](/countries/) and click the country you want to contact. 
 
-#### How do I get in contact with the Local Organising Committee (LOC) of this year?s event?
-On the ioling.org frontpage you will find a link to the website of this year?s IOL, as soon as it exists: https://ioling.org/upcoming/. On that website will be contact information for getting in touch with the LOC.
+#### How do I get in contact with the Local Organising Committee (LOC) of this year's event?
+On the ioling.org frontpage you will find a link to the website of this year's IOL, as soon as it exists: [https://ioling.org/upcoming/](/upcoming/). On that website will be contact information for getting in touch with the LOC.
 
 #### Who runs the national contest in my country?
-Go to https://ioling.org/local_organizers/ to see a list of all countries that have participated in the IOL. You can find your country and links to their website. 
+Go to [https://ioling.org/countries/](/countries/) to see a list of all countries that have participated in the IOL. You can find your country and links to their website. 
 
 #### What are the criteria a national contest has to fulfil in order to be an accredited contest?
 The IOL is not in charge of national contests, but still makes certain demands on how these are constructed in order to be eligible for the IOL. The national accredited contest needs to:
@@ -125,9 +125,8 @@ It may be that for financial reasons, it is private students that are selected i
 #### How does a country get accredited? 
 Accreditation can be sought at any time by contacting the IOL Board, but the deadline of January 1st must be met to guarantee participation in the next Olympiad. The Board evaluates the contest according to our accreditation criteria, see above.
 
-
 #### How do I get in contact with the Board of IOL in order to apply for accreditation?
-You can use our regular contact form or, if you have been in contact with members of the Board previously, you can also contact them directly and they will forward the message to the entire Board for evaluation. Please provide a description of your contest?s organisation and the URL for your website. There is no need for a formal letter.
+You can use our regular contact form or, if you have been in contact with members of the Board previously, you can also contact them directly and they will forward the message to the entire Board for evaluation. Please provide a description of your contest's organisation and the URL for your website. There is no need for a formal letter.
 
 #### What is the difference between registration and accreditation?
 Accreditation is a process by which the IOL Board evaluates your contest according to our criteria: if they are met you may participate in the IOL at lower rates and until further notice. Registration has to do with the year-specific event, and is open to accredited and non-accredited delegations. Accreditation is handled by the Board, registration by the Local Organising Committee (LOC). Different conditions apply for participating in the contest depending on whether you are accredited or not, and the LOC usually discusses such matters with the Board once the registrations come in.
@@ -138,7 +137,7 @@ If you believe that the contest in your country is breaking the rules of the IOL
 #### How can I/we go about starting a national contest in my country?
 In order to start a contest a national organising team of teachers, university staff and/or representatives from the appropriate government body (typically but not necessarily, Ministry of Education) will need to be formed. The organisation of the contest can differ in different countries. Technically the IOL does not require that the contest is sanctioned by the Ministry of Education - though this is commonly done anyway. 
 
-Running a national contest involves constructing problems, or collaborating with other countries on problems, finding the space and time for the students to do the test and scoring the tests fairly. The national contests that exist today do not all work in the same way and are not run by the IOL Board. Some contests take place out in the schools themselves in the first round - this requires close collaboration with many teachers. Other contests takes place at universities or other centres, involving close collaboration with linguists and the individual students themselves and less focus on teachers. Some contests are conducted online with an automatic scoring tool. 
+Running a national contest involves constructing problems, or collaborating with other countries on problems, finding the space and time for the students to do the test and scoring the tests fairly. The national contests that exist today do not all work in the same way and are not run by the IOL Board. Some contests take place out in the schools themselves in the first round - this requires close collaboration with many teachers. Other contests take place at universities or other centres, involving close collaboration with linguists and the individual students themselves and less focus on teachers. Some contests are conducted online with an automatic scoring tool. 
 
 Countries that share a common language sometimes collaborate on producing problem sets and run broadly similar competitions. However, this involves a huge amount of cooperation and coordination to ensure there is no leakage of problems before all the contests have taken place.  There is spontaneous international collaboration in the form of people sharing old problems and translating, but this is only done when it can be assured that it is sufficiently impossible for the contestants to acquire the original problem set before their contest takes place. It is up to each national contest to ensure the security of the problem set, and that cheating is not occurring. Contact the larger mailing list for the IOL and/or countries with whom you share language to learn more.
 
@@ -147,12 +146,12 @@ As long as the contest meets the criteria to be accredited it can be organised i
 Running a national contest usually involves working with secondary school teachers, academics at the universities, not-for-profit Organisations which encourage students to take an interest in science and/or a government body such as the Ministry of Education. It is also usually necessary to seek funds in order to finance the national round as well as fees, flights and other expenses associated with participating in the IOL. If there are complications that result in the national contest not being able to cover the expenses to participate in the IOL and the participants themselves need to seek other funding, this should be notified and discussed with the IOL Board.
 
 #### What languages are the national contests in?
-The national contest needs to be in the language of the majority of the population or the language of education. Contests cannot be restricted to a particular language if this is not the majority language of the population or the language of education. The contest can also, in addition to the majority language/language of education, be held in any other languages that the organisers can comfortably arrange for, such as other widely spoken languages in the country (as long as the problems can be translated fairly). In general, there should be no requirement to speak a foreign language (e.g. English). Note that IOL is _NOT_ a competition of students? foreign language ability.
+The national contest needs to be in the language of the majority of the population or the language of education. Contests cannot be restricted to a particular language if this is not the majority language of the population or the language of education. The contest can also, in addition to the majority language/language of education, be held in any other languages that the organisers can comfortably arrange for, such as other widely spoken languages in the country (as long as the problems can be translated fairly). In general, there should be no requirement to speak a foreign language (e.g. English). Note that IOL is _NOT_ a competition of students' foreign language ability.
 
 If a national contest is not providing the test in the majority language of the education system or the population, this is cause for concern. Please contact the IOL Board if this is the case.
 
 #### What languages can the participants compete in at the international level?
-The participants may compete in the language of their national contest at the international level: that means both receiving the problem set in that language and handing in the solution in it. Participants may also in the individual round compete in another language that is represented in the IOL by another country, for example: one year an Estonian student took the individual competition in Russian. Competitors are not allowed to get the problems in more than one language.
+The participants may compete in the language of their national contest at the international level: that means both receiving the problem set in that language and handing in the solution in it. In the individual round participants may also compete in another language that is represented in the IOL by another country, for example: one year an Estonian student took the individual competition in Russian. Competitors are not allowed to get the problems in more than one language.
 
 The countries who wish to participate need to announce which language they prefer a minimum of ten weeks before the IOL (preferably long before that, especially for a new language). The Problem Committee (PC) consists of expert linguists from a wide variety of backgrounds, with an astonishing range of competence in many languages. No team is obliged or encouraged to work in a foreign language, and, given enough notice, you will almost certainly be allowed to compete at IOL in your own language.
 
@@ -160,7 +159,7 @@ The PC creates the problems and they are scored by the Jury. The PC does not wor
 http://anthology.aclweb.org/W/W13/W13-3404.pdf [in English]
 
 #### What are the problems like?
-The problems can be very varied. They are based on linguistics in some way, and linguistics is a quite broad field. They are always based on a genuine language. There are approximately 7,000 languages in the world: in order to not give an advantage to speakers of any particular language, often the problems are based on one or several of the not so well-known ones and an interesting phenomenon there. Why not have a look at [some sample problems](/problems/samples/)?
+The problems can be very varied. They are based on linguistics in some way, and linguistics is quite a broad field. They are always based on a genuine language. There are approximately 7,000 languages in the world: in order to not give an advantage to speakers of any particular language, often the problems are based on one or several of the not so well-known ones and an interesting phenomenon there. Why not have a look at [some sample problems](/problems/samples/)?
 
 #### Do I need to know about linguistics in order to participate?
 No, not technically - but it’s very useful. The problems are constructed in such a way that all you need to solve the problem is found in the text given to you, you don’t need to know complicated linguistic jargon or terms. However, knowledge of how languages tend to work, and the ways in which they differ from each other, will help you know what to expect, and to explain your answers better. This is not a contest in logical thinking only, we will test your skills at thinking linguistically. We do not expect you to have formal training in linguistics since we know this is not provided at many secondary schools.
@@ -188,7 +187,7 @@ The idea of an International Linguistics Olympiad was proposed in 2002 by Iliyan
 Around that time, there were linguistic olympiads held in Russia, Bulgaria, the Netherlands and the US. The IOL borrowed many of its procedures from the Moscow contest (e.g. that
 there are precisely five problems at the individual contest) and others from Bulgaria (e.g. that there is a team contest as well). Also from the Moscow and Bulgarian contests came the idea of guest participation, that not full members can take part at their own cost, which still exists in the IOL today.
 
-The participating countries of the first contest in 2003 were: Bulgaria, Czech Republic, Estonia, Latvia, the Netherlands and Russia. For a full list of how many countries have taken part each year, please follow [this link](/contests/past contests/).
+The participating countries of the first contest in 2003 were: Bulgaria, Czech Republic, Estonia, Latvia, the Netherlands and Russia. For a full list of how many countries have taken part each year, please follow [this link](/past_contests/).
 
 #### Why was this not around when I was a kid?!
 Are you really sure it wasn’t? It might not have existed, it’s rather new in many places in the world. Why not make a currently young person happy by recommending this to them, or get involved in your own country’s national linguistic olympiad?
@@ -206,7 +205,7 @@ The Jury of the IOL typically consists of a subset of the Problem Committee. The
 The problems are not drafted wholly in one language, so to help authors writing in different languages come up with something consistent, the problem writers use a number of templates (often recurring phrases based on previous problems) which guarantee the translation between languages. 
 
 If you want to read more about how this works, read this:
-Derzhanski, Ivan (2013) Multilingual Editing of Linguistic Problems, In Proceedings of the Fourth Workshop on Teaching NLP and CL, Sofia, Bulgaria: Association for Computational Linguistics 27–34. Avaiable at  http://aclweb.org/anthology/W13-3404. [in English]
+Derzhanski, Ivan (2013) Multilingual Editing of Linguistic Problems, In Proceedings of the Fourth Workshop on Teaching NLP and CL, Sofia, Bulgaria: Association for Computational Linguistics 27–34. Available at  http://aclweb.org/anthology/W13-3404. [in English]
 Ivan Derzhanski is one of the founders of the international contest, a constant member of the Problem Committee and Jury and co-chair of the Board of the IOL. (He is also an impressive polyglot.)
 
 #### How does the multilingual correcting work?
@@ -223,7 +222,7 @@ Yes, this possibility exists and the Problem Committee works hard at making the 
 #### What are the rules during the individual contest at the IOL?
 During the individual contest contestants are sat in a large room together with fellow participants. Each has their own writing space and seat. They should bring pencils, sharpeners and erasers, but paper is provided. They may use coloured pens, but not red coloured pen as this is used by the Jury later. 
 
-The competition takes place under familiar ?exam conditions?. During the entire contest time contestants must be quiet and not disturb their fellow participants. Eating and drinking are allowed, but under the condition that it is done as quietly as possible. The local organisers provide some kind of sustenance during the contest. Most dietary requirements can be catered for if notified in advance.
+The competition takes place under familiar "exam conditions". During the entire contest time contestants must be quiet and not disturb their fellow participants. Eating and drinking are allowed, but under the condition that it is done as quietly as possible. The local organisers provide some kind of sustenance during the contest. Most dietary requirements can be catered for if notified in advance.
 
 The time for the individual contest is normally six hours. During this time contestants are not allowed any contact with anyone else but invigilators and Jury members. That means no contact with fellow participants, team leaders, people in the outside world, books or internet resources. Contestants are to use their skills and the information in the problem set to construct the solutions. Mobile phones, smartphones, tablets, laptops etc are entirely forbidden. Needless to say, anyone found cheating will be disqualified from the contest.
 
