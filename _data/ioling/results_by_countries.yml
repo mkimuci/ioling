@@ -1091,7 +1091,7 @@
               medal: bronze
             - name: Mihaela Koleva
               medal: bronze
-            - name: Alexander Dimitrov
+            - name: Aleksandar Dimitrov
               medal: silver
         - team: Bulgaria 2
           participants:
@@ -1308,7 +1308,7 @@
         score: 53.5
       - year: 2021
         team: Bulgaria 1
-        name: Alexander Dimitrov
+        name: Aleksandar Dimitrov
         score: 54.1
       - year: 2021
         team: Bulgaria 2
@@ -1806,7 +1806,7 @@
   summary_1: Bulgaria was one of the original six countries to participate in the IOL, and has competed in 22 olympiads. They most recently competed in 2025.
   summary_2: They have sent 178 participants in 46 teams.
   summary_3: In competition, teams from Bulgaria have brought home 95 medals (24 gold, 28 silver and 43 bronze), 7 trophies (2 gold, 3 silver and 2 bronze), 3 first-place team cups, 15 best-solution prizes, 26 honorable mentions and 4 team contest honorable mentions.
-  summary_4: In addition, Bulgaria has sent 22 Repeat Medalists and 6 Dream Teams
+  summary_4: In addition, Bulgaria has sent 23 Repeat Medalists and 6 Dream Teams
 
 - iol_code: CAN
   iol_name: Canada
@@ -11539,7 +11539,7 @@
       teams:
         - team: Taiwan Black Bear
           participants:
-            - name: Huang Yen-Hsi
+            - name: Yen-Hsi Huang
               medal: bronze
             - name: Samantha Kao
               medal: silver
@@ -11553,7 +11553,7 @@
             - name: Wang Cheng-Kai
             - name: Chung Chi-En
               medal: bronze
-            - name: Wang Po-Hsiang
+            - name: Po-Hsiang Wang
               medal: bronze
     - year: 2024
       teams:
@@ -11702,11 +11702,11 @@
         score: 62
       - year: 2023
         team: Taiwan Blue Magpie
-        name: Wang Po-Hsiang
+        name: Po-Hsiang Wang
         score: 56.5
       - year: 2023
         team: Taiwan Black Bear
-        name: Huang Yen-Hsi
+        name: Yen-Hsi Huang
         score: 52
       - year: 2021
         team: Taiwan Red Cypress
@@ -11846,7 +11846,7 @@
   summary_1: Taiwan first competed in the IOL in 2013, and has competed in 12 olympiads. They most recently competed in 2025.
   summary_2: They have sent 75 participants in 21 teams.
   summary_3: In competition, teams from Taiwan have brought home 33 medals (2 gold, 16 silver and 15 bronze), 5 trophies (2 gold, 2 silver and 1 bronze), 4 best-solution prizes, 17 honorable mentions and 1 team contest honorable mention.
-  summary_4: In addition, Taiwan has sent 4 Repeat Medalists and 1 Dream Team
+  summary_4: In addition, Taiwan has sent 6 Repeat Medalists and 1 Dream Team
 
 - iol_code: THA
   iol_name: Thailand

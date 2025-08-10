@@ -5733,7 +5733,7 @@
         team: Hong Kong EAT
         country: Hong Kong
 
-      - name: Alexander Dimitrov
+      - name: Aleksandar Dimitrov
         score: 54.1
         team: Bulgaria 1
         country: Bulgaria
@@ -7164,7 +7164,7 @@
         team: China Kun
         country: China
 
-      - name: Wang Po-Hsiang
+      - name: Po-Hsiang Wang
         score: 56.5
         team: Taiwan Blue Magpie
         country: Taiwan
@@ -7204,7 +7204,7 @@
         team: Japan Ninja
         country: Japan
 
-      - name: Huang Yen-Hsi
+      - name: Yen-Hsi Huang
         score: 52
         team: Taiwan Black Bear
         country: Taiwan
@@ -7959,10 +7959,9 @@
         problem: 5
 
   average:
-      highest:
-        - place: 1
-          score: 53.55
-          country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Czechia
@@ -8641,10 +8640,9 @@
         problem: 5
 
   average:
-      highest:
-        - place: 1
-          score: 69.94
-          country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Taiwan Blue Magpie
