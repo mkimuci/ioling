@@ -12,8 +12,8 @@
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: Elisabeth Mayer
-  email: elisabeth.mayer@anu.edu.au
+  poc: Mark Richards
+  email: m.richards@westernsydney.edu.au
   poc2: 
   email2: 
 
@@ -746,15 +746,15 @@
   iol_code: ROU
   flag: ro.png
   selection_en: Romainan National Olympiad in Linguistics
-  selection_local: Olimpiada Națională de Lingvistică
-  abbreviation: 
+  selection_local: Olimpiada de Lingvistică din România
+  abbreviation: OLR
   link: https://www.facebook.com/olimpiadadelingvistica
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: Roxana Dincă
-  email: roxanamdinca@yahoo.com
+  poc: OLR
+  email: olimpiada.lingvistica@gmail.com
   poc2: 
   email2: 
 
@@ -848,8 +848,8 @@
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: 
-  email: 
+  poc: OLE
+  email: olevi26@gmail.com
   poc2: 
   email2: 
 
@@ -958,7 +958,7 @@
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
   link: https://linguisticturkey.com
-  active: FALSE
+  active: TRUE
   accredit_in_progress: 
   accredit: FALSE
   footnote: 
@@ -973,8 +973,8 @@
   iso_3: UKR
   iol_code: UKR
   flag: ua.png
-  selection_en: Kyiv Open Olympiad in Linguistics
-  selection_local: Київська відкрита олімпіада з лінгвістики
+  selection_en: Ukrainian Olympiad in Linguistics
+  selection_local: Українська олімпіада з лінгвістики
   abbreviation: 
   link: https://ling.org.ua
   active: TRUE
