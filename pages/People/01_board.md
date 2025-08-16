@@ -22,8 +22,8 @@ sitemap: false
 ### Local Organizing Chairs
 * Bruno L'Astorina (2024)
 * Chenhao Chiu (2025)
-* Roxana Preda (2026)
-* TBA (2027)
+* Paul Helmer (2026)
+* Pavadee Saisuwan (2027)
 
 ### Funding Chair
 * _vacant_
