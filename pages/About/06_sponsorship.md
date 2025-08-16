@@ -7,16 +7,11 @@ teaser: ""
 permalink: "/sponsorship/"
 ---
 
-## Sponsors
-* Association for Computational Linguistics (ACL)
-
-![ACL Logo](/images/acl.png)
-
 The International Linguistics Olympiad (IOL) is seeking partners and sponsors to help grow the Olympiad globally.  The IOL has several sponsorship options and this is a wonderful opportunity to align your brand with the next generation of linguistic problem-solvers. We aim to keep registration fees low for all participating countries and encourage new countries to join.
 
-Please get in touch with Cara Greene ([cara.greene@adaptcentre.ie](mailto:cara.greene@adaptcentre.ie)) if you or your organisation would like to sponsor the IOL or support your local Olympiad.
+Please get in touch with Lori Levin ([levin@andrew.cmu.edu](mailto:levin@andrew.cmu.edu)) or Cara Greene ([cara.greene@adaptcentre.ie](mailto:cara.greene@adaptcentre.ie)) if you or your organisation would like to sponsor the IOL or support your local Olympiad.
 
-<!-- You can read about the various sponsorship packages in our brochure:
+You can read about the various sponsorship packages in our brochure:
 
 <a class="button radius" href="/brochure/IOL_Sponsorship.pdf">Download (PDF)</a>
 
@@ -26,7 +21,7 @@ Please get in touch with Cara Greene ([cara.greene@adaptcentre.ie](mailto:cara.g
 
 <a href="/brochure/IOL_Sponsorship.pdf">
   ![IOL_Sponsorship-2](/brochure/IOL_Sponsorship-2.png)
-</a> -->
+</a>
 
 ![Call for sponsors](/images/spons.png)
 
