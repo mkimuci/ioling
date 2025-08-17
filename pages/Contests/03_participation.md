@@ -13,13 +13,13 @@ category: contests
 sitemap: false
 ---
 
-Each participating country sends 1-2 teams of four contestants each.  The methods of choosing these contestants and composing the teams differ from country to country; in most cases a country's contestants are chosen from the winners of their national Linguistics Olympiad. Check [here](/local_organizers/) to find out how contestants are chosen in your country.
+Each participating country sends 1-2 teams of four contestants each.  The methods of choosing these contestants and composing the teams differ from country to country; in most cases a country's contestants are chosen from the winners of their national Linguistics Olympiad. Check [here](/countries/) to find out how contestants are chosen in your country.
 
 ### What do I need to do to prepare?
 
 No prior knowledge is necessary to compete at the IOL: every problem is self-contained.
 
-The best preparation possible is to attempt as many past problems as you can.  Start with the [samples](/problems/samples/) if you're new to IOL problems and when you're ready take a stab at our [past problems](/problems/by_year/).  If you've done all those and can't get enough, the [national olympiads](/local_organizers/) below also keep archives of past problems.
+The best preparation possible is to attempt as many past problems as you can.  Start with the [samples](/problems/samples/) if you're new to IOL problems and when you're ready take a stab at our [past problems](/problems/by_year/).  If you've done all those and can't get enough, the [national olympiads](/countries/) below also keep archives of past problems.
 
 ### What if my country doesn't participate?
 
@@ -39,4 +39,4 @@ Below is the complete list of currently accredited countries and regions as of {
 
 ### How is my country's team chosen?
 
-Click [here](/local_organizers/) to see the full list of national competitions. 
+Click [here](/countries/) to see the full list of national competitions. 

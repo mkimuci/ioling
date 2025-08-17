@@ -9,9 +9,9 @@
   title: "Problem Committee"
 
 - name: "Local Organizers"
-  url: "/local_organizers/"
+  url: "/countries/"
   title: "Local Organizers"
 
-- name: "All Participants"
-  url: "/participants/"
-  title: "All Participants"
+#- name: "All Participants"
+#  url: "/participants/"
+#  title: "All Participants"
