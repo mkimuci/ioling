@@ -126,7 +126,7 @@ It may be that for financial reasons, it is private students that are selected i
 Accreditation can be sought at any time by contacting the IOL Board, but the deadline of January 1st must be met to guarantee participation in the next Olympiad. The Board evaluates the contest according to our accreditation criteria, see above.
 
 #### How do I get in contact with the Board of IOL in order to apply for accreditation?
-You can use our regular contact form or, if you have been in contact with members of the Board previously, you can also contact them directly and they will forward the message to the entire Board for evaluation. Please provide a description of your contest's organisation and the URL for your website. There is no need for a formal letter.
+Please contact the IOL Board at [contact@ioling.org](mailto:contact@ioling.org), provide a description of your contest's organisation and the URL to your website.
 
 #### What is the difference between registration and accreditation?
 Accreditation is a process by which the IOL Board evaluates your contest according to our criteria: if they are met you may participate in the IOL at lower rates and until further notice. Registration has to do with the year-specific event, and is open to accredited and non-accredited delegations. Accreditation is handled by the Board, registration by the Local Organising Committee (LOC). Different conditions apply for participating in the contest depending on whether you are accredited or not, and the LOC usually discusses such matters with the Board once the registrations come in.
