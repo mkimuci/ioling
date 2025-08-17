@@ -24,6 +24,7 @@ The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) i
 * Hungarian
 * Japanese
 * Korean
+* Latvian
 * Polish
 * Portuguese (Brazilian)
 * Romanian
@@ -32,4 +33,5 @@ The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) i
 * Spanish
 * Swedish
 * Thai
+* Turkish
 * Ukrainian
