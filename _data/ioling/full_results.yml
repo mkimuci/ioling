@@ -6914,8 +6914,8 @@
 
       - name: Artem Boyko
         score: 88
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Kunaal Chandrashekar
         score: 83.5
@@ -6932,15 +6932,15 @@
         team: Brazil Bem-te-vi
         country: Brazil
 
+      - name: Eleonora Stepanova
+        score: 80.5
+        team: Independent
+        country: Independent
+
       - name: Leonardo Paillo
         score: 80.5
         team: Brazil Bem-te-vi
         country: Brazil
-
-      - name: Eleonora Stepanova
-        score: 80.5
-        team: Belka
-        country: Belka
 
       silver:
       - name: Elena Păvăloaia
@@ -6960,8 +6960,8 @@
 
       - name: Viktoriia Zubkova
         score: 76
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Jordan Chi
         score: 75
@@ -7094,6 +7094,11 @@
         team: USA Blue
         country: United States of America
 
+      - name: Alexander Shlykov
+        score: 60.5
+        team: Independent
+        country: Independent
+
       - name: Merlin Fischer
         score: 60.5
         team: Germany Umlaut
@@ -7103,11 +7108,6 @@
         score: 60.5
         team: Brazil Bem-te-vi
         country: Brazil
-
-      - name: Alexander Shlykov
-        score: 60.5
-        team: Belka
-        country: Belka
 
       - name: Jiang Yiling
         score: 60
@@ -7576,8 +7576,8 @@
 
       - name: Nadežda Efremova
         score: 55.1
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Matěj Čapka
         score: 54.8
@@ -7626,8 +7626,8 @@
 
       - name: Ekaterina Churkina
         score: 53.2
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Mihaela Anghel
         score: 52.8
@@ -7697,8 +7697,8 @@
 
       - name: Mixail Nikitin
         score: 48.4
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Ji Shu Ching
         score: 47.8
@@ -7710,15 +7710,15 @@
         team: Japan Samurai
         country: Japan
 
+      - name: Eleonora Stepanova
+        score: 45.3
+        team: Independent
+        country: Independent
+
       - name: Richard Dobíšek
         score: 45.3
         team: Czechia
         country: Czechia
-
-      - name: Eleonora Stepanova
-        score: 45.3
-        team: Belka
-        country: Belka
 
       - name: Ani Katelieva
         score: 45
@@ -7959,10 +7959,9 @@
         problem: 5
 
   average:
-      highest:
-        - place: 1
-          score: 53.55
-          country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Czechia
@@ -8092,8 +8091,8 @@
 
       - name: Ekaterina Churkina
         score: 80.5
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       silver:
       - name: Kalina Ivanova
@@ -8138,8 +8137,8 @@
 
       - name: Daria Kukshinova
         score: 76.0
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Jason Liu
         score: 75.0
@@ -8153,8 +8152,8 @@
 
       - name: Mixail Nikitin
         score: 75.0
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Yu Matsumoto
         score: 73.5
@@ -8309,8 +8308,8 @@
 
       - name: Elizaveta Dyatlova
         score: 64.5
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
 
       - name: Nina Stadermann
         score: 64.0
@@ -8606,8 +8605,8 @@
 
       best_solution:
       - name: Ekaterina Churkina
-        team: Belka
-        country: Belka
+        team: Independent
+        country: Independent
         problem: 1
 
       - name: Tananon Kinthorn
@@ -8641,10 +8640,9 @@
         problem: 5
 
   average:
-      highest:
-        - place: 1
-          score: 69.94
-          country: United Kingdom
+      gold:
+      silver:
+      bronze:
   team:
       gold:
       - team: Taiwan Blue Magpie

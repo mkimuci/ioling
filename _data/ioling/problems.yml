@@ -2305,8 +2305,8 @@
     - name: Vlad A. Neacșu
   solvers_choice: True
   best_solutions:
-  - country: Belka
-    team: Belka
+  - country: Independent
+    team: Independent
     name: Ekaterina Churkina
   - country: Thailand
     team: Thailand
@@ -2393,8 +2393,8 @@
   author:
     - name: Samuel Ahmed
   best_solutions:
-  - country: Belka
-    team: Belka
+  - country: Independent
+    team: Independent
     name: Ekaterina Churkina
   - country: Thailand
     team: Thailand

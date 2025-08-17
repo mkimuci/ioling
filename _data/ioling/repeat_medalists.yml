@@ -345,7 +345,7 @@
     medal: Silver
 
 - name: Ekaterina Churkina
-  country: Belka
+  country: Independent
   medals:
   - year: 2025
     medal: Gold
@@ -483,7 +483,7 @@
     medal: Bronze
 
 - name: Eleonora Stepanova
-  country: Belka
+  country: Independent
   medals:
   - year: 2023
     medal: Gold
@@ -991,7 +991,7 @@
     medal: Bronze
 
 - name: Mixail Nikitin
-  country: Belka
+  country: Independent
   medals:
   - year: 2025
     medal: Silver

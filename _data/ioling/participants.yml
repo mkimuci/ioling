@@ -5405,18 +5405,6 @@
       - name: Jordan Chi
         medal: silver
       - name: Daniel Zou
-  - country: Belka
-    teams:
-    - team: Belka
-      participants:
-      - name: Viktoriia Zubkova
-        medal: silver
-      - name: Artem Boyko
-        medal: gold
-      - name: Alexander Shlykov
-        medal: bronze
-      - name: Eleonora Stepanova
-        medal: gold
   - country: Brazil
     teams:
     - team: Brazil Bem-te-vi
@@ -5571,6 +5559,18 @@
         medal: silver
       - name: Vilmos Molnár-Szabó
       - name: Hegedűs Júlia
+  - country: Independent
+    teams:
+    - team: Independent
+      participants:
+      - name: Viktoriia Zubkova
+        medal: silver
+      - name: Artem Boyko
+        medal: gold
+      - name: Alexander Shlykov
+        medal: bronze
+      - name: Eleonora Stepanova
+        medal: gold
   - country: India
     teams:
     - team: India 1
@@ -5889,18 +5889,6 @@
       - name: Matthew Gu
       - name: James Fifield
       - name: Conrad Liu
-  - country: Belka
-    teams:
-    - team: Belka
-      participants:
-      - name: Nadežda Efremova
-        medal: silver
-      - name: Ekaterina Churkina
-        medal: silver
-      - name: Mixail Nikitin
-        medal: bronze
-      - name: Eleonora Stepanova
-        medal: bronze
   - country: Brazil
     teams:
     - team: Brazil Kûarasy
@@ -6056,6 +6044,18 @@
       - name: Ágnes Anna Hornok
       - name: Gergő Holló
       - name: Pál Czanik
+  - country: Independent
+    teams:
+    - team: Independent
+      participants:
+      - name: Nadežda Efremova
+        medal: silver
+      - name: Ekaterina Churkina
+        medal: silver
+      - name: Mixail Nikitin
+        medal: bronze
+      - name: Eleonora Stepanova
+        medal: bronze
   - country: India
     teams:
     - team: India Green
@@ -6366,18 +6366,6 @@
       - name: Felix Eibl
       - name: William Chung
       - name: Luke Gerald T Kelman
-  - country: Belka
-    teams:
-    - team: Belka
-      participants:
-      - name: Ekaterina Churkina
-        medal: gold
-      - name: Elizaveta Dyatlova
-        medal: bronze
-      - name: Daria Kukshinova
-        medal: silver
-      - name: Mixail Nikitin
-        medal: silver
   - country: Brazil
     teams:
     - team: Brazil Fêsãw
@@ -6535,6 +6523,18 @@
         medal: honorable mentions
       - name: Máté Gergely Virág
         medal: bronze
+  - country: Independent
+    teams:
+    - team: Independent
+      participants:
+      - name: Ekaterina Churkina
+        medal: gold
+      - name: Elizaveta Dyatlova
+        medal: bronze
+      - name: Daria Kukshinova
+        medal: silver
+      - name: Mixail Nikitin
+        medal: silver
   - country: India
     teams:
     - team: India

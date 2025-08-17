@@ -363,19 +363,6 @@
     medal: Silver
 
 - year: 2023
-  country: Belka
-  team: Belka
-  results:
-  - name: Viktoriia Zubkova
-    medal: Silver
-  - name: Artem Boyko
-    medal: Gold
-  - name: Alexander Shlykov
-    medal: Bronze
-  - name: Eleonora Stepanova
-    medal: Gold
-
-- year: 2023
   country: Brazil
   team: Brazil Bem-te-vi
   results:
@@ -386,6 +373,19 @@
   - name: Everton Albuquerque De Oliveira
     medal: Bronze
   - name: Leonardo Paillo
+    medal: Gold
+
+- year: 2023
+  country: Independent
+  team: Independent
+  results:
+  - name: Viktoriia Zubkova
+    medal: Silver
+  - name: Artem Boyko
+    medal: Gold
+  - name: Alexander Shlykov
+    medal: Bronze
+  - name: Eleonora Stepanova
     medal: Gold
 
 - year: 2023
@@ -402,8 +402,8 @@
     medal: Silver
 
 - year: 2024
-  country: Belka
-  team: Belka
+  country: Independent
+  team: Independent
   results:
   - name: Nadežda Efremova
     medal: Silver
@@ -415,8 +415,8 @@
     medal: Bronze
 
 - year: 2025
-  country: Belka
-  team: Belka
+  country: Independent
+  team: Independent
   results:
   - name: Ekaterina Churkina
     medal: Gold
