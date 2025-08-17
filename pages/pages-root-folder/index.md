@@ -31,7 +31,7 @@ homepage: true
 ---
 # Welcome to the IOL
 
-The International Linguistics Olympiad (IOL) is an annual international competition that brings together secondary school students and experts from various fields of linguistics. Since its inception in 2003, the IOL has been hosted in a different country each summer. The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
+The International Linguistics Olympiad (IOL) is an annual international competition that brings together secondary school students and experts from various fields of linguistics. Since its inception in 2003, the IOL has been hosted in a different country each year, traditionally between late July and mid-August. The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
 
 The IOL encourages creativity and imagination and helps participants develop skills in language analysis and problem-solving. By promoting awareness and understanding of diverse cultures and histories, the competition plays a vital role in nurturing future linguistics experts and contributing to the development of this academic field. No prior knowledge of linguistics or languages is required, as even the most challenging problems only require logical ability, patient work, and a willingness to think outside the box.
 
@@ -62,5 +62,4 @@ Local Organizing Committee (LOC) of the 18th IOL
 
 <div class="infogram-embed" data-id="0f77507f-a368-444a-b809-5306c3cdf1cd" data-type="interactive" data-title="Countries/Regions of the IOL"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"></div>
 
-
-Click [here](/results/by_country/) to find out the full list of the countries/regions that have participated in the IOL.
+To find out who organizes your National Olympiad, click [here](/countries/).
