@@ -7422,10 +7422,6 @@
         country: Hong Kong
         problem: 5
 
-  average:
-      gold:
-      silver:
-      bronze:
   team:
       gold:
       - team: United Kingdom
@@ -7959,9 +7955,11 @@
         problem: 5
 
   average:
-      gold:
-      silver:
-      bronze:
+      highest:
+        - place: 1
+          score: 53.55
+          country: United Kingdom
+
   team:
       gold:
       - team: Czechia
@@ -8640,9 +8638,11 @@
         problem: 5
 
   average:
-      gold:
-      silver:
-      bronze:
+      highest:
+        - place: 1
+          score: 69.94
+          country: United Kingdom
+
   team:
       gold:
       - team: Taiwan Blue Magpie
