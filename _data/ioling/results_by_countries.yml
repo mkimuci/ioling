@@ -1492,12 +1492,12 @@
         name: Zdravko Ivanov
         score: 46
       - year: 2015
-        team: Bulgaria 2
-        name: Radina Dobreva
-        score: 41
-      - year: 2015
         team: Bulgaria 1
         name: Nadezhda Dimitrova
+        score: 41
+      - year: 2015
+        team: Bulgaria 2
+        name: Radina Dobreva
         score: 41
       - year: 2014
         team: Bulgaria 1
@@ -2255,6 +2255,8 @@
             - name: Dezheng Qu
             - name: Yingying Li
             - name: Yuge Li
+        - team: China 2
+          participants:
             - name: Jiabo Feng
             - name: Yu Wang
             - name: Ziheng Zhang
@@ -3941,12 +3943,12 @@
         name: Levente Hartstang
         score: 34.7
       - year: 2021
-        team: Streichholzschächtelchen
-        name: Merlin Fischer
-        score: 32.4
-      - year: 2021
         team: Quietscheentchen
         name: Konrad Jannes Köhler
+        score: 32.4
+      - year: 2021
+        team: Streichholzschächtelchen
+        name: Merlin Fischer
         score: 32.4
       - year: 2021
         team: Quietscheentchen
@@ -9827,12 +9829,12 @@
         name: Tatiana Romanova
         score: 52.7
       - year: 2016
-        team: Russia Strelka
-        name: Daniel Vedeneev
-        score: 52
-      - year: 2016
         team: Russia Belka
         name: Elena Shukshina
+        score: 52
+      - year: 2016
+        team: Russia Strelka
+        name: Daniel Vedeneev
         score: 52
       - year: 2015
         team: Russia 2
@@ -12151,7 +12153,7 @@
               medal: gold
             - name: Denys Tereshchenko
             - name: Uliana Zabolotna
-            - name: Oleksandra Gol'Dina
+            - name: Oleksandra Gol'dina
     - year: 2024
       teams:
         - team: Ukraine
@@ -12160,7 +12162,7 @@
               medal: bronze
             - name: Ostap Drushchak
               medal: bronze
-            - name: Oleksandra Gol'Dina
+            - name: Oleksandra Gol'dina
             - name: Kateryna Berehulyak
     - year: 2025
       teams:

@@ -1406,6 +1406,8 @@
       - name: Dezheng Qu
       - name: Yingying Li
       - name: Yuge Li
+    - team: China 2
+      participants:
       - name: Jiabo Feng
       - name: Yu Wang
       - name: Ziheng Zhang
@@ -5838,7 +5840,7 @@
         medal: gold
       - name: Denys Tereshchenko
       - name: Uliana Zabolotna
-      - name: Oleksandra Gol'Dina
+      - name: Oleksandra Gol'dina
   - country: United Kingdom
     teams:
     - team: United Kingdom
@@ -6316,7 +6318,7 @@
         medal: bronze
       - name: Ostap Drushchak
         medal: bronze
-      - name: Oleksandra Gol'Dina
+      - name: Oleksandra Gol'dina
       - name: Kateryna Berehulyak
   - country: United Kingdom
     teams:
