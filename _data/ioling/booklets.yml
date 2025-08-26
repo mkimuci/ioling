@@ -2588,6 +2588,59 @@
         filename: iol-2025-indiv-prob.ja.pdf
       - language: '한국어'
         filename: iol-2025-indiv-prob.ko.pdf
+    sol:
+      - language: 'Deutsch'
+        filename: iol-2025-indiv-sol.de.pdf
+      - language: 'Eesti'
+        filename: iol-2025-indiv-sol.et.pdf
+      - language: 'English'
+        filename: iol-2025-indiv-sol.en.pdf
+      - language: 'English (US)'
+        filename: iol-2025-indiv-sol.us.pdf
+      - language: 'Español'
+        filename: iol-2025-indiv-sol.es.pdf
+      - language: 'Français'
+        filename: iol-2025-indiv-sol.fr.pdf
+      - language: 'Latviešu'
+        filename: iol-2025-indiv-sol.lv.pdf
+      - language: 'Magyar'
+        filename: iol-2025-indiv-sol.hu.pdf
+      - language: 'Nederlands'
+        filename: iol-2025-indiv-sol.nl.pdf
+      - language: 'Polski'
+        filename: iol-2025-indiv-sol.pl.pdf
+      - language: 'Português (Brasil)'
+        filename: iol-2025-indiv-sol.bl.pdf
+      - language: 'Română'
+        filename: iol-2025-indiv-sol.ro.pdf
+      - language: 'Slovenščina'
+        filename: iol-2025-indiv-sol.sl.pdf
+      - language: 'Suomi'
+        filename: iol-2025-indiv-sol.fi.pdf
+      - language: 'Svenska'
+        filename: iol-2025-indiv-sol.sv.pdf
+      - language: 'Türkçe'
+        filename: iol-2025-indiv-sol.tr.pdf
+      - language: 'Čeština'
+        filename: iol-2025-indiv-sol.cs.pdf
+      - language: 'Ελληνικά'
+        filename: iol-2025-indiv-sol.el.pdf
+      - language: 'Български'
+        filename: iol-2025-indiv-sol.bg.pdf
+      - language: 'Русский'
+        filename: iol-2025-indiv-sol.ru.pdf
+      - language: 'Українська'
+        filename: iol-2025-indiv-sol.uk.pdf
+      - language: 'ไทย'
+        filename: iol-2025-indiv-sol.th.pdf
+      - language: '中文（简体）'
+        filename: iol-2025-indiv-sol.zh.pdf
+      - language: '中文（繁體）'
+        filename: iol-2025-indiv-sol.zt.pdf
+      - language: '日本語'
+        filename: iol-2025-indiv-sol.ja.pdf
+      - language: '한국어'
+        filename: iol-2025-indiv-sol.ko.pdf
   team:
     prob:
       - language: 'Deutsch'
