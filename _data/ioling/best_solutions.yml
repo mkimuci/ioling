@@ -232,3 +232,45 @@
   team: Czechia
   filename: iol-2024-i-5-best-Capka.cs.pdf
   language: Czech
+- problem: iol-2025-i-1
+  name: Ekaterina Churkina
+  country: Independent
+  team: Independent
+  filename: iol-2025-i-1-best-Churkina.ru.pdf
+  language: Russian
+- problem: iol-2025-i-1
+  name: Tananon Kinthorn
+  country: Thailand
+  team: Thailand
+  filename: iol-2025-i-1-best-Kinthorn.th.pdf
+  language: Thai
+- problem: iol-2025-i-2
+  name: Max Fisher-Ayres
+  country: United Kingdom
+  team: UK Trap–Bath
+  filename: iol-2025-i-2-best-Fisher-Ayres.en.pdf
+  language: English
+- problem: iol-2025-i-3
+  name: Leonard Kottisch
+  country: Germany
+  team: Germany Umlaut
+  filename: iol-2025-i-3-best-Kottisch.de.pdf
+  language: German
+- problem: iol-2025-i-4
+  name: Jaehyun Lee
+  country: Republic of Korea
+  team: Korea Sol
+  filename: iol-2025-i-4-best-Lee.ko.pdf
+  language: Korean
+- problem: iol-2025-i-5
+  name: Ji Shu Ching
+  country: Hong Kong
+  team: Hong Kong Siu Mai
+  filename: iol-2025-i-5-best-Ji.en.pdf
+  language: English
+- problem: iol-2025-i-5
+  name: Jaehyun Lee
+  country: Republic of Korea
+  team: Korea Sol
+  filename: iol-2025-i-5-best-Lee.ko.pdf
+  language: Korean
