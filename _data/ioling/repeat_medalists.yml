@@ -376,6 +376,14 @@
   - year: 2008
     medal: Silver
 
+- name: Narongrith Artnarongrith
+  country: Thailand
+  medals:
+  - year: 2024
+    medal: Gold
+  - year: 2025
+    medal: Silver
+
 - name: Pranav Krishna
   country: United States of America
   medals:
@@ -560,14 +568,6 @@
   - year: 2013
     medal: Gold
   - year: 2014
-    medal: Bronze
-
-- name: Narongrith Artnarongrith
-  country: Thailand
-  medals:
-  - year: 2024
-    medal: Gold
-  - year: 2025
     medal: Bronze
 
 - name: Theodor Cucu

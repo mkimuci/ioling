@@ -11889,7 +11889,7 @@
           participants:
             - name: Chawanwit Khwankijnirandorn
             - name: Narongrith Artnarongrith
-              medal: bronze
+              medal: silver
             - name: Tananon Kinthorn
               medal: bronze
             - name: Raphiphach Phanmee
@@ -11900,6 +11900,10 @@
         name: Narongrith Artnarongrith
         score: 59.7
     silver:
+      - year: 2025
+        team: Thailand
+        name: Narongrith Artnarongrith
+        score: 74.0
       - year: 2023
         team: Thailand
         name: Panawat Tiacharoen
@@ -11907,12 +11911,8 @@
     bronze:
       - year: 2025
         team: Thailand
-        name: Narongrith Artnarongrith
-        score: 66.5
-      - year: 2025
-        team: Thailand
         name: Tananon Kinthorn
-        score: 63.0
+        score: 70.0
       - year: 2024
         team: Thailand
         name: Tanupat Trakulthongchai
@@ -11955,7 +11955,7 @@
         problem: 3
   summary_1: Thailand first competed in the IOL in 2022, and has competed in 4 olympiads. They most recently competed in 2025.
   summary_2: They have sent 16 participants in 4 teams.
-  summary_3: In competition, teams from Thailand have brought home 6 medals (1 gold, 1 silver and 4 bronze), 1 bronze trophy, 2 best-solution prizes, 2 honorable mentions and 2 team contest honorable mentions.
+  summary_3: In competition, teams from Thailand have brought home 6 medals (1 gold, 2 silver and 3 bronze), 1 bronze trophy, 2 best-solution prizes, 2 honorable mentions and 2 team contest honorable mentions.
   summary_4: In addition, Thailand has sent 2 Repeat Medalists
 
 - iol_code: TUR

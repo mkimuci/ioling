@@ -8153,6 +8153,11 @@
         team: Independent
         country: Independent
 
+      - name: Narongrith Artnarongrith
+        score: 74.0
+        team: Thailand
+        country: Thailand
+
       - name: Yu Matsumoto
         score: 73.5
         team: Japan Samurai
@@ -8219,6 +8224,11 @@
         team: UK Foot–Strut
         country: United Kingdom
 
+      - name: Tananon Kinthorn
+        score: 70.0
+        team: Thailand
+        country: Thailand
+
       - name: Jigang Jon
         score: 70.0
         team: Korea Beodeul
@@ -8269,11 +8279,6 @@
         team: Romania Basm
         country: Romania
 
-      - name: Narongrith Artnarongrith
-        score: 66.5
-        team: Thailand
-        country: Thailand
-
       - name: Yiling Jiang
         score: 66.5
         team: Canada Moose
@@ -8323,11 +8328,6 @@
         score: 63.5
         team: Bulgaria 2
         country: Bulgaria
-
-      - name: Tananon Kinthorn
-        score: 63.0
-        team: Thailand
-        country: Thailand
 
       - name: Austin Yang
         score: 63.0
