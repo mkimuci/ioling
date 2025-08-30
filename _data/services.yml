@@ -8,6 +8,10 @@
   url: "/pc/"
   title: "Problem Committee"
 
+- name: "Ethics Committee"
+  url: "/ec/"
+  title: "Ethics Committee"
+
 - name: "Local Organizers"
   url: "/countries/"
   title: "Local Organizers"
