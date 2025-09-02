@@ -2422,7 +2422,7 @@
               medal: bronze
             - name: He Jianxing
               medal: silver
-            - name: Jiang Yiling
+            - name: Yiling Jiang
               medal: bronze
             - name: Tong Su
               medal: honorable mentions
@@ -2430,7 +2430,7 @@
       teams:
         - team: China Kun
           participants:
-            - name: Jiang Yiling
+            - name: Yiling Jiang
               medal: silver
             - name: Zhu Yucheng
               medal: silver
@@ -2455,7 +2455,7 @@
     silver:
       - year: 2024
         team: China Kun
-        name: Jiang Yiling
+        name: Yiling Jiang
         score: 53.4
       - year: 2024
         team: China Qian
@@ -2508,7 +2508,7 @@
     bronze:
       - year: 2023
         team: China Qian
-        name: Jiang Yiling
+        name: Yiling Jiang
         score: 60
       - year: 2023
         team: China Qian
@@ -5470,7 +5470,7 @@
       teams:
         - team: Israel
           participants:
-            - name: Olya Besova
+            - name: Olga Besova
               medal: bronze
             - name: Martha Vogman
             - name: Lev Ianushevich
@@ -5492,7 +5492,7 @@
         score: 70.5
       - year: 2024
         team: Israel
-        name: Olya Besova
+        name: Olga Besova
         score: 40.8
       - year: 2023
         team: Israel
@@ -5501,7 +5501,7 @@
   summary_1: Israel first competed in the IOL in 2012, and has competed in 4 olympiads. They most recently competed in 2025.
   summary_2: They have sent 16 participants in 4 teams.
   summary_3: In competition, teams from Israel have brought home 3 bronze medals.
-  summary_4: In addition, Israel has sent 1 Repeat Medalist
+  summary_4: In addition, Israel has sent 2 Repeat Medalists
 
 - iol_code: JPN
   iol_name: Japan
@@ -9482,7 +9482,7 @@
               medal: bronze
             - name: Ivan Samodelkin
               medal: gold
-            - name: Julia Panchenko
+            - name: Yulia Panchenko
               medal: silver
             - name: Ekaterina Voloshinova
               medal: gold
@@ -9693,7 +9693,7 @@
         score: 57
       - year: 2016
         team: Russia Belka
-        name: Julia Panchenko
+        name: Yulia Panchenko
         score: 56
       - year: 2016
         team: Russia Strelka

@@ -854,6 +854,16 @@
   - year: 2018
     medal: Bronze
 
+- name: Yiling Jiang
+  country: China
+  medals:
+  - year: 2024
+    medal: Silver
+  - year: 2023
+    medal: Bronze
+  - year: 2025
+    medal: Bronze
+
 - name: Aleksandra Naydenova
   country: Bulgaria
   medals:
@@ -940,14 +950,6 @@
   - year: 2025
     medal: Silver
   - year: 2024
-    medal: Bronze
-
-- name: Jiang Yiling
-  country: China
-  medals:
-  - year: 2024
-    medal: Silver
-  - year: 2023
     medal: Bronze
 
 - name: Maria Aristova
@@ -1206,6 +1208,14 @@
   - year: 2013
     medal: Bronze
   - year: 2015
+    medal: Bronze
+
+- name: Olga Besova
+  country: Israel
+  medals:
+  - year: 2024
+    medal: Bronze
+  - year: 2025
     medal: Bronze
 
 - name: Olivia Tennisberg
