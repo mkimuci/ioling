@@ -23,7 +23,7 @@ sitemap: false
 * Bruno L'Astorina (2024)
 * Chenhao Chiu (2025)
 * Paul Helmer (2026)
-* Pavadee Saisuwan (2027)
+* Pittayawat Pittayaporn (2027)
 
 ### Funding Chair
 * _vacant_
