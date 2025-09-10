@@ -362,3 +362,63 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+/* board and jury pages */
+.top-indentation { margin-top: 0.5em; }
+
+/* Rotate the arrow when <details> is open (down arrow ▼) */
+details[open] .arrow-after::after {
+  transform: rotate(90deg);
+}
+
+.arrow-after::after {
+  content: "▶";
+  display: inline-block;
+  width: 1em;
+  margin-left: 0.5em;
+  font-size: 0.8em;          /* smaller arrow */
+  transform: rotate(0deg);
+  transition: transform 0.1s ease;
+}
+
+/* Pointer cursor and hover style */
+summary {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+summary:hover {
+  color: #5b3a34;
+}
+
+.photo-with-details,
+.photo-with-name {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5em;              /* space between image and details */
+}
+
+.photo-with-details {
+  align-items: flex-start; /* keeps the image and text aligned at the top */
+  margin-top: 1.0em;
+}
+
+.photo-with-name {
+  align-items: center; /* keeps the image and text aligned at the top */
+  margin-top: 0.8em;
+}
+
+.photo-with-details > div:first-child,
+.photo-with-name > div:first-child {
+  flex-shrink: 0; /* prevent the image container from shrinking */
+}
+
+.photo-with-details img,
+.photo-with-name img {
+  width: 5em;
+  height: 5em;
+  flex: 0 0 5em;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}

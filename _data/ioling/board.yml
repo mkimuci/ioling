@@ -1,0 +1,77 @@
+elected:
+  - role: General Chairs
+    email: chair@ioling.org
+    people:
+      - name: Ivan Derzhanski
+        photo: ivan-derzhanski.jpg
+        qualifications:
+          - Co-creator of IOL;
+          - PC and Jury member of all instalments of IOL to date, thrice PC and Jury chair (IOL1, IOL6, IOL10);
+          - Chair of the jury of all linguistic contests in Bulgaria since 1998, chair of the National Commission for Organising the Olympiad in Linguistics at the Ministry of Education of Bulgaria since 2003;
+          - Jury member at IOI1 and IOI2;
+          - Associate Professor at the Institute of Mathematics and Informatics, Bulgarian Academy of Sciences.
+      - name: Stanislav Gurevich
+        photo: stanislav-gurevich.jpg
+        qualifications:
+          - Team Leader at the IOL1, 2003 (team Russia-St.Petersburg);
+          - PC and Jury member at all installments of the IOL since the IOL2 in 2004, PC and Jury Chair at IOL11 (Manchester, 2013);
+          - One of the co-founders (1996) and one of the chief organizers of linguistics olympiad in St. Petersburg (1996-2015);
+          - One of the founders (2013-2014) and permanent problem set coordinator of the National Linguistics Olympiad in Spain;
+          - Founder (2001) and permanent OC Chair of the International Summer Linguistics School in Narva-Jõesuu, Estonia;
+          - Teacher of several languages as well as different linguistics courses for high-school students since 1993.
+  - role: Secretary
+    people:
+      - name: Harold Somers
+        photo: harold-somers.jpg
+        qualifications:
+          - Chief examiner, All Ireland Linguistics Olympiad, Dublin City University, 2009 to present;
+          - Emeritus Professor of Language Engineering, University of Manchester, UK.
+  - role: Funding Chair
+  - role: Public Relations Chair
+    email: contact@ioling.org
+    people:
+      - name: Vlad A. Neacșu
+        photo: vlad-neacsu.jpg
+        qualifications:
+          - IOL Contestant (IOL12, IOL13), IOL Volunteer (IOL17), Team Leader of Hong Kong at the IOL (IOL18-21);
+          - Creator of the APLO Joint Training, member of the APLO Board and Jury (since 2021), chair of APLO jury (2022, 2023, 2025);
+          - Jury member of different national Olympiads (Brazil - 2022, China - 2022, 2023, India - 2023, Romania - since 2015, Hong Kong - since 2020, Moldova - since 2022, UK - since 2023);
+          - Scientific Researcher at the UNST Politehnica Bucharest, Romania.
+  - role: Archives and Website
+    email: web@ioling.org
+    people:
+      - name: Tamila Krashtan
+        photo: tamila-krashtan.jpg
+        qualifications:
+          - Volunteer at IOL13, Team Leader of Ukraine at IOL14-present;
+          - Co-chair of the Ukrainian Linguistics Olympiad;
+          - Member of the APLO jury since 2019;
+          - Software engineer developing conversational AI solutions.
+  - role: Local Organizer Liaison
+    people:
+      - name: Mateja Hrast
+        qualifications:
+          - Contestant at IOL9, Volunteer at IOL10,11,13, Organizer IOL14-present;
+          - Head of the PC of Slovenian Logic and Linguistics Olympiad;
+          - Postdoctoral researcher at Institute of Science and Technology Austria.
+appointed:
+  - role: Local Organizing Chairs
+    people:
+      - name: Bruno L’Astorina
+        photo: bruno-l'astorina.jpg
+        note: 2024
+      - name: Chenhao Chiu
+        note: 2025
+      - name: Paul Helmer
+        note: 2026
+      - name: Pittayawat Pittayaporn
+        note: 2027
+  - role: PC/Jury Chair
+    email: pc.chair@ioling.org
+    people:
+      - name: Dan-Mircea Mirea
+        photo: dan-mircea-mirea.jpg
+        note: 2026
+  - role: Secretary to Problem Committee
+    people:
+      - name: Eimear McKnight

@@ -1,0 +1,45 @@
+<hr>
+<h3>Elected Members</h3>
+<hr>
+
+{% for position in site.data.ioling.board.elected %}
+<h4>{{ position.role }} {% if position.email %} <a href="{{ position.email }}" target="_blank" class="icon-mail" title="{{ position.role }}"></a>{% endif %}</h4>
+{% if position.people %}
+<div>
+{% for member in position.people %}
+<div class="photo-with-details">
+    <div>{% if member.photo %}<img src="/images/people/{{ member.photo }}" />{% else %}<img src="/images/people/placeholder.jpg" />{% endif %}</div>
+    <div>
+    <details>
+        <summary class="arrow-after"><strong>{{ member.name }}</strong></summary>
+        <ul>
+            {% for qualification in member.qualifications %}
+            <li>{{ qualification }}</li>
+            {% endfor %}
+        </ul>
+    </details></div>
+</div>
+{% endfor %}
+</div>
+{% else %}
+<div class="top-indentation"><i>vacant</i></div>
+{% endif %}
+{% endfor %}
+
+<hr>
+<h3>Appointed Members</h3>
+<hr>
+
+{% for position in site.data.ioling.board.appointed %}
+<h4>{{ position.role }} {% if position.email %} <a href="{{ position.email }}" target="_blank" class="icon-mail" title="{{ position.role }}"></a>{% endif %}</h4>
+{% if position.people %}
+{% for member in position.people %}
+<div class="photo-with-name">
+<div>{% if member.photo %}<img src="/images/people/{{ member.photo }}" />{% else %}<img src="/images/people/placeholder.jpg" />{% endif %}</div>
+<div><strong>{{ member.name }}</strong>{% if member.note %} ({{member.note}}) {% endif %}</div>
+</div>
+{% endfor %}
+{% else %}
+<div class="top-indentation"><i>vacant</i></div>
+{% endif %}
+{% endfor %}
