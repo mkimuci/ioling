@@ -24,7 +24,7 @@ sitemap: false
 ## Important Dates
 
 #### Website Launch
-Scheduled for December 2026
+Scheduled for December 2025
 
 #### Requesting new working language*
 Before Jan 31, 2026

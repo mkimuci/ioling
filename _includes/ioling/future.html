@@ -16,10 +16,13 @@
 			<td>{{ contest_item.city }}{% if contest_item.country %}, {{ contest_item.country }}{% endif %}
 			{% if contest_item.flag %} <img class="tinyflag" alt="Flag" src="{{ contest_item.flag }}" />{% endif %}
 			</td>
-			<td>{{ contest_item.poc }} 
-				{% if contest_item.contact %}
-				<<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>>
-				{% endif %}
+			<td>{% if contest_item.poc %}
+					{{ contest_item.poc }}
+					{% if contest_item.contact %}
+					<<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>>
+					{% endif %}
+				{% else %}
+				<a href="mailto:{{ contest_item.contact }}">{{ contest_item.contact }}</a>{% endif %}
 			</td>
 			{% if contest_item.website %}
 			<td><a href="{{ contest_item.website }}">Link</a></td>
