@@ -5665,6 +5665,14 @@
       - name: Lim Ming Wen
         medal: honorable mentions
       - name: Chin Yong Hong
+  - country: Moldova
+    teams:
+    - team: Moldova
+      participants:
+      - name: Jelihovschi Alexandra
+      - name: Draguțan Mirela
+      - name: Sîrbu Cristian
+      - name: Andrea Ghimpu
   - country: Nepal
     teams:
     - team: Nepal
@@ -5727,14 +5735,6 @@
         medal: gold
       - name: Jaehyeon Kim
       - name: Wonjoon Jung
-  - country: Republic of Moldova
-    teams:
-    - team: Republic of Moldova
-      participants:
-      - name: Jelihovschi Alexandra
-      - name: Draguțan Mirela
-      - name: Sîrbu Cristian
-      - name: Andrea Ghimpu
   - country: Romania
     teams:
     - team: Romania 1

@@ -6734,6 +6734,14 @@
             - name: Alina Jumir
             - name: Andrea Ghimpu
             - name: Delia Malcoci
+    - year: 2023
+      teams:
+        - team: Moldova
+          participants:
+            - name: Jelihovschi Alexandra
+            - name: Draguțan Mirela
+            - name: Sîrbu Cristian
+            - name: Andrea Ghimpu
     - year: 2025
       teams:
         - team: Moldova
@@ -6753,8 +6761,8 @@
         team: Moldova
         name: Alexandra Jelihovschi
         problem: 4
-  summary_1: Moldova first competed in the IOL in 2022, and has competed in 2 olympiads. They most recently competed in 2025.
-  summary_2: They have sent 8 participants in 2 teams.
+  summary_1: Moldova first competed in the IOL in 2022, and has competed in 3 olympiads. They most recently competed in 2025.
+  summary_2: They have sent 12 participants in 3 teams.
   summary_3: In competition, teams from Moldova have brought home 1 best-solution prize and 1 honorable mention.
   summary_4: 
 
