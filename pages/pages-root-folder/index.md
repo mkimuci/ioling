@@ -11,7 +11,7 @@ widget3:
   title: "Bucharest 2026"
   url: '/upcoming/'
   image: bucharest2026.jpg
-  text: '<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad in late July 2026. You can find more information <a href="/upcoming">here</a>.'
+  text: '<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad from July 26th to August 2nd, 2026. You can find more information <a href="/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
