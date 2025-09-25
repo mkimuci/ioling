@@ -330,13 +330,13 @@
   selection_en: Hong Kong Linguistics Olympiad
   selection_local: 
   abbreviation: HKLO
-  link: https://www.polyu.edu.hk/cbs/rp2u2/en/research/education-training/hklo/
+  link: https://www.polyu.edu.hk/fh/study/hklo/
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
   poc: Hong Kong Linguistics Olympiad
-  email: hklinguisticsolympiad@gmail.com
+  email: hklo.fh@polyu.edu.hk
   poc2: 
   email2: 
 
@@ -482,13 +482,13 @@
   selection_en: a nationwide competition organised by Daryn Republican Scientific and Practical center
   selection_local: Республикалық олимпиада
   abbreviation: KazLO
-  link: http://daryn.kz/olympiads/viewall
+  link: https://daryn.kz/resp-ol-lingvist/
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: Daryn
-  email: daryn.intel@gmail.com
+  poc: KazLO
+  email: kazling.contact@gmail.com
   poc2: 
   email2: 
 
