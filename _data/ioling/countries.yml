@@ -957,10 +957,10 @@
   selection_en: Turkish National Linguistics Olympiad
   selection_local: Ulusal Linguistik Olimpiyatı
   abbreviation: 
-  link: https://linguisticturkey.com
+  link: https://linguisticturkey.wordpress.com/
   active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
+  accredit: TRUE
   footnote: 
   poc: Sule Soydemir
   email: sulesoydemir@gmail.com
