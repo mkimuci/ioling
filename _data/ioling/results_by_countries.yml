@@ -4039,7 +4039,7 @@
   summary_4: 
 
 - iol_code: HKG
-  iol_name: Hong Kong
+  iol_name: Hong Kong, China
   participants:
     - year: 2019
       teams:
@@ -4069,7 +4069,7 @@
               medal: bronze
     - year: 2022
       teams:
-        - team: Hong Kong
+        - team: Hong Kong, China
           participants:
             - name: Wong Tok Shing Henry
               medal: bronze
@@ -4079,7 +4079,7 @@
             - name: Samantha Yung
     - year: 2023
       teams:
-        - team: Hong Kong
+        - team: Hong Kong, China
           participants:
             - name: Tam Lok Hang
               medal: gold
@@ -4090,7 +4090,7 @@
             - name: Lo Cheuk Yi Ryan
     - year: 2024
       teams:
-        - team: Hong Kong
+        - team: Hong Kong, China
           participants:
             - name: Wong Tok Shing Henry
               medal: silver
@@ -4123,7 +4123,7 @@
   individual_contest_medalists:
     gold:
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         score: 96.5
       - year: 2021
@@ -4136,19 +4136,19 @@
         name: Ji Shu Ching
         score: 73.0
       - year: 2024
-        team: Hong Kong
+        team: Hong Kong, China
         name: Wong Tok Shing Henry
         score: 56.3
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Zhang Yixuan
         score: 73.5
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Wong Tok Shing Henry
         score: 70.5
       - year: 2022
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         score: 58.2
       - year: 2021
@@ -4165,15 +4165,15 @@
         name: Lin Cheuk Hang
         score: 66.0
       - year: 2024
-        team: Hong Kong
+        team: Hong Kong, China
         name: Ji Shu Ching
         score: 47.8
       - year: 2024
-        team: Hong Kong
+        team: Hong Kong, China
         name: Choi John Nathaniel
         score: 44.6
       - year: 2022
-        team: Hong Kong
+        team: Hong Kong, China
         name: Wong Tok Shing Henry
         score: 45.2
       - year: 2021
@@ -4199,19 +4199,19 @@
         name: Chiu Pak Hei
         score: 47.5
       - year: 2024
-        team: Hong Kong
+        team: Hong Kong, China
         name: Lin Cheuk Hang
         score: 33.7
   team_contest_honorable_mentions:
     honorable_mention:
       - year: 2024
-        team: Hong Kong
+        team: Hong Kong, China
         score: 63
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         score: 212
       - year: 2022
-        team: Hong Kong
+        team: Hong Kong, China
         score: 53.8
   individual_contest_team_average_scores:
     first:
@@ -4224,29 +4224,29 @@
         name: Ji Shu Ching
         problem: 5
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         problem: 2
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         problem: 3
       - year: 2023
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         problem: 5
       - year: 2022
-        team: Hong Kong
+        team: Hong Kong, China
         name: Tam Lok Hang
         problem: 4
       - year: 2022
-        team: Hong Kong
+        team: Hong Kong, China
         name: Wong Tok Shing Henry
         problem: 5
-  summary_1: Hong Kong first competed in the IOL in 2019, and has competed in 6 olympiads. They most recently competed in 2025.
+  summary_1: Hong Kong, China first competed in the IOL in 2019, and has competed in 6 olympiads. They most recently competed in 2025.
   summary_2: They have sent 32 participants in 8 teams.
-  summary_3: In competition, teams from Hong Kong have brought home 14 medals (2 gold, 7 silver and 5 bronze), 1 first-place team cup, 6 best-solution prizes, 5 honorable mentions and 3 team contest honorable mentions.
-  summary_4: In addition, Hong Kong has sent 3 Repeat Medalists and 1 Dream Team
+  summary_3: In competition, teams from Hong Kong, China have brought home 14 medals (2 gold, 7 silver and 5 bronze), 1 first-place team cup, 6 best-solution prizes, 5 honorable mentions and 3 team contest honorable mentions.
+  summary_4: In addition, Hong Kong, China has sent 3 Repeat Medalists and 1 Dream Team
 
 - iol_code: HUN
   iol_name: Hungary

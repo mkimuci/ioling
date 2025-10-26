@@ -3,7 +3,7 @@ permalink: /results/HKG/
 layout: page
 header:
   image_fullwidth: head.png
-title: Hong Kong
+title: Hong Kong, China
 category: countries
 results_by_country: true
 sidebar: right

@@ -2034,8 +2034,8 @@
   - country: Australia
     team: Australia 
     name: Eunsu Choi
-  - country: Hong Kong
-    team: Hong Kong
+  - country: Hong Kong, China
+    team: Hong Kong, China
     name: Tam Lok Hang
   - country: Japan
     team: Japan Samurai
@@ -2064,8 +2064,8 @@
   - country: Bulgaria
     team: Bulgaria 2
     name: Konstantin Georgiev
-  - country: Hong Kong
-    team: Hong Kong
+  - country: Hong Kong, China
+    team: Hong Kong, China
     name: Wong Tok Shing Henry
   slide: iol-2022-i-5-slide.pdf
 
@@ -2125,8 +2125,8 @@
     - name: Ksenia Gilyarova
   solvers_choice: True
   best_solutions:
-  - country: Hong Kong
-    team: Hong Kong
+  - country: Hong Kong, China
+    team: Hong Kong, China
     name: Tam Lok Hang
   slide: iol-2023-i-2-slide.pdf
 
@@ -2142,8 +2142,8 @@
   author:
     - name: David Hultman
   best_solutions:
-  - country: Hong Kong
-    team: Hong Kong
+  - country: Hong Kong, China
+    team: Hong Kong, China
     name: Tam Lok Hang
   slide: iol-2023-i-3-slide.pdf
 
@@ -2183,8 +2183,8 @@
   - country: China
     team: China Qian
     name: He Jianxing
-  - country: Hong Kong
-    team: Hong Kong
+  - country: Hong Kong, China
+    team: Hong Kong, China
     name: Tam Lok Hang
   - country: Ukraine
     team: Ukraine
@@ -2402,7 +2402,7 @@
   author:
     - name: Dan-Mircea Mirea
   best_solutions:
-  - country: Hong Kong
+  - country: Hong Kong, China
     team: Hong Kong Siu Mai
     name: Ji Shu Ching
   - country: Republic of Korea

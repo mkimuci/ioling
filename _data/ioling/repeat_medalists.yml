@@ -245,7 +245,7 @@
     medal: Silver
 
 - name: Tam Lok Hang
-  country: Hong Kong
+  country: Hong Kong, China
   medals:
   - year: 2023
     medal: Gold
@@ -669,7 +669,7 @@
     medal: Bronze
 
 - name: Wong Tok Shing Henry
-  country: Hong Kong
+  country: Hong Kong, China
   medals:
   - year: 2023
     medal: Silver
@@ -945,7 +945,7 @@
     medal: Bronze
 
 - name: Ji Shu Ching
-  country: Hong Kong
+  country: Hong Kong, China
   medals:
   - year: 2025
     medal: Silver

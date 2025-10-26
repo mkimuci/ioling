@@ -102,8 +102,8 @@
   language: Hungarian
 - problem: iol-2022-i-4
   name: Ian Tam
-  country: Hong Kong
-  team: Hong Kong
+  country: Hong Kong, China
+  team: Hong Kong, China
   filename: iol-2022-i-4-best-Tam.en.pdf
   language: English
 - problem: iol-2022-i-4
@@ -132,8 +132,8 @@
   language: Bulgarian
 - problem: iol-2022-i-5
   name: Henry Wong
-  country: Hong Kong
-  team: Hong Kong
+  country: Hong Kong, China
+  team: Hong Kong, China
   filename: iol-2022-i-5-best-Wong.en.pdf
   language: English
 - problem: iol-2023-i-1
@@ -156,14 +156,14 @@
   language: English
 - problem: iol-2023-i-2
   name: Ian Tam
-  country: Hong Kong
-  team: Hong Kong
+  country: Hong Kong, China
+  team: Hong Kong, China
   filename: iol-2023-i-2-best-Tam.en.pdf
   language: English
 - problem: iol-2023-i-3
   name: Ian Tam
-  country: Hong Kong
-  team: Hong Kong
+  country: Hong Kong, China
+  team: Hong Kong, China
   filename: iol-2023-i-3-best-Tam.en.pdf
   language: English
 - problem: iol-2023-i-4
@@ -192,8 +192,8 @@
   language: Ukrainian
 - problem: iol-2023-i-5
   name: Ian Tam
-  country: Hong Kong
-  team: Hong Kong
+  country: Hong Kong, China
+  team: Hong Kong, China
   filename: iol-2023-i-5-best-Tam.en.pdf
   language: English
 - problem: iol-2024-i-1
@@ -264,8 +264,8 @@
   language: Korean
 - problem: iol-2025-i-5
   name: Ji Shu Ching
-  country: Hong Kong
-  team: Hong Kong Siu Mai
+  country: Hong Kong, China
+  team: Hong Kong, Siu Mai
   filename: iol-2025-i-5-best-Ji.en.pdf
   language: English
 - problem: iol-2025-i-5

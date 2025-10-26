@@ -5710,7 +5710,7 @@
       - name: Xie Lingrui
         score: 58
         team: Hong Kong EAT
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Mihai-Alexandru Bratu
         score: 57.9
@@ -5731,7 +5731,7 @@
       - name: Tam Lok Hang
         score: 54.5
         team: Hong Kong EAT
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Aleksandar Dimitrov
         score: 54.1
@@ -5751,7 +5751,7 @@
       - name: Ip Tsz Oi
         score: 52.8
         team: Hong Kong EAT
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Leonid Zaitsev
         score: 52.4
@@ -5867,7 +5867,7 @@
       - name: Ng Truman Toby
         score: 44.6
         team: Hong Kong EAT
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Matic Petek
         score: 43.8
@@ -6237,7 +6237,7 @@
       - place: 1
         average: 52.48
         team: Hong Kong EAT
-        country: Hong Kong
+        country: Hong Kong, China
 
       silver:
       - place: 2
@@ -6344,8 +6344,8 @@
       silver:
       - name: Tam Lok Hang
         score: 58.2
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Kunaal Chandrashekar
         score: 58.1
@@ -6470,8 +6470,8 @@
 
       - name: Wong Tok Shing Henry
         score: 45.2
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Olivia Tennisberg
         score: 44.5
@@ -6792,8 +6792,8 @@
         problem: 4
 
       - name: Tam Lok Hang
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
         problem: 4
 
       - name: Konstantin Georgiev
@@ -6802,8 +6802,8 @@
         problem: 5
 
       - name: Wong Tok Shing Henry
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
         problem: 5
 
   average:
@@ -6862,8 +6862,8 @@
         country: Republic of Korea
         score: 53.8
 
-      - team: Hong Kong
-        country: Hong Kong
+      - team: Hong Kong, China
+        country: Hong Kong, China
         score: 53.8
 
       - team: Czechia
@@ -6884,8 +6884,8 @@
       gold:
       - name: Tam Lok Hang
         score: 96.5
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Ryusei Omiya
         score: 93.5
@@ -6975,8 +6975,8 @@
 
       - name: Zhang Yixuan
         score: 73.5
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: He Jianxing
         score: 72
@@ -6990,8 +6990,8 @@
 
       - name: Wong Tok Shing Henry
         score: 70.5
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Wojciech Szot
         score: 69.5
@@ -7388,13 +7388,13 @@
         problem: 1
 
       - name: Tam Lok Hang
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
         problem: 2
 
       - name: Tam Lok Hang
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
         problem: 3
 
       - name: Michał Napieralski
@@ -7418,8 +7418,8 @@
         problem: 5
 
       - name: Tam Lok Hang
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
         problem: 5
 
   team:
@@ -7455,8 +7455,8 @@
         country: Brazil
         score: 214
 
-      - team: Hong Kong
-        country: Hong Kong
+      - team: Hong Kong, China
+        country: Hong Kong, China
         score: 212
 
       - team: Thailand
@@ -7552,8 +7552,8 @@
 
       - name: Wong Tok Shing Henry
         score: 56.3
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Marvin Mao
         score: 56.1
@@ -7698,8 +7698,8 @@
 
       - name: Ji Shu Ching
         score: 47.8
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Yuji Hokugo
         score: 47.7
@@ -7728,8 +7728,8 @@
 
       - name: Choi John Nathaniel
         score: 44.6
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Magdalena Vigenina
         score: 44.4
@@ -7919,8 +7919,8 @@
 
       - name: Lin Cheuk Hang
         score: 33.7
-        team: Hong Kong
-        country: Hong Kong
+        team: Hong Kong, China
+        country: Hong Kong, China
 
       - name: Paulo Portela
         score: 33.4
@@ -7993,8 +7993,8 @@
         country: Thailand
         score: 64
 
-      - team: Hong Kong
-        country: Hong Kong
+      - team: Hong Kong, China
+        country: Hong Kong, China
         score: 63
 
       - team: China Qian
@@ -8181,7 +8181,7 @@
       - name: Ji Shu Ching
         score: 73.0
         team: Hong Kong Siu Mai
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Sirma Karadjova
         score: 73.0
@@ -8302,7 +8302,7 @@
       - name: Lin Cheuk Hang
         score: 66.0
         team: Hong Kong Siu Mai
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Sophia Davis Morris
         score: 65.5
@@ -8458,7 +8458,7 @@
       - name: Yeung Kin Cheong
         score: 57.0
         team: Hong Kong Siu Mai
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Ostap Drushchak
         score: 56.5
@@ -8528,7 +8528,7 @@
       - name: Kong Yiu Wang Jayden
         score: 52.5
         team: Hong Kong Fish Ball
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Veronika Havlová
         score: 52.5
@@ -8578,7 +8578,7 @@
       - name: Theo Lomone
         score: 48.0
         team: Hong Kong Fish Ball
-        country: Hong Kong
+        country: Hong Kong, China
 
       - name: Mihail Boshov
         score: 48.0
@@ -8598,7 +8598,7 @@
       - name: Chiu Pak Hei
         score: 47.5
         team: Hong Kong Siu Mai
-        country: Hong Kong
+        country: Hong Kong, China
 
 
       best_solution:
@@ -8634,7 +8634,7 @@
 
       - name: Ji Shu Ching
         team: Hong Kong Siu Mai
-        country: Hong Kong
+        country: Hong Kong, China
         problem: 5
 
   average:
