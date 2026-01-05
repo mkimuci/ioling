@@ -24,7 +24,7 @@ sitemap: false
 ## Important Dates
 
 #### Website Launch
-Scheduled for December 2025
+Launched in January 2026: [https://iol2026.ioling.org/](https://iol2026.ioling.org/)
 
 #### Requesting new working language*
 Before Jan 31, 2026
