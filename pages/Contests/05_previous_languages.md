@@ -15,7 +15,8 @@ The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) i
 * Chinese (traditional)
 * Czech
 * Dutch
-* English
+* English (American)
+* English (British)
 * Estonian
 * Finnish
 * French
