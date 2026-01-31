@@ -422,3 +422,40 @@ summary:hover {
   object-fit: cover;
   display: block;
 }
+
+.pc-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  margin-top: 1.6em;
+}
+
+.pc-members .photo-with-details {
+  width: calc(50% - 0.75em);
+  margin-top: 0;
+}
+
+.pc-member-bio {
+  margin-top: 0.6em;
+  margin-bottom: 0.4em;
+}
+
+.pc-member-website {
+  margin-top: 0.2em;
+}
+
+.pc-title {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.pc-past-heading {
+  margin-top: 2.4em;
+  margin-bottom: 0.8em;
+}
+
+@media only screen and (max-width: 64em) {
+  .pc-members .photo-with-details {
+    width: 100%;
+  }
+}

@@ -1,0 +1,181 @@
+current:
+  - name: Dan-Mircea Mirea
+    role: Chair
+    photo: dan-mircea-mirea.jpg
+    member-since: 2019
+    iol-contestant: 2014 and 2015
+    bio: PhD candidate in Psychology at Princeton University, Bachelor's and Masters' from University of Cambridge. Romanian LO member since 2015, and former Chair of the Romanian PC. Linguistics & psychology content creator @danniesbrain on TikTok and Instagram. Avid singer, fan of board games, and pop/internet culture enthusiast.
+    website: www.dan-mirea.com
+  - name: Elysia Warner
+    role: Vice-chair
+    photo: elysia-warner.jpeg
+    member-since: 2018
+    iol-contestant: 2013 and 2014
+    bio: UKLO committee member since 2014. Studied Chinese and Linguistics at the University of Cambridge. Now a civil servant who enjoys knitting, cryptic crosswords, and Bollywood dance.
+  - name: Eimear McKnight
+    role: Secretary to the Board
+    member-since: 2019
+    iol-contestant: 2015, 2016, 2017 and 2018
+    bio: PhD student in Linguistics at Queen Mary University of London researching syntax and sociolinguistics of trans & non-binary communities, and UKLO Problem Committee member.
+  - name: Ivan Derzhanski
+    role: Problem Set Editor
+    photo: ivan-derzhanski.jpg
+    member-since: 2003
+    bio: PhD (Cognitive Science, Edinburgh). Associate professor (Institute for Mathematics and Informatics, Bulgarian Academy of Sciences); does research in theoretical linguistics, lectures in computational linguistics, natural language processing and Python programming. Singlehandedly in charge of the Olympiad in Linguistics in Bulgaria (since 1998). Co-founder of IOL (2003).
+  - name: Aleksejs Peguševs
+    role: Grading Coordinator
+    photo: aleksejs-pegushevs.jpg
+    member-since: 2012
+    iol-contestant: 2008, 2009 and 2010
+    bio: Composer of music and linguistic problems, educator, mind sports athlete (mainly competitive Carcassonne). Masters in Linguistics from University of Oxford (2018) and Masters in Music from Sibelius Academy, Finland (2017).
+  - name: Alexander Piperski
+    role: Tech Coordinator
+    photo: alexander-piperski.jpg
+    member-since: 2006
+    iol-contestant: 2004 and 2005
+    bio: Moscow Traditional Linguistics Olympiad and APLO committee member. Senior lecturer at the Slavic Department at Stockholm University, research fellow at the Сhair of Computational Сorpus Linguistics at Friedrich-Alexander-University Erlangen-Nuremberg. Fond of public transport and cannoli siciliani.
+  - name: Aida Davletova
+    photo: aida-davletova.jpg
+    member-since: 2025
+    iol-contestant: 2022 and 2023
+    bio: BA student in Computational Linguistics at the University of Tübingen. Teaching assistant for syntax & semantics and computational linguistics. Involved with Kazakhstan's LO (PC Chair) and GeO, as well as DOL (Germany). Amateur piphilologist, Wikipedia editor, enjoyer of coffee and Kazakh folk.
+  - name: Ákos Blaskovics
+    member-since: 2024
+    iol-contestant: 2018 and 2019
+    bio: Studied Linguistics at Eötvös Loránd University Budapest (BA) and the University of Edinburgh (MSc), specialising in phonetics and phonology. Hungarian LO member since 2019. Enjoys theatre and classical music.
+  - name: Ana Meta Dolinar
+    photo: ana-meta-dolinar.jpg
+    member-since: 2024
+    iol-contestant: 2017 and 2019
+    bio: Studied Computer Science with a specialisation in Natural Language Processing at Cambridge University (Bachelor's + Master's). Originally from Slovenia, but I have lived in 6 countries and currently work in the Netherlands. Involved with the linguistic olympiad in Slovenia (primarily as a reviewer) since 2019. I enjoy trail running, board games and bubble tea.
+  - name: André Nikulin
+    photo: andre-nikulin.jpg
+    member-since: 2018
+    iol-contestant: 2008, 2009 and 2010
+    bio: Faculty member at Núcleo Takinahakỹ de Formação Superior Indígena, Federal University of Goiás, specializing in South American indigenous languages. Ph.D. in Linguistics from University of Brasília. Enjoys reptiles and the traditional cultures of Trinidad, Venezuela, Northern Brazil, and Eastern Bolivia.
+  - name: Angela Hou
+    photo: angela-hou.jpg
+    member-since: 2025
+    bio: Undergraduate in Linguistics at Princeton University and NACLO committee member. Interested in Optimality-Theoretic approaches to the morphosyntax-phonology interface, especially Match Theory. Passionate about language revitalization, Zapotec languages, and dispelling transphobia, amatonormativity, and bad linguistics. Lover of fossils, minerals, trees, birds, Chopin études, boba, and other miscellanea and ephemera.
+  - name: Boris Iomdin
+    photo: boris-iomdin.jpeg
+    member-since: 2003
+    bio: Linguist specializing in lexicography and semantics, teaching linguistics and languages to children, high school, and university students in Russian, English, German, and Hebrew. Author of hundreds of linguistic problems, including 17 at the IOL. A fan of playing linguistic games, reading books, and researching linguistic games in books.
+    website: www.borisiomdin.com
+  - name: Bruno L’Astorina
+    photo: bruno-l'astorina.jpg
+    member-since: 2011
+    bio: Co-founder and general coordinator of the Brazilian LO. Works of different projects in education, translation and public communication. In linguistics education, likes to bring insights on the diversity and unicity of human nature. Enjoys traveling, investigating the nature of mind from within and grouping things in sets of three legs.
+  - name: Daniel Rucki
+    photo: daniel-rucki.jpeg
+    member-since: 2012
+    iol-contestant: 2010, 2011 and 2012
+    bio: Studied Linguistics at the University of Cambridge, has collaborated with the Polish and Estonian LOs. Interested in language acquisition, historical linguistics, board games and travelling (especially to places with mountains).
+  - name: David Hultman
+    photo: david-hultman.jpg
+    member-since: 2021
+    iol-contestant: 2016, 2017, and 2018
+    bio: PhD student in Linguistics at McGill University in Montréal, working in theoretical syntax. MA from the University of Tromsø, and BA from Stockholm University. Author of some linguistic problems used at IOL, and others used in the Swedish LO.
+  - name: Dmitri Gerasimov
+    photo: dmitri-gerasimov.jpg
+    member-since: 2005
+    bio: Research engineer at Institut national des langues et civilisations orientales. PhD in Lingustics from National Research University Higher School of Economics (Moscow) and Institute for Linguistic Studies (Saint Petersburg).
+  - name: Hugh Dobbs
+    photo: hugh-dobbs.JPG
+    member-since: 2010
+    bio: AILO committee member. Retired teacher at Newtown School (Waterford, Ireland).
+  - name: Jan Petr
+    photo: jan-petr.jpg
+    member-since: 2021
+    iol-contestant: 2015, 2016 and 2017
+    bio: Postdoctoral researcher in Mathematics at the University of Passau. Member of the organizing team of ČLO. Fond of puzzles and games of various sorts, of learning and teaching, and of playing ultimate frisbee.
+  - name: Kazune Sato
+    member-since: 2024
+    iol-contestant: 2019
+    bio: DPhil student in Asian and Middle Eastern Studies at University of Oxford, with primary research focus on historical Japanese linguistics and generative syntax. BA in Linguistics from University College London and MPhil in Linguistics from University of Cambridge. Member of Japan LO committee, UKLO committee and APLO PC. Foodie and a strong tea lover, as well as a passionate fan of card and board games, travelling, and learning new languages.
+  - name: Ksenia Gilyarova
+    photo: ksenia-gilyarova.jpg
+    member-since: 2003
+    bio: PhD in General Linguistics and French teacher. Currently studying for a Master’s in French as a Foreign Language (FLE) at the University of Lille, France. Author of ten IOL problems. Parent of three. Enjoys hiking, jogging, and writing.
+  - name: Maria Rubinstein
+    photo: maria-rubinstein.png
+    member-since: 2003
+    bio: Moscow Traditional Linguistics Olympiad Problem Committee member since 1997, IOL Problem Committee member since the beginning. Working on Israeli Linguistics Olympiad. And a hobbyist photographer.
+  - name: Mihai-Alexandru Bratu
+    photo: mihai-bratu.jpeg
+    member-since: 2025
+    iol-contestant: 2021, 2022 and 2023
+    bio: BSc student in Computer Science at the Delft University of Technology. Member of Romanian PC since 2023 and co-Chair since 2025. Enjoys board games, travelling and cycling.
+  - name: Milena Veneva
+    photo: milena-veneva.jpg
+    member-since: 2013
+    bio: Master of Science in Applied Mathematics (Sofia University). Applied mathematician. Bulgarian National Olympiad in Linguistics Problem Committee member since 2010. Author/co-author of dozens of linguistic problems assigned at the national olympiads worldwide, as well as 5 given at the IOL.
+    website: www.linkedin.com/in/mveneva
+  - name: Minkyu Kim
+    photo: minkyu-kim.jpeg
+    member-since: 2020
+    iol-contestant: 2011
+    bio: Postdoctoral Researcher at the University of California, Irvine. Currently investigating the functional anatomy of speech production by employing various neuroimaging techniques. Co-founder and the present chair of the Asia Pacific Linguistics Olympiad (since 2019) and co-chair of the Korean Linguistics Olympiad (since 2019).
+  - name: Przemysław Podleśny
+    photo: przemyslaw-podlesny.jpg
+    member-since: 2021
+    iol-contestant: 2017 and 2018
+    bio: MA in Estonian and Finno-Ugric languages at the University of Tartu. Bachelor's degree in Computer Science and former student of Baltic Philology, Classical Philology, Ethnology at the University of Warsaw. In the past years contributed to Polish and Estonian LOs.
+  - name: Samuel Ahmed
+    photo: samuel-ahmed.jpg
+    member-since: 2018
+    iol-contestant: 2015, 2016 and 2017
+    bio: Lecturer in Linguistics (phonetics and phonology) at the University of Amsterdam, having completed a BA and research MA at Cambridge and Leiden Universities respectively. (Co-)author of 9 IOL problems. Enjoys board games, D&D, film and (naturally) language learning.
+  - name: Shinjini Ghosh
+    photo: shinjini-ghosh.png
+    member-since: 2018
+    iol-contestant: 2016, 2017 and 2018
+    bio: APLO and PLO (India) Problem Committee member. Undergraduate in Computer Science and Linguistics, followed by MEng from Massachusetts Institute of Technology. Enjoys painting, Indian classical dance, cooking, and board games.
+  - name: Stanislav Gurevich
+    photo: stanislav-gurevich.jpg
+    member-since: 2004
+    bio: One of the organizers of Spanish LO. Founder (2001) and permanent director of  Traditional Linguistics Summer School in Estonia. Passionate fan of seasonal mushroom-hunting.
+  - name: Tae Hun Lee
+    photo: tae-hun-lee.jpeg
+    member-since: 2009
+    iol-contestant: 2008
+    bio: Lecturer in the Department of Russian Language and Literature at Seoul National University. Research interests include Russian Literature, Japanese literature, and Comparative Literature.
+  - name: Tung-Le Pan
+    photo: tung-le-pan.jpg
+    member-since: 2018
+    iol-contestant: 2017 and 2018
+    bio: APLO and HKLO (Hong Kong; also co-founder) Problem Committee member. MA student in linguistics at the National Taiwan University.
+  - name: Yuyang Liu
+    photo: yuyang-liu.jpg
+    member-since: 2021
+    iol-contestant: 2016 and 2017
+    bio: China LO Problem Committee member. PhD candidate in Linguistics at Yale University.
+past:
+  - name: Adam Hesterberg
+  - name: Aleksandrs Berdičevskis
+  - name: Alexander Lubotsky
+  - name: Alexei Nazarov
+  - name: Artūrs Semeņuks
+  - name: Axel Jagau
+  - name: Bozhidar Bozhanov
+  - name: Elena Muravenko
+  - name: Elitsa Milanova
+  - name: Estere Seinkmane
+  - name: Gabrijela Hladnik
+  - name: Ivaylo Grozdev
+  - name: Jeong Yeon Choi
+  - name: Leonid Kulikov
+  - name: Liudmila Fedorova
+  - name: Michiel de Vaan
+  - name: Miina Norvik
+  - name: Mirjam de Jonge
+  - name: Nathan Takeru Matsuo Somers
+  - name: Pavel Sofroniev
+  - name: Qitong Cao
+  - name: Renate Pajusalu
+  - name: Rosina Savisaar
+  - name: Svetlana Burlak
+  - name: Todor Tchervenkov
+  - name: Tom McCoy
+  - name: Tsuyoshi Kobayashi
+  - name: Wang Wei

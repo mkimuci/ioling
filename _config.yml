@@ -41,6 +41,8 @@ improve_content:
 #
 urlimg: 'https://ioling.org/images/'
 
+assets_version: 1
+
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

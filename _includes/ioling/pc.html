@@ -1,0 +1,45 @@
+Since linguistic problems depend on the solver's working language and linguistic background in a way that the problems at other science olympiads do not, the preparation of the problem set for IOL is a complex and time-consuming task, involving composition, testing and review of problems in all of the Olympiad working languages – a huge task that must be done well in advance, during the twelve months preceding IOL. This is the duty of the Problem Committee. The Problem Committee is a body composed of people from different countries and institutions, whose expertise in linguistic problems has been demonstrated by authorship or experience with problem selection for established national olympiads, or high scores at past IOL contests.
+
+If you think you have a problem, a draft or an idea that is suitable for the IOL, please submit it! Variety is very desirable at IOL and the Problem Committee will be happy to receive new ideas. If you have a good experience with linguistic problems and are willing to help us being an active member of PC, write us as well. Contact us at [pc.chair@ioling.org](mailto:pc.chair@ioling.org).
+
+<h3>Current Problem Committee Members</h3>
+
+<div class="pc-members">
+{% for member in site.data.ioling.pc.current %}
+<div class="photo-with-details">
+    <div>{% if member.photo %}<img src="/images/people/{{ member.photo }}" />{% else %}<img src="/images/people/placeholder.jpg" />{% endif %}</div>
+    <div>
+        {% if member.member-since or member.iol-contestant or member.bio %}
+        <details class="pc-member-details">
+            <summary class="arrow-after">
+                <span class="pc-title"><strong>{{ member.name }}</strong>{% if member.role %} — {{ member.role }}{% endif %}</span>
+            </summary>
+            {% if member.member-since or member.iol-contestant %}
+            <div>
+                {% if member.member-since %}<div><i>Member since {{ member.member-since }}</i></div>{% endif %}
+                {% if member.iol-contestant %}<div><i>IOL contestant in {{ member.iol-contestant }}</i></div>{% endif %}
+            </div>
+            {% endif %}
+            {% if member.bio %}
+            <p class="pc-member-bio">{{ member.bio }}</p>
+            {% endif %}
+            {% if member.website %}
+            <div class="pc-member-website">🔗 <a href="https://{{ member.website }}" title="Personal website">{{ member.website }}</a></div>
+            {% endif %}
+        </details>
+        {% else %}
+        <div>
+            <span class="pc-title"><strong>{{ member.name }}</strong>{% if member.role %} — {{ member.role }}{% endif %}</span>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
+</div>
+
+<h3 class="pc-past-heading">Past Problem Committee Members</h3>
+<ul class="pc-past-members">
+{% for member in site.data.ioling.pc.past %}
+    <li>{{ member.name }}</li>
+{% endfor %}
+</ul>
