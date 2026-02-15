@@ -83,4 +83,4 @@ Nachfolgend finden sich zusätzliche Regeln und Richtlinien für die Teilnehmeri
   * Legt die Antwortbögen in den Umschlag. Die Aufsichtsperson wird ihn versiegeln und der Jury wie vereinbart übergeben.
   * Denkt daran, dass das Team von nebenan möglicherweise später als ihr begonnen hat, so dass da möglicherweise noch gearbeitet wird. Bitte seid still beim Verlassen des Zimmers.
 
-Genehmigt: Liam McKnight, 2 März 2023
+Genehmigt: Eimear McKnight, 2 März 2023
