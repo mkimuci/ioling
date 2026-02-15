@@ -9236,7 +9236,7 @@
               medal: gold
             - name: Alexandra Zabelina
               medal: bronze
-            - name: Nikita Medyankin
+            - name: Nikita Mediankin
               medal: bronze
             - name: Irina Moskaleva
         - team: Russia-Moscow 2
@@ -9264,7 +9264,7 @@
       teams:
         - team: Moscow
           participants:
-            - name: Nikita Medyankin
+            - name: Nikita Mediankin
               medal: bronze
             - name: Igor Vinogradov
               medal: honorable mentions
@@ -9286,7 +9286,7 @@
               medal: silver
             - name: Sergey Malyshev
               medal: silver
-            - name: Nikita Medyankin
+            - name: Nikita Mediankin
               medal: bronze
             - name: Svetozar Lashin
         - team: St. Petersburg
@@ -9914,11 +9914,11 @@
         score: 71
       - year: 2006
         team: Moscow
-        name: Nikita Medyankin
+        name: Nikita Mediankin
         score: 70
       - year: 2005
         team: Moscow
-        name: Nikita Medyankin
+        name: Nikita Mediankin
         score: 83
       - year: 2005
         team: Moscow
@@ -9934,7 +9934,7 @@
         score: 68
       - year: 2004
         team: Russia-Moscow 1
-        name: Nikita Medyankin
+        name: Nikita Mediankin
         score: 67
       - year: 2004
         team: Russia-St. Petersburg

@@ -183,7 +183,7 @@
         team: Estonia
         country: Estonia
 
-      - name: Nikita Medyankin
+      - name: Nikita Mediankin
         score: 67
         team: Russia-Moscow 1
         country: Russia
@@ -298,7 +298,7 @@
         country: Russia
 
       bronze:
-      - name: Nikita Medyankin
+      - name: Nikita Mediankin
         score: 83
         team: Moscow
         country: Russia
@@ -498,7 +498,7 @@
         team: St. Petersburg
         country: Russia
 
-      - name: Nikita Medyankin
+      - name: Nikita Mediankin
         score: 70
         team: Moscow
         country: Russia
