@@ -33,9 +33,7 @@ Note that the IOL is a contest for secondary-school students; current university
 
 ### What is the accrediation status of my country?
 
-Below is the complete list of currently accredited countries and regions as of {{ site.time | date: '%B %Y' }}.
-
-{% include ioling/accredit_list.html %}
+To find out the current accreditation status of your country check the [list of national olympiads](/countries/).
 
 ### How is my country's team chosen?
 
