@@ -235,7 +235,7 @@
   selection_en: Estonia Linguistics Olympiad
   selection_local: Lingvistikaolümpiaad
   abbreviation: 
-  link: http://www.teaduskool.ut.ee/et/olumpiaadid/lingvistikaolumpiaad
+  link: https://teaduskool.ut.ee/et/olumpiaadid/lingvistikaolumpiaad
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -805,7 +805,7 @@
   selection_en: Singapore Linguistics Olympiad
   selection_local: 
   abbreviation: SLO
-  link: https://www.ntu.edu.sg/nie/SLO-2025
+  link: https://www.ntu.edu.sg/nie/SLO
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -842,13 +842,13 @@
   flag: es.png
   selection_en: Spanish Linguistics olympiad
   selection_local: Olimpiada Lingüística
-  abbreviation: OLE
+  abbreviation: BASES
   link: https://www.uv.es/uvweb/delegacion-incorporacion-UV/es/cooperacion-secundaria/olimpiadas/linguistica/bases-1286349490306.html
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: OLE
+  poc: BASES
   email: olevi26@gmail.com
   poc2: 
   email2: 
