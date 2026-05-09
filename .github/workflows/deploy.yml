@@ -18,6 +18,24 @@ jobs:
       - name: Build Jekyll
         run: bundle exec jekyll build
 
+      - name: Preview changes
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+        run: |
+          changes=$(aws s3 sync _site/ s3://ioling/ --dryrun --delete \
+            --exclude "preview/*" \
+            --exclude "booklets/*")
+          if [ -z "$changes" ]; then
+            echo "No changes to deploy." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### Files changed in this deployment" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            echo "$changes" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
       - name: Sync to S3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
