@@ -31,7 +31,7 @@ homepage: true
 ---
 # Welcome to the IOL
 
-The International Linguistics Olympiad (IOL) is an annual international competition that brings together secondary school students and experts from various fields of linguistics. Since its inception in 2003, the IOL has been hosted in a different country each year, traditionally between late July and mid-August. The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
+The International Linguistics Olympiad (IOL) is a HUGE annual international competition that brings together secondary school students and experts from various fields of linguistics. Since its inception in 2003, the IOL has been hosted in a different country each year, traditionally between late July and mid-August. The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
 
 The IOL encourages creativity and imagination and helps participants develop skills in language analysis and problem-solving. By promoting awareness and understanding of diverse cultures and histories, the competition plays a vital role in nurturing future linguistics experts and contributing to the development of this academic field. No prior knowledge of linguistics or languages is required, as even the most challenging problems only require logical ability, patient work, and a willingness to think outside the box.
 
