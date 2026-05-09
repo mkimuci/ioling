@@ -42,7 +42,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: us-east-1
         run: |
-          aws s3 sync _site/ s3://ioling/ --delete --exclude "preview/*" --exclude "booklets/*"
+          aws s3 sync _site/ s3://ioling/ --delete --exclude "preview/*" --exclude "booklets/*" --exclude "best_solutions/*" --exclude "slides/*"
 
       - name: Invalidate CloudFront cache
         env:
