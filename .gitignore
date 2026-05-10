@@ -10,3 +10,9 @@ _site
 .command
 _confidential
 _archive
+
+CLAUDE.md
+
+# JetBrains IDEs
+.idea/
+*.iml
