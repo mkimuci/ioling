@@ -26,9 +26,10 @@ and whereas international science olympiads are now organised in many fields and
 
 2009, revised 2011, 2013, 2015, 2016, 2017, 2019, 2022, 2023, 2024, 2025.
 
-<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">Download</button><br>
+<button href="#" data-dropdown="drop1" aria-controls="drop1" aria-expanded="false" class="button dropdown small">View</button><br>
 <ul id="drop1" data-dropdown-content class="f-dropdown" aria-hidden="true">
-  <li><a href="/rules/rules.pdf">English (UK)</a></li>
+  <li><a href="/rules/rules.pdf">View PDF</a></li>
+  <li><a href="/regulations/online/">Read online</a></li>
 </ul>
 
 ## IOL Rules and Guidelines for Contestants

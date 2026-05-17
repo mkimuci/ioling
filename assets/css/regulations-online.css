@@ -1,0 +1,35 @@
+p, li { text-align: justify; }
+
+.header-anchor {
+  margin-left: 0.4em;
+  font-size: 0.75em;
+  opacity: 0;
+  text-decoration: none;
+  color: #aaa;
+  vertical-align: middle;
+}
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor { opacity: 1; }
+
+sup.fn-ref {
+  cursor: help;
+  color: #555;
+  font-size: 0.75em;
+}
+sup.fn-ref:hover { color: #000; }
+
+.fn-tooltip-box {
+  position: fixed;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 0.85em;
+  line-height: 1.5;
+  max-width: 340px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.18);
+  z-index: 1000;
+  pointer-events: none;
+  display: none;
+}
