@@ -1,0 +1,40 @@
+.faq-list details {
+  border-bottom: 1px solid #D7D7D7;
+  padding: 0;
+}
+
+.faq-list details:first-of-type {
+  border-top: 1px solid #D7D7D7;
+}
+
+.faq-list details summary {
+  cursor: pointer;
+  padding: 0.75rem 0.5rem;
+  font-weight: bold;
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+.faq-list details summary::-webkit-details-marker { display: none; }
+
+.faq-list details summary::before {
+  content: "\25B6";
+  font-size: 0.65em;
+  color: #5b3a34;
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.faq-list details summary:hover {
+  color: #5b3a34;
+}
+
+.faq-list details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.faq-list details > *:not(summary) {
+  padding: 0 0.5rem 0.75rem 1.6rem;
+}
