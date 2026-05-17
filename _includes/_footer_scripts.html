@@ -8,22 +8,67 @@ $('audio,video').mediaelementplayer();
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
 <script>
-// Flip Foundation dropdowns upward when they would extend past the footer,
-// which causes whitespace below it. Compare against footer top (not viewport
-// bottom) so large-screen users aren't incorrectly affected.
+// Smart dropdown positioning: patch dirs.bottom so the dropdown is placed
+// correctly from the start — no post-hoc repositioning, no scroll-anchor jumps.
 $(function () {
   if (!window.Foundation || !Foundation.libs || !Foundation.libs.dropdown) return;
-  var origBottom = Foundation.libs.dropdown.dirs.bottom;
-  Foundation.libs.dropdown.dirs.bottom = function (t, s) {
+
+  var fnd = Foundation.libs.dropdown;
+  var origBottom = fnd.dirs.bottom;
+
+  fnd.dirs.bottom = function (t, s) {
     var result = origBottom.call(this, t, s);
-    var dropBottom = t.offset().top + t.outerHeight() + this.outerHeight();
-    var footerTop = $('footer#footer-content').offset().top;
-    if (dropBottom > footerTop) {
-      result.top -= t.outerHeight() + this.outerHeight();
-      this.addClass('drop-top');
+
+    // On small screens Foundation uses a different layout path that removes
+    // drop-top and ignores extra result properties — don't interfere.
+    if (fnd.small()) return result;
+
+    var dropH       = this.outerHeight();
+    var triggerRect = t[0].getBoundingClientRect();
+    var navH        = $('#navigation').outerHeight() || 0;
+    var footerTop   = ($('footer#footer-content').offset() || {}).top || $(document).height();
+    var scrollTop   = $(window).scrollTop();
+    var PADDING     = 8;
+    var MIN_H       = 80;
+
+    var spaceBelow = Math.min(
+      footerTop - (scrollTop + triggerRect.bottom),
+      window.innerHeight - triggerRect.bottom
+    ) - PADDING;
+
+    var spaceAbove = triggerRect.top - navH - PADDING;
+
+    if (dropH <= spaceBelow) {
+      return result;
     }
+
+    if (spaceAbove > spaceBelow) {
+      var maxH = Math.max(Math.min(dropH, spaceAbove), MIN_H);
+      // result.top is offset-parent-relative (Foundation subtracts offsetParent.offset().top
+      // in _base). Adjust in the same coordinate space: subtract triggerH + maxH so the
+      // dropdown's bottom aligns with the trigger's top.
+      result.top = result.top - t.outerHeight() - maxH;
+      result['max-height'] = maxH + 'px';
+      if (dropH > maxH) result['overflow-y'] = 'auto';
+      this.addClass('drop-top');
+    } else {
+      var maxH = Math.max(spaceBelow, MIN_H);
+      result['max-height'] = maxH + 'px';
+      result['overflow-y'] = 'auto';
+    }
+
+    // Hide the pip triangle when the dropdown is scrollable — it sits just
+    // outside the box and can bleed through the overflow boundary in some browsers.
+    if (result['overflow-y']) this.addClass('drop-no-pip');
+
     return result;
   };
+});
+
+$(document).on('closed.fndtn.dropdown', function (e) {
+  var drop = $(e.target);
+  if (!drop.hasClass('f-dropdown')) return;
+  drop.removeClass('drop-top drop-no-pip').css({ 'max-height': '', 'overflow-y': '' });
 });
 </script>
 

@@ -371,6 +371,18 @@ body.video cite { color: #fff; }
   top: -9999px !important;
 }
 
+/* Prevent scroll-anchor from jumping the page when a dropdown is repositioned */
+.f-dropdown {
+  overflow-anchor: none;
+}
+
+/* Hide the pip triangle on scrollable dropdowns — it sits just outside the box
+   and can bleed through the overflow boundary in some browsers. */
+.f-dropdown.drop-no-pip:before,
+.f-dropdown.drop-no-pip:after {
+  display: none;
+}
+
 /* Rotate the arrow when <details> is open (down arrow ▼) */
 details[open] .arrow-after::after {
   transform: rotate(90deg);
