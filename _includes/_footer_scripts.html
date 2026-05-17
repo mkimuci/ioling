@@ -7,6 +7,26 @@ $('audio,video').mediaelementplayer();
 
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
+<script>
+// Flip Foundation dropdowns upward when they would extend past the footer,
+// which causes whitespace below it. Compare against footer top (not viewport
+// bottom) so large-screen users aren't incorrectly affected.
+$(function () {
+  if (!window.Foundation || !Foundation.libs || !Foundation.libs.dropdown) return;
+  var origBottom = Foundation.libs.dropdown.dirs.bottom;
+  Foundation.libs.dropdown.dirs.bottom = function (t, s) {
+    var result = origBottom.call(this, t, s);
+    var dropBottom = t.offset().top + t.outerHeight() + this.outerHeight();
+    var footerTop = $('footer#footer-content').offset().top;
+    if (dropBottom > footerTop) {
+      result.top -= t.outerHeight() + this.outerHeight();
+      this.addClass('drop-top');
+    }
+    return result;
+  };
+});
+</script>
+
 
 {% if page.header.image_fullwidth %}
 <script>

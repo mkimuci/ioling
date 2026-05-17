@@ -366,6 +366,11 @@ body.video cite { color: #fff; }
 /* board and jury pages */
 .top-indentation { margin-top: 0.5em; }
 
+/* Keep closed dropdowns off-screen vertically so they don't extend page height */
+.f-dropdown:not(.open) {
+  top: -9999px !important;
+}
+
 /* Rotate the arrow when <details> is open (down arrow ▼) */
 details[open] .arrow-after::after {
   transform: rotate(90deg);
