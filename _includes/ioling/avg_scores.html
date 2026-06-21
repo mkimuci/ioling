@@ -1,0 +1,27 @@
+<table width="100%">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Problem 1</th>
+			<th>Problem 2</th>
+			<th>Problem 3</th>
+			<th>Problem 4</th>
+			<th>Problem 5</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% assign indiv_problems = site.data.ioling.problems | where: "round", "Individual" %}
+		{% assign years = indiv_problems | map: "year" | uniq | sort %}
+		{% for year in years %}
+		<tr>
+			<td>{{ year }}</td>
+			{% for n in (1..5) %}
+			{% assign prob_id = "iol-" | append: year | append: "-i-" | append: n %}
+			{% assign prob = indiv_problems | where: "id", prob_id | first %}
+			{% assign prob_url = "/problems/" | append: year | append: "/i" | append: n | append: "/" %}
+			<td>{% if prob %}{% if prob.avg %}<b>{{ prob.avg }}</b><br/>{% endif %}<small><a href="{{ prob_url }}">{{ prob.name }}</a></small>{% else %}—{% endif %}</td>
+			{% endfor %}
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

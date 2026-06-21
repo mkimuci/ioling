@@ -4,6 +4,7 @@
   name: Transcendental Algebra
   number: 1
   page: 1
+  avg: 14.9
   language:
     - name: Transcendental Algebra
       family: 
@@ -17,6 +18,7 @@
   name: Arabic Arithmetic
   number: 2
   page: 2
+  avg: 6.9
   language:
     - name: Arabic
       family: Afroasiatic
@@ -33,6 +35,7 @@
   name: Basque Dates
   number: 3
   page: 2
+  avg: 11.6
   language:
     - name: Basque
       family: Isolate
@@ -45,6 +48,7 @@
   name: Adyghe
   number: 4
   page: 3
+  avg: 15.2
   language:
     - name: Adyghe
       family: Abkhaz-Adyghean (North-West Caucasian)
@@ -67,6 +71,7 @@
   name: French
   number: 5
   page: 4
+  avg: 14.1
   language:
     - name: French
       family: Indo-European
@@ -131,6 +136,7 @@
   name: Kayapo
   number: 1
   page: 1
+  avg: 15.3
   language:
     - name: Kayapo
       family: Ge
@@ -156,6 +162,7 @@
   name: Swift News Agency
   number: 2
   page: 1-2
+  avg: 11.8
   author:
     - name: Boris Iomdin
     - name: Leonid Iomdin
@@ -173,6 +180,7 @@
   name: Latin
   number: 3
   page: 2-3
+  avg: 3.9
   language:
     - name: Latin
       family: Indo-European
@@ -192,6 +200,7 @@
   name: Lakhota
   number: 4
   page: 3-4
+  avg: 15.2
   language:
     - name: Lakhota
       family: Siouxan
@@ -212,6 +221,7 @@
   name: Chuvash
   number: 5
   page: 4
+  avg: 8.9
   language:
     - name: Chuvash
       family: Turkic
@@ -250,6 +260,7 @@
   name: Tzotzil
   number: 1
   page: 1
+  avg: 12.9
   language:
     - name: Tzotzil
       family: Mayan
@@ -267,6 +278,7 @@
   name: Lango
   number: 2
   page: 2
+  avg: 12.0
   language:
     - name: Lango
       family: Nilo-Saharan
@@ -289,6 +301,7 @@
   name: Mansi
   number: 3
   page: 2
+  avg: 10.7
   language:
     - name: Mansi
       family: Uralic
@@ -308,6 +321,7 @@
   name: Yoruba
   number: 4
   page: 3
+  avg: 11.6
   language:
     - name: Yoruba
       family: Niger-Congo
@@ -324,6 +338,7 @@
   name: Lithuanian
   number: 5
   page: 4
+  avg: 4.8
   language:
     - name: Lithuanian
       family: Indo-European
@@ -357,6 +372,7 @@
   name: Lakhota
   number: 1
   page: 1
+  avg: 12.6
   language:
     - name: Lakhota
       family: Siouxan
@@ -370,6 +386,7 @@
   name: Catalan
   number: 2
   page: 2
+  avg: 9.2
   language:
     - name: Catalan
       family: Indo-European
@@ -386,6 +403,7 @@
   name: Khmer
   number: 3
   page: 3
+  avg: 6.8
   language:
     - name: Khmer
       family: Austro-Asiatic
@@ -402,6 +420,7 @@
   name: Udihe
   number: 4
   page: 4
+  avg: 8.8
   language:
     - name: Udihe
       family: Tungusic
@@ -418,6 +437,7 @@
   name: Ngoni
   number: 5
   page: 5
+  avg: 8.8
   language:
     - name: Ngoni
       family: Niger-Congo
@@ -452,6 +472,7 @@
   name: Braille
   number: 1
   page: 1
+  avg: 11.8
   language:
     - name: English
       family: Indo-European
@@ -467,6 +488,7 @@
   name: Movima
   number: 2
   page: 2
+  avg: 14.2
   language:
     - name: Movima
       family: Isolate
@@ -483,6 +505,7 @@
   name: Georgian
   number: 3
   page: 3
+  avg: 3.4
   language:
     - name: Georgian
       family: South Caucasian
@@ -499,6 +522,7 @@
   name: Ndom
   number: 4
   page: 3
+  avg: 3.8
   language:
     - name: Ndom
       family: Trans-New Guinea
@@ -515,6 +539,7 @@
   name: Turkish and Tatar
   number: 5
   page: 4
+  avg: 14.6
   language:
     - name: Turkish
       family: Turkic
@@ -541,6 +566,7 @@
   name: Micmac
   number: 1
   page: 1
+  avg: 12.9
   language:
     - name: Micmac
       family: Algonquian
@@ -557,6 +583,7 @@
   name: Old Norse
   number: 2
   page: 2
+  avg: 5.8
   language:
     - name: Old Norse
       family: Indo-European
@@ -576,6 +603,7 @@
   name: Drehu and Cemuhî
   number: 3
   page: 3
+  avg: 13.0
   language:
     - name: Drehu
       family: Austronesian
@@ -599,6 +627,7 @@
   name: Copainalá Zoque
   number: 4
   page: 3
+  avg: 13.0
   language:
     - name: Copainalá Zoque
       family: Mixe-Zoquean
@@ -615,6 +644,7 @@
   name: Inuktitut
   number: 5
   page: 4
+  avg: 9.8
   language:
     - name: Inuktitut
       family: Inuit-Aleut
@@ -645,6 +675,7 @@
   name: Sulka
   number: 1
   page: 1
+  avg: 14.6
   language:
     - name: Sulka
       family: East Papuan
@@ -666,6 +697,7 @@
   name: Maninka and Bamana
   number: 2
   page: 2
+  avg: 11.2
   language:
     - name: Bamana
       family: Mande
@@ -686,6 +718,7 @@
   name: Burmese Names
   number: 3
   page: 3
+  avg: 4.3
   language:
     - name: Burmese
       family: Sino-Tibetan
@@ -706,6 +739,7 @@
   name: Old Indic
   number: 4
   page: 3
+  avg: 1.3
   language:
     - name: Old Indic
       family: Indo-European
@@ -728,6 +762,7 @@
   name: Nahuatl
   number: 5
   page: 4
+  avg: 9.2
   language:
     - name: Nahuatl
       family: Uto-Aztecan
@@ -764,6 +799,7 @@
   name: Budukh
   number: 1
   page: 1
+  avg: 15.5
   language:
     - name: Budukh
       family: Northeast Causasian
@@ -783,6 +819,7 @@
   name: Drehu Numerals
   number: 2
   page: 2
+  avg: 7.4
   language:
     - name: Drehu
       family: Austronesian
@@ -803,6 +840,7 @@
   name: Blissymbolics
   number: 3
   page: 2
+  avg: 14.3
   writing_system:
     - name: Blissymbolics
   author:
@@ -822,6 +860,7 @@
   name: mRNA Sequencing
   number: 4
   page: 3
+  avg: 9.5
   author:
     - name: Alexander Berdichevski
   best_solutions:
@@ -841,6 +880,7 @@
   name: Romansch
   number: 5
   page: 4
+  avg: 9.4
   language:
     - name: Romansch
       family: Indo-European
@@ -882,6 +922,7 @@
   name: Menominee
   number: 1
   page: 01
+  avg: 6.5
   language:
     - name: Menominee
       family: Algonquin
@@ -894,6 +935,7 @@
   name: Faroese
   number: 2
   page: 02
+  avg: 9.3
   language:
     - name: Faroese
       family: North Germanic
@@ -913,6 +955,7 @@
   name: Vai
   number: 3
   page: 03
+  avg: 13.9
   language:
     - name: Vai
       family: Mande
@@ -929,6 +972,7 @@
   name: Nahuatl
   number: 4
   page: 03
+  avg: 4.8
   language:
     - name: Nahuatl
       family: Uto-Aztecan
@@ -948,6 +992,7 @@
   name: EAN-13
   number: 5
   page: 04-06
+  avg: 4.7
   writing_system:
     - name: EAN-13
   author:
@@ -972,6 +1017,7 @@
   name: Dyirbal
   number: 1
   page: 01
+  avg: 6.4
   language:
     - name: Dyirbal
       family: Pama-Nyungan
@@ -988,6 +1034,7 @@
   name: Umbu-Ungu
   number: 2
   page: 03
+  avg: 7.7
   language:
     - name: Umbu-Ungu
       family: Trans-New Guinea
@@ -1012,6 +1059,7 @@
   name: Basque
   number: 3
   page: 03
+  avg: 6.3
   language:
     - name: Basque
       family: Isolate
@@ -1031,6 +1079,7 @@
   name: Teop
   number: 4
   page: 04
+  avg: 8.9
   language:
     - name: Teop
       family: Austronesian
@@ -1050,6 +1099,7 @@
   name: Rotuman
   number: 5
   page: 05
+  avg: 9.6
   language:
     - name: Rotuman
       family: Austronesian
@@ -1084,6 +1134,7 @@
   name: Yidiny
   number: 1
   page: 01
+  avg: 10.6
   language:
     - name: Yidiny
       family: Pama-Nyungan
@@ -1104,6 +1155,7 @@
   name: Tundra Yukaghir
   number: 2
   page: 02
+  avg: 3.8
   language:
     - name: Tundra Yukaghir
       family: Yukaghir
@@ -1123,6 +1175,7 @@
   name: Pirahã
   number: 3
   page: 03
+  avg: 4.1
   language:
     - name: Pirahã
       family: Mura
@@ -1135,6 +1188,7 @@
   name: Muna
   number: 4
   page: 04
+  avg: 9.0
   language:
     - name: Muna
       family: Austronesian
@@ -1152,6 +1206,7 @@
   name: Telepathy
   number: 5
   page: 05
+  avg: 13.3
   language:
     - name: English
       family: Indo-European
@@ -1191,6 +1246,7 @@
   name: Benabena
   number: 1
   page: 01
+  avg: 7.5
   language:
     - name: Benabena
       family: Trans-New Guinea
@@ -1210,6 +1266,7 @@
   name: Kiowa
   number: 2
   page: 02
+  avg: 7.0
   language:
     - name: Kiowa
       family: Tanoan
@@ -1232,6 +1289,7 @@
   name: Tangut
   number: 3
   page: 03
+  avg: 7.7
   language:
     - name: Tangut
       family: Tibeto-Burman
@@ -1252,6 +1310,7 @@
   name: Engenni
   number: 4
   page: 04-05
+  avg: 6.6
   language:
     - name: Engenni
       family: Niger-Congo
@@ -1268,6 +1327,7 @@
   name: Gbaya
   number: 5
   page: 05
+  avg: 2.1
   language:
     - name: Gbaya
       family: Niger-Congo
@@ -1304,6 +1364,7 @@
   name: Nahuatl and Arammba
   number: 1
   page: 01
+  avg: 3.4
   language:
     - name: Nahuatl
       family: Uto-Aztecan
@@ -1322,6 +1383,7 @@
   name: Kabardian
   number: 2
   page: 02
+  avg: 5.8
   language:
     - name: Kabardian
       family: North Caucasian
@@ -1338,6 +1400,7 @@
   name: Soundex
   number: 3
   page: 03
+  avg: 5.5
   author:
     - name: Alexander Piperski
   solvers_choice: True
@@ -1355,6 +1418,7 @@
   name: Wambaya
   number: 4
   page: 04-05
+  avg: 10.4
   language:
     - name: Wambaya
       family: West Barkly
@@ -1372,6 +1436,7 @@
   name: Somali Masafo
   number: 5
   page: 05
+  avg: 3.6
   language:
     - name: Somali
       family: Afroasiatic
@@ -1407,6 +1472,7 @@
   name: Aralle-Tabulahan
   number: 1
   page: 01-02
+  avg: 8.1
   language:
     - name: Aralle-Tabulahan
       family: Austronesian
@@ -1428,6 +1494,7 @@
   name: Luwian
   number: 2
   page: 03
+  avg: 4.1
   language:
     - name: Luwian
       family: Indo-European
@@ -1447,6 +1514,7 @@
   name: Kunuz Nubian
   number: 3
   page: 04
+  avg: 7.2
   language:
     - name: Kunuz Nubian
       family: Eastern Sudanic
@@ -1463,6 +1531,7 @@
   name: Iatmül
   number: 4
   page: 05
+  avg: 3.9
   language:
     - name: Iatmül
       family: Sepik
@@ -1482,6 +1551,7 @@
   name: Jaqaru
   number: 5
   page: 06
+  avg: 8.6
   language:
     - name: Jaqaru
       family: Aymaran
@@ -1517,6 +1587,7 @@
   name: Birom
   number: 1
   page: 01
+  avg: 7.7
   language:
     - name: Birom
       family: Atlantic Congo
@@ -1539,6 +1610,7 @@
   name: Abui
   number: 2
   page: 02
+  avg: 1.7
   language:
     - name: Abui
       family: Timor-Alor-Pantar
@@ -1555,6 +1627,7 @@
   name: Kimbundu
   number: 3
   page: 03
+  avg: 10.5
   language:
     - name: Kimbundu
       family: Atlantic-Congo
@@ -1571,6 +1644,7 @@
   name: Khom script/Laven
   number: 4
   page: 04
+  avg: 11.2
   language:
     - name: Laven (Jru')
       family: Austroasiatic
@@ -1593,6 +1667,7 @@
   name: Madak
   number: 5
   page: 07
+  avg: 7.4
   language:
     - name: Madak
       family: Austronesian
@@ -1633,6 +1708,7 @@
   name: Creek
   number: 1
   page: 01
+  avg: 6.4
   language:
     - name: Creek
       family: Muskogean
@@ -1652,6 +1728,7 @@
   name: Hakhun
   number: 2
   page: 02
+  avg: 14.1
   language:
     - name: Hakhun
       family: Sino-Tibetan
@@ -1672,6 +1749,7 @@
   name: Terêna
   number: 3
   page: 03
+  avg: 9.0
   language:
     - name: Terêna
       family: Arawakan
@@ -1694,6 +1772,7 @@
   name: Mountain Arapesh (Bukiyip)
   number: 4
   page: 04
+  avg: 3.2
   language:
     - name: Mountain Arapesh
       family: Torricelli
@@ -1710,6 +1789,7 @@
   name: Akan
   number: 5
   page: 05
+  avg: 4.0
   language:
     - name: Akan
       family: Atlantic-Congo
@@ -1752,6 +1832,7 @@
   name: Yonggom
   number: 1
   page: 01
+  avg: 7.1
   language:
     - name: Yonggom
       family: Trans-New Guinea
@@ -1768,6 +1849,7 @@
   name: Yurok
   number: 2
   page: 02
+  avg: 10.8
   language:
     - name: Yurok
       family: Algic
@@ -1782,6 +1864,7 @@
   name: Book Pahlavi script
   number: 3
   page: 03
+  avg: 3.1
   language:
     - name: Middle Persian
       family: Indo-European
@@ -1798,6 +1881,7 @@
   name: West Tarangan
   number: 4
   page: 04
+  avg: 8.9
   language:
     - name: West Tarangan
       family: Austronesian
@@ -1817,6 +1901,7 @@
   name: Nooni
   number: 5
   page: 05
+  avg: 7.3
   language:
     - name: Nooni
       family: Atlantic-Congo
@@ -1853,6 +1938,7 @@
   name: Ekari
   number: 1
   page: 01
+  avg: 2.4
   language:
     - name: Ekari
       family: Trans-New Guinea
@@ -1872,6 +1958,7 @@
   name: Zuni
   number: 2
   page: 02
+  avg: 2.1
   language:
     - name: Zuni
       family: isolate
@@ -1885,6 +1972,7 @@
   name: Kilivila
   number: 3
   page: 03
+  avg: 9.4
   language:
     - name: Kilivila
       family: Austronesian
@@ -1903,6 +1991,7 @@
   name: Agbirigba
   number: 4
   page: 04
+  avg: 9.2
   language:
     - name: Ikwerre
       family: Atlantic-Congo
@@ -1926,6 +2015,7 @@
   name: Rikbaktsa
   number: 5
   page: 05
+  avg: 6.7
   language:
     - name: Rikbaktsa
       family: Macro-Jê
@@ -1972,6 +2062,7 @@
   name: Ubykh
   number: 1
   page: 01
+  avg: 10.3
   language:
     - name: Ubykh
       family: Abkhaz–Adyghe
@@ -1991,6 +2082,7 @@
   name: Alabama
   number: 2
   page: 02
+  avg: 1.4
   language:
     - name: Alabama
       family: Muskogean
@@ -2003,6 +2095,7 @@
   name: Nǀuuki (Nǁng)
   number: 3
   page: 03
+  avg: 7.9
   language:
     - name: Nǀuuki
       family: Tuu
@@ -2024,6 +2117,7 @@
   name: Arabana
   number: 4
   page: 04
+  avg: 8.6
   language:
     - name: Arabana
       family: Pama–Nyungan
@@ -2051,6 +2145,7 @@
   name: Proto-Chamic, Phan Rang Cham and Tsat
   number: 5
   page: 05
+  avg: 5.1
   language:
     - name: Proto-Chamic
       family: Chamic
@@ -2095,6 +2190,7 @@
   name: Guazacapán Xinka
   number: 1
   page: 01
+  avg: 11.3
   language:
     - name: Guazacapán Xinka
       family: Xincan
@@ -2118,6 +2214,7 @@
   name: Apurinã
   number: 2
   page: 02
+  avg: 9.7
   language:
     - name: Apurinã
       family: Arawakan
@@ -2136,6 +2233,7 @@
   name: Coastal Marind
   number: 3
   page: 03
+  avg: 8.0
   language:
     - name: Coastal Marind
       family: Anim
@@ -2153,6 +2251,7 @@
   name: Plains Cree
   number: 4
   page: 04
+  avg: 8.7
   language:
     - name: Plains Cree
       family: Algic
@@ -2171,6 +2270,7 @@
   name: Supyire
   number: 5
   page: 05
+  avg: 4.7
   language:
     - name: Supyire
       family: Atlantic-Congo
@@ -2221,6 +2321,7 @@
   name: Koryak
   number: 1
   page: 01
+  avg: 7.9
   language:
     - name: Koryak
       family: Chukotko–Kamchatkan
@@ -2238,6 +2339,7 @@
   name: Hadza
   number: 2
   page: 02
+  avg: 8.0
   language:
     - name: Hadza
       family: Isolate
@@ -2255,6 +2357,7 @@
   name: Komnzo
   number: 3
   page: 04
+  avg: 6.5
   language:
     - name: Komnzo
       family: Yam
@@ -2276,6 +2379,7 @@
   name: Dâw
   number: 4
   page: 05
+  avg: 3.4
   language:
     - name: Dâw
       family: Naduhup
@@ -2289,6 +2393,7 @@
   name: Yanyuwa
   number: 5
   page: 06
+  avg: 7.6
   language:
     - name: Yanyuwa
       family: Pama–Nyungan
@@ -2324,6 +2429,7 @@
   name: Dzongkha
   number: 1
   page: 01
+  avg: 14.6
   language:
     - name: Dzongkha
       family: Sino-Tibetan
@@ -2345,6 +2451,7 @@
   name: Gaahmg
   number: 2
   page: 02
+  avg: 6.2
   language:
     - name: Gaahmg
       family: Eastern Sudanic
@@ -2362,6 +2469,7 @@
   name: Kuria
   number: 3
   page: 03
+  avg: 7.7
   language:
     - name: Kuria
       family: Atlantic-Congo
@@ -2379,6 +2487,7 @@
   name: Kewa
   number: 4
   page: 04
+  avg: 9.9
   language:
     - name: Kewa
       family: Trans–New Guinea
@@ -2396,6 +2505,7 @@
   name: Kaqchikel
   number: 5
   page: 05
+  avg: 9.3
   language:
     - name: Kaqchikel
       family: Mayan

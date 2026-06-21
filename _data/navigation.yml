@@ -49,6 +49,8 @@
     url: "/problems/slides"
   - title: "Solvers' Choice"
     url: "/problems/solvers_choice"
+  - title: "Average Scores"
+    url: "/problems/avg_scores"
 
 - title: "About"
   url: "/about/"

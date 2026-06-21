@@ -34,6 +34,11 @@ Problem {{ include.number }}
 {{ author.name }}<br/>
 {% endfor %}
 {% endif %}
+
+{% if problem_item.avg %}
+<h4>Average score</h4>
+{{ problem_item.avg }} / 20<br/>
+{% endif %}
 </div>
 
 <div class="medium-6 columns">
