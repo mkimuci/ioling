@@ -15,13 +15,14 @@
 
 			{% for prob_item in year_problems %}
 			{% assign prob_item = site.data.ioling.problems | where: "id", prob_item.problem | first %}
+			{% assign prob_url = "/problems/" | append: prob_item.year | append: "/i" | append: prob_item.number | append: "/" %}
 
 			{% if prob_item.slide %}
 			<tr>
 				<td>{{ prob_item.year }}</td>
 				<td>{{ prob_item.round }}</td>
 				<td>{{ prob_item.number }}</td>
-				<td>{{ prob_item.name }}</td>
+				<td><a href="{{ prob_url }}">{{ prob_item.name }}</a></td>
 				<td>
 					{% if prob_item.author %}
 					{% assign authors = prob_item.author %}

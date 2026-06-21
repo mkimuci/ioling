@@ -72,6 +72,10 @@ Problem {{ include.number }}
   {% endfor %}
 </ul>
 {% endif %}
+{% if problem_item.slide %}
+<h4>Solution Presentation</h4>
+<a href="/slides/{{ problem_item.slide }}" class="button small">Download</a>
+{% endif %}
 </div>
 </div>
 {% elsif include.round == 'Team' %}
@@ -101,6 +105,10 @@ Problem {{ include.number }}
   <li><a href="/booklets/{{ booklet.filename }}">{{ booklet.language }}</a></li>
   {% endfor %}
 </ul>
+{% endif %}
+{% if problem_item.slide %}
+<h4>Solution Presentation</h4>
+<a href="/slides/{{ problem_item.slide }}" class="button small">Download</a>
 {% endif %}
 </div>
 </div>
