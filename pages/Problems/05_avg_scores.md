@@ -13,6 +13,6 @@ widget:
   text: "Average scores per problem for each year"
 ---
 
-Below you can see the average scores (out of 20) for each individual contest problem featured at the IOL. Click on a score to go to that problem's page.
+Below you can see the average scores (out of 20) for each individual contest problem featured at the IOL. Click on the problem name to go to that problem's page.
 
 {% include ioling/avg_scores.html %}
