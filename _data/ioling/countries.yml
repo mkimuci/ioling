@@ -482,7 +482,7 @@
   selection_en: a nationwide competition organised by Daryn Republican Scientific and Practical center
   selection_local: Республикалық олимпиада
   abbreviation: KazLO
-  link: https://daryn.kz/resp-ol-lingvist/
+  link: https://t.me/kazlingo
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
@@ -615,13 +615,13 @@
   selection_en: Himalayan Linguistic Olympiad Nepal
   selection_local: 
   abbreviation: HLON
-  link: https://www.facebook.com/hlonepal/
+  link: https://li.hlon.org/home
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
   footnote: 
-  poc: Bal Krishna Bal
-  email: bal@ku.edu.np
+  poc: HLON
+  email: hlon.nepal@gmail.com
   poc2: 
   email2: 
 
