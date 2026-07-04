@@ -34,16 +34,13 @@ Before Jan 31, 2026
 The list of the IOL 2025 working languages can be seen on the [IOL 2025 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
 
 #### Early Bird registration
-TBA
+By March 15, 2026
 
-#### Deposits for the teams with Early Bird registration
-TBA
+#### Payment for the teams with Early Bird registration
+By March 15, 2026
 
 #### Standard registration
-TBA
-
-#### Payment for the teams with Standard registration
-TBA
+By April 30, 2026
 
 ---
 
