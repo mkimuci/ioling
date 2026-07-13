@@ -1,6 +1,6 @@
 <nav id="pagination">
     <a class="button radius" href="/results/{{ include.iol_code }}">Results &raquo;</a>
-    <a class="button radius" href="/participants/{{ include.iol_code }}">Participants &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.iol_code }}">Delegations &raquo;</a>
 </nav>
 
 {% assign country_item = site.data.ioling.countries | where: "iol_code", include.iol_code | first %}

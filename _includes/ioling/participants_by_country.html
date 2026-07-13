@@ -1,6 +1,6 @@
 <nav id="pagination">
     <a class="button radius" href="/results/{{ include.iol_code }}">Results &raquo;</a>
-    <a class="button radius" href="/participants/{{ include.iol_code }}">Participants &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.iol_code }}">Delegations &raquo;</a>
 </nav>
 
 {% assign country_item = site.data.ioling.countries | where: "iol_code", include.iol_code | first %}
@@ -38,6 +38,11 @@
 			</td>
 		</tr>
 		{% endfor %}
+		{% if team_item.leaders %}
+		<tr class="team-leader-row">
+			<td>Team Leader{% if team_item.leaders.size > 1 %}s{% endif %}: {{ team_item.leaders | map: "name" | join: ", " }}</td>
+		</tr>
+		{% endif %}
 	</tbody>
 </table>
 </div>

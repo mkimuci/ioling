@@ -1,0 +1,22 @@
+<nav id="pagination" class="tabs-grid">
+    <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
+    <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>
+    <a class="button radius" href="/problems/{{ include.year }}">Problems &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.year }}">Delegations &raquo;</a>
+    <a class="button radius" href="/loc/{{ include.year }}">LOC &raquo;</a>
+    <a class="button radius" href="/jury/{{ include.year }}">Jury &raquo;</a>
+</nav>
+
+<hr>
+
+{% assign contest_meta = site.data.ioling.contests | where: "year", include.year | first %}
+
+{% if contest_meta.volunteers %}
+<ul>
+{% for person in contest_meta.volunteers %}
+<li>{{ person.name }}</li>
+{% endfor %}
+</ul>
+{% else %}
+<p><i>No volunteer information available.</i></p>
+{% endif %}

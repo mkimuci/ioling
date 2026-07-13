@@ -103,6 +103,52 @@ button, .button         { letter-spacing: 1px; }
 
 
 
+/* Per-year Tab Nav
+------------------------------------------------------------------- */
+
+#pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+
+  a.button {
+    margin: 0;
+  }
+
+  // used on the per-year pages, which always have a fixed set of 6 tab links -
+  // forces a consistent 3-per-row (2-per-row on mobile) split regardless of
+  // which tab is currently active (and thus excluded from the list)
+  &.tabs-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    @media #{$small-only} {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    a.button {
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
+    }
+  }
+}
+
+
+
+/* Team Leader Row
+------------------------------------------------------------------- */
+
+.team-leader-row td {
+  color: $grey-8;
+  font-size: 0.85em;
+  font-style: italic;
+  border-top: 1px solid $grey-1;
+}
+
+
+
 /* Side-Nav
 ------------------------------------------------------------------- */
 

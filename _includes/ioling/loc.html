@@ -1,0 +1,22 @@
+{% assign contest_meta = site.data.ioling.contests | where: "year", include.year | first %}
+
+<nav id="pagination" class="tabs-grid">
+    <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
+    <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>
+    <a class="button radius" href="/problems/{{ include.year }}">Problems &raquo;</a>
+    <a class="button radius" href="/participants/{{ include.year }}">Delegations &raquo;</a>
+    <a class="button radius" href="/jury/{{ include.year }}">Jury &raquo;</a>
+    {% if contest_meta.volunteers %}<a class="button radius" href="/volunteers/{{ include.year }}">Volunteers &raquo;</a>{% endif %}
+</nav>
+
+<hr>
+
+{% if contest_meta.organizing_committee %}
+<ul>
+{% for person in contest_meta.organizing_committee %}
+<li>{% if person.chair %}<strong>{{ person.name }}</strong> (Chair){% else %}{{ person.name }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% else %}
+<p><i>No organizing committee information available.</i></p>
+{% endif %}
