@@ -8,6 +8,41 @@
   number_of_teams: 9
   number_of_participants: 33
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Ivan Derzhanski
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Boris Iomdin
+  - name: Elena Muravenko
+  organizing_committee:
+  - name: Illiyana Raeva
+    chair: true
+  - name: Ivan Derzhanski
+  - name: Pavel Belchev
+  - name: Aleksander Kibrik
+  - name: Evgeniya Abelyuk
+  - name: Vladimir Alpatov
+  - name: Alexander Berdichevsky
+  - name: Sergey Dmitrenko
+  - name: Dmitry Gerasimov
+  - name: Włodzimierz Gruszczyński
+  - name: Ksenia Gilyarova
+  - name: Stanislav Gurevich
+  - name: Richard Hudson
+  - name: Boris Iomdin
+  - name: Ilya Itkin
+  - name: Petâr S. Kenderov
+  - name: Maxim Krongauz
+  - name: Svetlana Majskaja
+  - name: Ruslan Mitkov
+  - name: Elena Muravenko
+  - name: Thomas Payne
+  - name: Angel Kŭnchev
+  - name: Maria Rubinstein
+  - name: Sergey Vershinin
+  - name: Vladimir Uspensky
+  - name: Valentin Vydrine
+  - name: Andrey Zaliznyak
 
 - number: 2
   year: 2004
@@ -19,6 +54,41 @@
   number_of_teams: 12
   number_of_participants: 45
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Vladimir Alpatov
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Boris Iomdin
+  - name: Dmitry Gerasimov
+  - name: Elena Muravenko
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Stanislav Gurevich
+  - name: Svetlana Burlak
+  organizing_committee:
+  - name: Vladimir Alpatov
+  - name: Evgeniya Abelyuk
+  - name: Svetlana Burlak
+  - name: Sergey Dmitrenko
+  - name: Stanislav Gurevich
+  - name: Richard Hudson
+  - name: Ilya Itkin
+  - name: Petar Kenderov
+  - name: Aleksandr Kibrik
+  - name: Alexander Knyazhitsky
+  - name: Andrey Kuznetsov
+  - name: Maxim Krongauz
+  - name: Katerina Markova
+  - name: Svetlana Mayskaya
+  - name: Ruslan Mitkov
+  - name: Thomas Payne
+  - name: Illiyana Raeva
+  - name: Olga Sakharova
+  - name: Alexey Semyonov
+  - name: Vladimir Uspensky
+  - name: Sergey Vershinin
+  - name: Andrey Zaliznyak
 
 - number: 3
   year: 2005
@@ -30,6 +100,42 @@
   number_of_teams: 13
   number_of_participants: 50
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Alexander Lubotsky
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Boris Iomdin
+  - name: Elena Muravenko
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Leonid Kulikov
+  - name: Liudmila Fedorova
+  - name: Maria Rubinstein
+  - name: Stanislav Gurevich
+  - name: Svetlana Burlak
+  organizing_committee:
+  - name: Alexander Lubotsky
+    chair: true
+  - name: Michiel de Vaan
+  - name: Alwin Kloekhorst
+  - name: Jesca Zweijtzer
+  - name: Saskia Tiethoff
+  - name: Mr. A.W. Kist
+  - name: Drs. H.J.J. Lenferink
+  - name: E.G. Terpstra
+  - name: Drs. A.C.C. Witteman
+  - name: Drs. F. Vergeer-Mudde
+  - name: Evgeniya Abelyuk
+  - name: Alexander Berdichevsky
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Stanislav Gurevich
+  - name: Boris Iomdin
+  - name: A. Letuchiy
+  - name: Elena Muravenko
+  - name: Renate Pajusalu
+  - name: Illiyana Raeva
+  - name: Maria Rubinstein
 
 - number: 4
   year: 2006
@@ -41,6 +147,25 @@
   number_of_teams: 13
   number_of_participants: 51
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Aleksandrs Berdičevskis
+    chair: true
+  - name: Axel Jagau
+  - name: Boris Iomdin
+  - name: Dmitry Gerasimov
+  - name: Elena Muravenko
+  - name: Ivan Derzhanski
+  - name: Maria Rubinstein
+  - name: Stanislav Gurevich
+  - name: Svetlana Burlak
+  organizing_committee:
+  - name: Renate Pajusalu
+    chair: true
+  - name: Axel Jagau
+  - name: Ilona Tragel
+  - name: Kärt Saarsen
+  - name: Olga Gerassimenko
+  - name: Reeli Torn
 
 - number: 5
   year: 2007
@@ -52,6 +177,25 @@
   number_of_teams: 15
   number_of_participants: 61
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Dmitry Gerasimov
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Liudmila Fedorova
+  - name: Maria Rubinstein
+  - name: Polina Oskolskaya
+  - name: Stanislav Gurevich
+  - name: Svetlana Burlak
+  - name: Todor Tchervenkov
+  organizing_committee:
+  - name: Stanislav Gurevich
+    chair: true
+  - name: Elena Riekhakainen
+  - name: Tatiana Lando
 
 - number: 6
   year: 2008
@@ -63,6 +207,31 @@
   number_of_teams: 16
   number_of_participants: 67
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
+  jury:
+  - name: Ivan Derzhanski
+    chair: true
+  - name: Adam Hesterberg
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Dmitry Gerasimov
+  - name: Ivaylo Grozdev
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Renate Pajusalu
+  - name: Stanislav Gurevich
+  - name: Svetlana Burlak
+  - name: Todor Tchervenkov
+  organizing_committee:
+  - name: Iliana Raeva
+    chair: true
+  - name: Aleksander Velinov
+  - name: Delyan Terziev
+  - name: Mihail Hamamdjiev
+  - name: Stamen Filchev
+  - name: Valentina Momchilova
+  - name: Vanyuta Nedyalkova
+  - name: Violeta Vitlyanova
 
 - number: 7
   year: 2009
@@ -74,6 +243,30 @@
   number_of_teams: 23
   number_of_participants: 86
   title: International Linguistics Olympiad
+  jury:
+  - name: Todor Tchervenkov
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Alexander Piperski
+  - name: Alexei Nazarov
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Dmitry Gerasimov
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Liudmila Fedorova
+  - name: Maria Rubinstein
+  - name: Patrick Littell
+  - name: Renate Pajusalu
+  - name: Stanislav Gurevich
+  - name: Taehun Lee
+  organizing_committee:
+  - name: Michał Śliwiński
+    chair: true
+  - name: Małgorzata Mikołajczyk
+  - name: Joanna Filipczak
+  - name: Kamila Gądek
+  - name: Miłosz Krupski
 
 - number: 8
   year: 2010
@@ -85,6 +278,44 @@
   number_of_teams: 26
   number_of_participants: 99
   title: International Linguistics Olympiad
+  jury:
+  - name: Alexander Piperski
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Dmitry Gerasimov
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Liudmila Fedorova
+  - name: Maria Rubinstein
+  - name: Mirjam de Jonge
+  - name: Renate Pajusalu
+  - name: Stanislav Gurevich
+  organizing_committee:
+  - name: Hedvig Skirgård
+    chair: true
+  - name: Patrik Roos
+    chair: true
+  - name: Bea Bergström
+  - name: Jennifer Panditha
+  - name: Linus Olsson
+  - name: Håkan Johansson
+  - name: Charlie Beer
+  - name: Philip Wester
+  - name: Tobias Nilsson
+  - name: Johan Alvfors
+  - name: David Borg
+  - name: Susanne Vejdemo
+  - name: Ulrika Hoppe
+  - name: Olof Petterson
+  - name: Emma Hyensil Kwon
+  - name: Erik
+  - name: Anna Gomez Lagerlöf
+  - name: Kristiinam Ausmees
+  - name: Angie Liu
+  - name: Marcus
+  - name: Linda Arvedal
 
 - number: 9
   year: 2011
@@ -96,6 +327,23 @@
   number_of_teams: 27
   number_of_participants: 102
   title: International Linguistics Olympiad
+  jury:
+  - name: Adam Hesterberg
+    chair: true
+  - name: Aleksandrs Berdičevskis
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Liudmila Fedorova
+  - name: Rosina Savisaar
+  - name: Stanislav Gurevich
+  - name: Tae Hun Lee
+  organizing_committee:
+  - name: Lori Levin
+    chair: true
+  - name: Mary Jo Bensasi
 
 - number: 10
   year: 2012
@@ -107,6 +355,38 @@
   number_of_teams: 34
   number_of_participants: 131
   title: International Linguistics Olympiad
+  jury:
+  - name: Ivan Derzhanski
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Artūrs Semeņuks
+  - name: Boris Iomdin
+  - name: Bruno L'Astorina
+  - name: Dmitry Gerasimov
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Rosina Savisaar
+  - name: Stanislav Gurevich
+  organizing_committee:
+  - name: Mirko Vaupotič
+    chair: true
+  - name: Borut Cerkovnik
+  - name: Izidor Hafner
+  - name: Žiga Knap
+  - name: Mija Kordež
+  volunteers:
+  - name: Marija Ahčin
+  - name: Sanja Gradišnik
+  - name: Mateja Hrast
+  - name: Irena Kuhar
+  - name: Sonja Mešić
+  - name: Marjan Novak
+  - name: Tadej Novak
+  - name: Aleš Omerzel
+  - name: Emanuel Vida
 
 - number: 11
   year: 2013
@@ -118,6 +398,40 @@
   number_of_teams: 35
   number_of_participants: 138
   title: International Linguistics Olympiad
+  jury:
+  - name: Stanislav Gurevich
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Artūrs Semeņuks
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Bruno L'Astorina
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Gabriela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Ksenia Guilyarova
+  - name: Maria Rubinstein
+  - name: Pavel Sofroniev
+  - name: Rosina Savisaar
+  - name: Tae Hun Lee
+  organizing_committee:
+  - name: Neil Sheldon
+    chair: true
+  - name: Jessica Brown
+  - name: Dick Hudson
+  - name: Harold Somers
+  - name: Nathan Somers
+  - name: Graeme Trousdale
+  - name: Hedvig Skirgard
+  - name: Lori Levin
+  - name: Sue Barry
+  - name: Ivan Garcia-Alvarez
+  - name: Eva Schulze-Berndt
+  volunteers:
+  - name: Mateja Hrast
 
 - number: 12
   year: 2014
@@ -129,6 +443,23 @@
   number_of_teams: 39
   number_of_participants: 152
   title: International Linguistics Olympiad
+  jury:
+  - name: Tae Hun Lee
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Artūrs Semeņuks
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Daniel Rucki
+  - name: Gabrijela Hladnik
+  - name: Ivan Derzhanski
+  - name: Hongchen Wu
+  - name: Hugh Dobbs
+  - name: Ksenia Gilyarova
+  - name: Milena Veneva
+  - name: Renate Pajusalu
+  - name: Stanislav Gurevich
 
 - number: 13
   year: 2015
@@ -140,6 +471,50 @@
   number_of_teams: 43
   number_of_participants: 166
   title: International Linguistics Olympiad
+  jury:
+  - name: Bozhidar Bozhanov
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Ksenia Guiliarova
+  - name: Maria Rubinstein
+  - name: Miina Norvik
+  - name: Milena Veneva
+  - name: Stanislav Gurevich
+  - name: Tae Hun Lee
+  organizing_committee:
+  - name: Aleksandar Velinov
+    chair: true
+  - name: Iliyana Raeva
+  - name: Rositsa Dekova
+  - name: Stamen Filchev
+  - name: Adelina Radeva
+  - name: Lora Dineva
+  - name: Marin Ivanov
+  - name: Hristo Hristov
+  - name: Stanimir Semerdzhiev
+  - name: Prof. Petar Kenderov
+  - name: Snezhinka Matakieva
+  - name: Elena Marinova
+  - name: Alexey Hristov
+  volunteers:
+  - name: Anna Gómez Lagerlöf
+  - name: Boriana Dzhivdzhanova
+  - name: Dimitar Hristov
+  - name: Mariya Lazarova
+  - name: Martin Minchev
+  - name: Mateja Hrast
+  - name: Melania Berbatova
+  - name: Tamila Krashtan
+  - name: Vesko Milev
+  - name: Victor Valov
+  - name: Yova Kemenchedjieva
 
 - number: 14
   year: 2016
@@ -151,6 +526,84 @@
   number_of_teams: 43
   number_of_participants: 167
   title: International Linguistics Olympiad
+  jury:
+  - name: Boris Iomdin
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Artūrs Semeņuks
+  - name: Bozhidar Bozhanov
+  - name: Bruno L'Astorina
+  - name: Daniel Rucki
+  - name: Danylo Mysak
+  - name: Dmitry Gerasimov
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Jeong Yeon Choi
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Miina Norvik
+  - name: Milena Veneva
+  - name: Pavel Sofroniev
+  - name: Stanislav Gurevich
+  - name: Taehun Lee
+  - name: Yili
+  organizing_committee:
+  - name: Monojit Choudhury
+    chair: true
+  - name: Girish Nath Jha
+    chair: true
+  - name: Kalika Bali
+  - name: Suresh P
+  - name: Avinash Pandey
+  - name: Zarana Sarda
+  - name: Dipti Mishra Sharma
+  - name: Sandipan Dandapat
+  - name: Tirthankar Dasgupta
+  - name: Mateja Hrast
+  - name: Shireen Irani
+  - name: Mitesh Khapra
+  - name: Ritesh Kumar
+  - name: Radhika Mamidi
+  - name: Shambhavi Pradeep
+  - name: Manjira Sinha
+  - name: Sunayana Sitaram
+  - name: Renuka Ozarkar
+  - name: Prof. Sanjay Deshmukh
+  - name: Mr. Shaji Mathew
+  - name: Ms. Vidya Natampally
+  volunteers:
+  - name: Abhishek Dedhe
+  - name: Akanksha Ashok
+  - name: Anirudha Kar
+  - name: Ankita Karmakar
+  - name: Anushri Ravikumar
+  - name: Arun Garimella
+  - name: Ashutosh Baheti
+  - name: Bhagyashree Kabra
+  - name: Bornini Lahiri
+  - name: Chirag Shenoy
+  - name: Deekshita Vishwanth
+  - name: Gayatri Bhat
+  - name: Himani Amrute
+  - name: Jūlija Ļitvīnova
+  - name: Kaushik Iyer
+  - name: Manohara Shyam V. S
+  - name: Marko Ljubotina
+  - name: Rakshita Kaulgud
+  - name: Royal Sequiera
+  - name: Sai Krishna Rallabandi
+  - name: Samvida Venkatesh
+  - name: Shagun Sinha
+  - name: Shruti Rijhwani
+  - name: Shubham Kanodia
+  - name: Sonita Korolova
+  - name: Sourabh Singh
+  - name: Srikanth Kumar
+  - name: Sujanitha Umamaheswaran
+  - name: Timur Davilov
+  - name: Vasanth Hegde
 
 - number: 15
   year: 2017
@@ -162,6 +615,49 @@
   number_of_teams: 43
   number_of_participants: 172
   title: International Linguistics Olympiad
+  jury:
+  - name: Hugh Dobbs
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Aleksander Piperski
+  - name: Arturs Semenuks
+  - name: Boris Iomdin
+  - name: Bozhidar Bozhanov
+  - name: Bruno L'Astorina
+  - name: Daniel Rucki
+  - name: Danylo Mysak
+  - name: Dmitry Gerasimov
+  - name: Gabrijela Hladnik
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Miina Norvik
+  - name: Milena Veneva
+  - name: Nathan Somers
+  - name: Pavel Sofroniev
+  - name: Stanislav Gurevich
+  - name: Tae Hun Lee
+  organizing_committee:
+  - name: Cara Greene
+    chair: true
+  - name: Laura Grehan
+  - name: Mateja Hrast
+  - name: Cliodhna Horan
+  - name: Aine Monk
+  - name: Colm O'Hehir
+  - name: Paraic Sheridan
+  - name: Harold Somers
+  - name: Olivia Waters
+  - name: Rebecca Wilson
+  volunteers:
+  - name: Mariia Stepaniuk
+  - name: Mariya Lazarova
+  - name: Jane D'Altuin
+  - name: Claire O'Connor
+  - name: Daniel Herlihy
+  - name: Anna Gomez Lagerlöf
+  - name: Lora Dineva
+  - name: Niamh Lynch
 
 - number: 16
   year: 2018
@@ -173,6 +669,65 @@
   number_of_teams: 49
   number_of_participants: 192
   title: International Linguistics Olympiad
+  jury:
+  - name: Maria Rubinstein
+    chair: true
+  - name: Tae Hun Lee
+  - name: Aleksander Piperski
+  - name: Aleksejs Peguševs
+  - name: Andrey Nikulin
+  - name: Bozhidar Bozhanov
+  - name: Bruno L’Astorina
+  - name: Boris Iomdin
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Milena Veneva
+  - name: Miina Norvik
+  - name: Samuel Ahmed
+  - name: Stanislav Gurevich
+  - name: Tae Hun Lee
+  - name: Tsuyoshi Kobayashi
+  organizing_committee:
+  - name: Vojtěch Diatka
+    chair: true
+  - name: Michal Láznička
+  - name: Eva Lehečková
+  - name: Markéta Lopatková
+  - name: Michala Lvová
+  - name: Hana Kalábová
+  - name: Anna Kotěšovcová
+  - name: Jan Bičovský
+  - name: Jan Hajič
+  - name: Vojtěch Janda
+  volunteers:
+  - name: Hana Kalábová
+  - name: Janda Vojtěch
+  - name: Zuzana Gruberová
+  - name: Tomáš Cieslar
+  - name: Tereza Maláčová
+  - name: Hastal Hapka
+  - name: Matyáš Medek
+  - name: Daniel Herlihy
+  - name: Anna Gomez Lagerlöf
+  - name: Mateja Hrast
+  - name: Veronika Dvorska
+  - name: Hana Farnikova
+  - name: Natalie Fedičova
+  - name: Eva Fraškova
+  - name: Lenka Hajnova
+  - name: Johana Jurašova
+  - name: Tereza Kachlova
+  - name: Marketa Karlasova
+  - name: Denisa Kochova
+  - name: Michaela Kováříková
+  - name: Marie Marešová
+  - name: Tomáš Stibor
+  - name: Lucie Vondrysová
+  - name: Elizabeth Wagebaertová
 
 - number: 17
   year: 2019
@@ -184,6 +739,68 @@
   number_of_teams: 53
   number_of_participants: 209
   title: International Linguistics Olympiad
+  jury:
+  - name: Tae Hun Lee
+    chair: true
+  - name: Aleksandr Piperski
+  - name: Aleksejs Peguševs
+  - name: Andrey Nikulin
+  - name: Bruno L’Astorina
+  - name: Boris Iomdin
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Elysia Warner
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Milena Veneva
+  - name: Miina Norvik
+  - name: Samuel Ahmed
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Tung-Le Pan
+  organizing_committee:
+  - name: Minkyu Kim
+    chair: true
+  - name: Yoo-jung Chae
+    chair: true
+  - name: Jeong Yeon Choi
+  - name: Jaeyeong Yang
+  - name: Chaeeun Song
+  volunteers:
+  - name: Ah Hyun Jung
+  - name: Anna Baek
+  - name: Da-Eun Oh
+  - name: Dan Mirea
+  - name: Dooyoung Jeong
+  - name: Eibhleann Bonham
+  - name: Erik A. P. Andersen
+  - name: Henry Wu
+  - name: Hong Bum Choi
+  - name: Hyun Seop Yoon
+  - name: Hwawon Yang
+  - name: Jeongjoo Lee
+  - name: Ji Won Choi
+  - name: Ji Wook Kim
+  - name: Jonathan Muñoz
+  - name: Lin Ye
+  - name: Mariia Stepaniuk
+  - name: Min Hwa Jeong
+  - name: Min Kyeong Kwon
+  - name: Min Kyung Jeon
+  - name: Miso Yoo
+  - name: Na Yeon Kang
+  - name: Phillip Krause
+  - name: Seungyeon Hong
+  - name: Seth Aycock
+  - name: Shun Ishikawa
+  - name: Somin Lee
+  - name: Soo Youn Shin
+  - name: Vesko Milev
+  - name: Vlad Neacșu
+  - name: Yuyang Liu
 
 - number: 18
   year: 2021
@@ -195,6 +812,42 @@
   number_of_teams: 54
   number_of_participants: 216
   title: International Linguistics Olympiad
+  jury:
+  - name: Aleksejs Peguševs
+    chair: true
+  - name: Alexander Piperski
+  - name: Andrey Nikulin
+  - name: Boris Iomdin
+  - name: Bruno L'Astorina
+  - name: Dan-Mircea Mirea
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Miina Norvik
+  - name: Milena Veneva
+  - name: Minkyu Kim
+  - name: Samuel Ahmed
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Takeru Matsuo
+  - name: Tae Hun Lee
+  - name: Tung-Le Pan
+  organizing_committee:
+  - name: Kārlis Krēsliņš
+    chair: true
+  - name: Vladimirs Ļitvinskis
+  - name: Sniedze Šama
+  - name: Guntars Dreijers
+  - name: Līga Koloda
+  - name: Ata Krūmiņa
+  - name: Edgars Žukovskis
+  - name: Mateja Hrast
 
 - number: 19
   year: 2022
@@ -206,6 +859,51 @@
   number_of_teams: 50
   number_of_participants: 184
   title: International Linguistics Olympiad
+  jury:
+  - name: Samuel Ahmed
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Bruno L'Astorina
+  - name: Dan-Mircea Mirea
+  - name: David Avellan-Hultman
+  - name: Daniel Rucki
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Jan Petr
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Minkyu Kim
+  - name: Przemysław Podleśny
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Takeru Matsuo
+  - name: Tung-Le Pan
+  organizing_committee:
+  - name: Rob Teare
+    chair: true
+  - name: David Allison
+  - name: Mateja Hrast
+  - name: Max Wheeler
+  - name: Michael Bonham
+  - name: Harold Somers
+  - name: Cathy Clucas
+  - name: Dave Kilgallon
+  volunteers:
+  - name: Alina Yan
+  - name: Anna Gomez Lagerlöf
+  - name: Cynthia Lacroix Herkenhoff
+  - name: David Allison
+  - name: Eibhleann Bonham
+  - name: Louise Malm
+  - name: Phillip Krause
+  - name: Paidí Walsh
+  - name: Roosmari Pihlak
+  - name: Vesko Milev
 
 - number: 20
   year: 2023
@@ -217,6 +915,63 @@
   number_of_teams: 52
   number_of_participants: 205
   title: International Linguistics Olympiad
+  jury:
+  - name: Milena Veneva
+    chair: true
+  - name: Alexander Piperski
+  - name: Aleksejs Peguševs
+  - name: Boris Iomdin
+  - name: Bruno L’Astorina
+  - name: Dan-Mircea Mirea
+  - name: Daniel Rucki
+  - name: David Avellan-Hultman
+  - name: Dmitry Gerasimov
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Gabrijela Hladnik
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Jan Petr
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Przemysław Podleśny
+  - name: Samuel Ahmed
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  organizing_committee:
+  - name: Aleksandar Velinov
+    chair: true
+  - name: Galina Damanyova
+  - name: Ralitsa Voynova
+  - name: Rositsa Dekova
+  - name: Lora Dineva
+  - name: Mateja Hrast
+  - name: Slavka Manova
+  - name: Sashka Vachkova
+  - name: Sashka Todorova
+  - name: Eleonora Baryakova
+  - name: Ivanka Stoyanova
+  - name: Atanas Buntov
+  - name: Natalia Dekova
+  - name: Iliana Vasileva
+  - name: Elena Marinova
+  - name: Alexey Hristov
+  - name: Bozhidar Bozhanov
+  volunteers:
+  - name: Aleksandra Naydenova
+  - name: Alina Vykliuk
+  - name: Anna Gomez Lagerlöf
+  - name: Daniel Turaev
+  - name: David Allison
+  - name: Deyana Shevchenko
+  - name: Elena Keskinova
+  - name: Fernando Gonçalves Filho
+  - name: Juliana Chavez Almeida
+  - name: Mihail Paskov
+  - name: Paidí Walsh
+  - name: Roosmari Pihlak
+  - name: Vesko Milev
+  - name: Viktor Baltin
 
 - number: 21
   year: 2024
@@ -228,6 +983,69 @@
   number_of_teams: 52
   number_of_participants: 206
   title: International Linguistics Olympiad
+  jury:
+  - name: Andrey Nikulin
+    chair: true
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Boris Iomdin
+  - name: Dan-Mircea Mirea
+  - name: Daniel Rucki
+  - name: Dmitry Gerasimov
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Hugh Dobbs
+  - name: Ivan Derzhanski
+  - name: Jan Petr
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Milena Veneva
+  - name: Przemysław Podleśny
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Taehun Lee
+  - name: Tung-Le Pan
+  - name: Yuyang Liu
+  organizing_committee:
+  - name: Bruno L'Astorina
+    chair: true
+  - name: Eloisa Pilati
+  - name: Janaina Weissheimer
+  - name: Natalia Guimarães
+  - name: Rodrigo Tiradentes
+  - name: Artur Corrêa
+  - name: Cynthia Herkenhoff
+  - name: Charles L'Astorina
+  - name: Pedro Leão
+  - name: Mateja Hrast
+  - name: Lai Otsuka
+  - name: Roosmari Pihlak
+  - name: Marina Kawamura
+  - name: Rafael Santiago
+  - name: Heloisa de Almeida Salles
+  - name: Joara Martin Bergsleithner
+  - name: Eduardo Cardoso Martins
+  volunteers:
+  - name: Alexandra Jelihovschi
+  - name: Carolina Bastos
+  - name: Dana Ospanova
+  - name: Ece Karagöz
+  - name: Esteban Mayorga
+  - name: Elena-Tamara Ivanof
+  - name: Fernando César
+  - name: Isadora Lopes
+  - name: Justin Cunningham
+  - name: Leo Paillo
+  - name: Mariana Lins Wolmer
+  - name: Marina Abreu
+  - name: Michelle Matie Morikawa
+  - name: Mihail Paskov
+  - name: Pedro Leão
+  - name: Roosmari Pihlak
+  - name: Samara Dália
+  - name: Senas Araujo
+  - name: Thiago Augusto
+  - name: Vítor Amaral Córdoba
 
 - number: 22
   year: 2025
@@ -239,4 +1057,96 @@
   number_of_teams: 57
   number_of_participants: 227
   title: International Linguistics Olympiad
+  jury:
+  - name: Tung-Le Pan
+    chair: true
+  - name: Ákos Blaskovics
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Ana Meta Dolinar
+  - name: Boris Iomdin
+  - name: Dan-Mircea Mirea
+  - name: Daniel Rucki
+  - name: David Hultman
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Ivan Derzhanski
+  - name: Jan Petr
+  - name: Kazune Sato
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Milena Veneva
+  - name: Samuel Ahmed
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Tae Hun Lee
+  organizing_committee:
+  - name: Chenhao Chiu
+    chair: true
+  - name: Claire Chou
+  - name: Grace Kuo
+  - name: Shu-Kai Hsieh
+  - name: Alan Wan
+  - name: Cheng-Kai Wang
+  - name: Yi-Chun Chiu
+  - name: Yi-Ning Chang
+  - name: Ri-Sheng Huang
+  - name: Chi-Wei Wang
+  - name: Chih-Han Lin
+  - name: Guan-Yu Tseng
+  - name: Da-Chen Lian
+  - name: You-Kuan Lin
+  - name: 笪瑜庭
+  - name: 王褕立
+  - name: 許崴棠
+  - name: 張迪善
+  - name: Mateja Hrast
+  volunteers:
+  - name: Alan Wan
+  - name: Yu-Wei Chu
+  - name: Alva Yang
+  - name: Chun-Hao Chiu
+  - name: Shih-Wei Huang
+  - name: Elena-Tamara Ivanof
+  - name: Faraz Ahmed Siddiqui
+  - name: Fiona Elizabeth Haarbrink
+  - name: Isabella Desiree Mijares Losada
+  - name: Isadora Lopes
+  - name: Yu-Che Chou
+  - name: Jacqueline Maria Guitu
+  - name: Chen-Yu Lin
+  - name: Merlin Andreas Fischer
+  - name: Hoi-Ying Tang
+  - name: Louise Elsie Cecilia Malm
+  - name: Marin Svetlev Ivanov
+  - name: Saga Marvin Orm Torfrid Lundgren
+  - name: Michelle Matie Morikawa
+  - name: Negin Arabbi
+  - name: Pin-Cheng Chen
+  - name: Ming-Jui Kuo
+  - name: Roosmari Pihlak
+  - name: Hui-Ting Yang
+  - name: Viktor Baltin
+  - name: Vítor Amaral Córdoba
+  - name: Yu-Hua Lo
+  - name: Yong-Hui Hua
+  - name: Chi-Wei Wang
+  - name: Brian Ma
+  - name: Cindy Lin
+  - name: Kai Chang
+  - name: Ken Lin
+  - name: Li-Bang Chen
+  - name: Chùnkî Lîm
+  - name: Yen-Hsi Huang
+  - name: Po-Hsiang Wang
+  - name: Ri-Sheng Huang
+  - name: Samantha Kao
+  - name: Yung-Jui Yao
+  - name: Yung-Ning Jhuang
+  - name: Yin-Ching Chang
+  - name: Yusuke Taira
+  - name: Maika Kitsunai
+  - name: Kai-Yang Peng
+  - name: I-Chieh Yang
+  - name: Yun-Ju Yu
 

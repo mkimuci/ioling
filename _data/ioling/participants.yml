@@ -3,6 +3,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Ivan Dobrev
         medal: bronze
@@ -10,6 +12,8 @@
       - name: Ralitsa Markova
       - name: Petra Rogleva
     - team: Bulgaria 2
+      leaders:
+      - name: Pavel Belchev
       participants:
       - name: Asen Alexandrov
       - name: Stefka Arbalova
@@ -21,6 +25,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Alena Fidlerová
       participants:
       - name: Veronika Homolková
       - name: Jana Kuřetová
@@ -29,6 +35,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Renate Pajusalu
       participants:
       - name: Tajo Oja
       - name: Kadri Rosmaa
@@ -37,6 +45,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Maksims Arzamasovs
       - name: Margarita Borovkova
@@ -45,6 +55,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Michiel de Vaan
       participants:
       - name: Eddin Najetovic
         medal: gold
@@ -55,6 +67,8 @@
   - country: Russia
     teams:
     - team: Russia-Moscow
+      leaders:
+      - name: Svetlana Mayskaya
       participants:
       - name: Boris Gelfer
       - name: Elena Maslova
@@ -63,6 +77,8 @@
       - name: Maria Shkapa
         medal: silver
     - team: Russia-St. Petersburg
+      leaders:
+      - name: Stanislav Gurevich
       participants:
       - name: Yulia Glazova
       - name: Polina Oskolskaya
@@ -75,6 +91,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Ivan Dobrev
         medal: gold
@@ -85,6 +103,8 @@
       - name: Tsvetomila Mihaylova
         medal: silver
     - team: Bulgaria 2
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Stefka Arbalova
       - name: Bozhidar Bozhanov
@@ -97,6 +117,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Renate Pajusalu
       participants:
       - name: Margus Niitsoo
         medal: bronze
@@ -107,6 +129,9 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Anna Brikmane
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Maksims Arzamasovs
       - name: Margarita Borovkova
@@ -115,6 +140,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Michiel de Vaan
       participants:
       - name: Alexey Nazarov
         medal: bronze
@@ -124,6 +151,8 @@
   - country: Poland
     teams:
     - team: Poland
+      leaders:
+      - name: Ewa Rudnicka
       participants:
       - name: Tymon Słoczyński
         medal: silver
@@ -132,6 +161,8 @@
   - country: Russia
     teams:
     - team: Russia-Moscow 1
+      leaders:
+      - name: Olga Shemanaeva
       participants:
       - name: Alexander Piperski
         medal: gold
@@ -141,6 +172,8 @@
         medal: bronze
       - name: Irina Moskaleva
     - team: Russia-Moscow 2
+      leaders:
+      - name: Alexander Letuchiy
       participants:
       - name: Maria Mamykina
         medal: silver
@@ -149,6 +182,8 @@
       - name: Olga Olokhtonova
       - name: Vera Akulova
     - team: Russia-St. Petersburg
+      leaders:
+      - name: Olga Kuznetsova
       participants:
       - name: Sophia Oskolskaya
         medal: bronze
@@ -156,6 +191,8 @@
       - name: Ksenia Krapivina
       - name: Polina Kunitsyna
     - team: Russia-Tula
+      leaders:
+      - name: Nikolay Nazarov
       participants:
       - name: Kirill Korolyov
       - name: Tatyana Poluektova
@@ -174,6 +211,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Tsvetomila Mihaylova
         medal: bronze
@@ -183,6 +222,8 @@
       - name: Ivan Dobrev
         medal: gold
     - team: Bulgaria 2
+      leaders:
+      - name: Violeta Vitlyanova
       participants:
       - name: Kiril Dimov
         medal: honorable mentions
@@ -192,6 +233,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Renate Pajusalu
       participants:
       - name: Ivar Merilo
         medal: honorable mentions
@@ -201,6 +244,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Hanna Kärkkäinen
       participants:
       - name: Katri Havu
       - name: Henna-Reetta Kuparinen
@@ -209,6 +254,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Nadežda Kiseļova
       - name: Aleksandra Ņivina
@@ -217,6 +264,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands 1
+      leaders:
+      - name: Alwin Kloekhorst
       participants:
       - name: Mijke Mulder
       - name: Remco Tukker
@@ -224,6 +273,8 @@
       - name: Alexei Nazarov
         medal: honorable mentions
     - team: Netherlands 2
+      leaders:
+      - name: Saskia Tiethoff
       participants:
       - name: Robin Jastrzebski
         medal: honorable mentions
@@ -233,10 +284,14 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Ewa Rudnicka
       participants:
       - name: Natalia Matuszak
       - name: Piotr Węgorowski
     - team: Poland 2
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Kamil Korzekwa
       - name: Łukasz Jarząbek
@@ -245,6 +300,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Anca Gata
       participants:
       - name: Mihai Gâţă
       - name: Irina Odagiu
@@ -253,6 +310,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Olga Shemanaeva
       participants:
       - name: Nikita Mediankin
         medal: bronze
@@ -262,6 +321,8 @@
         medal: bronze
       - name: Elena Khanina
     - team: St. Petersburg
+      leaders:
+      - name: Elena Riekhakaynen
       participants:
       - name: Maria Vasilyeva
       - name: Ksenia Krapivina
@@ -281,6 +342,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Pavel Sofroniev
         medal: gold
@@ -290,6 +353,8 @@
         medal: silver
       - name: Zlatina Tsvetkova
     - team: Bulgaria 2
+      leaders:
+      - name: Violeta Vitlyanova
       participants:
       - name: Ivaylo Dimitrov
         medal: gold
@@ -299,6 +364,8 @@
   - country: Estonia
     teams:
     - team: Estonia 1
+      leaders:
+      - name: Reeli Torn
       participants:
       - name: Diana Aitai
         medal: bronze
@@ -307,6 +374,8 @@
       - name: Melissa Saviste
       - name: Ketlin Turjakas
     - team: Estonia 2
+      leaders:
+      - name: Olga Gerassimenko
       participants:
       - name: Kärt Varendi
         medal: honorable mentions
@@ -315,6 +384,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Hanna Kärkkäinen
       participants:
       - name: Joonas Ilmavirta
       - name: Tytti Matsinen
@@ -323,6 +394,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Simona Striževska
       - name: Olga Bugajenko
@@ -331,6 +404,8 @@
   - country: Lithuania
     teams:
     - team: Lithuania
+      leaders:
+      - name: Grazina Malisauskiene
       participants:
       - name: Jonas Jurkevicius
       - name: Gabija Matonyte
@@ -339,6 +414,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Els de Roon Hertoge
       participants:
       - name: Stephanie van der Pas
       - name: Miriam Mieremet
@@ -347,12 +424,16 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Marta Falkowska
       participants:
       - name: Marcin Menżyk
       - name: Piotr Sterczewski
       - name: Michał Podstawski
       - name: Marta Olejniczak
     - team: Poland 2
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Paweł Świątkowski
         medal: bronze
@@ -362,6 +443,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Olga Shemanaeva
       participants:
       - name: Daniil Zorin
         medal: silver
@@ -371,6 +454,8 @@
         medal: bronze
       - name: Svetozar Lashin
     - team: St. Petersburg
+      leaders:
+      - name: Elena Riekhakaynen
       participants:
       - name: Maria Kholodilova
         medal: gold
@@ -392,6 +477,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Kiril Dimov
       - name: Yordan Mehandzhiyski
@@ -399,6 +486,8 @@
       - name: Pavel Sofroniev
       - name: Zlatina Tsvetkova
     - team: Bulgaria 2
+      leaders:
+      - name: Violeta Vitlyanova
       participants:
       - name: Mihail Minkov
         medal: silver
@@ -409,6 +498,8 @@
   - country: Estonia
     teams:
     - team: Estonia 1
+      leaders:
+      - name: Natalja Hartsenko
       participants:
       - name: Katre Annert
       - name: Sander Pajusalu
@@ -416,6 +507,8 @@
       - name: Ingrid Pärg
       - name: Mari-Ann Piht
     - team: Estonia 2
+      leaders:
+      - name: Olga Gerassimenko
       participants:
       - name: Diana Aitai
       - name: Kaisa Mitt
@@ -425,6 +518,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Nadežda Kiseļova
       - name: Jūlija Pečerska
@@ -433,6 +528,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Pepijn Hendriks
       participants:
       - name: Maria Galperina
       - name: Annabel Nijhof
@@ -441,6 +538,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Łukasz Cegieła
         medal: gold
@@ -448,6 +547,8 @@
       - name: Miłosz Krupski
       - name: Witold Świątkowski
     - team: Poland 2
+      leaders:
+      - name: Ewa Rudnicka
       participants:
       - name: Sabina Banasiak
       - name: Szymon Depta
@@ -456,6 +557,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Kira Kiranova
         medal: silver
@@ -464,6 +567,8 @@
         medal: bronze
       - name: Ivan Smurov
     - team: St. Petersburg 1
+      leaders:
+      - name: Elena Riekhakaynen
       participants:
       - name: Margarita Golubeva
       - name: Maria Kholodilova
@@ -472,6 +577,8 @@
       - name: Arseniy Vetushko-Kalevich
         medal: silver
     - team: St. Petersburg 2
+      leaders:
+      - name: Maria Nikolaeva
       participants:
       - name: Maxim Fedotov
       - name: Anna Milyuhina
@@ -481,6 +588,8 @@
   - country: Spain
     teams:
     - team: Spain
+      leaders:
+      - name: Cristina Moreno Chocarro
       participants:
       - name: Ana Camarena Caballín
       - name: Adriana Capilla Ibáñez
@@ -490,6 +599,8 @@
   - country: Sweden
     teams:
     - team: Sweden
+      leaders:
+      - name: Susanne Vejdemo
       participants:
       - name: Per Alvfors
       - name: Olof Haster
@@ -498,6 +609,8 @@
   - country: United States of America
     teams:
     - team: USA 1
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Adam Hesterberg
         medal: gold
@@ -505,6 +618,8 @@
       - name: Ryan Musa
       - name: Rachel Zax
     - team: USA 2
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Joshua Falk
       - name: Michael Gottlieb
@@ -515,6 +630,9 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria East
+      leaders:
+      - name: Valentina Momchilova
+      - name: Violeta Vitlianova
       participants:
       - name: Diana Sofronieva
         medal: bronze
@@ -523,6 +641,9 @@
       - name: Mihail Petrov
       - name: Pavel Sofroniev
     - team: Bulgaria West
+      leaders:
+      - name: Stamen Filchev
+      - name: Alexander Velinov
       participants:
       - name: Alexander Daskalov
         medal: gold
@@ -533,6 +654,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Reeli Torn
       participants:
       - name: Melissa Saviste
       - name: Rosina Savisaar
@@ -541,6 +664,8 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Jan Schotte
       - name: Jessica Desirée Veyhelmann
@@ -549,6 +674,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Aleksejs Peguševs
       - name: Artūrs Semeņuks
@@ -557,6 +684,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Jörgen Moorlag
       participants:
       - name: Charlotte Gwendolyn van der Sman
       - name: Erle Morgaine Monfils
@@ -566,6 +695,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Łukasz Cegieła
         medal: silver
@@ -575,6 +706,8 @@
         medal: silver
       - name: Miłosz Krupski
     - team: Poland 2
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Anna Maria Zielonka
       - name: Karol Konaszyński
@@ -585,12 +718,16 @@
   - country: Republic of Korea
     teams:
     - team: Korea CSIA
+      leaders:
+      - name: Jeeyoon Park
       participants:
       - name: Areum Kang
       - name: Seoyun Yi
       - name: Yoon Nam
       - name: Yoonduk Kim
     - team: Korea KMLA
+      leaders:
+      - name: Lee Ji Hyun
       participants:
       - name: Soo Kyo Jeong
       - name: Joon Kyu Kang
@@ -600,6 +737,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Andrey Nikulin
         medal: silver
@@ -608,6 +747,8 @@
         medal: silver
       - name: Elena Luchina
     - team: St. Petersburg
+      leaders:
+      - name: Elena Riekhakaynen
       participants:
       - name: Alexandra Grigoryeva
       - name: Anastasia Shlyakhovaya
@@ -617,6 +758,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Samo Koler
       participants:
       - name: Anja Komatar
       - name: Boris Mitrovič
@@ -625,6 +768,8 @@
   - country: Sweden
     teams:
     - team: Sweden
+      leaders:
+      - name: Hedvig Skirgård
       participants:
       - name: Hugo Fievet
       - name: Madeleine Fredelius
@@ -633,6 +778,9 @@
   - country: United States of America
     teams:
     - team: USA 1
+      leaders:
+      - name: Dragomir Radev
+      - name: Amy Troyani
       participants:
       - name: Anand Natarajan
         medal: silver
@@ -642,6 +790,9 @@
       - name: Morris Alper
         medal: silver
     - team: USA 2
+      leaders:
+      - name: Dragomir Radev
+      - name: Lori Levin
       participants:
       - name: Hanzhi Zhu
         medal: gold
@@ -655,6 +806,9 @@
   - country: Australia
     teams:
     - team: Australia
+      leaders:
+      - name: Dominique Estival
+      - name: Paweł Mazur
       participants:
       - name: Krysia Choros
       - name: Sarah Twomey
@@ -662,6 +816,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Alexander Velinov
       participants:
       - name: Diana Sofronieva
         medal: gold
@@ -671,6 +827,8 @@
         medal: honorable mentions
       - name: Georgi Rangelov
     - team: Bulgaria 2
+      leaders:
+      - name: Stamen Filchev
       participants:
       - name: Deyana Kamburova
         medal: bronze
@@ -686,6 +844,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Kärt Varendi
       participants:
       - name: Irene Tamm
         medal: silver
@@ -697,6 +857,8 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Tony Keller
         medal: honorable mentions
@@ -707,6 +869,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
       participants:
       - name: Aakanksha Sarda
         medal: silver
@@ -715,6 +879,8 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Hugh Dobbs
       participants:
       - name: Ruadhan Treacy
         medal: honorable mentions
@@ -724,6 +890,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Artūrs Semeņuks
         medal: silver
@@ -734,6 +902,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Dirk Bakker
       participants:
       - name: Ignace Schoot
         medal: honorable mentions
@@ -745,6 +915,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Kamila Gądek
       participants:
       - name: Łukasz Cegieła
         medal: gold
@@ -754,6 +926,8 @@
         medal: honorable mentions
       - name: Anna Maria Zielonka
     - team: Poland 2
+      leaders:
+      - name: Joanna Filipczak
       participants:
       - name: Witold Małecki
         medal: silver
@@ -766,6 +940,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Jinhee Suh
       participants:
       - name: Jun Yeop Lee
         medal: bronze
@@ -774,6 +950,8 @@
       - name: Tae gyung Eom
       - name: Sookyo Jeong
     - team: Korea 2
+      leaders:
+      - name: Key One Chung
       participants:
       - name: Hyung Min Son
         medal: honorable mentions
@@ -784,6 +962,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Vitaly Pavlenko
         medal: silver
@@ -794,6 +974,8 @@
       - name: Polina Loseva
         medal: honorable mentions
     - team: St. Petersburg
+      leaders:
+      - name: Ksenia Krapivina
       participants:
       - name: Diana Glazova
         medal: honorable mentions
@@ -803,6 +985,8 @@
   - country: Serbia
     teams:
     - team: Serbia
+      leaders:
+      - name: Biljana Branić-Latinović
       participants:
       - name: Tijana Jovanović
       - name: Jovan Đukić
@@ -811,12 +995,16 @@
   - country: Slovenia
     teams:
     - team: Slovenia 1
+      leaders:
+      - name: Hiacinta Klemenčič
       participants:
       - name: Manca Mrvar
       - name: Irena Kuhar
       - name: Katja Klobas
       - name: Klemen Stegu
     - team: Slovenia 2
+      leaders:
+      - name: Samo Koler
       participants:
       - name: Anja Komatar
       - name: Boris Mitrovič
@@ -824,6 +1012,8 @@
   - country: Sweden
     teams:
     - team: Sweden
+      leaders:
+      - name: Hedvig Skirgård
       participants:
       - name: Sanna Hernström
       - name: Carl Gustav Gyllenberg
@@ -832,6 +1022,8 @@
   - country: United Kingdom
     teams:
     - team: Great Britain
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Ben Caller
         medal: bronze
@@ -841,6 +1033,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: John Berman
         medal: bronze
@@ -851,6 +1045,8 @@
       - name: Daryl Hansen
         medal: honorable mentions
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Rowan Jacobs
         medal: silver
@@ -865,6 +1061,8 @@
   - country: Australia
     teams:
     - team: Australia
+      leaders:
+      - name: Dominique Estival
       participants:
       - name: Michelle Jayasuriya
         medal: honorable mentions
@@ -874,6 +1072,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Valentina Momchilova
       participants:
       - name: Velizar Velkov
         medal: honorable mentions
@@ -882,6 +1082,9 @@
       - name: Diana Sofronieva
       - name: Dina Traykova
     - team: Bulgaria 2
+      leaders:
+      - name: Iliyana Raeva
+      - name: Stamen Filchev
       participants:
       - name: Miroslav Manolov
         medal: bronze
@@ -892,6 +1095,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Olga Gerassimenko
       participants:
       - name: Mirjam Parve
         medal: bronze
@@ -903,6 +1108,8 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Jakob Park
         medal: bronze
@@ -914,6 +1121,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
       participants:
       - name: Sagar Sarda
       - name: Tanvi Chheda
@@ -922,6 +1131,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Blanaid Grumley Traynor
       participants:
       - name: Imogen Grumley Taylor
       - name: Emma Carrigan
@@ -930,6 +1142,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Aleksejs Peguševs
         medal: silver
@@ -942,6 +1156,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Dirk Bakker
       participants:
       - name: Olivier Paauw
         medal: honorable mentions
@@ -963,6 +1179,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Daniel Rucki
         medal: silver
@@ -984,6 +1202,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Jong Mi Kim
       participants:
       - name: Jeeun Song
         medal: bronze
@@ -991,6 +1211,8 @@
       - name: JinWook Han
       - name: Ahrahn Kim
     - team: Korea 2
+      leaders:
+      - name: Soo Min Hong
       participants:
       - name: Seung Heon Lee
         medal: honorable mentions
@@ -1000,6 +1222,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Andrey Nikulin
         medal: gold
@@ -1008,6 +1232,8 @@
       - name: Marina Ermolaeva
       - name: Filipp Shushurin
     - team: St. Petersburg
+      leaders:
+      - name: Ksenia Krapivina
       participants:
       - name: Vadim Tukh
         medal: gold
@@ -1019,6 +1245,8 @@
   - country: Serbia
     teams:
     - team: Serbia
+      leaders:
+      - name: Biljana Branić-Latinović
       participants:
       - name: Ana Pavlović
         medal: bronze
@@ -1028,6 +1256,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Christina Ho
       participants:
       - name: Jeremy Ng
         medal: honorable mentions
@@ -1037,6 +1267,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia 1
+      leaders:
+      - name: Hiacinta Klemenčič
       participants:
       - name: Tadej Novak
         medal: honorable mentions
@@ -1044,6 +1276,8 @@
       - name: Gregor Mubi
       - name: Samo Saje
     - team: Slovenia 2
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Anja Bregar
         medal: honorable mentions
@@ -1054,6 +1288,8 @@
   - country: Sweden
     teams:
     - team: Sweden
+      leaders:
+      - name: Johan Alvfors
       participants:
       - name: Karin Sonesson
         medal: honorable mentions
@@ -1063,6 +1299,8 @@
   - country: United Kingdom
     teams:
     - team: UK 1
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Younus Porteous 
         medal: bronze
@@ -1080,6 +1318,9 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
+      - name: Patrick Litell
       participants:
       - name: Martin Camacho
         medal: silver
@@ -1090,6 +1331,8 @@
       - name: Alan Chang
         medal: bronze
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Ben Sklaroff
         medal: gold
@@ -1104,6 +1347,8 @@
   - country: Australia
     teams:
     - team: Australia
+      leaders:
+      - name: Jill Vaughan
       participants:
       - name: Joanna Bloore
       - name: Paul Lau
@@ -1113,12 +1358,16 @@
   - country: Brazil
     teams:
     - team: Brazil Itararé
+      leaders:
+      - name: Bruno L'Astorina
       participants:
       - name: André Amaral de Sousa
       - name: Rafael Kazuhiro Miyazaki
       - name: Pedro Neves Lopes
       - name: Nicolas Seoane Miquelin
     - team: Brazil Suassuna
+      leaders:
+      - name: Felipe Gonçalves Assis
       participants:
       - name: Ivan Tadeu Antunes Filho
       - name: Marvin Ariel Dias Santos
@@ -1126,6 +1375,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Dimitar Hristov
         medal: bronze
@@ -1146,6 +1397,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Patrick Litell
       participants:
       - name: Keunjae Go
       - name: Jordan Ho
@@ -1156,6 +1409,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Renate Pajusalu
       participants:
       - name: Mihhail Afanasjev
         medal: bronze
@@ -1168,6 +1423,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
       participants:
       - name: Sagar Sarda
         medal: honorable mentions
@@ -1177,6 +1434,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Laura Grehan
       participants:
       - name: Medbh Campbell
         medal: honorable mentions
@@ -1186,6 +1446,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Vladislavs Kļevickis
       - name: Jekaterina Malina
@@ -1196,6 +1458,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Dirk Bakker
       participants:
       - name: Steven Holleman
       - name: Martin Kroon
@@ -1205,6 +1469,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Daria Borodziuk
       - name: Tomasz Limisiewicz
@@ -1223,6 +1489,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Hangul
+      leaders:
+      - name: Haegeun Chung
       participants:
       - name: Seung Woong Ha
       - name: Min Kyu Kim
@@ -1240,6 +1508,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Aleksey Kozlov
         medal: gold
@@ -1250,6 +1520,8 @@
       - name: Anna Sarukhanova
         medal: honorable mentions
     - team: St. Petersburg
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Kuzma Smirnov
         medal: honorable mentions
@@ -1272,6 +1544,9 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Mirko Vaupotič
+      - name: Simona Klemenčič
       participants:
       - name: Žiga Gosar
       - name: Mateja Hrast
@@ -1282,12 +1557,16 @@
   - country: Sweden
     teams:
     - team: Sweden 1
+      leaders:
+      - name: Hedvig Skirgård
       participants:
       - name: Willy Chan
       - name: Alexander Fletcher Sandersjöö
       - name: Bazyli Grosz
       - name: Adrian Iredahl
     - team: Sweden 2
+      leaders:
+      - name: Patrik Roos
       participants:
       - name: David Dolfe
       - name: Mikael Grossman
@@ -1301,6 +1580,8 @@
   - country: United Kingdom
     teams:
     - team: UK
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Piotr Gałuszka
         medal: honorable mentions
@@ -1311,6 +1592,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Caroline Ellison
         medal: honorable mentions
@@ -1320,6 +1603,8 @@
       - name: Alexander Wade
         medal: silver
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Morris Alper
         medal: gold
@@ -1350,6 +1635,8 @@
   - country: Australia
     teams:
     - team: Australia
+      leaders:
+      - name: Jill Vaughan
       participants:
       - name: Kai-Xing Goh
         medal: honorable mentions
@@ -1359,6 +1646,8 @@
   - country: Brazil
     teams:
     - team: Brazil
+      leaders:
+      - name: Victória Flório Andrade
       participants:
       - name: Ivan Tadeu Ferreira Antunes Filho
         medal: silver
@@ -1370,6 +1659,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Yana Karashtranova
       participants:
       - name: Magdalena Dakeva
         medal: bronze
@@ -1380,6 +1671,8 @@
       - name: Mariya Lazarova
         medal: honorable mentions
     - team: Bulgaria 2
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Marin Ivanov
         medal: gold
@@ -1391,6 +1684,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Patrick Litell
       participants:
       - name: Harry Go
         medal: honorable mentions
@@ -1400,6 +1695,8 @@
   - country: China
     teams:
     - team: China 1
+      leaders:
+      - name: Jiangjie Yu
       participants:
       - name: Jia Zhang
         medal: honorable mentions
@@ -1407,6 +1704,8 @@
       - name: Yingying Li
       - name: Yuge Li
     - team: China 2
+      leaders:
+      - name: Jiangjie Yu
       participants:
       - name: Jiabo Feng
       - name: Yu Wang
@@ -1415,6 +1714,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
       participants:
       - name: Alžběta Vítková
       - name: Martin Zikmund
@@ -1423,6 +1724,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Miina Norvik
       participants:
       - name: Eva-Lotta Käsper
         medal: silver
@@ -1435,6 +1738,8 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Max Allmendinger
         medal: silver
@@ -1445,6 +1750,8 @@
   - country: Greece
     teams:
     - team: Greece
+      leaders:
+      - name: Efthymios Sipetzis
       participants:
       - name: Vasileios Ragkousis
       - name: Ariadni Tegopoulou
@@ -1453,6 +1760,8 @@
   - country: Hungary
     teams:
     - team: Hungary
+      leaders:
+      - name: Judit Vértes
       participants:
       - name: Dorottya Demszky
       - name: Balázs Dezsényi
@@ -1461,6 +1770,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
       participants:
       - name: Sagar Sarda
         medal: silver
@@ -1472,6 +1783,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Laura Grehan
       participants:
       - name: Dale Walmsley
       - name: Aidan Marnane
@@ -1480,6 +1794,8 @@
   - country: Israel
     teams:
     - team: Israel
+      leaders:
+      - name: Amnon Lotan
       participants:
       - name: Ron Asherov
       - name: Guy Raveh
@@ -1488,12 +1804,16 @@
   - country: Japan
     teams:
     - team: Japan
+      leaders:
+      - name: Yosuke Yamada
       participants:
       - name: Yutaro Yamada
         medal: honorable mentions
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Estere Šeinkmane
         medal: bronze
@@ -1503,6 +1823,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Dirk Bakker
       participants:
       - name: Jennifer  Jochems
       - name: Vincent Bosboom
@@ -1511,6 +1833,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Piotr Bobołowicz
         medal: honorable mentions
@@ -1521,6 +1845,8 @@
       - name: Mateusz Kopeć
         medal: honorable mentions
     - team: Poland 2
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Joanna Cichowska
         medal: honorable mentions
@@ -1533,6 +1859,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Jeeun Song
       participants:
       - name: Hong Bum Choi
         medal: silver
@@ -1540,6 +1868,8 @@
       - name: Minju Park
       - name: Minjung Kang
     - team: Korea 2
+      leaders:
+      - name: Jeeun Song
       participants:
       - name: Jonathan Hongsoon Kim
         medal: gold
@@ -1550,6 +1880,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Cosmina Gabriela Cristina Tănase
       - name: Mihai-George Arcalean
@@ -1557,6 +1889,8 @@
   - country: Russia
     teams:
     - team: Moscow
+      leaders:
+      - name: Anna Kadykova
       participants:
       - name: Anna Sarukhanova
         medal: bronze
@@ -1567,6 +1901,8 @@
       - name: Elena Rykunova
         medal: honorable mentions
     - team: St. Petersburg
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Anton Sokolov
         medal: gold
@@ -1588,6 +1924,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Muhammad Faizad bin Salim
       participants:
       - name: Amelia Shaye Lim Jin
         medal: bronze
@@ -1599,6 +1937,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia 1
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Rok Kaufman
         medal: silver
@@ -1607,6 +1947,8 @@
       - name: Lidija Magdevska
       - name: Mirjam Homar
     - team: Slovenia 2
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Lara  Jerman
         medal: honorable mentions
@@ -1616,12 +1958,16 @@
   - country: Sweden
     teams:
     - team: Sweden 1
+      leaders:
+      - name: Kaityn Price
       participants:
       - name: Adam Alstermark
       - name: Filippa Lindsten
       - name: Markus Gelfgren
       - name: Cornelia Damber
     - team: Sweden 2
+      leaders:
+      - name: Kaityn Price
       participants:
       - name: Jacob Jonsson
       - name: Robin Eriksson
@@ -1629,6 +1975,8 @@
   - country: United Kingdom
     teams:
     - team: UK
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Tom White
         medal: silver
@@ -1641,6 +1989,8 @@
   - country: United States of America
     teams:
     - team: USA 1
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Anderson  Wang
         medal: gold
@@ -1651,6 +2001,8 @@
       - name: Samuel Zbarsky
         medal: honorable mentions
     - team: USA 2
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Alexander Wade
         medal: gold
@@ -1664,6 +2016,8 @@
   - country: Australia
     teams:
     - team: Australia 1
+      leaders:
+      - name: Michele Grant
       participants:
       - name: Laura Boyle
       - name: Rebecca Day
@@ -1671,6 +2025,8 @@
       - name: Martyna Judd
         medal: bronze
     - team: Australia 2
+      leaders:
+      - name: Verna Rieschild
       participants:
       - name: Calvin Rokich
       - name: Caleb Thomas
@@ -1679,6 +2035,8 @@
   - country: Brazil
     teams:
     - team: Brazil
+      leaders:
+      - name: Robson Carapeto-Conceição
       participants:
       - name: Gabriel Alves da Silva Diniz
         medal: gold
@@ -1690,6 +2048,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Rada Atanasova
       - name: Iva Gumnishka
@@ -1711,6 +2071,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Patrick Litell
       participants:
       - name: Janis Chang
       - name: Jordan Ho
@@ -1721,6 +2083,8 @@
   - country: China
     teams:
     - team: China 1
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Qitong Cao
         medal: honorable mentions
@@ -1739,6 +2103,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
       participants:
       - name: Štefan Földesi
       - name: Hana Kalábová
@@ -1748,6 +2114,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Miina Norvik
       participants:
       - name: Airika Arrik
         medal: silver
@@ -1767,6 +2135,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
       participants:
       - name: Shuchi Agrawal
       - name: Prachatos Mitra
@@ -1779,6 +2149,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Cara Greene
       participants:
       - name: Imogen Grumley Traynor
       - name: Daniel Herlihy
@@ -1787,6 +2160,8 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Robert Teare
       participants:
       - name: Doona Lambden
       - name: Erin McNulty
@@ -1803,6 +2178,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Daniels Kozirevs
         medal: honorable mentions
@@ -1824,6 +2201,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Michał Hadryś
         medal: gold
@@ -1876,6 +2255,9 @@
   - country: Russia
     teams:
     - team: Russia 2
+      leaders:
+      - name: Anna Kadykova
+      - name: Anton Kuhto
       participants:
       - name: Ekaterina Kolos
       - name: Lev Kozlov
@@ -1884,6 +2266,8 @@
       - name: Ivan Zverev
         medal: silver
     - team: St. Petersburg
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Polina Pleshak
         medal: silver
@@ -1895,6 +2279,8 @@
   - country: Serbia
     teams:
     - team: Serbia
+      leaders:
+      - name: Lidija Neranžić-Čanda
       participants:
       - name: Anastazija Djuran
         medal: honorable mentions
@@ -1915,6 +2301,9 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
+      - name: Rok Kaufman
       participants:
       - name: Lara Jerman
         medal: honorable mentions
@@ -1925,6 +2314,8 @@
   - country: Sweden
     teams:
     - team: Sweden Blå
+      leaders:
+      - name: Hedvig Skirgård
       participants:
       - name: Lovisa Helmius
         medal: honorable mentions
@@ -1932,6 +2323,8 @@
       - name: Herman Jansson
       - name: Hanna Stjernström
     - team: Sweden Gul
+      leaders:
+      - name: Patrik Roos
       participants:
       - name: Filippa Frithz-Lindsten
       - name: Jacob Karlsson Lagerros
@@ -1946,6 +2339,8 @@
   - country: Türkiye
     teams:
     - team: Türkiye
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Ada Dogrucu
       - name: Alp Eren Elci
@@ -1954,6 +2349,8 @@
   - country: United Kingdom
     teams:
     - team: UK North
+      leaders:
+      - name: Nathan Somers
       participants:
       - name: Omri Faraggi
         medal: silver
@@ -1963,6 +2360,8 @@
       - name: Neema Kotonya
         medal: honorable mentions
     - team: UK South
+      leaders:
+      - name: Nathan Somers
       participants:
       - name: Daniel Pitt
         medal: honorable mentions
@@ -1974,6 +2373,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Erik Andersen
         medal: honorable mentions
@@ -1983,6 +2384,8 @@
         medal: silver
       - name: Simone Stoyen
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Aaron Klein
         medal: silver
@@ -1997,6 +2400,8 @@
   - country: Australia
     teams:
     - team: Australia 1
+      leaders:
+      - name: Harald Sondergaard
       participants:
       - name: James Matthew Abel
         medal: bronze
@@ -2013,6 +2418,8 @@
   - country: Brazil
     teams:
     - team: Brazil
+      leaders:
+      - name: Victória Flório Andrade
       participants:
       - name: Gabriel Alves da Silva Diniz
         medal: honorable mentions
@@ -2022,6 +2429,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Elena Chaparova
         medal: bronze
@@ -2030,6 +2439,9 @@
       - name: Ralitsa Dardjonova
       - name: Tina Vladimirova
     - team: Bulgaria 2
+      leaders:
+      - name: Rositsa Dekova
+      - name: Ludmil Ignatov Popov
       participants:
       - name: Margarita Tsvetkova
         medal: honorable mentions
@@ -2040,6 +2452,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Heather Newell
       participants:
       - name: Daniel Lovsted
         medal: gold
@@ -2052,6 +2466,8 @@
   - country: China
     teams:
     - team: China 1
+      leaders:
+      - name: Wang Lu
       participants:
       - name: Tianlu Chen
         medal: silver
@@ -2062,6 +2478,8 @@
       - name: Qitong Cao
         medal: honorable mentions
     - team: China 2
+      leaders:
+      - name: Xu Xinlu
       participants:
       - name: Ming Zhang
         medal: silver
@@ -2073,6 +2491,9 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
+      - name: Kristýna Tomšů
       participants:
       - name: Matyáš Medek
         medal: bronze
@@ -2084,6 +2505,9 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Renate Pajusalu
+      - name: Miina Norvik
       participants:
       - name: Annika Kluge
         medal: bronze
@@ -2093,6 +2517,8 @@
   - country: Greece
     teams:
     - team: Greece 1
+      leaders:
+      - name: Efthymios Sipetzis
       participants:
       - name: Artemis Panagopoulou
       - name: Andreas Papadakis
@@ -2107,6 +2533,8 @@
   - country: Hungary
     teams:
     - team: Hungary 1
+      leaders:
+      - name: Gyözö Yang Zijian
       participants:
       - name: Veronika Timar
         medal: honorable mentions
@@ -2122,6 +2550,9 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Zarana Sarda
+      - name: Monojit Choudhury
       participants:
       - name: Anindya Sharma
         medal: bronze
@@ -2132,6 +2563,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Laura Grehan
       participants:
       - name: Matthew Conor Nixon
         medal: honorable mentions
@@ -2141,6 +2575,8 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Denise Holland
       participants:
       - name: Daniel Quayle
       - name: Claire Elisabeth Pickering
@@ -2149,6 +2585,8 @@
   - country: Japan
     teams:
     - team: Japan 1
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Nishiyama Naoki
         medal: honorable mentions
@@ -2165,6 +2603,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Šonita Koroļova
         medal: bronze
@@ -2175,6 +2615,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Jennifer Jochems
       participants:
       - name: Bart Lievaart
         medal: honorable mentions
@@ -2184,6 +2626,8 @@
   - country: Pakistan
     teams:
     - team: Pakistan
+      leaders:
+      - name: Ammar Babar
       participants:
       - name: Muhammad Hashaam Tahir Khan
       - name: Waez Hammad
@@ -2192,6 +2636,8 @@
   - country: Poland
     teams:
     - team: Poland 1
+      leaders:
+      - name: Michał Sliwiński
       participants:
       - name: Milo Mazurkiewicz
         medal: gold
@@ -2201,6 +2647,9 @@
         medal: honorable mentions
       - name: Grzegorz Ciszewski
     - team: Poland 2
+      leaders:
+      - name: Alicja Wójcicka
+      - name: Tomasz Skalski
       participants:
       - name: Stanisław Wilczyński
         medal: silver
@@ -2211,6 +2660,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Hong Bum Choi
       participants:
       - name: Yoojin Jang
         medal: bronze
@@ -2227,6 +2678,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Dan Mircea Mirea
         medal: gold
@@ -2238,6 +2691,8 @@
   - country: Russia
     teams:
     - team: Russia 1
+      leaders:
+      - name: Anton Somin
       participants:
       - name: Anastasiia Dmitrieva
         medal: gold
@@ -2248,6 +2703,8 @@
       - name: Ivan Enshin
         medal: honorable mentions
     - team: Russia 2
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Danila Shumskiy
         medal: gold
@@ -2260,6 +2717,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Muhammad Faizad bin Salim
       participants:
       - name: Glenn Ee Je Hong
         medal: bronze
@@ -2271,6 +2730,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Lara Jerman
         medal: silver
@@ -2281,6 +2742,8 @@
   - country: Spain
     teams:
     - team: Spain
+      leaders:
+      - name: Guillermo Latour Alcantud
       participants:
       - name: Andrea Briones Fernandez
       - name: Alejandro Buyolo Aguilera
@@ -2289,6 +2752,8 @@
   - country: Sweden
     teams:
     - team: Sweden 1
+      leaders:
+      - name: Hedvig Skirgård
       participants:
       - name: Emma Kristina Johansen
         medal: bronze
@@ -2296,6 +2761,8 @@
       - name: Hedvig Lovisa Helmius
       - name: Jacob Benjamin Karlsson Lagerros
     - team: Sweden 2
+      leaders:
+      - name: Patrik Roos
       participants:
       - name: Hampus Erik David Lane
         medal: silver
@@ -2306,11 +2773,15 @@
   - country: Taiwan
     teams:
     - team: Taiwan
+      leaders:
+      - name: Anthony Yen
       participants:
       - name: Isabelle Yen
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Danylo Mysak
       participants:
       - name: Ada Melentyeva
         medal: silver
@@ -2320,6 +2791,8 @@
   - country: United Kingdom
     teams:
     - team: UK
+      leaders:
+      - name: Nathan Somers
       participants:
       - name: Elysia Jane Warner
         medal: gold
@@ -2330,6 +2803,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Catherine Wu
         medal: silver
@@ -2340,6 +2815,8 @@
       - name: Brandon Epstein
         medal: honorable mentions
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Darryl Wu
         medal: gold
@@ -2354,12 +2831,16 @@
   - country: Australia
     teams:
     - team: Australia 1
+      leaders:
+      - name: Paul Bunyan
       participants:
       - name: Nitin Niranjan
       - name: Matthew Jones
       - name: Alastair Butcher
       - name: Amareesh Ravirajah
     - team: Australia 2
+      leaders:
+      - name: Karin Fabris da Silva
       participants:
       - name: James Matthew Abel
         medal: honorable mentions
@@ -2370,6 +2851,8 @@
   - country: Bangladesh
     teams:
     - team: Bangladesh
+      leaders:
+      - name: Mohammad Salim Miah
       participants:
       - name: Md Anisur Rahman
       - name: Nafiz Salehin Mahin
@@ -2378,6 +2861,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Vesselin Stamov
       participants:
       - name: Tina Vladimirova
         medal: silver
@@ -2387,6 +2872,8 @@
       - name: Valentin Dimov
         medal: silver
     - team: Bulgaria 2
+      leaders:
+      - name: Violeta Vitlyanova
       participants:
       - name: Ralitsa Dardjonova
         medal: silver
@@ -2399,6 +2886,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Patrick Litell
       participants:
       - name: Ben Zhang
         medal: honorable mentions
@@ -2410,6 +2899,8 @@
   - country: China
     teams:
     - team: China 1
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Huihan Li
         medal: honorable mentions
@@ -2418,6 +2909,8 @@
       - name: Jin Xu
         medal: silver
     - team: China 2
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Zhelun Zhang
       - name: Wen Wen
@@ -2427,6 +2920,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
       participants:
       - name: Tomáš Cieslar
         medal: honorable mentions
@@ -2437,6 +2932,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Olga Gerassimenko
       participants:
       - name: Joonas Jürgen Kisel
         medal: honorable mentions
@@ -2447,17 +2944,23 @@
   - country: France
     teams:
     - team: France
+      leaders:
+      - name: Maylis Ribette
       participants:
       - name: Antonin Jacquet
   - country: Hungary
     teams:
     - team: Hungary 1
+      leaders:
+      - name: Beatrix Oszkó
       participants:
       - name: Balázs Ákos
       - name: Dániel Duli
       - name: Barna Soma Bíró
       - name: Veronika Tímár
     - team: Hungary 2
+      leaders:
+      - name: Judit Vértes
       participants:
       - name: Botond Diviki-Nagy
       - name: Lili Fehértói-Nagy
@@ -2467,6 +2970,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Monojit Choudhury
       participants:
       - name: Abhishek Mohan Dedhe
         medal: honorable mentions
@@ -2475,6 +2980,8 @@
         medal: bronze
       - name: Vasundhara Rakesh
     - team: India Saffron
+      leaders:
+      - name: Sandipan Dandapat
       participants:
       - name: Saujas Srinivasa Vaduguru
         medal: honorable mentions
@@ -2486,6 +2993,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Ethan Hamman
       - name: Niamh Lynch
@@ -2495,6 +3005,8 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Robert Teare
       participants:
       - name: Annie Louise Lujie Lennon
       - name: Max Elliott Quayle
@@ -2503,6 +3015,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Yuto Yagi
         medal: honorable mentions
@@ -2512,6 +3026,8 @@
       - name: Sato Hirotaka
         medal: honorable mentions
     - team: Japan Samurai
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Shun Ishikawa
       - name: Miyako Sasagawa
@@ -2520,6 +3036,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan 1
+      leaders:
+      - name: Anton Vassilyev
       participants:
       - name: Alyona Kim
         medal: honorable mentions
@@ -2528,6 +3046,8 @@
       - name: Diana Murzagaliyeva
         medal: bronze
     - team: Kazakhstan 2
+      leaders:
+      - name: Saniya Toxanova
       participants:
       - name: Lyudmila Rvanova
       - name: Aidyn Ubingazhibov
@@ -2536,6 +3056,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Timurs Davilovs
         medal: bronze
@@ -2546,6 +3068,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Milan Abel Lopuhaä
       participants:
       - name: Abe ten Voorde
         medal: honorable mentions
@@ -2557,6 +3081,8 @@
   - country: Poland
     teams:
     - team: Poland Red
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Eliza Siemaszko
         medal: honorable mentions
@@ -2565,6 +3091,8 @@
         medal: bronze
       - name: Radoslaw Wójcik
     - team: Poland White
+      leaders:
+      - name: Tomasz Skalski
       participants:
       - name: Katarzyna Kowalska
         medal: silver
@@ -2576,6 +3104,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Taegil Kwon
       participants:
       - name: Lee Joonhak
         medal: honorable mentions
@@ -2585,6 +3115,8 @@
       - name: Jun Hyosung
         medal: honorable mentions
     - team: Korea 2
+      leaders:
+      - name: Jeongyeon Choi
       participants:
       - name: Jeong Moonhwan
       - name: Lee Sunha
@@ -2594,6 +3126,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Teodora-Elena Solovan
         medal: silver
@@ -2604,6 +3138,8 @@
   - country: Russia
     teams:
     - team: Russia 1
+      leaders:
+      - name: Anton Somin
       participants:
       - name: Anastasia Golubeva
         medal: honorable mentions
@@ -2614,6 +3150,8 @@
       - name: Maria Aristova
         medal: honorable mentions
     - team: Russia 2
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Anna Tatarenko
         medal: bronze
@@ -2624,6 +3162,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Madihah Binte Mahmood
       participants:
       - name: Lew Jing Shan
         medal: honorable mentions
@@ -2634,6 +3174,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Tjaša Valic
       - name: Vivian Mohr
@@ -2643,6 +3185,8 @@
   - country: Spain
     teams:
     - team: Spain
+      leaders:
+      - name: Guillermo Latour Alcantud
       participants:
       - name: Rafah Hajjar Muñoz
       - name: Yézer Mellado Ruiz
@@ -2651,12 +3195,16 @@
   - country: Sweden
     teams:
     - team: Sweden Blue
+      leaders:
+      - name: Jacob Lagerros
       participants:
       - name: Sarah Tovatt
       - name: Walter Berggren
       - name: Lisa Lokteva
       - name: Sanna Eklund
     - team: Sweden Yellow
+      leaders:
+      - name: Filippa Frithz
       participants:
       - name: Daniel Wright
       - name: Åke Andersson
@@ -2665,12 +3213,16 @@
   - country: Taiwan
     teams:
     - team: Taiwan
+      leaders:
+      - name: Anthony Yen
       participants:
       - name: Isabelle Lee Yen
         medal: bronze
   - country: Türkiye
     teams:
     - team: Türkiye
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Öykü Su Ökkan
       - name: Nilüfer Özhan
@@ -2679,6 +3231,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine 1
+      leaders:
+      - name: Danylo Mysak
       participants:
       - name: Ivan Oleksiyuk
         medal: silver
@@ -2689,6 +3243,8 @@
       - name: Anastasiia Alokhina
         medal: bronze
     - team: Ukraine 2
+      leaders:
+      - name: Maksym Chornyi
       participants:
       - name: Mariia Stepaniuk
       - name: Volodymyr Yelagin
@@ -2698,6 +3254,8 @@
   - country: United Kingdom
     teams:
     - team: UK East
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Naomi Solomons
         medal: bronze
@@ -2707,6 +3265,8 @@
       - name: Samuel Ahmed
         medal: gold
     - team: UK West
+      leaders:
+      - name: Nathan Somers
       participants:
       - name: Anthony Bracey
         medal: silver
@@ -2719,6 +3279,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Julian Gau
         medal: silver
@@ -2729,6 +3291,8 @@
       - name: Nilai Sarda
         medal: bronze
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: James Bloxham
         medal: gold
@@ -2743,6 +3307,8 @@
   - country: Australia
     teams:
     - team: Australia 1
+      leaders:
+      - name: Michael Lee
       participants:
       - name: Hamish Self
       - name: Martin Lee
@@ -2751,6 +3317,8 @@
       - name: Tom Ryan
         medal: honorable mentions
     - team: Australia Baulko
+      leaders:
+      - name: Michael Salter
       participants:
       - name: Al-Aabid Chowdhury
       - name: Gamshagi Karunaivel
@@ -2760,6 +3328,8 @@
   - country: Bangladesh
     teams:
     - team: Bangladesh
+      leaders:
+      - name: Morshed Ibna Rahman
       participants:
       - name: Aranya Das
       - name: Ipshita Maliat Rahman
@@ -2768,6 +3338,8 @@
   - country: Brazil
     teams:
     - team: Brazil 1
+      leaders:
+      - name: Luana Soares
       participants:
       - name: Ana Beatriz Rodrigues de Carvalho Nunes
       - name: Bruno Kenzo Ozaki
@@ -2777,6 +3349,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Mihail Paskov
         medal: silver
@@ -2787,6 +3361,8 @@
       - name: Zdravko Ivanov
         medal: honorable mentions
     - team: Bulgaria 2
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Assel Ismoldayeva
       - name: Borislav Georgiev
@@ -2797,6 +3373,8 @@
   - country: Canada
     teams:
     - team: Canada
+      leaders:
+      - name: Heather Newell
       participants:
       - name: James Hogan
         medal: honorable mentions
@@ -2808,6 +3386,8 @@
   - country: China
     teams:
     - team: China 1
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Li Huihan
         medal: bronze
@@ -2818,6 +3398,8 @@
       - name: Yu Shuyue
         medal: bronze
     - team: China 2
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Bai Ruiheng
         medal: bronze
@@ -2829,6 +3411,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
       participants:
       - name: Alžběta Horynová
       - name: Haštal Hapka
@@ -2840,6 +3424,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Olga Gerassimenko
       participants:
       - name: Eva-Maria Tõnson
       - name: Joonas Jürgen Kisel
@@ -2850,6 +3436,8 @@
   - country: Hungary
     teams:
     - team: Hungary 1
+      leaders:
+      - name: Győző Yang Zijian
       participants:
       - name: Balázs Ákos
       - name: Souly Alexandra
@@ -2857,6 +3445,8 @@
       - name: Tímár Veronika
       - name: Ugrin Bálint József
     - team: Hungary 2
+      leaders:
+      - name: Judit Vértes
       participants:
       - name: Bíró Barna Soma
       - name: Diviki-Nagy Botond
@@ -2867,12 +3457,16 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Anshuman Swain
       participants:
       - name: Angikar Ghosal
       - name: Shashank Rammoorthy
       - name: Shashwat Goel
       - name: Shinjini Ghosh
     - team: India Saffron
+      leaders:
+      - name: Sesh Sadasivam
       participants:
       - name: Aalok Sathe
         medal: bronze
@@ -2882,6 +3476,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Laura Grehan
       participants:
       - name: Claire O'Connor
         medal: bronze
@@ -2893,6 +3490,9 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Robert Teare
+      - name: Erin McNulty
       participants:
       - name: Alexander James Hind
       - name: Harriet Ruth Godby
@@ -2901,6 +3501,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Takeru Matsuo
       participants:
       - name: Kazuya Wakao
       - name: Masaya Ohmachi
@@ -2908,6 +3510,8 @@
       - name: Yuto Yagi
         medal: honorable mentions
     - team: Japan Samurai
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Hanako Murayama
       - name: Hirotaka Sato
@@ -2918,12 +3522,16 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan 1
+      leaders:
+      - name: Anton Vassilyev
       participants:
       - name: Alexandra Latysheva
       - name: Anastassiya Shabalina
       - name: Mikhail Dyomin
       - name: Nailya Zhursunova
     - team: Kazakhstan 2
+      leaders:
+      - name: Saniya Toxanova
       participants:
       - name: Anel Dautova
       - name: Dina Russakova
@@ -2932,6 +3540,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Angellika Vojevodina
       - name: Irina Česnokova
@@ -2941,6 +3551,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Adriaan van Doorn
       participants:
       - name: Bente Tania van Kernebeek
       - name: Philippus Friederickus Vincentius Wenceslaus Frankemölle
@@ -2948,6 +3560,9 @@
   - country: Pakistan
     teams:
     - team: Pakistan
+      leaders:
+      - name: Hammad Ali
+      - name: Ayesha Mahboob
       participants:
       - name: Mala Ali
       - name: Muhammad Sikandar Ali Chaudry
@@ -2956,6 +3571,8 @@
   - country: Poland
     teams:
     - team: Poland Ą
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Agnieszka Dudek
         medal: bronze
@@ -2966,6 +3583,8 @@
       - name: Zofia Bronisława Kaczmarek
         medal: silver
     - team: Poland Ę
+      leaders:
+      - name: Tomasz Skalski
       participants:
       - name: Kamila Aleksandra Śledź
       - name: Krzysztof Choszczyk
@@ -2977,12 +3596,16 @@
   - country: Republic of Korea
     teams:
     - team: Korea Sori
+      leaders:
+      - name: Minkyu Kim
       participants:
       - name: Junghun Bae
       - name: Sumin You
       - name: Sunjae Shim
       - name: Yungseo Lee
     - team: Korea Woori
+      leaders:
+      - name: Hongbum Choi
       participants:
       - name: Daeyoung Kim
       - name: Jaeyeong Yang
@@ -2993,6 +3616,9 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
+      - name: Valentina Cojocaru
       participants:
       - name: Gabriel-Cosmin Bolbotină
       - name: Ioana Bouroș
@@ -3003,6 +3629,8 @@
   - country: Russia
     teams:
     - team: Russia Belka
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Elena Shukshina
         medal: bronze
@@ -3013,6 +3641,8 @@
       - name: Ekaterina Voloshinova
         medal: gold
     - team: Russia Strelka
+      leaders:
+      - name: Anton Somin
       participants:
       - name: Anna Tatarenko
         medal: silver
@@ -3025,6 +3655,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Aleksej Jurca
       - name: Doris Keršič
@@ -3034,6 +3666,8 @@
   - country: Spain
     teams:
     - team: Spain
+      leaders:
+      - name: Guillermo Latour Alcantud
       participants:
       - name: Ferrán López Guitart
         medal: honorable mentions
@@ -3048,6 +3682,9 @@
   - country: Sweden
     teams:
     - team: Sweden
+      leaders:
+      - name: Filippa Frithz
+      - name: Åke Mattias Wettergren
       participants:
       - name: Amanda Elon Kann
         medal: bronze
@@ -3059,6 +3696,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Black Bear
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Chih-Lun Julian Liu
       - name: Willie Jeng
@@ -3066,6 +3705,8 @@
       - name: Yi-Ning Hwang
       - name: Yuan Tseng
     - team: Taiwan Blue Magpie
+      leaders:
+      - name: Der-Hwa Rau Ho
       participants:
       - name: Hsin-Lei Wang
       - name: Jo-Wen Yao
@@ -3076,12 +3717,16 @@
   - country: Türkiye
     teams:
     - team: Türkiye 1
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Arda Akoğlu
       - name: Melisa Yeniocak
       - name: Zeynep Sanem Bekci
       - name: İlayda Yıldız
     - team: Türkiye 2
+      leaders:
+      - name: Alper Yoldaş
       participants:
       - name: Cem Arslan
       - name: Selenay Engürel
@@ -3089,6 +3734,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Illya Koval
       - name: Ivan Oleksiyuk
@@ -3100,6 +3747,8 @@
   - country: United Kingdom
     teams:
     - team: UK
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Isobel Alice Voysey
         medal: bronze
@@ -3111,6 +3760,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Aleka Blackwell
       participants:
       - name: Jack LaFleur
         medal: honorable mentions
@@ -3121,6 +3772,8 @@
       - name: Wyatt R. Reeves
         medal: bronze
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Erik Metz
         medal: silver
@@ -3135,6 +3788,8 @@
   - country: Australia
     teams:
     - team: Australia
+      leaders:
+      - name: Bronwyn Dewar
       participants:
       - name: Jisu Choi
       - name: Cindy Ding
@@ -3143,6 +3798,8 @@
   - country: Brazil
     teams:
     - team: Brazil
+      leaders:
+      - name: Pedro Neves Lopes
       participants:
       - name: Cynthia Lacroix Herkenhoff
       - name: Gustavo Palote da Silva Martins
@@ -3152,6 +3809,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Assel Ismoldayeva
         medal: silver
@@ -3162,6 +3821,9 @@
       - name: Zdravko Ivanov
         medal: gold
     - team: Bulgaria 2
+      leaders:
+      - name: Lyubomir Zlatkov
+      - name: Vesselin Zlatilov
       participants:
       - name: Elena Keskinova
         medal: gold
@@ -3174,6 +3836,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose (En)
+      leaders:
+      - name: Daniel Lovsted
       participants:
       - name: Gabriel Kammer
       - name: James Hogan
@@ -3182,6 +3846,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castors
+      leaders:
+      - name: Heather Newell
       participants:
       - name: Antonin Benoit
       - name: Corinne Soucy
@@ -3190,6 +3856,8 @@
   - country: China
     teams:
     - team: China
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Lin Ye
       - name: Linghui Zheng
@@ -3201,6 +3869,8 @@
   - country: Czechia
     teams:
     - team: Czech Republic
+      leaders:
+      - name: Vojta Diatka
       participants:
       - name: Eliška Freibergerová
         medal: silver
@@ -3213,6 +3883,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Joonas Jürgen Kisel
         medal: silver
@@ -3224,6 +3896,8 @@
   - country: Hungary
     teams:
     - team: Hungary 1
+      leaders:
+      - name: Judit Vértes
       participants:
       - name: Ákos Balázs
       - name: Alexandra Souly
@@ -3231,6 +3905,8 @@
       - name: Botond Diviki-Nagy
       - name: Réka Siró
     - team: Hungary 2
+      leaders:
+      - name: Biró Soma
       participants:
       - name: Bálint Mazzag
         medal: honorable mentions
@@ -3240,6 +3916,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Manish Shrivastava
       participants:
       - name: Rujul Gandhi
         medal: honorable mentions
@@ -3248,6 +3926,8 @@
       - name: Chirag C. D
         medal: bronze
     - team: India Saffron
+      leaders:
+      - name: Anshuman Swain
       participants:
       - name: Sagnik Anupam
         medal: honorable mentions
@@ -3260,12 +3940,16 @@
   - country: Ireland
     teams:
     - team: Ireland 1
+      leaders:
+      - name: Imogen Grumley-Traynor
       participants:
       - name: Eimear Kyle
       - name: Marco Stango
       - name: Philip Krause
       - name: Tom McAlinden
     - team: Ireland 2
+      leaders:
+      - name: Luke Gardiner
       participants:
       - name: Cian O'Hara
       - name: Daniel Quigley
@@ -3274,12 +3958,16 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man 1
+      leaders:
+      - name: Robert Teare
       participants:
       - name: Alice Lowden
       - name: Catriona Dorrian
       - name: Harriet Godby
       - name: Siddique Hassan Hameed Sulthan
     - team: Isle of Man 2
+      leaders:
+      - name: Erin McNulty
       participants:
       - name: Emily Elizabeth Gray
       - name: Georgina Louise Coates
@@ -3288,6 +3976,8 @@
   - country: Japan
     teams:
     - team: Japan 1
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Ryo Takahashi
       - name: Ryuhoh Ide
@@ -3296,6 +3986,8 @@
       - name: Yuito Yoneyama
         medal: bronze
     - team: Japan 2
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Junnosuke Kajita
         medal: honorable mentions
@@ -3306,6 +3998,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan 1
+      leaders:
+      - name: Yevgeniya Kalchevskaya
       participants:
       - name: Alexandra Pogrebnaya
       - name: Dmitriy Shimchuk
@@ -3313,6 +4007,8 @@
       - name: Islambek Tanabay
         medal: honorable mentions
     - team: Kazakhstan 2
+      leaders:
+      - name: Saniya Toxanova
       participants:
       - name: Anastassiya Khokhlacheva
       - name: Anel Dautova
@@ -3321,6 +4017,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Andrejs Makarovs
       - name: Angellika Vojevodina
@@ -3330,6 +4028,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Adriaan van Doorn
       participants:
       - name: Daniil Olegovich Soloviev
       - name: Martijn Bij de Vaate
@@ -3340,6 +4040,8 @@
   - country: Poland
     teams:
     - team: Poland Ą
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Iga Jaworska
         medal: bronze
@@ -3350,6 +4052,8 @@
       - name: Przemysław Podleśny
         medal: gold
     - team: Poland Ę
+      leaders:
+      - name: Tomasz Skalski
       participants:
       - name: Alicja Maksymiuk
         medal: bronze
@@ -3362,6 +4066,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea 1
+      leaders:
+      - name: Minkyu Kim
       participants:
       - name: Jae Hee Kuh
         medal: honorable mentions
@@ -3370,6 +4076,8 @@
         medal: honorable mentions
       - name: Yung Seo Lee
     - team: Korea 2
+      leaders:
+      - name: Jaeyeong Yang
       participants:
       - name: Giyoung Kwon
       - name: Hakyeong Choi
@@ -3378,6 +4086,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Emilian Toma
         medal: bronze
@@ -3390,6 +4100,8 @@
   - country: Russia
     teams:
     - team: Russia Belka
+      leaders:
+      - name: Ksenia Shagal
       participants:
       - name: Arsenii Oleinik
         medal: honorable mentions
@@ -3399,6 +4111,8 @@
       - name: Maria Ershova
         medal: honorable mentions
     - team: Russia Strelka
+      leaders:
+      - name: Anton Somin
       participants:
       - name: Aleksei Starchenko
         medal: bronze
@@ -3411,6 +4125,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Aleksej Jurca
         medal: bronze
@@ -3422,6 +4138,8 @@
   - country: Spain
     teams:
     - team: Spain
+      leaders:
+      - name: Guillermo Latour Alcantud
       participants:
       - name: Francisco Javier Moreno O
       - name: Gonzalo Pablo Pons Delg
@@ -3430,6 +4148,8 @@
   - country: Sweden
     teams:
     - team: Sweden Blå
+      leaders:
+      - name: Åke Mattias Wettergren
       participants:
       - name: David Avellan-Hultman
       - name: Emil Ingelsten
@@ -3437,6 +4157,8 @@
       - name: Marika Rostvall
       - name: Miranda Carlsson
     - team: Sweden Gul
+      leaders:
+      - name: Amanda Kann
       participants:
       - name: Karin Larsson
       - name: Magnus Davidsson
@@ -3446,6 +4168,8 @@
   - country: Taiwan
     teams:
     - team: TaiONE
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Ri-Sheng Huang
       - name: Robin Young
@@ -3454,6 +4178,8 @@
       - name: Yao, Yung-Jui
         medal: silver
     - team: TaiTWO
+      leaders:
+      - name: Der-Hwa Rau Ho
       participants:
       - name: Chih-Lun Julian Liu
         medal: silver
@@ -3465,6 +4191,8 @@
   - country: Türkiye
     teams:
     - team: Türkiye
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Can Yeşildere
         medal: bronze
@@ -3474,6 +4202,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine 1
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Alina Yan
         medal: honorable mentions
@@ -3483,6 +4213,8 @@
         medal: honorable mentions
       - name: Yana Zhabura
     - team: Ukraine 2
+      leaders:
+      - name: Ada Melentyeva
       participants:
       - name: Maksym Bondarenko
       - name: Nataliia Bazhan
@@ -3493,6 +4225,8 @@
   - country: United Kingdom
     teams:
     - team: UK K
+      leaders:
+      - name: Elysia Warner
       participants:
       - name: Harry Taylor
         medal: silver
@@ -3502,6 +4236,8 @@
       - name: Simeon Hellsten
         medal: gold
     - team: UK U
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Alfie Vaughan
       - name: Ben Morris
@@ -3512,6 +4248,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Joseph Feffer
         medal: silver
@@ -3520,6 +4258,8 @@
       - name: Vanessa Hu
       - name: Wesley Zhang
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Andrew Tockman
         medal: silver
@@ -3534,6 +4274,8 @@
   - country: Australia
     teams:
     - team: Brisbane State High School
+      leaders:
+      - name: Bronwyn Dewar
       participants:
       - name: Jisu Choi
         medal: honorable mentions
@@ -3542,6 +4284,8 @@
       - name: Jenny Wang
         medal: honorable mentions
     - team: Canberra Grammar School
+      leaders:
+      - name: Janet O’Dell-Teys
       participants:
       - name: Jonathan Lee
       - name: James Phillips
@@ -3550,6 +4294,8 @@
   - country: Brazil
     teams:
     - team: Brazil Pães
+      leaders:
+      - name: Eduardo Cardoso Martins
       participants:
       - name: Jade Yarden Steinmetz
       - name: Artur Corrêa Souza
@@ -3557,6 +4303,8 @@
       - name: Pedro Marinho Rocha
         medal: honorable mentions
     - team: Brazil Pões
+      leaders:
+      - name: Abel Batista de Santana Filho
       participants:
       - name: Catarina de Freitas Oliveira
       - name: Ana Luiza Nunes
@@ -3567,6 +4315,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Viktor Baltin
         medal: gold
@@ -3577,6 +4327,8 @@
       - name: Tsvetelina Stefanova
         medal: bronze
     - team: Bulgaria 2
+      leaders:
+      - name: Lyubomir Zlatkov
       participants:
       - name: Greta Hristozova
         medal: honorable mentions
@@ -3588,6 +4340,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Daniel Lovsted
       participants:
       - name: Ken Jiang
         medal: bronze
@@ -3599,6 +4353,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castor
+      leaders:
+      - name: Andrés Pablo Salanova
       participants:
       - name: Georges Awaad
       - name: Yeryomin George
@@ -3607,6 +4363,8 @@
   - country: China
     teams:
     - team: China KUN
+      leaders:
+      - name: Yili
       participants:
       - name: Haoyu Du
       - name: Ye Liu
@@ -3614,6 +4372,8 @@
       - name: Ziji Wang
       - name: Guhui Zhang
     - team: China QIAN
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Ziche Chen
         medal: bronze
@@ -3624,6 +4384,8 @@
   - country: Czechia
     teams:
     - team: Czechia Tým Křivopřísežníků
+      leaders:
+      - name: Jan Petr
       participants:
       - name: Barbora Dohnalová
       - name: Vít Metka
@@ -3632,6 +4394,8 @@
       - name: Michaela Svatošová
         medal: honorable mentions
     - team: Czechia Tým Nářečíčkářů
+      leaders:
+      - name: Haštal Hapka
       participants:
       - name: Eliška Freibergerová
         medal: bronze
@@ -3642,6 +4406,8 @@
   - country: Denmark
     teams:
     - team: Denmark
+      leaders:
+      - name: Laurits Knudsen
       participants:
       - name: Sofie Hesthaven Pultz
       - name: Benedikte Wulff
@@ -3650,6 +4416,8 @@
   - country: Estonia
     teams:
     - team: Estonia 
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Karl Gustav Gailit
       - name: Hant Mikit Kolk
@@ -3659,6 +4427,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Heini Arjava
       participants:
       - name: Panagiotis Kapellis
         medal: honorable mentions
@@ -3668,6 +4438,9 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
+      - name: Nathalie Topaj
       participants:
       - name: Maria Breitkopf
       - name: Ansgar Schulz
@@ -3676,6 +4449,8 @@
   - country: Hungary
     teams:
     - team: Hungary A
+      leaders:
+      - name: Veronika Tímár
       participants:
       - name: Árvay-Vass Iván
         medal: bronze
@@ -3684,6 +4459,8 @@
       - name: Ugrin Bálint József
         medal: silver
     - team: Hungary B
+      leaders:
+      - name: Bálint Mazzag
       participants:
       - name: Blaskovics Ákos
       - name: Hunyadi Marcell
@@ -3693,6 +4470,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Saumitra Yadav
       participants:
       - name: Chirag Chittharanjan Dasannacharya
       - name: Pranava Dhar
@@ -3701,6 +4480,8 @@
         medal: silver
       - name: Mansha Kochar
     - team: India Saffron
+      leaders:
+      - name: Saujas Srinivasa Vadguru
       participants:
       - name: Rujul Gandhi
         medal: gold
@@ -3712,6 +4493,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Leo Doherty
       - name: Lucy Dornan
@@ -3723,6 +4507,8 @@
   - country: Isle of Man
     teams:
     - team: Ellan Vannin 
+      leaders:
+      - name: Peter Crellin
       participants:
       - name: George Coleridge Boles
       - name: Emily Gray
@@ -3731,6 +4517,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Saki Fujimura
       - name: Takumi Nishino
@@ -3739,6 +4527,8 @@
       - name: Takayuki Yamazaki
         medal: honorable mentions
     - team: Japan Samurai
+      leaders:
+      - name: Alice Sugiyama
       participants:
       - name: Saki Okamoto
       - name: Gen Suzuki
@@ -3747,6 +4537,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan 1
+      leaders:
+      - name: Sara Kudabayeva
       participants:
       - name: Madi Absadykov
       - name: Aksultan Aitkozhin
@@ -3762,12 +4554,16 @@
   - country: Latvia
     teams:
     - team: Latvia 1
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Viesturs Jūlijs Lasmanis
       - name: Agnese Upīte
       - name: Anete Valnere
       - name: Samuils Ruļovs
     - team: Latvia 2
+      leaders:
+      - name: Ata Krūmiņa
       participants:
       - name: Arkādijs Šaldovs
         medal: bronze
@@ -3778,12 +4574,16 @@
   - country: Malaysia
     teams:
     - team: Malaysia A
+      leaders:
+      - name: Balqis Amalina Mat Hasan
       participants:
       - name: Go Jun Xing
       - name: Ong Jiaqing
       - name: Michelle Ong Shu Tian
       - name: Muhammad Akmal Mirza Shamsuri
     - team: Malaysia B
+      leaders:
+      - name: Khairul Anwar bin Mohamad Zaki
       participants:
       - name: Ooi Zhe Ren
       - name: Vee Hua Zhi
@@ -3793,6 +4593,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Adriaan van Doorn
       participants:
       - name: Wouter Hajer
       - name: Alexander Hendrik Koop Lenstra
@@ -3803,6 +4605,8 @@
   - country: Poland
     teams:
     - team: Poland Biali
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Mateusz Błajda
       - name: Przemysław Podleśny
@@ -3811,6 +4615,8 @@
         medal: silver
       - name: Robert Welz
     - team: Poland Czerwoni
+      leaders:
+      - name: Tomasz Skalski
       participants:
       - name: Diego Król
         medal: gold
@@ -3821,12 +4627,16 @@
   - country: Republic of Korea
     teams:
     - team: Korea Giyeok
+      leaders:
+      - name: Minkyu Kim
       participants:
       - name: Hakyeong Choi
       - name: Donggyu Kim
       - name: Jenna Kwon
       - name: Chaeeun Song
     - team: Korea Nieun
+      leaders:
+      - name: Jaeyeong Yang
       participants:
       - name: Jeongkeun Choi
         medal: honorable mentions
@@ -3837,6 +4647,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Valentina Cojocaru
       participants:
       - name: Matei-Costin Banu
       - name: Theodor Cucu
@@ -3846,6 +4658,8 @@
   - country: Russia
     teams:
     - team: Russia Belka
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Ekaterina Kozlova
         medal: honorable mentions
@@ -3855,6 +4669,8 @@
       - name: Kristina Vashpanova
         medal: bronze
     - team: Russia Strelka
+      leaders:
+      - name: Anton Somin
       participants:
       - name: Svetlana Baranova
       - name: Danyar Kasenov
@@ -3866,6 +4682,8 @@
   - country: Slovenia
     teams:
     - team: Team Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Hana Viktorija Balan
         medal: honorable mentions
@@ -3875,6 +4693,8 @@
   - country: Sweden
     teams:
     - team: Sverige Blå
+      leaders:
+      - name: Amanda Kann
       participants:
       - name: David Avellan-Hultman
         medal: bronze
@@ -3883,6 +4703,8 @@
         medal: silver
       - name: Louise Westin
     - team: Sverige Gul
+      leaders:
+      - name: Åke Mattias Wettergren
       participants:
       - name: Xindi Liu
       - name: Annika Ekholm
@@ -3892,6 +4714,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Earthquake
+      leaders:
+      - name: Der-Hwa Rau Ho
       participants:
       - name: You-Kuan Lin
         medal: silver
@@ -3900,6 +4724,8 @@
       - name: Ri-Sheng Huang
         medal: honorable mentions
     - team: Taiwan Typhoon
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Kai-Chun Ho
       - name: Yu-Hsuan Lee
@@ -3911,6 +4737,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Illya Koval
         medal: silver
@@ -3921,6 +4749,8 @@
   - country: United Kingdom
     teams:
     - team: UK K
+      leaders:
+      - name: Elysia Warner
       participants:
       - name: Simeon Hellsten
         medal: silver
@@ -3931,6 +4761,8 @@
       - name: Benedict Randall Shaw
         medal: gold
     - team: UK U
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Eleanor Jayne Edwards
       - name: Edmund Lea
@@ -3941,6 +4773,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Russell Emerine
         medal: silver
@@ -3951,6 +4785,8 @@
       - name: Mihir Singhal
         medal: silver
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Ethan A. Chi
         medal: silver
@@ -3965,12 +4801,16 @@
   - country: Australia
     teams:
     - team: Australia 1
+      leaders:
+      - name: Michael Salter
       participants:
       - name: Oliver Papillo
       - name: Lachlan Doig
       - name: Rory Lewis
       - name: James Gunasegaram
     - team: Australia 2
+      leaders:
+      - name: Paul Double
       participants:
       - name: Anna Zhou
       - name: Cathy Doan
@@ -3979,10 +4819,14 @@
   - country: Bangladesh
     teams:
     - team: Bangladesh 1
+      leaders:
+      - name: Morshed Ibna Rahman
       participants:
       - name: Iftekhar Hossain Iftee
       - name: Onil Morshed
     - team: Bangladesh 2
+      leaders:
+      - name: Hakim Arif
       participants:
       - name: Syed Nahian Ferdous
       - name: Tanvir Rahman Khan
@@ -3991,6 +4835,8 @@
   - country: Brazil
     teams:
     - team: Brazil Nhorõwa
+      leaders:
+      - name: Renata Tironi de Camargo
       participants:
       - name: Antonio Azevedo
       - name: João Henrique Oliveira Fontes
@@ -3999,6 +4845,8 @@
       - name: Gustavo Palote da Silva Martins
         medal: silver
     - team: Brazil Nhũrkwã
+      leaders:
+      - name: Roger Alfredo Antunes
       participants:
       - name: Julia Ramos Alves
       - name: Pedro Machado Martins Leão
@@ -4007,6 +4855,9 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
+      - name: Lyubomir Zlatkov
       participants:
       - name: Tsvetelina Stefanova
         medal: silver
@@ -4017,6 +4868,8 @@
       - name: Elena Keskinova
         medal: silver
     - team: Bulgaria 2
+      leaders:
+      - name: Iliyana Raeva
       participants:
       - name: Matey Petkov
         medal: gold
@@ -4028,6 +4881,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Patrick Littell
       participants:
       - name: Nathan Kim
         medal: silver
@@ -4040,6 +4895,9 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castors
+      leaders:
+      - name: Andrés Pablo Salanova
+      - name: Corinne Soucy
       participants:
       - name: Jonathan Deschênes
       - name: Geneviève Fournier
@@ -4048,6 +4906,8 @@
   - country: China
     teams:
     - team: China KUN
+      leaders:
+      - name: Zhao Chen
       participants:
       - name: Xinyi Yuan
       - name: Lanruo Xie
@@ -4056,6 +4916,8 @@
         medal: silver
       - name: Hongzhe Du
     - team: China QIAN
+      leaders:
+      - name: Yili
       participants:
       - name: Chenjun Wei
       - name: Haokun Wu
@@ -4066,6 +4928,9 @@
   - country: Colombia
     teams:
     - team: Colombia
+      leaders:
+      - name: George Dueñas
+      - name: Maria Losada
       participants:
       - name: Isabella Mijares
       - name: Francesco Murande
@@ -4074,6 +4939,9 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
+      - name: Jan Petr
       participants:
       - name: Vít Metka
         medal: honorable mentions
@@ -4086,6 +4954,8 @@
   - country: Denmark
     teams:
     - team: Denmark
+      leaders:
+      - name: Laurits Stapput Knudsen
       participants:
       - name: Silje Emilie Glyrskov
       - name: Kristian Katholm Nielsen
@@ -4094,6 +4964,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Roosmari Pihlak
       - name: Ove Üllar Viesemann
@@ -4104,6 +4976,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Heini Arjava
       participants:
       - name: Tia Iskanius
       - name: Alma Jyränki
@@ -4112,6 +4986,9 @@
   - country: Germany
     teams:
     - team: Germany
+      leaders:
+      - name: André Meinunger
+      - name: Nathalie Topaj
       participants:
       - name: Maja Sellmer
         medal: honorable mentions
@@ -4121,12 +4998,16 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong Logicians
+      leaders:
+      - name: Xin Luo
       participants:
       - name: Audrey Yuen
       - name: Chia Yu Joy Chi
       - name: Sun-Yu Gordon Chi
       - name: Hiu Wa Melody Lo
     - team: Hong Kong MACK & Cheese
+      leaders:
+      - name: Xuefeng Gao
       participants:
       - name: Cheuk Wai Ma
       - name: Ho Shan Moses Lee
@@ -4135,6 +5016,8 @@
   - country: Hungary
     teams:
     - team: Hungary Teniszütő
+      leaders:
+      - name: Bálint Mazzag
       participants:
       - name: Árvay-Vass Iván 
         medal: honorable mentions
@@ -4144,6 +5027,9 @@
       - name: Blaskovics Ákos 
         medal: bronze
     - team: Hungary Uborka
+      leaders:
+      - name: Veronika Tímár
+      - name: János Egressy
       participants:
       - name: Vári-Kakas Andor
       - name: Alexy Milán 
@@ -4153,6 +5039,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Saujas Srinivasa Vadguru
       participants:
       - name: Sourabh Raj Jaiswal
       - name: Jaisal Kothari
@@ -4161,6 +5049,8 @@
       - name: Shashwat Goel
         medal: honorable mentions
     - team: India Saffron
+      leaders:
+      - name: Monojit Choudhury
       participants:
       - name: Aparna Ajit Gupte
         medal: bronze
@@ -4172,6 +5062,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Cara Greene
       participants:
       - name: Laura Cosgrave
       - name: Páidí Walsh
@@ -4180,6 +5073,9 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Robert Teare
+      - name: Erin McNulty
       participants:
       - name: Asia Hall
       - name: Emily Gray
@@ -4188,6 +5084,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Zyun Iida
       participants:
       - name: Takumi Yoshino
         medal: gold
@@ -4197,6 +5095,8 @@
         medal: bronze
       - name: Sota Yazawa
     - team: Japan Samurai
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Kazune Sato
       - name: Rion Morinishi
@@ -4206,6 +5106,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan
+      leaders:
+      - name: Anton Vassilyev
       participants:
       - name: Dana Ospanova
         medal: bronze
@@ -4216,6 +5118,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Viesturs Jūlijs Lasmanis
       - name: Arkādijs Šaldovs
@@ -4226,6 +5130,8 @@
   - country: Malaysia
     teams:
     - team: Malaysia A
+      leaders:
+      - name: Khairul Anwar bin Mohamad Zaki
       participants:
       - name: Jing Kai Ong
       - name: Zi Song Yeoh
@@ -4234,6 +5140,8 @@
         medal: bronze
       - name: Jun Xing Go
     - team: Malaysia B
+      leaders:
+      - name: Nur Ruqqaya binti Mohd Fuad
       participants:
       - name: Heyang Ong
       - name: Ci Hui Lee
@@ -4242,6 +5150,8 @@
   - country: Nepal
     teams:
     - team: Nepal
+      leaders:
+      - name: Chandan Prasad Gupta
       participants:
       - name: Kushal Pathak
       - name: Himal Acharya
@@ -4250,6 +5160,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands Beter Als Jouw
+      leaders:
+      - name: Lorenzo Oechies
       participants:
       - name: Martin Lelarge
       - name: Kristian Terlien
@@ -4261,6 +5173,8 @@
   - country: Poland
     teams:
     - team: Poland Bóbr
+      leaders:
+      - name: Tomasz Skalski
       participants:
       - name: Izabela Znój
         medal: honorable mentions
@@ -4268,6 +5182,8 @@
       - name: Stanisław Sochacki
       - name: Mateusz Winiarski
     - team: Poland Żubr
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Alicja Maksymiuk
         medal: honorable mentions
@@ -4279,6 +5195,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Giyeok
+      leaders:
+      - name: DongGyu Kim
       participants:
       - name: Sunwoo Kang
       - name: Haenaem Oh
@@ -4288,6 +5206,8 @@
       - name: Seeeun Hong
         medal: honorable mentions
     - team: Korea Nieun
+      leaders:
+      - name: Seonmin Lee
       participants:
       - name: Seonoo Kim
         medal: bronze
@@ -4298,6 +5218,9 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana-Magdalena Dincă
+      - name: Valentina Cojocaru
       participants:
       - name: Ilinca-Dora Andone
       - name: Luiza-Natalia Ionescu
@@ -4307,6 +5230,8 @@
   - country: Russia
     teams:
     - team: Russia Belka
+      leaders:
+      - name: Yulia Panchenko
       participants:
       - name: Ekaterina Kropanina
         medal: bronze
@@ -4317,6 +5242,8 @@
       - name: Iakov Raskind
         medal: honorable mentions
     - team: Russia Strelka
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Ekaterina Kozlova
         medal: bronze
@@ -4329,6 +5256,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Rok Tadej Brunšek
         medal: bronze
@@ -4340,12 +5269,16 @@
   - country: Sweden
     teams:
     - team: Sweden Blå
+      leaders:
+      - name: Amanda Kann
       participants:
       - name: Carl Westerlund
       - name: Joel Redner
       - name: Martin Löfström
       - name: Hektor Einarsson
     - team: Sweden Gul
+      leaders:
+      - name: Åke Mattias Wettergren
       participants:
       - name: Joakim Colpier
       - name: Fredrik Ekholm
@@ -4354,6 +5287,8 @@
   - country: Taiwan
     teams:
     - team: TaiEight
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Lin, You-Kuan
         medal: honorable mentions
@@ -4363,6 +5298,8 @@
       - name: Chen, Po-Wen
         medal: honorable mentions
     - team: TaiNine
+      leaders:
+      - name: Der-Hwa Rau Ho
       participants:
       - name: Chih-Chun Wang
         medal: bronze
@@ -4374,6 +5311,8 @@
   - country: Türkiye
     teams:
     - team: Türkiye
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Ata Göloğlu
       - name: Kaan Gözütok
@@ -4382,6 +5321,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Artemii Molyboha
       - name: Yelyzaveta Stoliarchuk
@@ -4393,6 +5334,8 @@
   - country: United Kingdom
     teams:
     - team: UK K
+      leaders:
+      - name: Graeme Trousdale
       participants:
       - name: Tommaso Leonardi
       - name: Simeon Hellsten
@@ -4402,6 +5345,8 @@
       - name: Benedict Randall Shaw
         medal: gold
     - team: UK U
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Sam Corner
         medal: gold
@@ -4414,6 +5359,9 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Aleka Blackwell
+      - name: Lori Levin
       participants:
       - name: Pranav Krishna
         medal: silver
@@ -4424,6 +5372,8 @@
       - name: Skyelar Raiti
         medal: silver
     - team: USA Red
+      leaders:
+      - name: Dragomir Radev
       participants:
       - name: Wesley Zhang
         medal: gold
@@ -4436,6 +5386,8 @@
   - country: Uzbekistan
     teams:
     - team: Uzbekistan Global Gifts
+      leaders:
+      - name: Sabina Ismatillaeva
       participants:
       - name: Zebinisobonu Abdugafforova
       - name: Yasmina Makhamedova
@@ -4445,6 +5397,8 @@
   - country: Australia
     teams:
     - team: Canberra Grammar School
+      leaders:
+      - name: Janet O’Dell-Teys
       participants:
       - name: Joshua Lee
       - name: Sachi Lalloo
@@ -4452,6 +5406,8 @@
         medal: bronze
       - name: James Monro
     - team: Melbourne Grammar School
+      leaders:
+      - name: Martin Ball
       participants:
       - name: Angus Cha
       - name: William Flintoft
@@ -4460,6 +5416,8 @@
   - country: Azerbaijan
     teams:
     - team: Target
+      leaders:
+      - name: Nargiz Mahmudzada
       participants:
       - name: Seljan Sadigova
       - name: Raul Alekberli
@@ -4468,6 +5426,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Atanas Buntov
       - name: Ivaylo Dimitrov
@@ -4477,6 +5437,8 @@
       - name: Aleksandar Dimitrov
         medal: silver
     - team: Bulgaria 2
+      leaders:
+      - name: Rositsa Rousseva
       participants:
       - name: Darena Georgieva
         medal: honorable mentions
@@ -4489,6 +5451,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Daniel Lovsted
       participants:
       - name: Thomas Frith
         medal: honorable mentions
@@ -4499,6 +5463,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castor
+      leaders:
+      - name: Corinne Soucy
       participants:
       - name: Bogdan-Alexandru Sava
       - name: Ariel Soucy
@@ -4507,6 +5473,8 @@
   - country: China
     teams:
     - team: China Kun
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Zijing Wei
         medal: silver
@@ -4517,6 +5485,8 @@
       - name: Haoyang Yin
         medal: honorable mentions
     - team: China Qian
+      leaders:
+      - name: Yili
       participants:
       - name: Silang Feng
         medal: honorable mentions
@@ -4529,6 +5499,8 @@
   - country: Colombia
     teams:
     - team: Colombia
+      leaders:
+      - name: Jorge Armando Ramírez Castiblanco
       participants:
       - name: Catalina Velazquez Ortiz
       - name: Valentina Gonzalez Sanchez
@@ -4537,6 +5509,8 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
       participants:
       - name: Ondřej Peterka
         medal: honorable mentions
@@ -4547,6 +5521,8 @@
   - country: Estonia
     teams:
     - team: Estonia 1
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Olivia Tennisberg
         medal: bronze
@@ -4554,6 +5530,8 @@
       - name: Ingrid Alla
       - name: Mari-Ann Raun
     - team: Estonia 2
+      leaders:
+      - name: Axel Jagau
       participants:
       - name: Anne-Mai Adamberg
       - name: Roosmari Pihlak
@@ -4563,6 +5541,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Heini Arjava
       participants:
       - name: Inka Pekkola
         medal: honorable mentions
@@ -4572,6 +5552,8 @@
   - country: France
     teams:
     - team: Equipe de France
+      leaders:
+      - name: Maylis Ribette
       participants:
       - name: Carine Lasfarguette
       - name: Roxane Lasfarguette
@@ -4580,6 +5562,8 @@
   - country: Germany
     teams:
     - team: Quietscheentchen
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Michał Boroń
         medal: honorable mentions
@@ -4589,6 +5573,8 @@
       - name: Konrad Jannes Köhler
         medal: honorable mentions
     - team: Streichholzschächtelchen
+      leaders:
+      - name: Nathalie Topaj
       participants:
       - name: Louis Cho
         medal: bronze
@@ -4599,6 +5585,8 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong EAT
+      leaders:
+      - name: Vlad Neacșu
       participants:
       - name: Ip Tsz Oi
         medal: silver
@@ -4611,6 +5599,8 @@
   - country: Hungary
     teams:
     - team: Hungary A
+      leaders:
+      - name: János Egressy
       participants:
       - name: Anna Boróka Berkó
       - name: Fruzsina Aliz Kovács
@@ -4618,6 +5608,8 @@
       - name: Miklós Gyetvai
         medal: silver
     - team: Hungary B
+      leaders:
+      - name: Bálint József Ugrin
       participants:
       - name: Blanka Kövér
         medal: honorable mentions
@@ -4629,6 +5621,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Saujas Srinivasa Vadguru
       participants:
       - name: Shashwat Mundra
         medal: bronze
@@ -4637,6 +5631,8 @@
       - name: Jaisal Kothari
       - name: Sarthak Mangla
     - team: India Saffron
+      leaders:
+      - name: Monojit Choudhury
       participants:
       - name: Varsha Satish
       - name: Ritam Nag
@@ -4648,6 +5644,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Justin Cunningham
       - name: Oscar Despard
@@ -4658,12 +5657,16 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man Jiass
+      leaders:
+      - name: Robert Teare
       participants:
       - name: Ethan Brooke Kneale
       - name: Carys Hoile
       - name: Jerry Haotian Yao
       - name: Katerina Victoria Thomas
     - team: Isle of Man Twoaie
+      leaders:
+      - name: Paul Edward Rogers
       participants:
       - name: Tyler Roche
       - name: Abigayil Holly Mellor
@@ -4672,6 +5675,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Junnosuke Kajita
       participants:
       - name: Junnosuke Tanaka
         medal: honorable mentions
@@ -4681,6 +5686,8 @@
         medal: honorable mentions
       - name: Yuma Morisawa
     - team: Japan Samurai
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Rio Ogawa
         medal: silver
@@ -4691,6 +5698,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan Fenix
+      leaders:
+      - name: Diana Murzagaliyeva
       participants:
       - name: Darya Peressypkina
         medal: bronze
@@ -4700,6 +5709,8 @@
   - country: Latvia
     teams:
     - team: Latvia 1
+      leaders:
+      - name: Ata Krūmiņa
       participants:
       - name: Aleksandra Daņilova
       - name: Lorenss Martinsons
@@ -4709,6 +5720,8 @@
       - name: Nestors Starostins
         medal: bronze
     - team: Latvia 2
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Varvara Gromova
       - name: Milana Komisarova
@@ -4718,6 +5731,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands Friet
+      leaders:
+      - name: Melle Groen
       participants:
       - name: Maud De Wit
         medal: honorable mentions
@@ -4726,6 +5741,8 @@
       - name: Shi Hyun Park
       - name: Anniko Firman
     - team: Netherlands Patat
+      leaders:
+      - name: Lorenzo Oechies
       participants:
       - name: Roman Shabanov
         medal: gold
@@ -4735,6 +5752,8 @@
   - country: Norway
     teams:
     - team: Ivar Aasen's Lacquers
+      leaders:
+      - name: Lihn Dan Le
       participants:
       - name: Arthur Brunborg
       - name: Xander Harrison Hall
@@ -4743,6 +5762,8 @@
   - country: Poland
     teams:
     - team: Poland Pszczółki
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Bartosz Chomiński
         medal: silver
@@ -4752,6 +5773,8 @@
       - name: Jan Tryka
         medal: gold
     - team: Poland Trzmiele
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Urszula Obirek
         medal: honorable mentions
@@ -4763,6 +5786,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Giyeok
+      leaders:
+      - name: Hansol Pi
       participants:
       - name: Kyuhan Kyung
         medal: bronze
@@ -4771,6 +5796,8 @@
         medal: honorable mentions
       - name: Eui-Seong Choi
     - team: Korea Nieun
+      leaders:
+      - name: Haenaem Oh
       participants:
       - name: Jihwan Kim
       - name: Seunghyun Lee
@@ -4781,6 +5808,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Roxana Magdalena Preda
       participants:
       - name: Mihai-Alexandru Bratu
         medal: gold
@@ -4792,6 +5821,8 @@
   - country: Russia
     teams:
     - team: Russia Belka
+      leaders:
+      - name: Yulia Panchenko
       participants:
       - name: Daria Grushina
       - name: Aleksandra Limonova
@@ -4801,6 +5832,8 @@
       - name: Leonid Zaitsev
         medal: silver
     - team: Russia Strelka
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Elvira Ageeva
         medal: gold
@@ -4813,6 +5846,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Jann Lee
       participants:
       - name: Dylan Lim Chun Kiat
         medal: silver
@@ -4824,6 +5859,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia 1
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Marija Jezeršek
       - name: Jan Malej
@@ -4832,6 +5869,8 @@
       - name: Matic Petek
         medal: bronze
     - team: Slovenia 2
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Katarina Grilj
       - name: Ema Frančeškin
@@ -4840,12 +5879,16 @@
   - country: Sweden
     teams:
     - team: Sweden Blå
+      leaders:
+      - name: Amanda Kann
       participants:
       - name: Fredrik Ahlberg
       - name: Axel Åslin
       - name: Nils Ledin
       - name: Sebastian Westerlund
     - team: Sweden Gul
+      leaders:
+      - name: Åke Mattias Wettergren
       participants:
       - name: David Norberg
       - name: Kent Do
@@ -4855,6 +5898,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Plum Blossom
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Sheng-Hua Chou
       - name: Yi-Ning Chang
@@ -4864,6 +5909,8 @@
       - name: Samantha Kao
         medal: silver
     - team: Taiwan Red Cypress
+      leaders:
+      - name: Chiung-Yu Chiang
       participants:
       - name: Chun-Chi Lin
         medal: gold
@@ -4875,6 +5922,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine і
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Daria Kryvosheieva
         medal: gold
@@ -4883,6 +5932,8 @@
       - name: Uliana Shkel
         medal: honorable mentions
     - team: Ukraine ї
+      leaders:
+      - name: Danylo Mysak
       participants:
       - name: Solomiia Tymoshenko
         medal: honorable mentions
@@ -4893,6 +5944,8 @@
   - country: United Kingdom
     teams:
     - team: UK K
+      leaders:
+      - name: Graeme Trousdale
       participants:
       - name: Aanya Goyal
         medal: honorable mentions
@@ -4901,6 +5954,8 @@
         medal: bronze
       - name: Xane Ra Miles
     - team: UK U
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Alexander James Robson
         medal: honorable mentions
@@ -4912,6 +5967,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Aleka Blackwell
       participants:
       - name: Jeremy Zhou
         medal: bronze
@@ -4922,6 +5979,8 @@
       - name: Benjamin Myer Neithardt
         medal: bronze
     - team: USA Red
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Jonathan Huang
         medal: gold
@@ -4933,6 +5992,8 @@
   - country: Vietnam
     teams:
     - team: Vietnam
+      leaders:
+      - name: Nguyen Hoang Giang
       participants:
       - name: Phuong Linh Do
       - name: Chau Anh Hoang
@@ -4943,6 +6004,8 @@
   - country: Australia
     teams:
     - team: Australia 
+      leaders:
+      - name: Bronwyn Dewar
       participants:
       - name: Ben Walker
       - name: Eunsu Choi
@@ -4952,6 +6015,8 @@
   - country: Azerbaijan
     teams:
     - team: Azerbaijan 
+      leaders:
+      - name: Nargiz Mahmudzade
       participants:
       - name: Banu İbrahimli
       - name: Fatima Pashayeva
@@ -4960,6 +6025,8 @@
   - country: Brazil
     teams:
     - team: Brazil Açaí
+      leaders:
+      - name: Rodrigo Pinto Tiradentes
       participants:
       - name: Fernando César
         medal: silver
@@ -4970,6 +6037,8 @@
       - name: Max Naigeborin
         medal: bronze
     - team: Brazil Guaraná
+      leaders:
+      - name: Natalia de Castro Bertti Guimarães
       participants:
       - name: Augusto Creppe
       - name: Bianky Nardy
@@ -4980,6 +6049,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Aleksandar Dimitrov
         medal: gold
@@ -4988,6 +6059,8 @@
       - name: Teodor Malchev
         medal: bronze
     - team: Bulgaria 2
+      leaders:
+      - name: Lyubomir Zlatkov
       participants:
       - name: Aleksandra Naydenova
         medal: bronze
@@ -4999,6 +6072,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Daniel Lovsted
       participants:
       - name: Aidan Wang
         medal: bronze
@@ -5010,6 +6085,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castor
+      leaders:
+      - name: Andrés Pablo Salanova
       participants:
       - name: Bogdan Sava
       - name: Cédric Campeau
@@ -5018,6 +6095,8 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
       participants:
       - name: Martin Dedek
       - name: Matěj Čapka
@@ -5028,6 +6107,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Liis Siigur
         medal: honorable mentions
@@ -5039,6 +6120,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Emma Vesakoivu
       participants:
       - name: Aarne Heikkilä
       - name: Eppu Leinonen
@@ -5049,6 +6132,8 @@
   - country: Germany
     teams:
     - team: Germany Eszett
+      leaders:
+      - name: Nathalie Topaj
       participants:
       - name: Marie Mattutat
       - name: Philipp Lörcks
@@ -5056,6 +6141,8 @@
         medal: bronze
       - name: Seraphina Laske
     - team: Germany Umlaut
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Daniel Pahi
       - name: Jacqueline Maria Guitu
@@ -5066,6 +6153,8 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong, China
+      leaders:
+      - name: Vlad Neacșu
       participants:
       - name: Wong Tok Shing Henry
         medal: bronze
@@ -5076,6 +6165,8 @@
   - country: Hungary
     teams:
     - team: Hungary Teniszütő
+      leaders:
+      - name: János Egressy
       participants:
       - name: Benjamin Móricz
         medal: bronze
@@ -5084,6 +6175,8 @@
       - name: Skrabák Boglárka
       - name: Virág Máté Gergely
     - team: Hungary Uborka
+      leaders:
+      - name: Ákos Blaskovics
       participants:
       - name: Anita Dalma Páhán
         medal: bronze
@@ -5093,6 +6186,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Manish Shrivastava
       participants:
       - name: Anish Bharadhwaj Lakshmanan
       - name: Faraz Ahmed Siddiqui
@@ -5103,30 +6198,41 @@
   - country: Individual 01
     teams:
     - team: Individual 01
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Artem Borisov
         medal: gold
   - country: Individual 02
     teams:
     - team: Individual 02
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Artem Boyko
         medal: silver
   - country: Individual 03
     teams:
     - team: Individual 03
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Elvira Ageeva
         medal: bronze
   - country: Individual 04
     teams:
     - team: Individual 04
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Viktoriia Zubkova
         medal: bronze
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Arthur Mckeever
         medal: honorable mentions
@@ -5136,12 +6242,16 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man Ellan
+      leaders:
+      - name: Paul Edward Rogers
       participants:
       - name: Carys Hoile
       - name: Denitsa Petrova
       - name: Mika Chen
       - name: Vinn Vogel
     - team: Isle of Man Vannin
+      leaders:
+      - name: Jerome Jochems
       participants:
       - name: Bethany Mcgrevy
       - name: Flo Barber
@@ -5150,6 +6260,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Haruya Sakuragi
       - name: Reona Kubomiya
@@ -5159,6 +6271,8 @@
       - name: Yuma Kawano
         medal: honorable mentions
     - team: Japan Samurai
+      leaders:
+      - name: Kazune Sato
       participants:
       - name: Ikoma Kudo
         medal: bronze
@@ -5169,6 +6283,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan
+      leaders:
+      - name: Yerbolat Ablemetov
       participants:
       - name: Aida Davletova
         medal: bronze
@@ -5180,6 +6296,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Alekss Verškovs
       - name: Jūlija Vaikute
@@ -5190,6 +6308,8 @@
   - country: Malaysia
     teams:
     - team: Malaysia
+      leaders:
+      - name: Deborah Chow Yik Kuen
       participants:
       - name: Chew Jia Sheng
       - name: Mia Tan Li Shen
@@ -5199,6 +6319,8 @@
   - country: Moldova
     teams:
     - team: Moldova
+      leaders:
+      - name: Tatiana Bologan
       participants:
       - name: Alexandra Jelihovschi
         medal: honorable mentions
@@ -5208,6 +6330,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Melle Groen
       participants:
       - name: Fiona Haarbrink
       - name: Pepijn Neger
@@ -5217,6 +6341,8 @@
   - country: Poland
     teams:
     - team: Poland Trzciny
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Bartłomiej Rozenberg
         medal: silver
@@ -5227,6 +6353,8 @@
       - name: Wojciech Szot 
         medal: silver
     - team: Poland Źdźbła
+      leaders:
+      - name: Alicja Wójcicka
       participants:
       - name: Aleksander Syrewicz
       - name: Jan Karpiński
@@ -5238,6 +6366,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Geul
+      leaders:
+      - name: Jinwoo Jeong
       participants:
       - name: Han Jang
         medal: honorable mentions
@@ -5246,6 +6376,8 @@
         medal: bronze
       - name: Sangjun Lee
     - team: Korea Mal
+      leaders:
+      - name: Ji Hun Wang
       participants:
       - name: Gangrae Kim
       - name: Hyunsoo Park
@@ -5257,6 +6389,8 @@
   - country: Romania
     teams:
     - team: Romania
+      leaders:
+      - name: Valentina Cojocaru
       participants:
       - name: Mihai-Alexandru Bratu
         medal: gold
@@ -5268,6 +6402,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Alja Šlenc
       - name: Katja Andolšek
@@ -5279,12 +6415,16 @@
   - country: Sweden
     teams:
     - team: Sweden Blå
+      leaders:
+      - name: Sam Corner
       participants:
       - name: Arvid Rosenberg
       - name: Lovisa Diding
       - name: Ludvig Granath
       - name: Moaaz Saad Mohamed
     - team: Sweden Gul
+      leaders:
+      - name: Emil Ingelsten
       participants:
       - name: Constantin Lidberg Dimos
         medal: honorable mentions
@@ -5294,12 +6434,16 @@
   - country: Switzerland
     teams:
     - team: Switzerland 1
+      leaders:
+      - name: Jessica Brown
       participants:
       - name: Dana Niederhäuser
       - name: Gion Caiquo
       - name: Marvin Lundgren
       - name: Richard Salnikov
     - team: Switzerland 2
+      leaders:
+      - name: Christian Ebert
       participants:
       - name: Chantal Bichsel
       - name: Kristian Suntev
@@ -5308,6 +6452,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Black Bear
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Eric Wu
       - name: Long Yo Lee
@@ -5317,6 +6463,8 @@
       - name: Yi-Ning Chang
         medal: silver
     - team: Taiwan Blue Magpie
+      leaders:
+      - name: Joy Sofia Chiang
       participants:
       - name: Chien Chih Lin
       - name: Ching Chao Ma
@@ -5327,6 +6475,8 @@
   - country: Thailand
     teams:
     - team: Thailand
+      leaders:
+      - name: Nattanun Chanchaochai
       participants:
       - name: Kittapas Kitsanadecha
       - name: Narawit Pratueangsukpong
@@ -5337,6 +6487,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Artem Hrechka
       - name: Daria Kryvosheieva
@@ -5353,6 +6505,8 @@
   - country: United Kingdom
     teams:
     - team: UK K
+      leaders:
+      - name: Graeme Trousdale
       participants:
       - name: Alex Thompson
       - name: Stratos Voudouris
@@ -5362,6 +6516,8 @@
       - name: William Thomson
         medal: silver
     - team: UK U
+      leaders:
+      - name: Neil Sheldon
       participants:
       - name: Alison Craig-Greene
         medal: gold
@@ -5373,6 +6529,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Suzi Loosen
       participants:
       - name: Arul Kolla
       - name: Emmy Bonser
@@ -5380,6 +6538,8 @@
       - name: Grant Wang
       - name: Tapas Gobalakrishna
     - team: USA Red
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Benjamin Mcavoy-Bickford
         medal: silver
@@ -5394,12 +6554,16 @@
   - country: Australia
     teams:
     - team: Australia Brisbane SHS
+      leaders:
+      - name: Amy Horneman
       participants:
       - name: Eunsu Choi
       - name: Emma Fenson
       - name: Yujin Lamuri
       - name: Tara Mcmillan-Rice
     - team: Australia Scotch
+      leaders:
+      - name: Bronwyn Dewar
       participants:
       - name: Zian Shang
         medal: honorable mentions
@@ -5410,6 +6574,8 @@
   - country: Brazil
     teams:
     - team: Brazil Bem-te-vi
+      leaders:
+      - name: Rodrigo Pinto Tiradentes
       participants:
       - name: Manoela Ferraz
         medal: bronze
@@ -5420,6 +6586,8 @@
       - name: Leonardo Paillo
         medal: gold
     - team: Brazil Quero-quero
+      leaders:
+      - name: Artur Corrêa Souza
       participants:
       - name: Teresa Lage
         medal: bronze
@@ -5432,6 +6600,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Vasilena Lazarova
       participants:
       - name: Mira Lipkova
       - name: Konstantin Georgiev
@@ -5440,6 +6610,8 @@
         medal: silver
       - name: Vanesa Kalinkova
     - team: Bulgaria 2
+      leaders:
+      - name: Lyubomir Zlatkov
       participants:
       - name: Nikolay Georgiev
         medal: bronze
@@ -5451,6 +6623,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Anglophone
+      leaders:
+      - name: Jane Li
       participants:
       - name: Kunaal Chandrashekar
         medal: gold
@@ -5463,6 +6637,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Francophone
+      leaders:
+      - name: Corinne Soucy
       participants:
       - name: Bogdan Sava
       - name: Félix Von Veh
@@ -5471,6 +6647,8 @@
   - country: China
     teams:
     - team: China Kun
+      leaders:
+      - name: Liu Ye
       participants:
       - name: Li Jiying
         medal: bronze
@@ -5479,6 +6657,8 @@
       - name: Haoyang Xu
       - name: Zhou Zipei
     - team: China Qian
+      leaders:
+      - name: Jiang Yuqin
       participants:
       - name: Chen Nuo
         medal: bronze
@@ -5491,6 +6671,8 @@
   - country: Colombia
     teams:
     - team: Colombia
+      leaders:
+      - name: Mikhail Fomine
       participants:
       - name: Margarita Carranza
       - name: Daniel Helo
@@ -5499,6 +6681,8 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
       participants:
       - name: Michal Bernat
       - name: Kateřina Burešová
@@ -5508,6 +6692,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Rando Lukk
         medal: bronze
@@ -5517,6 +6703,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Emma Vesakoivu
       participants:
       - name: Eppu Leinonen
         medal: honorable mentions
@@ -5527,6 +6715,8 @@
   - country: Germany
     teams:
     - team: Germany Umlaut
+      leaders:
+      - name: Nathalie Topaj
       participants:
       - name: Merlin Fischer
         medal: bronze
@@ -5537,6 +6727,8 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong, China
+      leaders:
+      - name: Vlad Neacșu
       participants:
       - name: Tam Lok Hang
         medal: gold
@@ -5548,6 +6740,8 @@
   - country: Hungary
     teams:
     - team: Hungary Teniszütő
+      leaders:
+      - name: János Egressy
       participants:
       - name: Tóth Balázs
       - name: Leiszter Flóra
@@ -5555,6 +6749,8 @@
         medal: bronze
       - name: Virág Máté Gergely
     - team: Hungary Uborka
+      leaders:
+      - name: Ákos Blaskovics
       participants:
       - name: Lili Baranyai
       - name: Benjamin Móricz
@@ -5564,6 +6760,8 @@
   - country: Independent
     teams:
     - team: Independent
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Viktoriia Zubkova
         medal: silver
@@ -5576,6 +6774,8 @@
   - country: India
     teams:
     - team: India 1
+      leaders:
+      - name: Manish Shrivastava
       participants:
       - name: Faraz Ahmed Siddiqui
         medal: silver
@@ -5584,6 +6784,8 @@
       - name: Diya Agrawal
       - name: Animikha Dutta Dhar
     - team: India 2
+      leaders:
+      - name: Manish Shrivastava
       participants:
       - name: Pratyush Vempati
       - name: Neha Singirikonda
@@ -5594,6 +6796,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Megan Boland
       - name: Paddy Clancy
@@ -5603,6 +6808,8 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Anna Capretti-Rogers
       participants:
       - name: Bethany Mcgreevy
       - name: Florence Barber
@@ -5611,6 +6818,8 @@
   - country: Israel
     teams:
     - team: Israel
+      leaders:
+      - name: Sophya Welle
       participants:
       - name: Mikhail Iomdin
         medal: bronze
@@ -5620,6 +6829,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Hiroto Yasui
         medal: bronze
@@ -5630,6 +6841,8 @@
       - name: Ruka Seishi
         medal: honorable mentions
     - team: Japan Samurai
+      leaders:
+      - name: Kazune Sato
       participants:
       - name: Ryusei Omiya
         medal: gold
@@ -5641,6 +6854,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan
+      leaders:
+      - name: Varvara Smirnova
       participants:
       - name: Aida
       - name: Darkhan
@@ -5649,6 +6864,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
       participants:
       - name: Varvara Gromova
       - name: Borislavs Konstantins Kučiks
@@ -5658,6 +6875,8 @@
   - country: Malaysia
     teams:
     - team: Malaysia
+      leaders:
+      - name: Anis Shahira binti Hadis
       participants:
       - name: Tan Hong Zher
       - name: Ho Janson
@@ -5668,6 +6887,8 @@
   - country: Moldova
     teams:
     - team: Moldova
+      leaders:
+      - name: Tatiana Bologan
       participants:
       - name: Jelihovschi Alexandra
       - name: Draguțan Mirela
@@ -5676,6 +6897,8 @@
   - country: Nepal
     teams:
     - team: Nepal
+      leaders:
+      - name: Bal Krishna
       participants:
       - name: Abhi Shrestha
       - name: Nima Jangbu Sherpa
@@ -5684,6 +6907,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Melle Groen
       participants:
       - name: Tobias
       - name: Fiona
@@ -5692,6 +6917,8 @@
   - country: Philippines
     teams:
     - team: Philippines
+      leaders:
+      - name: Michael Sia Sy
       participants:
       - name: Sandrene Rylie Dy Sy
       - name: Jeremy Jason Yap Chan
@@ -5700,6 +6927,8 @@
   - country: Poland
     teams:
     - team: Poland Ą
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Alicja Przybylik
       - name: Wojciech Raszczuk
@@ -5709,6 +6938,8 @@
       - name: Michał Napieralski
         medal: honorable mentions
     - team: Poland Ę
+      leaders:
+      - name: Iwona Gruszecka
       participants:
       - name: Bartłomiej Rozenberg
         medal: silver
@@ -5720,6 +6951,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Namk
+      leaders:
+      - name: Haenaem Oh
       participants:
       - name: Jeonghoo Moon
       - name: Geonwoo Yoon
@@ -5728,6 +6961,8 @@
         medal: silver
       - name: Yoonseo Choi
     - team: Korea Soym
+      leaders:
+      - name: Hoju Cha
       participants:
       - name: Gangrae Kim
         medal: bronze
@@ -5738,6 +6973,8 @@
   - country: Romania
     teams:
     - team: Romania 1
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Vlad-Ștefan Oros
         medal: gold
@@ -5748,6 +6985,8 @@
       - name: Matei Chirila
         medal: silver
     - team: Romania 2
+      leaders:
+      - name: Valentina Cojocaru
       participants:
       - name: Valeriia Pishchymukha
         medal: bronze
@@ -5760,6 +6999,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Patricia Király
       - name: Alja Šlenc
@@ -5769,9 +7010,13 @@
   - country: Sweden
     teams:
     - team: Sweden Blågul
+      leaders:
+      - name: Joakim Axel Cedric Colpier
       participants:
       - name: Jacob William Strömgård
     - team: Sweden knug
+      leaders:
+      - name: Emil Ingelsten
       participants:
       - name: Elisabet Xie
       - name: Louise Elsie Cecilia Malm
@@ -5781,6 +7026,8 @@
   - country: Switzerland
     teams:
     - team: Switzerland Röstigrabe
+      leaders:
+      - name: Jessica Brown
       participants:
       - name: Luca Seth Charlier
       - name: Enea Rosenthal
@@ -5788,6 +7035,8 @@
       - name: Marvin Kessler
         medal: honorable mentions
     - team: Switzerland Rüeblichueche
+      leaders:
+      - name: Gion Caiquo
       participants:
       - name: Dana Niederhäuser
       - name: Sarah Schönenberg
@@ -5797,6 +7046,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Black Bear
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Yen-Hsi Huang
         medal: bronze
@@ -5806,6 +7057,8 @@
         medal: silver
       - name: Austin Deng-Yao Yang
     - team: Taiwan Blue Magpie
+      leaders:
+      - name: Grace Kuo
       participants:
       - name: Hou Jen-Chien
         medal: honorable mentions
@@ -5817,6 +7070,8 @@
   - country: Thailand
     teams:
     - team: Thailand
+      leaders:
+      - name: Nattanun Chanchaochai
       participants:
       - name: Tanupat Trakulthongchai
       - name: Kittapas Kitsanadecha
@@ -5827,6 +7082,8 @@
   - country: Türkiye
     teams:
     - team: Türkiye
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Aslı Öznalbant
       - name: Mehmet Berk Meral
@@ -5835,6 +7092,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Daria Kryvosheieva
         medal: gold
@@ -5844,6 +7103,8 @@
   - country: United Kingdom
     teams:
     - team: United Kingdom
+      leaders:
+      - name: Graeme Trousdale
       participants:
       - name: Eleanor Borrel
         medal: bronze
@@ -5856,6 +7117,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Aleka Blackwell
       participants:
       - name: Benjamin Yang
         medal: bronze
@@ -5865,6 +7128,8 @@
       - name: Zori Schmidt
         medal: bronze
     - team: USA Red
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Arul Kolla
         medal: bronze
@@ -5878,6 +7143,8 @@
   - country: Australia
     teams:
     - team: Australia Meanjin
+      leaders:
+      - name: Bronwyn Dewar
       participants:
       - name: Rory Ambrosius
         medal: bronze
@@ -5885,6 +7152,8 @@
       - name: Yolanda Liang
       - name: Mia Braun
     - team: Australia Warrang
+      leaders:
+      - name: Simon Bootle
       participants:
       - name: Tyson Lieu
         medal: gold
@@ -5894,6 +7163,8 @@
   - country: Brazil
     teams:
     - team: Brazil Kûarasy
+      leaders:
+      - name: João Otávio Souza
       participants:
       - name: Paulo Portela
         medal: honorable mentions
@@ -5901,6 +7172,8 @@
       - name: João Guilherme Camilo
       - name: Sócrates Souto
     - team: Brazil Îasy
+      leaders:
+      - name: Rafaella Carvalho
       participants:
       - name: Felipe Moraes Barros
         medal: silver
@@ -5910,6 +7183,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Aleksandar Velinov
       participants:
       - name: Magdalena Vigenina
         medal: bronze
@@ -5919,6 +7194,8 @@
         medal: bronze
       - name: Theodor Totev
     - team: Bulgaria 2
+      leaders:
+      - name: Lyubomir Zlatkov
       participants:
       - name: Nia Dimitrova
         medal: silver
@@ -5930,6 +7207,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Ken Jiang
       participants:
       - name: Marvin Mao
         medal: silver
@@ -5940,6 +7219,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castor
+      leaders:
+      - name: Corinne Soucy
       participants:
       - name: Jonah Janzen
       - name: Mingzhe Li
@@ -5948,6 +7229,8 @@
   - country: China
     teams:
     - team: China Kun
+      leaders:
+      - name: Miao Di
       participants:
       - name: Yiling Jiang
         medal: silver
@@ -5957,6 +7240,8 @@
         medal: honorable mentions
       - name: Li Zhengze
     - team: China Qian
+      leaders:
+      - name: Yili
       participants:
       - name: He Jianxing
         medal: silver
@@ -5968,6 +7253,8 @@
   - country: Colombia
     teams:
     - team: Colombia
+      leaders:
+      - name: Mikhail Fomine
       participants:
       - name: Sofia Soto
       - name: Margarita Carranza
@@ -5976,6 +7263,8 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
       participants:
       - name: Matěj Čapka
         medal: silver
@@ -5987,6 +7276,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Karl-Erik Volberg
       - name: Margaret Braun
@@ -5995,6 +7286,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Emma Vesakoivu
       participants:
       - name: Inka Pekkola
       - name: Emma Suomalainen
@@ -6003,6 +7296,8 @@
   - country: Germany
     teams:
     - team: Germany Eszett
+      leaders:
+      - name: Nathalie Topaj
       participants:
       - name: Lennart Zenker
         medal: honorable mentions
@@ -6011,6 +7306,8 @@
       - name: Eva Lotte Lindner
       - name: Tara-Yasmin Heil
     - team: Germany Umlaut
+      leaders:
+      - name: André Meinunger
       participants:
       - name: Leonard Kottisch
         medal: gold
@@ -6021,6 +7318,9 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong, China
+      leaders:
+      - name: Vlad Neacșu
+      - name: Ian Tam
       participants:
       - name: Wong Tok Shing Henry
         medal: silver
@@ -6033,6 +7333,9 @@
   - country: Hungary
     teams:
     - team: Hungary Teniszütő
+      leaders:
+      - name: Ákos Blaskovics
+      - name: Blanka Kövér
       participants:
       - name: Máté Gergely Virág
         medal: silver
@@ -6040,6 +7343,8 @@
       - name: Flóra Leiszter
       - name: Júlia Hegedűs
     - team: Hungary Uborka
+      leaders:
+      - name: János Egressy
       participants:
       - name: Rudolf András Virág
         medal: silver
@@ -6049,6 +7354,9 @@
   - country: Independent
     teams:
     - team: Independent
+      leaders:
+      - name: Aleksey Starchenko
+      - name: Anastasiia Puchkova
       participants:
       - name: Nadežda Efremova
         medal: silver
@@ -6061,6 +7369,8 @@
   - country: India
     teams:
     - team: India Green
+      leaders:
+      - name: Anshul Krishnadas Bhagwat
       participants:
       - name: Shrilakshmi Venkatraman
         medal: bronze
@@ -6069,6 +7379,9 @@
       - name: H. Jatin Vikash
       - name: Diya Agrawal
     - team: India Saffron
+      leaders:
+      - name: Manish Shrivastava
+      - name: Parameshwari Krishnamurthi
       participants:
       - name: Animikha Dutta Dhar
         medal: silver
@@ -6079,6 +7392,10 @@
   - country: Iran
     teams:
     - team: Iran
+      leaders:
+      - name: Hossein G. Moghaddam
+      - name: Seyedeh T. K. Foshtomi
+      - name: Rouhieh Ghavamikhatib
       participants:
       - name: Farnam Ahmadian
         medal: honorable mentions
@@ -6088,6 +7405,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Harold Somers
+      - name: Faye Murphy
       participants:
       - name: Paddy Clancy
         medal: honorable mentions
@@ -6097,6 +7417,8 @@
   - country: Israel
     teams:
     - team: Israel
+      leaders:
+      - name: Sophya Welle
       participants:
       - name: Olga Besova
         medal: bronze
@@ -6106,6 +7428,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Ryusei Omiya
         medal: gold
@@ -6115,6 +7439,8 @@
         medal: honorable mentions
       - name: Joji Mushiaki
     - team: Japan Samurai
+      leaders:
+      - name: Tsubasa Takahashi
       participants:
       - name: Satoshi Tsukada
         medal: bronze
@@ -6126,6 +7452,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan
+      leaders:
+      - name: Mukash Gulsara
       participants:
       - name: Galymzhankyzy Amina
       - name: Darkhan Poyezkanov
@@ -6134,6 +7462,9 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Vladimirs Ļitvinskis
+      - name: Ata Krūmiņa
       participants:
       - name: Borislavs Konstantins Kučiks
       - name: Anna Loseva
@@ -6142,6 +7473,8 @@
   - country: Malaysia
     teams:
     - team: Malaysia
+      leaders:
+      - name: Deborah Chow
       participants:
       - name: Lim Ming Wen
       - name: Leang Kar Men
@@ -6150,6 +7483,10 @@
   - country: Malta
     teams:
     - team: Malta Maltilinguals
+      leaders:
+      - name: Sandra Vella
+      - name: Michela Vella
+      - name: Ayrton-Didier Brincat
       participants:
       - name: Carlo Rossi
         medal: honorable mentions
@@ -6159,12 +7496,17 @@
   - country: Nepal
     teams:
     - team: Nepal
+      leaders:
+      - name: Santosh Prasad Sah
+      - name: Chandan Prasad Gupta
       participants:
       - name: Amash Khadka
       - name: Krish Yadav
   - country: Netherlands
     teams:
     - team: Netherlands
+      leaders:
+      - name: Charlotte Wennekes
       participants:
       - name: Fiona Haarbrink
       - name: Rens Van Haaster
@@ -6173,6 +7515,9 @@
   - country: Philippines
     teams:
     - team: Philippines
+      leaders:
+      - name: Maria Victorina Rada
+      - name: Emerita Danac
       participants:
       - name: Sandrene Rylie Sy
       - name: Rainier Roi Tayam
@@ -6181,6 +7526,8 @@
   - country: Poland
     teams:
     - team: Poland Chrząszcze
+      leaders:
+      - name: Anna Grzeszak
       participants:
       - name: Natalia Rewaj
         medal: bronze
@@ -6189,6 +7536,8 @@
       - name: Jakub Korzeniewicz
       - name: Iwo Miśkowiak
     - team: Poland Świerszcze
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Urszula Wąsiewicz
         medal: gold
@@ -6201,6 +7550,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Dal
+      leaders:
+      - name: Sooyoun Im
       participants:
       - name: Gangrae Kim
         medal: silver
@@ -6209,6 +7560,8 @@
       - name: Sihoo Lee
       - name: Seoyeon Ku
     - team: Korea Hae
+      leaders:
+      - name: Jaeyong Yang
       participants:
       - name: Gyuhwa Lee
         medal: silver
@@ -6220,6 +7573,8 @@
   - country: Romania
     teams:
     - team: Romania 1
+      leaders:
+      - name: Roxana-Magdalena Dincă
       participants:
       - name: Matei Chirilă
         medal: silver
@@ -6229,6 +7584,9 @@
         medal: honorable mentions
       - name: Ioana Stănoiu
     - team: Romania 2
+      leaders:
+      - name: Robert-Paul Helmer
+      - name: Mihai Alexandru Bratu
       participants:
       - name: Luiza-Teodora Mihai
         medal: gold
@@ -6241,6 +7599,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Chong Han
       participants:
       - name: Yutong Heng
         medal: honorable mentions
@@ -6250,6 +7610,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Brest Lenarčič
         medal: gold
@@ -6260,12 +7622,16 @@
   - country: Sweden
     teams:
     - team: Sweden Mård
+      leaders:
+      - name: Louise Malm
       participants:
       - name: William Eriksson
       - name: Markus Farnebäck
       - name: Allan Ismail
       - name: Moaaz Saad
     - team: Sweden Älg
+      leaders:
+      - name: Emil Ingelsten
       participants:
       - name: Adam Ahlberg
         medal: bronze
@@ -6276,6 +7642,8 @@
   - country: Switzerland
     teams:
     - team: Switzerland
+      leaders:
+      - name: Tatiana Samrowski
       participants:
       - name: Sofia Lundgren
       - name: Dana Niederhäuser
@@ -6284,6 +7652,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Black Bear
+      leaders:
+      - name: Grace Kuo
       participants:
       - name: Li-Bang Chen
         medal: silver
@@ -6293,6 +7663,8 @@
         medal: honorable mentions
       - name: Cheng-You Ko
     - team: Taiwan Blue Magpie
+      leaders:
+      - name: Chenhao Chiu
       participants:
       - name: Eric Wu
         medal: silver
@@ -6303,6 +7675,9 @@
   - country: Thailand
     teams:
     - team: Thailand
+      leaders:
+      - name: Nattanun Chanchaochai
+      - name: Natchanan Natpratan
       participants:
       - name: Narongrith Artnarongrith
         medal: gold
@@ -6313,6 +7688,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Denys Tereshchenko
         medal: bronze
@@ -6323,6 +7700,9 @@
   - country: United Kingdom
     teams:
     - team: UK
+      leaders:
+      - name: Simi Hellsten
+      - name: Daniel Turaev
       participants:
       - name: Alison Craig-Greene
         medal: gold
@@ -6335,6 +7715,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Robin Hammer
       participants:
       - name: Deeraj Pothapragada
         medal: gold
@@ -6342,6 +7724,8 @@
       - name: Jonathan Sakunkoo
       - name: Jonathan Ding
     - team: USA Red
+      leaders:
+      - name: Lori Levin
       participants:
       - name: Devin Joe
         medal: gold
@@ -6355,6 +7739,8 @@
   - country: Australia
     teams:
     - team: Australia Naarm
+      leaders:
+      - name: Rita Fin
       participants:
       - name: Georgios Pirpiris
       - name: Nicholas Wang
@@ -6363,6 +7749,8 @@
       - name: Hugo Chang
         medal: silver
     - team: Australia Warrang
+      leaders:
+      - name: Martin Ball
       participants:
       - name: David Lu
       - name: Felix Eibl
@@ -6371,6 +7759,8 @@
   - country: Brazil
     teams:
     - team: Brazil Fêsãw
+      leaders:
+      - name: Rafael Santiago Serra Pinto
       participants:
       - name: Giovanna Maria Monteiro Longo
       - name: Daniel Agi Pigini
@@ -6379,6 +7769,8 @@
         medal: honorable mentions
       - name: Felipe Araújo Moraes Barros
     - team: Brazil Kiorĩpê
+      leaders:
+      - name: João Henrique Oliveira Fontes
       participants:
       - name: Marina Troccoli De Carvalho
       - name: Lucas Cavalcante Menezes
@@ -6390,6 +7782,8 @@
   - country: Bulgaria
     teams:
     - team: Bulgaria 1
+      leaders:
+      - name: Vesselin Stamov
       participants:
       - name: Vanesa Kalinkova
         medal: gold
@@ -6400,6 +7794,8 @@
       - name: Nikola Nikolov
         medal: gold
     - team: Bulgaria 2
+      leaders:
+      - name: Vasilena Lazarova
       participants:
       - name: Ivanimira Nedelcheva
         medal: bronze
@@ -6412,6 +7808,8 @@
   - country: Canada Anglophone
     teams:
     - team: Canada Moose
+      leaders:
+      - name: Ken Jiang
       participants:
       - name: Yiling Jiang
         medal: bronze
@@ -6424,6 +7822,8 @@
   - country: Canada Francophone
     teams:
     - team: Canada Castors
+      leaders:
+      - name: Corinne Soucy
       participants:
       - name: Lillian Yamamura Gonçalves
       - name: Serine Shin
@@ -6432,6 +7832,8 @@
   - country: Colombia
     teams:
     - team: Colombia
+      leaders:
+      - name: Mikhail Fomine
       participants:
       - name: Yamile Chaparro Alvarez
       - name: Mariana Sarmiento Murcia
@@ -6440,6 +7842,8 @@
   - country: Czechia
     teams:
     - team: Czechia
+      leaders:
+      - name: Michaela Svatošová
       participants:
       - name: Valerie Kopsová
         medal: silver
@@ -6452,6 +7856,8 @@
   - country: Estonia
     teams:
     - team: Estonia
+      leaders:
+      - name: Linda Freienthal
       participants:
       - name: Hiie Utsu
       - name: Margaret Braun
@@ -6462,6 +7868,8 @@
   - country: Finland
     teams:
     - team: Finland
+      leaders:
+      - name: Emma Vesakoivu
       participants:
       - name: Usva Mäkivuokko
       - name: Hilda Sillasto
@@ -6470,6 +7878,8 @@
   - country: Germany
     teams:
     - team: Germany Umlaut
+      leaders:
+      - name: Nathalie Topaj
       participants:
       - name: Daniel Pahi
         medal: honorable mentions
@@ -6482,6 +7892,8 @@
   - country: Greece
     teams:
     - team: Greece
+      leaders:
+      - name: Athina Violaki
       participants:
       - name: Eleni Aslani
       - name: Chara Maria Pantazopoulou
@@ -6490,6 +7902,8 @@
   - country: Hong Kong, China
     teams:
     - team: Hong Kong Fish Ball
+      leaders:
+      - name: Eric Pelzl
       participants:
       - name: Cici Cai
       - name: Cao Jenny
@@ -6498,6 +7912,8 @@
       - name: Kong Yiu Wang Jayden
         medal: honorable mentions
     - team: Hong Kong Siu Mai
+      leaders:
+      - name: Farhan Ishraq
       participants:
       - name: Chiu Pak Hei
         medal: honorable mentions
@@ -6510,6 +7926,8 @@
   - country: Hungary
     teams:
     - team: Hungary Teniszütő
+      leaders:
+      - name: Andor Vári-Kakas
       participants:
       - name: Ada Zsuzsanna Szókovács
       - name: Gergő Holló
@@ -6517,6 +7935,8 @@
         medal: honorable mentions
       - name: Gergely Péter Sánta
     - team: Hungary Uborka
+      leaders:
+      - name: Blanka Kövér
       participants:
       - name: Dorottya Veres
         medal: honorable mentions
@@ -6528,6 +7948,8 @@
   - country: Independent
     teams:
     - team: Independent
+      leaders:
+      - name: Anastasiia Puchkova
       participants:
       - name: Ekaterina Churkina
         medal: gold
@@ -6540,6 +7962,8 @@
   - country: India
     teams:
     - team: India
+      leaders:
+      - name: Parameswari Krishnamurthy
       participants:
       - name: Siripurapu Bhuvan
         medal: honorable mentions
@@ -6552,6 +7976,8 @@
   - country: Iran
     teams:
     - team: Iran
+      leaders:
+      - name: Rahimi
       participants:
       - name: Fatemeh Sheykhha
       - name: Fatemeh Mohammadi Zadeh
@@ -6560,6 +7986,9 @@
   - country: Ireland
     teams:
     - team: Ireland
+      leaders:
+      - name: Cara Greene
+      - name: Harold Somers
       participants:
       - name: Patrick Chen
       - name: Kevin Lin
@@ -6569,6 +7998,8 @@
   - country: Isle of Man
     teams:
     - team: Isle of Man
+      leaders:
+      - name: Robert Teare
       participants:
       - name: Sarah Rose Harris
       - name: Emma Jane Corlett
@@ -6576,6 +8007,8 @@
   - country: Israel
     teams:
     - team: Israel
+      leaders:
+      - name: Yulia Panchenko
       participants:
       - name: Tamar Haleva
       - name: Olga Besova
@@ -6585,6 +8018,8 @@
   - country: Japan
     teams:
     - team: Japan Ninja
+      leaders:
+      - name: Seiko Ishii
       participants:
       - name: Joji Mushiaki
         medal: bronze
@@ -6594,6 +8029,8 @@
       - name: Rinta Nishino
         medal: bronze
     - team: Japan Samurai
+      leaders:
+      - name: Tsuyoshi Kobayashi
       participants:
       - name: Hiroto Yasui
         medal: silver
@@ -6606,6 +8043,8 @@
   - country: Kazakhstan
     teams:
     - team: Kazakhstan
+      leaders:
+      - name: Aida Davletova
       participants:
       - name: Zere Serikova
       - name: Ramazan Butantayev
@@ -6616,6 +8055,8 @@
   - country: Latvia
     teams:
     - team: Latvia
+      leaders:
+      - name: Nestors Starostins
       participants:
       - name: Antonete Martinsone
       - name: Beatrise Estere Krēmane
@@ -6624,6 +8065,8 @@
   - country: Macau
     teams:
     - team: Macau 1
+      leaders:
+      - name: Lei Chan Pong
       participants:
       - name: Guo Ana
       - name: Si Ian Meng
@@ -6631,6 +8074,8 @@
       - name: Fong Iat In
       - name: Wang Kin Seng
     - team: Macau 2
+      leaders:
+      - name: Ho Sze Tung
       participants:
       - name: Tam Son Tai
       - name: Si I Kong
@@ -6639,6 +8084,8 @@
   - country: Malaysia
     teams:
     - team: Malaysia
+      leaders:
+      - name: Nadiah Binti Suboh
       participants:
       - name: Teh Wei Jun
       - name: Ang Xing Yi
@@ -6647,6 +8094,8 @@
   - country: Malta
     teams:
     - team: Malta The MaltiVerse
+      leaders:
+      - name: Sandra Vella
       participants:
       - name: Jade Xuereb
       - name: Martha Borg
@@ -6655,6 +8104,8 @@
   - country: Moldova
     teams:
     - team: Moldova
+      leaders:
+      - name: Tatiana Bologan
       participants:
       - name: Petricheeva Elisaveta
       - name: Cheptanaru Nicolae
@@ -6663,6 +8114,8 @@
   - country: Nepal
     teams:
     - team: Nepal
+      leaders:
+      - name: Santosh Prasad Sah
       participants:
       - name: Surishma Adhikari
       - name: Eric Bastola
@@ -6671,6 +8124,8 @@
   - country: Netherlands
     teams:
     - team: Netherlands Kaashamsters
+      leaders:
+      - name: Charlotte Wennekes
       participants:
       - name: Kasper Ruhland
       - name: Nour Rezk
@@ -6679,6 +8134,8 @@
   - country: Philippines
     teams:
     - team: Philippines Magiting
+      leaders:
+      - name: Maria Victorina Rada
       participants:
       - name: Maddigan Hailey D. Sy
       - name: Rainier Roi B. Tayam
@@ -6687,6 +8144,8 @@
   - country: Poland
     teams:
     - team: Poland Czyżyki
+      leaders:
+      - name: Michał Śliwiński
       participants:
       - name: Hanna Niesiobędzka
         medal: bronze
@@ -6697,6 +8156,8 @@
       - name: Antoni Bryłowski
         medal: gold
     - team: Poland Gżegżółki
+      leaders:
+      - name: Alicja Wójcicka
       participants:
       - name: Magdalena Grabysz
       - name: Dominik Dryja
@@ -6707,6 +8168,8 @@
   - country: Republic of Korea
     teams:
     - team: Korea Beodeul
+      leaders:
+      - name: Sooyoun Im
       participants:
       - name: Yeojun Park
         medal: honorable mentions
@@ -6717,6 +8180,8 @@
       - name: Shinkyeom Byun
         medal: honorable mentions
     - team: Korea Sol
+      leaders:
+      - name: Hansol Pi
       participants:
       - name: Sion Lee
         medal: bronze
@@ -6728,6 +8193,8 @@
   - country: Romania
     teams:
     - team: Romania Baladă
+      leaders:
+      - name: Valentina Cojocaru
       participants:
       - name: Mihaela Anghel
         medal: bronze
@@ -6738,6 +8205,8 @@
       - name: Valeriia Pishchymukha
         medal: bronze
     - team: Romania Basm
+      leaders:
+      - name: Robert-Paul Helmer
       participants:
       - name: Ioana Stănoiu
         medal: bronze
@@ -6750,6 +8219,8 @@
   - country: Singapore
     teams:
     - team: Singapore
+      leaders:
+      - name: Dylan Lim Chun Kiat
       participants:
       - name: Leong Seng Yan
         medal: bronze
@@ -6762,6 +8233,8 @@
   - country: Slovenia
     teams:
     - team: Slovenia
+      leaders:
+      - name: Simona Klemenčič
       participants:
       - name: Patricia Király
         medal: bronze
@@ -6772,6 +8245,8 @@
   - country: Sweden
     teams:
     - team: Sweden Älg
+      leaders:
+      - name: Emil Ingelsten
       participants:
       - name: Max Bylund
       - name: Casper De Ranter
@@ -6782,6 +8257,8 @@
   - country: Switzerland
     teams:
     - team: Switzerland Edelweiss
+      leaders:
+      - name: Tatiana Samrowski
       participants:
       - name: Dana Niederhäuser
       - name: Sophia Cojocaru
@@ -6789,6 +8266,8 @@
         medal: silver
       - name: Alexander Yevsikov
     - team: Switzerland Steinbock
+      leaders:
+      - name: Ayrton-Didier Brincat
       participants:
       - name: Gavriel Soffran Harvey
         medal: honorable mentions
@@ -6798,6 +8277,8 @@
   - country: Taiwan
     teams:
     - team: Taiwan Black Bear
+      leaders:
+      - name: Grace Kuo
       participants:
       - name: Yu-Ning Feng
         medal: bronze
@@ -6808,6 +8289,8 @@
       - name: Po-Yi Chung
         medal: bronze
     - team: Taiwan Blue Magpie
+      leaders:
+      - name: Shu-Kai Hsieh
       participants:
       - name: Kanoa Ziyang Teng
         medal: silver
@@ -6820,6 +8303,8 @@
   - country: Thailand
     teams:
     - team: Thailand
+      leaders:
+      - name: Theeraporn Ratitamkul
       participants:
       - name: Chawanwit Khwankijnirandorn
       - name: Narongrith Artnarongrith
@@ -6830,6 +8315,8 @@
   - country: Türkiye
     teams:
     - team: Turkey
+      leaders:
+      - name: Şule Soydemir
       participants:
       - name: Ecem Nil Demir
       - name: Arda Kerem Yılmaz
@@ -6838,6 +8325,8 @@
   - country: Ukraine
     teams:
     - team: Ukraine
+      leaders:
+      - name: Tamila Krashtan
       participants:
       - name: Ostap Drushchak
         medal: honorable mentions
@@ -6848,6 +8337,8 @@
   - country: United Kingdom
     teams:
     - team: UK Foot–Strut
+      leaders:
+      - name: Simi Hellsten
       participants:
       - name: Yipeng Xu
         medal: gold
@@ -6858,6 +8349,8 @@
       - name: Wai Ka Kwan Kevin
         medal: bronze
     - team: UK Trap–Bath
+      leaders:
+      - name: Daniel Turaev
       participants:
       - name: Aanya Goyal
       - name: Sridatta Bhamidipati
@@ -6869,6 +8362,8 @@
   - country: United States of America
     teams:
     - team: USA Blue
+      leaders:
+      - name: Patrick Littell
       participants:
       - name: Nina Stadermann
         medal: bronze
@@ -6878,6 +8373,8 @@
       - name: Aaron Chai
         medal: gold
     - team: USA Red
+      leaders:
+      - name: Arul Kolla
       participants:
       - name: Nicla Marabito
         medal: bronze
@@ -6890,6 +8387,8 @@
   - country: Vietnam
     teams:
     - team: Vietnam VN1
+      leaders:
+      - name: Doan Phuong Anh
       participants:
       - name: Dam Huy Khoi Nguyen
       - name: Ngo Gia Nghia

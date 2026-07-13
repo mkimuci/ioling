@@ -3,10 +3,13 @@
 
 Total {{ contest_meta.number_of_participants }} contestants of {{ contest_meta.number_of_teams }} teams represented {{ contest_meta.number_of_countries }} countries/regions at the {{ nth.ordinal_uppercase }} {{ contest_meta.title }}.
 
-<nav id="pagination">
+<nav id="pagination" class="tabs-grid">
     <a class="button radius" href="/{{ include.year }}">Summary &raquo;</a>
     <a class="button radius" href="/results/{{ include.year }}">Full Results &raquo;</a>
     <a class="button radius" href="/problems/{{ include.year }}">Problems &raquo;</a>
+    <a class="button radius" href="/loc/{{ include.year }}">LOC &raquo;</a>
+    <a class="button radius" href="/jury/{{ include.year }}">Jury &raquo;</a>
+    {% if contest_meta.volunteers %}<a class="button radius" href="/volunteers/{{ include.year }}">Volunteers &raquo;</a>{% endif %}
 <!--     <a class="button radius" href="/results/{{ include.year }}">Gallery &raquo;</a>
  -->  
 </nav>
@@ -57,6 +60,11 @@ Total {{ contest_meta.number_of_participants }} contestants of {{ contest_meta.n
 			</td>
 		</tr>
 		{% endfor %}
+		{% if team_item.leaders %}
+		<tr class="team-leader-row">
+			<td>Team Leader{% if team_item.leaders.size > 1 %}s{% endif %}: {{ team_item.leaders | map: "name" | join: ", " }}</td>
+		</tr>
+		{% endif %}
 	</tbody>
 </table>
 </div>
