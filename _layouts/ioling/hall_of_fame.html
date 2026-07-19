@@ -13,7 +13,7 @@
 		{% for medalist_item in repeat_medalists %}
 		<tr bgcolor="#FFFFFF">
 			<td>{% for country_name in medalist_item.countries %}{% assign flag_country = site.data.ioling.countries | where: "iol_name", country_name | first %}{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ country_name }}{% unless forloop.last %}, {% endunless %}{% endfor %}</td>
+			{{ country_name }}{% unless forloop.last %}<br/>{% endunless %}{% endfor %}</td>
 			<td>{{ medalist_item.name }}</td>
 			<td>
 				{% for medal_item in medalist_item.medals %} 
