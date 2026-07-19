@@ -2236,6 +2236,8 @@
       - language: '한국어'
         filename: iol-2023-indiv-prob.ko.pdf
     sol:
+      - language: 'Azerbaycanca'
+        filename: iol-2023-indiv-sol.az.pdf
       - language: 'Deutsch'
         filename: iol-2023-indiv-sol.de.pdf
       - language: 'Eesti'
