@@ -4,6 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "Правила и указания за участниците в МОЛ"
+
 sitemap: false
 ---
 

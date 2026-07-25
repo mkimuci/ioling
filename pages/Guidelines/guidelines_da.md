@@ -24,9 +24,9 @@ Følgende regler og retningslinjer gælder for deltagere i den individuelle konk
   * Konkurrencen varer seks timer.
   * Du må beholde din kopi af opgavesættet bagefter, men du skal aflevere alt papir, som du ønsker, at juryen bedømmer. Du skal lægge alt dette i den udleverede kuvert. Du må gerne beholde kladder og andet papirarbejde, som du ikke ønsker, at juryen ser.
   * Opgaverne er blevet læst grundigt igennem for at undgå fejl, men hvis du har mistanke om, at der er en fejl, skal du række hånden op og spørge en tilsynsførende. Vær dog klar over, at det kan tage tid at kontakte juryen og få et svar på dit sprog, så arbejd på noget andet imens.
-  *  
-  *  
-  * 
+  * You may request an explanation of an unfamiliar word. The Jury may fulfill such a request at their discretion. The Jury will not fulfill such a request if doing so would give you an unfair advantage. The Jury will not normally provide a translation of an unfamiliar word into another language. 
+  * All questions should be in writing. The invigilators will provide you with paper on which you should write your question(s) in your working language. Questions relating to different problems, if any, should be submitted separately, as they are likely to be dealt with by different Jury members (usually the Jury chair or problem author). You will receive the answer to your question(s) in writing in your working language. 
+  * When asking a question, on the top of the sheet you receive from the invigilator, indicate your name, seat number, problem number, and then write your question. The name and the seat number information helps to avoid mistakes with the distribution of answers.
 1. Dit svarark
   * Kopier ikke opgaveformuleringerne.
   * Skriv din løsning til hvert problem på et separat stykke eller flere stykker papir: hvert problem bliver bedømt af et forskelligt jurymedlem, så dine svarark vil blive adskilt og du bør derfor ikke besvare forskellige problemer på samme ark.
@@ -46,7 +46,7 @@ Følgende regler og retningslinjer gælder for deltagere i den individuelle konk
   * Du må medbringe et ur eller et andet apparat til at holde øje med tiden så længe at (a) det er stille og (b) ikke muliggør kontakt med verden udenfor. Der vil være et stort ur i lokalet, så det bør ikke være nødvendigt med et personligt ur.
 1. Hvad du IKKE MÅ medbringe
   * Du må ikke medbringe noget printet materiale (f.eks. ordbog). 
-  * 
+  * You are NOT allowed to bring your own paper (even blank) to the contest.
   * Du må ikke medbringe noget musik eller andet underholdningsapparat, selv hvis det er udstyret med hovedtelefoner.
   * Rygning, inklusiv af e-cigaret, er ikke tilladt.
   * Du må ikke medbringe nogen bærbarcomputer, tablet, mobiltelefon, smart-watch eller noget andet apparat som muliggør kontakt med verden udenfor eller internettet. Enhver deltager der bliver set med en sådan genstand i deres besiddelse under konkurrencen, vil blive øjeblikkeligt diskvalificeret.

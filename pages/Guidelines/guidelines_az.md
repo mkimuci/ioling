@@ -4,6 +4,7 @@ layout: page
 header:
   image_fullwidth: head.png
 title: "IOL-Müsabiqə Qaydaları"
+
 sitemap: false
 ---
 
@@ -23,9 +24,9 @@ Fərdi müsabiqədə riayət olunmalı qaydalar aşağıda verilmişdir. Bu qayd
   * Müsabiqənin müddəti 6 (altı) saatdır.
   * Müsabiqənin sonunda siz sualları götürə bilərsiniz, münsiflər heyətinin qiymətləndirəcəyi bütün həlləri təqdim etməlisiniz. Həllərinizi sizə verilən zərfin içinə qoyun, qaralamadakı həllərinizi isə saxlaya bilərsiniz.
   * Suallar xətaların olmaması üçün diqqətlə yoxlanılıb, əgər hər hansı bir sualda xəta olduğunu düşünürsünüzsə, əlinizi qaldırın və nəzarətçilərdən birinə bildirin. Burada münsiflər heyətini məlumatlandırmaq və sizə öz dilinizdə cavab verilməsi vaxt tələb edə bilər, bu müddət ərzində siz başqa sual üzərində işləyə bilərsiniz.
-  *  
-  *  
-  * 
+  * You may request an explanation of an unfamiliar word. The Jury may fulfill such a request at their discretion. The Jury will not fulfill such a request if doing so would give you an unfair advantage. The Jury will not normally provide a translation of an unfamiliar word into another language. 
+  * All questions should be in writing. The invigilators will provide you with paper on which you should write your question(s) in your working language. Questions relating to different problems, if any, should be submitted separately, as they are likely to be dealt with by different Jury members (usually the Jury chair or problem author). You will receive the answer to your question(s) in writing in your working language. 
+  * When asking a question, on the top of the sheet you receive from the invigilator, indicate your name, seat number, problem number, and then write your question. The name and the seat number information helps to avoid mistakes with the distribution of answers.
 1. Cavab vərəqi
   * Sual cümlələrini köçürməyin.
   * Hər bir sualın həllini ayrı vərəq(lər)ə yazın. Hər sual fərqli münsiflər heyəti üzvü tərəfindən qiymətləndiriləcəyi üçün eyni vərəqdə birdən çox suala cavab verilməməlidir.
@@ -45,7 +46,7 @@ Fərdi müsabiqədə riayət olunmalı qaydalar aşağıda verilmişdir. Bu qayd
   * Saatı yoxlamaq üçün özünüzlə saat və ya vaxt göstərən cihaz gətirə bilərsiniz. Gətirdiyiniz cihaz (a) səssiz və (b) kənar şəxslərlə əlaqə qurma imkanı verməyən qurğu olmalıdır. Müsabiqə zalında divarda böyük bir saat asılı olacaq, öz saatınıza ehtiyacınız olmayacaq.
 1. Özünüzlə nə gətirməməlisiniz?
   * Heç bir yazılı sənəd gətirməməlisiniz (məsələn, lüğət) 
-  * 
+  * You are NOT allowed to bring your own paper (even blank) to the contest.
   * Qulaqlıqla dinləməyi planlaşdırsanız belə, özünüzlə heç bir musiqi və ya əyləncə cihazı gətirməməlisiniz.
   * Elektron siqaret də daxil olmaqla siqaret çəkmək qadağandır.
   * Kənar aləmlə əlaqə saxlaya biləcəyiniz noutbuk, planşet, cib telefonu, ağıllı saat və ya bənzər hər hansı cihaz gətirmək qadağandır. Bunlardan hər hansı birini daşıdığı müşahidə edilən iştirakçı müsabiqədən kənarlaşdırılacaq.
