@@ -55,7 +55,7 @@ Nachfolgend findest du die Regeln und Richtlinien für die Teilnehmerinnen und T
 1. Betreten und Verlassen des Raumes
   * Dein Platz wird dir zugewiesen, und du musst auf diesem Platz sitzen.
   * Wenn du mehr als 30 Minuten zu spät kommst, darfst du den Raum nicht mehr betreten.
-  * Solltest du den Raum vorübergehend verlassen müssen, hebe die Hand. Du wirst von einer Aufsichtsperson begleitet. \regenlef Versuche, andere Teilnehmerinnen und Teilnehmer nicht zu stören.
+  * Solltest du den Raum vorübergehend verlassen müssen, hebe die Hand. Du wirst von einer Aufsichtsperson begleitet. Nur ein Teammitglied darf den Raum zur gleichen Zeit verlassen, außer im Notfall. Versuche, andere Teilnehmerinnen und Teilnehmer nicht zu stören.
   * Du kannst deine Lösungen einreichen und den Wettbewerb jederzeit nach den ersten 30 Minuten verlassen, aber sobald du dies getan hast, darfst du nicht mehr zurückkehren.
 1. Fragebogen
   * Neben der Aufgabenstellung erhältst du einen Fragebogen, den du irgendwann während des Wettbewerbs ausfüllen sollst.

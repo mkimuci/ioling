@@ -55,7 +55,7 @@ A seguir, são apresentadas as regras e as diretrizes para os participantes da r
 1. Entrada e saída da sala
   * Seu assento será atribuído pela organização e você deverá sentar-se no local designado.
   * Caso se atrase por mais de 30 minutos, você não poderá entrar na sala.
-  * Caso precise sair temporariamente da sala, levante a mão. Você será acompanhado por um(a) supervisor(a). \regenlef Evite incomodar os outros participantes.
+  * Caso precise sair temporariamente da sala, levante a mão. Você será acompanhado por um(a) supervisor(a). Apenas um membro do time está autorizado a permanecer fora da sala a cada momento, exceto em caso de emergência.  Evite incomodar os outros participantes.
   * Você pode entregar suas soluções e sair do local de prova a qualquer momento após os primeiros 30 minutos, mas depois de fazê-lo, não poderá retornar.
 1. Questionário
   * Além do conjunto de problemas, você receberá um questionário, que pedimos que preencha em algum momento durante a prova.

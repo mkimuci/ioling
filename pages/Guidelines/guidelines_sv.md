@@ -55,7 +55,7 @@ Nedan följer regler och riktlinjer för deltagare i den individuella tävlingen
 1. Att gå in i eller ut ur skrivsalen
   * Du kommer att tilldelas en skrivplats, och du måste sitta på just den platsen.
   * Om du är mer än 30 minuter sen till tävlingens början, kommer du inte att kunna komma in i skrivsalen.
-  * Om du skulle behöva lämna skrivsalen tillfälligt, räck upp handen. En skrivvakt kommer att följa med dig. \regenlef Försök undvika att störa andra deltagare.
+  * Om du skulle behöva lämna skrivsalen tillfälligt, räck upp handen. En skrivvakt kommer att följa med dig. Enbart en lagmedlem får lämna rummet åt gången, utom i nödfall. Försök undvika att störa andra deltagare.
   * Du får lämna in dina svar och lämna tävlingen när som helst efter de första 30 minuterna av skrivtiden, men när du har lämnat in kommer du inte att kunna komma tillbaka till skrivsalen igen.
 1. Enkät
   * Utöver problemuppsättningen kommer du att få en frågeenkät, som du ombeds fylla i när du vill under tävlingens gång.

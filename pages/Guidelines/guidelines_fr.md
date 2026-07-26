@@ -55,7 +55,7 @@ Ce qui suit sont des règles et des directives pour les participants à l'étape
 1. Entrée et sortie de la salle
   * Un siège vous sera attribué et vous devez y prendre place.
   * Si vous avez plus de 30 minutes de retard, vous ne serez pas autorisé à entrer dans la pièce.
-  * Si vous devez quitter la pièce temporairement, levez la main. Vous serez accompagné d'un surveillant. \regenlef Essayez d'éviter de déranger les autres participants.
+  * Si vous devez quitter la pièce temporairement, levez la main. Vous serez accompagné d'un surveillant. Un seul membre de l'équipe à la fois est autorisé à quitter la pièce, sauf en cas d'urgence. Essayez d'éviter de déranger les autres participants.
   * Vous pouvez soumettre vos solutions et quitter l'épreuve à tout moment après les 30 premières minutes, mais vous ne pourrez pas revenir.
 1. Questionnaire
   * En plus du cahier des problèmes, vous recevrez un questionnaire que vous devrez remplir à un moment quelconque du concours.

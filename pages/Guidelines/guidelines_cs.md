@@ -55,7 +55,7 @@ Toto jsou pravidla a instrukce pro soutěžící v individuální soutěži. V a
 1. Vstup do soutěžní místnosti a její opouštění
   * Dostanete přidělené jednoznačně označené místo, na kterém musíte sedět.
   * Zpozdíte-li se o více než 30 minut, nebude vám umožněn vstup do soutěžní místnosti.
-  * Potřebujete-li dočasně opustit soutěžní místnost, přihlaste se. \regenlef Doprovodí vás přitom člen dozoru. Snažte se přitom nerušit ostatní soutěžící.
+  * Potřebujete-li dočasně opustit soutěžní místnost, přihlaste se. S výjimkou nouzových případů může místnost naráz opustit jen jeden člen týmu. Doprovodí vás přitom člen dozoru. Snažte se přitom nerušit ostatní soutěžící.
   * Svá řešení můžete odevzdat a soutěžní místnost opustit kdykoli po uplynutí prvních 30 minut. Pokud tak učiníte, nesmíte se vrátit.
 1. Dotazník
   * Vedle zadání soutěžních úloh dostanete také dotazník, o jehož vyplnění v průběhu soutěže vás prosíme.

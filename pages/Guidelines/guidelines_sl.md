@@ -55,7 +55,7 @@ V nadaljevanju so pravila in navodila za tekmovalce v individualnem delu tekmova
 1. Vstopanje v prostor in zapuščanje prostora
   * Sedeti moraš na sedežu, ki ti je vnaprej določen.
   * Če zamudiš več kot 30 minut, ti vstop v prostor ne bo več dovoljen.
-  * Če moraš prostor začasno zapustiti, dvigni roko. \regenlef Nadzornik te bo spremljal ven. Poskušaj čim manj motiti druge tekmovalce.
+  * Če moraš prostor začasno zapustiti, dvigni roko. Razen v nujnih primerih ni dovoljeno, da več kot en član ekipe hkrati zapusti prostor Nadzornik te bo spremljal ven. Poskušaj čim manj motiti druge tekmovalce.
   * Svoje rešitve lahko oddaš in zapustiš tekmovanje kadarkoli po preteku prvih 30 minut, vendar pa ti po tem ne bo več dovoljeno priti nazaj.
 1. Vprašalnik
   * Skupaj z nalogami boš prejel(a) tudi vprašalnik, za katerega prosimo, da ga izpolniš kadarkoli med tekmovanjem.

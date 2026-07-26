@@ -55,7 +55,7 @@ Poniżej znajdują się zasady i wytyczne dla zawodników dotyczące konkursu in
 1. Wchodzenie i opuszczanie sali
   * Zostanie Ci przydzielone miejsce, gdzie będziesz siedzieć podczas rozwiązywania zadań.
   * Spóźnienie powyżej 30 minut wiąże się z odmową wpuszczenia na salę.
-  * Jeśli potrzebujesz wyjść z sali na jakiś czas, podnieś rękę. Będzie Ci towarzyszyć osoba nadzorująca. \regenlef Staraj się nie przeszkadzać innym zawodnikom.
+  * Jeśli potrzebujesz wyjść z sali na jakiś czas, podnieś rękę. Będzie Ci towarzyszyć osoba nadzorująca. Nie licząc sytuacji awaryjnych, w dowolnym momencie poza salą znajdować się może co najwyżej jeden członek drużyny. Staraj się nie przeszkadzać innym zawodnikom.
   * Możesz oddać swoje rozwiązania i skończyć zawody w dowolnym momencie po początkowych 30 minutach, ale bez możliwości powrotu.
 1. Ankieta
   * Oprócz zestawu zadań otrzymasz ankietę; prosimy o wypełnienie jej w dowolnym momencie podczas zawodów.
@@ -85,4 +85,4 @@ Poniżej dodatkowe zasady i wytyczne dla zawodników dotyczące konkursu drużyn
   * Umieśćcie kartki z rozwiązaniem w kopercie. Osoba nadzorująca zamknie ją i dostarczy jury zgodnie z ustaleniami.
   * Pamiętajcie, że drużyny w sąsiednich pomieszczeniach mogły zacząć pracę później niż Wy, więc nadal mogą pracować.
 
-Zatwierdził: Daniel Rucki, 6 lutego 2023 roku. Aktualizacja: Przemysław Podleśny, 21 lipca 2026 r.
+Zatwierdził: Przemysław Podleśny, 21 lipca 2026 r.

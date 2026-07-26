@@ -55,7 +55,7 @@ Aşağıda bireysel yarışmada uyulması gereken kurallar sıralanmıştır. Bu
 1. Yarışma salonuna girme ve salondan çıkma
   * Sizin için ayrılmış sıraya oturmalısınız.
   * Eğer yarışmaya 30 dakika geç kalırsanız, salona alınmayacaksınız.
-  * Eğer geçici süre yarışma salonundan çıkmanız gerekiyorsa, lütfen elinizi kaldırın. \regenlef Size bir gözetmen eşlik edecektir, lütfen diğer yarışmacıları rahatsız etmeden salondan çıkınız.
+  * Eğer geçici süre yarışma salonundan çıkmanız gerekiyorsa, lütfen elinizi kaldırın. Acil durumlar dışında, aynı anda sadece tek bir takım üyesinin odadan ayrılmasına izin verilir. Size bir gözetmen eşlik edecektir, lütfen diğer yarışmacıları rahatsız etmeden salondan çıkınız.
   * Yarışma başladıktan 30 dakika sonar çözümlerinizi teslim edip yarışma salonundan ayrılabilirsiniz, bu durumda yarışmaya geri dönemezsiniz.
 1. Anket
   * Problem setinin yanı sıra yarışma esnasında cevaplamanız ve doldurmanız gereken bir anket alacaksınız.

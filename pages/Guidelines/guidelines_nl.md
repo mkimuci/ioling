@@ -55,7 +55,7 @@ De volgende regels en richtlijnen zijn voor deelnemers in de individuele ronde. 
 1. Binnenkomen en verlaten van de ruimte
   * Je krijgt een stoel aangewezen, en hier moet je ook zitten.
   * Als je meer dan 30 minuten te laat bent mag je niet meer naar binnen.
-  * Mocht je tijdelijk de ruimte willen verlaten, steek dan je hand op. Je zal worden vergezeld door een surveillant. \regenlef Zorg dat je de andere deelnemers niet stoort.
+  * Mocht je tijdelijk de ruimte willen verlaten, steek dan je hand op. Je zal worden vergezeld door een surveillant. Slechts één teamlid per keer mag de ruimte verlaten, behalve in een noodgeval. Zorg dat je de andere deelnemers niet stoort.
   * Je mag je envelop met alle uitwerkingen inleveren en de ruimte verlaten op ieder moment, behalve in de eerste 30 minuten. Let erop dat je na het verlaten van de zaal niet meer terug mag keren.
 1. Vragenlijst
   * Naast de opgaven ontvang je ook een vragenlijst die je gedurende de competitie mag invullen.

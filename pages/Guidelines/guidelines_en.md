@@ -55,7 +55,7 @@ The following are rules and guidelines for contestants in the individual round. 
 1. Entering and leaving the room
   * Your seat will be assigned to you, and you must sit in this seat.
   * If you are more than 30 minutes late, you will not be allowed to enter the room.
-  * Should you need to leave the room temporarily, put up your hand. You will be accompanied by an invigilator. \regenlef Try to avoid disturbing other contestants.
+  * Should you need to leave the room temporarily, put up your hand. You will be accompanied by an invigilator. Only one team member at a time is allowed to leave the room, except in the case of an emergency. Try to avoid disturbing other contestants.
   * You may submit your solutions and leave the contest at any time after the first 30 minutes, but once you do so you will not be allowed to return.
 1. Questionnaire
   * As well as the problem set, you will receive a questionnaire, which you are asked to fill in at some point during the contest.

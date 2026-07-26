@@ -55,7 +55,7 @@ Turpmāk minēti noteikumi un vadlīnijas sacensību dalībniekiem individuālaj
 1. Ienākšana telpā un iziešana no tās
   * Jums tiks piešķirta Jūsu vieta, un šajā vietā Jums ir jāsēž.
   * Ja būsiet nokavējis vairāk nekā 30 minūtes, Jums nebūs atļauts iekļūt telpā.
-  * Ja vēlaties uz laiku atstāt telpu, paceliet roku. Uzraudzītājs Jūs pavadīs. \regenlef Centieties netraucēt citus dalībniekus.
+  * Ja vēlaties uz laiku atstāt telpu, paceliet roku. Uzraudzītājs Jūs pavadīs. Iziet no telpas vienlaikus drīkst tikai pa vienam komandas dalībniekam, izņemot ārkārtas situācijas. Centieties netraucēt citus dalībniekus.
   * Jūs varat iesniegt savus risinājumus un atstāt sacensības jebkurā laikā pēc pirmajām 30 minūtēm, taču, tiklīdz jūs to izdarīsiet, Jums nebūs atļauts atgriezties.
 1. Anketa
   * Papildus uzdevumu komplektam, Jūs saņemsiet arī aptaujas anketu, kuru Jums palūgs aizpildīt kādā brīdī sacensību laikā.

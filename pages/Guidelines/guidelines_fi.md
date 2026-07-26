@@ -55,7 +55,7 @@ Ohessa ovat henkilökohtaisen kilpailun säännöt ja ohjeet. Ne esitellään (e
 1. Saliin saapuminen ja sieltä lähteminen
   * Istumapaikkasi osoitetaan sinulle, eikä sitä voi vaihtaa.
   * Jos olet yli 30 minuuttia myöhässä, et pääse enää saliin.
-  * Jos haluat poistua salista väliaikaisesti, nosta kätesi. \regenlef Valvoja saattaa sinua. Yritä olla häiritsemättä muita kilpailijoita.
+  * Jos haluat poistua salista väliaikaisesti, nosta kätesi. Vain yksi tiimin jäsen kerrallaan saa poistua huoneesta, paitsi hätätapauksessa. Valvoja saattaa sinua. Yritä olla häiritsemättä muita kilpailijoita.
   * Voit palauttaa vastauksesi ja poistua kilpailusta milloin tahansa ensimmäisten 30 minuutin jälkeen, mutta tämän jälkeen et voi enää palata saliin.
 1. Kyselylomake
   * Tehtävien ohella saat myös kyselyn, johon sinua pyydetään vastaamaan ennen lähtöäsi.

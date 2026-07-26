@@ -55,7 +55,7 @@ Las siguientes son reglas y pautas para los concursantes en la ronda individual.
 1. Entrada y salida del salón
   * Se te asignará de antemano tu asiento y deberás sentarte en este asiento.
   * Si llegas más de 30 minutos tarde, no se te permitirá entrar al salón.
-  * Si necesitas salir del salón temporalmente, levanta la mano. Estarás acompañado por un(a) supervisor(a). \regenlef Intenta evitar molestar a otros concursantes.
+  * Si necesitas salir del salón temporalmente, levanta la mano. Estarás acompañado por un(a) supervisor(a). Solo se permite que un miembro del equipo salga del salón a la vez, salvo en caso de emergencia. Intenta evitar molestar a otros concursantes.
   * Puedes entregar tus soluciones y abandonar la competencia en cualquier momento después de los primeros 30 minutos, pero una vez que lo hagas, no se te permitirá regresar.
 1. Cuestionario
   * Además del conjunto de problemas, recibirás un cuestionario, que deberás completar en algún momento durante la competencia.

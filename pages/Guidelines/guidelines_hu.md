@@ -55,7 +55,7 @@ Az alábbiakban olvashatók az egyéni versenyre vonatkozó szabályok és útmu
 1. Belépés a terembe és a terem elhagyása
   * Ülőhelyed ki lesz jelölve, csak arra a helyre ülhetsz.
   * Ha több mint 30 percet késel, nem engednek be a terembe.
-  * Ha ideiglenesen el kell hagynod a termet, jelentkezz. Egy felügyelő el fog kísérni. \regenlef Törekedj rá, hogy ne zavard a többi versenyzőt.
+  * Ha ideiglenesen el kell hagynod a termet, jelentkezz. Egy felügyelő el fog kísérni. Egyszerre csak egy csapattag hagyhatja el a termet, kivéve vészhelyzet esetén. Törekedj rá, hogy ne zavard a többi versenyzőt.
   * Megoldásaidat bármikor beadhatod és távozhatsz a versenyről az első 30 perc eltelte után, azonban ezután már nem térhetsz vissza.
 1. A kérdőív
   * A feladatsorral együtt egy kérdőívet is kapsz majd, amit szeretnénk, ha kitöltenél a verseny során.

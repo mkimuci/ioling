@@ -34,7 +34,7 @@ and whereas international science olympiads are now organised in many fields and
 
 ## IOL Rules and Guidelines for Contestants
 
-Last Updated 5 Apr 2023.
+Last Updated 26 Jul 2026.
 
 <button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Select Language</button><br>
 <ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">

@@ -55,7 +55,7 @@ Mai jos sunt câteva reguli și instrucțiuni pentru competiția individuală. A
 1. Accesul (intrarea și ieșirea) în sală
   * Vi se va atribui un loc și va trebui să vă așezați pe acesta.
   * Dacă întârziați mai mult de 30 de minute, nu vi se va mai permite accesul în sală.
-  * Dacă trebuie să plecați temporar din sală, ridicați mâna. Veți fi însoțit de un supraveghetor. \regenlef Încercați totuși să nu-i deranjați pe ceilalți concurenți.
+  * Dacă trebuie să plecați temporar din sală, ridicați mâna. Veți fi însoțit de un supraveghetor. Doar unui membru al echipei îi este permis să părăsească sala la un moment dat, mai puțin într-o situație de urgență. Încercați totuși să nu-i deranjați pe ceilalți concurenți.
   * Puteți să vă predați rezolvările și puteți pleca din timpul probei în orice moment după primele 30 de minute, însă, după ce ați plecat, nu vi se va mai permite din nou accesul.
 1. Chestionar
   * Pe lângă setul de probleme, vi se va solicita să completați un chestionar, pe care îl veți primi la un moment dat în timpul concursului.

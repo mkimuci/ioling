@@ -55,7 +55,7 @@ Järgnevad reeglid ja juhised on osalejatele individuaalvõistluse kohta. Need e
 1. Ruumi sisenemine ja sellest väljumine
   * Teile määratakse istekoht, kus peate istuma.
   * Kui hilinete rohkem kui 30 minutit, ei lubata teil ruumi siseneda.
-  * Kui teil on vaja ajutiselt ruumist lahkuda, tõstke käsi. Teid saadab võistluse vaatleja. \regenlef Üritage teisi võistlejaid mitte segada.
+  * Kui teil on vaja ajutiselt ruumist lahkuda, tõstke käsi. Teid saadab võistluse vaatleja. Igal hetkel võib saali väljaspool asuda enamasti üks meeskonnaliige, välja arvatud hädaolukorras.  Üritage teisi võistlejaid mitte segada.
   * Te võite oma lahendused üle anda ning lahkuda võistluselt iga hetk peale esimest 30 minutit, kuid pärast lahenduste üleandmist pole teil lubatud tagasi tulla.
 1. Küsimustik
   * Koos ülesandekomplektiga saate ka küsimustiku, mida teil palutakse täita mingil hetkel võistluse jooksul.
@@ -85,4 +85,4 @@ Järgnevad lisareeglid ja -juhised on osalejatele meeskonnavõistluse kohta.
   * Asetage oma vastuslehed ümbrikku. Teie vaatleja kleebib selle kinni ja viib žüriile nagu kokku lepitud.
   * Pidage meeles, et kõrvalruumides olevad meeskonnad võivad olla alustanud hiljem kui teie, seega nad võivad veel lahendada.
 
-Heaks kiitnud Miina Norvik 2. märtsil 2023
+Heaks kiitnud Przemysław Podleśny 23. juulil 2026
