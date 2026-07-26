@@ -1,6 +1,7 @@
 ---
 permalink: /guidelines/he/
 layout: page
+direction: rtl
 header:
   image_fullwidth: head.png
 title: "כללי ה-IOL והנחיות למתחרים"
