@@ -18,11 +18,11 @@ Ohessa ovat henkilökohtaisen kilpailun säännöt ja ohjeet. Ne esitellään (e
   * Jokainen kilpailija valitsee työkielen olympialaisten virallisista kielistä rekisteröityessään olympialaisiin. Mahdollisuus muuttaa kielivalintaa sulkeutuu yleensä kaksi viikkoa ennen olympialaisten alkua.
   * Sinun kannattaa valita kieli, jonka käyttö on sinulle kaikkein luontevinta. Usein uskotaan virheellisesti, että tietyn yksittäisen kielen käyttö tuottaa etua kilpailussa.
   * Kaikki työkielet ovat IOLissa kuitenkin ehdottomasti samanarvoisia. Saat kilpailussa tehtävistä yhden version omalla työkielelläsi.
-  * Jos saamasi versio ei ole painettu työkielelläsi, kerro asiasta välittömästi valvojalle ennen kilpailun alkua. Kirjoita myös vastaukset työkielelläsi. Muulla kielellä vastaaminen ei tuo mitään etua, ja se saattaa johtaa virheisiin ja pistemenetyksiin.
+  * Jos saamasi versio ei ole painettu työkielelläsi, kerro asiasta välittömästi valvojalle ennen kilpailun alkua. Mikäli se auttaa selittämään ratkaisun paremmin, muiden tämän vuoden IOL:n työkielten käyttö on sallittua Kirjoita myös vastaukset työkielelläsi. Muulla kielellä vastaaminen ei tuo mitään etua, ja se saattaa johtaa virheisiin ja pistemenetyksiin.
 1. Olympialaisten tehtävät
   * Henkilökohtaisessa kilpailussa on yhteensä viisi tehtävää, jotka voi tehdä missä järjestyksessä tahansa. Kilpailijat saavat kilpailun aikana tehtävät itselleen vain kerran (älä siis turhaan pyydä tehtävien lisäkopioita).
   * Kilpailu kestää kuusi tuntia.
-  * Saat pitää tehtäväpaperit itselläsi, mutta sinun on palautettava kaikki ne paperit, joiden haluat vaikuttavan arviointiin. Palauta paperit kuoressa, jonka saat kilpailutilanteessa. Saat pitää myös ne tekstit ja luonnokset, joita et halua jättää arviointiin.
+  * Saat pitää tehtäväpaperit itselläsi, mutta sinun on palautettava kaikki ne paperit, joiden haluat vaikuttavan arviointiin. Palauta paperit kuoressa, jonka saat kilpailutilanteessa. Saat pitää myös ne tekstit ja luonnokset, joita et halua jättää arviointiin. Älä liitä mukaan luonnoksia tai muita arkkeja, joita tuomariston ei tarvitse nähdä tai joissa ei ole tarraa (katso kohta 3).
   * Tehtävät on tarkastettu huolellisesti etukäteen virheiden välttämiseksi, mutta jos epäilet, että jossakin tehtävässä on virhe, nosta kätesi ja ilmoita asiasta valvojalle. On hyvä muistaa, että yhteyden saaminen tuomareihin ja heidän vastauksensa saaminen omalla kielelläsi voivat kestää kauan, joten tee muita tehtäviä odottaessasi.
   * Sinun on sallittua pyytää selitystä sanalle, jota et tunne. Tuomaristo vastaa tällaiseen pyyntöön oman harkintansa mukaan. Tuomarit eivät vastaa pyyntöön, jos se tuottaisi sinulle epäoikeudenmukaista etua. Tuomaristo ei yleensä tarjoa tuntemattoman sanan käännöstä toiselle kielelle. 
   * Kaikki kysymykset tulee esittää kirjallisesti. Valvojat antavat sinulle paperia, johon voit kirjoittaa yhden tai useamman kysymyksen omalla työkielelläsi. Jos sinulla on eri tehtäviin liittyviä kysymyksiä, lähetä ne erillisillä papereilla, sillä todennäköisesti kysymyksiä käsittelevät vaihtuvat tuomariston jäsenet (tavallisesti tuomariston puheenjohtaja tai tehtävän suunnittelija). Saat vastauksen kysymyksiisi kirjallisesti omalla työkielelläsi. 
@@ -30,7 +30,7 @@ Ohessa ovat henkilökohtaisen kilpailun säännöt ja ohjeet. Ne esitellään (e
 1. Omat vastauksesi
   * Älä kirjoita paperille kysymysten sisältöä.
   * Kirjoita kunkin tehtävän ratkaisusi erilliselle paperille tai papereille. Jokaisen tehtävän arvostelevat eri tuomariston jäsenet, joten vastauksia tarkastellaan erillään eikä samalla paperilla voi olla usean eri tehtävän ratkaisuja.
-  * Kiinnitä jokaiseen paperiin tarra, jossa on nimesi ja istumapaikkasi. Merkitse tarraan tehtävän numero ja vastauksesi sivunumero (esim. nelisivuisessa vastauksessa “tehtävä 1, sivu 1/4"; “tehtävä 1, sivu 2/4” jne.). Jos sinulta loppuvat tarrat, kirjoita edellisessä kohdassa mainitut tiedot paperin ylälaitaan.
+  * Kiinnitä jokaiseen paperiin tarra, jossa on nimesi ja istumapaikkasi. Merkitse tarraan tehtävän numero ja vastauksesi sivunumero (esim. nelisivuisessa vastauksessa “tehtävä 1, sivu 1/4"; “tehtävä 1, sivu 2/4” jne.). Tuomaristo arvostelee vain ne vastauslomakkeet, joissa on tarra. Joissakin tehtävissä on valmiiksi muotoillut vastauslomakkeet, joissa on tilaa kirjoittamiseen. Näihin lomakkeisiin ei tarvitse lisätä tarraa. Jos sinulta loppuvat tarrat, kirjoita edellisessä kohdassa mainitut tiedot paperin ylälaitaan.
   * Voit halutessasi käyttää paperin molempia puolia, kunhan molempien puolten vastaukset liittyvät samaan tehtävään.
   * Perustele vastauksesi hyvin, ellei tehtävässä erityisesti ohjeisteta toisin. Jopa täysin oikea vastaus tuottaa matalat pisteet, jos perustelu puuttuu. Perustele vastauksesi hyvin, ellei tehtävässä erityisesti ohjeisteta toisin.
   * Jopa täysin oikea vastaus tuottaa matalat pisteet, jos perustelu puuttuu. Perustelun tulisi olla yksityiskohtainen ja systemaattinen yhteenveto tekemistäsi johtopäätöksistä EIKÄ kuvaus prosessista, jolla päädyit niihin. Älä palauta useita vaihtoehtoisia toivoen, että yksi vastauksista on oikea (ellei tehtävässä erityisesti pyydetä tekemään niin). Usean vaihtoehtoisen vastauksen palauttamisesta saa nolla pistettä, vaikka yksi niistä olisikin oikea. Menetät pisteitä myös, jos vastauksessasi on useita keskenään ristiriidassa olevia perusteluja. Muista siis poistaa (kumittamalla tai selkeästi yliviivaamalla) kaikki materiaali, jota et halua säilyttää vastauksessasi.
@@ -44,16 +44,18 @@ Ohessa ovat henkilökohtaisen kilpailun säännöt ja ohjeet. Ne esitellään (e
   * Jos tuot omia eväitä, tuo vain miedontuoksuisia tuotteita, joita voi syödä hiljaisesti ja siististi, jotta et häiritse muita osallistujia.
   * Voit pitää mukanasi kaikkia tarvitsemiasi lääkkeitä. Jos sinulla on muita erityistarpeita, ryhmänjohtajasi tulee ilmoittaa niistä järjestäjille etukäteen.
   * Sinulla voi olla mukanasi kello, jos se toimii hiljaa eikä sillä saa yhteyttä internetiin tai muuhun verkkoon. Salissa on iso seinäkello, eikä oma kello siis ole välttämätön.
+  * Sinulla voi olla mukanasi ylimääräisiä kirjoitustarvikkeita (esim. viivainta, korostuskyniä, pyyhekumia).
+  * Muiden kuin kohdissa 4–6 mainittujen tarvikkeiden tuomiseen on saatava tuomariston hyväksyntä. Saadaksesi hyväksynnän tai selventääksesi, onko jokin tarvike sallittu, voit pyytää joukkueenjohtajaasi puhumaan tuomariston puheenjohtajalle
 1. Mukaan ei saa ottaa
   * Mitään painettua materiaalia (kuten sanakirjoja). 
-  * Omaa kirjoituspaperia (edes tyhjänä).
+  * Oman kirjoituspaperin (edes tyhjän) tuominen kilpailuun on kiellettyä
   * Musiikki- tai viihdelaitteita, myöskään kuulokkeilla varustettuna.
   * Tupakointi on kielletty (myös sähkötupakka).
-  * Kannettavaa tietokonetta, tablettia, kännykkää, älykelloa tai mitään muuta laitetta, jolla saa yhteyden ulkomaailmaan tai internetiin. Kilpailija, jonka hallusta löydetään tällainen laite, hylätään välittömästi.
+  * Kannettavaa tietokonetta, tablettia, kännykkää, älykelloa tai mitään muuta laitetta, jolla saa yhteyden ulkomaailmaan tai internetiin, tai mitään muuta laitetta, joka antaisi sinulle epäreilun edun muihin kilpailijoihin nähden. Kilpailija, jonka hallusta löydetään tällainen laite, hylätään välittömästi.
 1. Saliin saapuminen ja sieltä lähteminen
   * Istumapaikkasi osoitetaan sinulle, eikä sitä voi vaihtaa.
   * Jos olet yli 30 minuuttia myöhässä, et pääse enää saliin.
-  * Jos haluat poistua salista väliaikaisesti, nosta kätesi. Valvoja saattaa sinua. Yritä olla häiritsemättä muita kilpailijoita.
+  * Jos haluat poistua salista väliaikaisesti, nosta kätesi. \regenlef Valvoja saattaa sinua. Yritä olla häiritsemättä muita kilpailijoita.
   * Voit palauttaa vastauksesi ja poistua kilpailusta milloin tahansa ensimmäisten 30 minuutin jälkeen, mutta tämän jälkeen et voi enää palata saliin.
 1. Kyselylomake
   * Tehtävien ohella saat myös kyselyn, johon sinua pyydetään vastaamaan ennen lähtöäsi.
@@ -68,7 +70,7 @@ Seuraavassa luetellaan joukkuekilpailun säännöt ja ohjeet.
 
 1. Työkieli
   * Joukkueenne saa tehtävän luettavakseen vain yhdellä kielellä.
-  * Teidän tulee vastata tehtävään ryhmän työkielellä. Yksi tai useampi ryhmänne jäsen on saattanut käyttää muita kieliä henkilökohtaisessa kilpailussa, mutta joukkuekilpailussa kaikkien täytyy työskennellä samalla kielellä.
+  * Teidän tulee vastata tehtävään ryhmän työkielellä. Mikäli se auttaa selittämään ratkaisun paremmin, muiden tämän vuoden IOL:n työkielten käyttö on sallittua Kirjoita myös vastaukset työkielelläsi. Muulla kielellä vastaaminen ei tuo mitään etua, ja se saattaa johtaa virheisiin ja pistemenetyksiin. Yksi tai useampi ryhmänne jäsen on saattanut käyttää muita kieliä henkilökohtaisessa kilpailussa, mutta joukkuekilpailussa kaikkien täytyy työskennellä samalla kielellä.
 1. Tehtävä
   * Joukkuekilpailussa on vain yksi tehtävä.
   * Jokainen joukkueen jäsen saa tehtävästä oman kopionsa, mutta joukkue palauttaa vain yhden yhteisen ratkaisun.
@@ -81,6 +83,6 @@ Seuraavassa luetellaan joukkuekilpailun säännöt ja ohjeet.
   * Jos sinun täytyy poistua väliaikaisesti huoneesta, käänny valvojasi puoleen. On mahdollista, että joudut odottamaan hetken, kunnes varavalvoja ehtii paikalle korvaamaan varsinaisen valvojan poistumisesi ajaksi.
 1. Tehtävän palautus
   * Palauttakaa vastauspaperinne saamassanne kirjekuoressa. Valvojanne sinetöi sen ja toimittaa sen tuomaristolle.
-  * Muistakaa, että viereisessä huoneessa oleva joukkue on saattanut aloittaa tehtävän ratkaisun teitä myöhemmin ja työskentelee mahdollisesti edelleen. Lähdettehän luokasta meluamatta.
+  * Muistakaa, että viereisessä huoneessa oleva joukkue on saattanut aloittaa tehtävän ratkaisun teitä myöhemmin ja työskentelee mahdollisesti edelleen.
 
-Hyväksynyt Miina Norvik 2. maaliskuuta 2023
+Hyväksynyt Elysia Warner 24. heinäkuuta 2026

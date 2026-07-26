@@ -39,15 +39,16 @@ Last Updated 5 Apr 2023.
 <button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Select Language</button><br>
 <ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
   <li><a href="/rules/IOL_Rules.pdf">MULTILANGUAGE (PDF)</a></li>  
-  <li><a href="/guidelines/az/">Azərbaycanca</a></li>
   <li><a href="/guidelines/bg/">Български</a></li>
   <li><a href="/guidelines/cs/">Čeština</a></li>
-  <li><a href="/guidelines/da/">Dansk</a></li>
   <li><a href="/guidelines/de/">Deutsch</a></li>
   <li><a href="/guidelines/en/">English</a></li>
   <li><a href="/guidelines/es/">Español</a></li>
   <li><a href="/guidelines/et/">Eesti</a></li>
   <li><a href="/guidelines/fr/">Français</a></li>
+  <li><a href="/guidelines/el/">Ελληνικά</a></li>
+  <li><a href="/guidelines/he/">עברית</a></li>
+  <li><a href="/guidelines/kk/">Қазақша</a></li>
   <li><a href="/guidelines/ko/">한국어</a></li>
   <li><a href="/guidelines/lv/">Latviešu</a></li>
   <li><a href="/guidelines/hu/">Magyar</a></li>
@@ -60,6 +61,7 @@ Last Updated 5 Apr 2023.
   <li><a href="/guidelines/sl/">Slovenščina</a></li>
   <li><a href="/guidelines/fi/">Suomi</a></li>
   <li><a href="/guidelines/sv/">Svenska</a></li>
+  <li><a href="/guidelines/th/">ไทย</a></li>
   <li><a href="/guidelines/tr/">Türkçe</a></li>
   <li><a href="/guidelines/uk/">Українська</a></li>
   <li><a href="/guidelines/zh/">中文 (大陆简体)</a></li>

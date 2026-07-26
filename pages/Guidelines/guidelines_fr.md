@@ -16,13 +16,13 @@ Ce qui suit sont des règles et des directives pour les participants à l'étape
 
 1. Langue de travail
   * Chaque participant choisit sa langue de travail parmi celles proposées lors de son inscription à l'Olympiade. Ce choix ne peut normalement pas être modifié moins de deux semaines avant le début de l'Olympiade.
-  * Vous devriez choisir la langue dans laquelle vous êtes le plus à l'aise. Contrairement à une opinion répandue, l'utilisation d'une langue en particulier ne présente aucun avantage: toutes les langues de travail ont le même statut dans IOL.
+  * Vous devriez choisir la langue dans laquelle vous êtes le plus à l'aise. L'utilisation d'une langue en particulier ne présente aucun avantage: toutes les langues de travail ont le même statut dans IOL.
   * Vous recevrez une copie unique du cahier de problèmes dans votre langue de travail. Si le cahier que vous recevez n'est pas dans la langue que vous avez demandée, vous devez en informer immédiatement le surveillant avant le début du concours.
-  * Vous devez écrire vos solutions dans la même langue de travail. Vous ne gagnerez aucun avantage à faire autrement et vous risqueriez d'introduire des erreurs et de perdre des points.
+  * Vous devriez écrire vos solutions dans la même langue de travail. Il est permis d'utiliser d'autres langages de travail de l'édition actuelle d'IOL dans certaines parties de votre solution, si vous le jugez nécessaire pour l'expliquer plus clairement. Toutefois, l'utilisation d'autres langues est généralement déconseillée, car vous risquez de faire des erreurs et de perdre des points.
 1. Le cahier de problèmes
   * Le cahier de problèmes comprend cinq problèmes distincts que vous pouvez résoudre dans n'importe quel ordre. Aucun participant ne peut recevoir plus d'une copie du cahier de problèmes pendant l'épreuve; veuillez donc ne pas en demander un autre.
   * L'épreuve dure six heures.
-  * Vous pouvez conserver votre copie des problèmes ultérieurement, mais vous devez remettre tous les documents que vous souhaitez que le jury note. Vous devez mettre tous ces documents dans l'enveloppe fournie. Vous pouvez conserver des brouillons ou d'autres documents que vous ne voulez pas que le jury considère.
+  * Vous pouvez conserver votre copie des problèmes ultérieurement, mais vous devez remettre tous les documents que vous souhaitez que le jury note. Vous devez mettre tous ces documents dans l'enveloppe fournie.. Veuillez ne pas ajouter de brouillons ou d'autres documents que le jury n'a pas besoin de voir, ou qui n'ont pas d'autocollant (voir section 3).
   * Les problèmes ont tous été soigneusement vérifiés pour éviter les erreurs, mais si vous pensez qu'il y en a une, levez la main et indiquez-le à un surveillant. Cependant, sachez que contacter le jury et obtenir une réponse de sa part dans votre langue peut requérir un certain temps. Vous devriez donc travailler sur autre chose en attendant.
   * Vous pouvez demander une explication d'un mot inconnu. Le jury peut répondre à une telle demande à sa discrétion. Le Jury ne répondra pas à une telle demande si cela vous donne un avantage injuste. Le jury ne fournira normalement pas de traduction d'un mot inconnu dans une autre langue. 
   * Toutes les questions doivent être écrites. Les surveillants vous fourniront un papier sur lequel vous devrez écrire votre/vos question(s) dans votre langue de travail. Les questions relatives à différents problèmes doivent éventuellement être soumises séparément, car elles sont susceptibles d'être traitées par différents membres du jury (généralement le président du jury ou l'auteur du problème). Vous recevrez la réponse à vos questions par écrit dans votre langue de travail. 
@@ -30,7 +30,7 @@ Ce qui suit sont des règles et des directives pour les participants à l'étape
 1. Vos feuilles de réponses
   * Ne copiez pas l'énoncé des problèmes.
   * Écrivez votre solution à chaque problème sur une feuille ou des feuilles séparées ; chaque problème est noté par un groupe différent de membres du jury. Ainsi, vos feuilles de réponses seront séparées pendant la correction, et vous ne devez donc pas répondre à plus d'un problème sur la même feuille.
-  * Sur chaque feuille, attachez un des autocollants qui indiquent votre nom et votre numéro de siège. Sur l'autocollant, indiquez le numéro du problème et la séquence de pages dans le problème, par exemple problème 3 feuille 1/4, problème 3 feuille 2/4, etc. (c'est-à-dire première feuille de quatre, etc.). Si vous manquez d'autocollants, écrivez simplement ces informations en haut de la feuille: nom, numéro de siège, numéro du problème, numéro de la feuille dans le problème.
+  * Sur chaque feuille, attachez un des autocollants qui indiquent votre nom et votre numéro de siège. Sur l'autocollant, indiquez le numéro du problème et la séquence de pages dans le problème, par exemple problème 3 feuille 1 de 4, problème 3 feuille 2 de 4, etc. (c'est-à-dire première feuille de quatre, etc.). Seules les feuilles comportant des autocollants (ou sur lesquelles les informations pertinentes sont clairement écrites) seront notées par le jury. Les feuilles de réponses préformatées comportent déjà un espace pour que vous puissiez inscrire vos renseignements ; vous n'avez donc pas besoin d'y coller d'autocollant. Si vous manquez d'autocollants, écrivez simplement ces informations en haut de la feuille: nom, numéro de siège, numéro du problème, numéro de la feuille dans le problème.
   * Vous pouvez utiliser le recto et le verso de la feuille si vous le souhaitez, mais uniquement si les deux côtés sont utilisés pour le même problème.
   * Vos réponses doivent être bien étayées, à moins que la question ne vous demande explicitement le contraire. Même une réponse parfaitement correcte obtiendra un score inférieur si elle n'est pas accompagnée d'une explication.
   * Cette explication doit être un résumé détaillé et systématique des faits que vous avez découverts, PAS une description de la façon dont vous les avez découverts. Ne donnez pas de réponses alternatives (pour tester des éléments) en espérant que l'une d'entre elles sera correcte (à moins bien sûr que la question demande plusieurs réponses): vous ne recevrez aucune note pour plusieurs réponses, même si l'une d'entre elles est correcte. Si vous proposez d'autres explications contradictoires, vous perdrez également des points. Veuillez donc supprimer (effacer ou rayer) tout ce que vous ne souhaitez pas inclure dans votre réponse.
@@ -44,16 +44,18 @@ Ce qui suit sont des règles et des directives pour les participants à l'étape
   * Si vous apportez votre propre nourriture, n'apportez que des aliments qui peuvent être mangés en silence et proprement et qui n'ont pas une odeur forte, afin de ne pas déranger les autres participants.
   * Vous pouvez apporter avec vous tout médicament dont vous pourriez avoir besoin pendant l'épreuve. Si vous avez des besoins particuliers, votre chef d'équipe doit en informer préalablement les organisateurs.
   * Vous pouvez apporter une montre ou un autre dispositif de chronométrage tant que celui-ci (a) est silencieux et (b) ne permet pas le contact avec le monde extérieur. Il y aura une grande horloge dans la pièce, vous ne devriez donc pas avoir besoin de votre propre montre.
+  * Vous pouvez apporter des articles de papeterie supplémentaires (par exemple, une règle, des surligneurs, une gomme à effacer).
+  * Pour apporter tout autre objet non mentionné aux points 4 à 6, vous devez obtenir la permission du jury. Pour ce faire, ou pour savoir si un objet spécifique est acceptable, veuillez demander à votre chef d'équipe de contacter le président du jury.
 1. Ce que vous ne devez PAS apporter
   * Vous ne devez pas apporter de matériel imprimé (ex. dictionnaire). 
   * Vous ne devez pas apporter votre propre papier (même s'il est vierge).
   * Vous ne devez apporter aucun appareil de divertissement ou de musique, même s'il est équipé d'un casque.
   * Il est interdit de fumer, y compris les cigarettes électroniques.
-  * Vous ne devez apporter aucun ordinateur portable, tablette, téléphone portable, montre intelligente ou autre appareil vous permettant de contacter le monde extérieur ou accéder à Internet. Tout participant trouvé avec l'un de ces objets en sa possession pendant le concours sera immédiatement disqualifié.
+  * Vous ne devez apporter aucun ordinateur portable, tablette, téléphone portable, montre intelligente ou autre appareil vous permettant de contacter le monde extérieur ou accéder à Internet. ou tout autre article qui vous donnerait un avantage injuste sur les autres concurrents. Tout participant trouvé avec l'un de ces objets en sa possession pendant le concours sera immédiatement disqualifié.
 1. Entrée et sortie de la salle
   * Un siège vous sera attribué et vous devez y prendre place.
   * Si vous avez plus de 30 minutes de retard, vous ne serez pas autorisé à entrer dans la pièce.
-  * Si vous devez quitter la pièce temporairement, levez la main. Vous serez accompagné d'un surveillant. Essayez d'éviter de déranger les autres participants.
+  * Si vous devez quitter la pièce temporairement, levez la main. Vous serez accompagné d'un surveillant. \regenlef Essayez d'éviter de déranger les autres participants.
   * Vous pouvez soumettre vos solutions et quitter l'épreuve à tout moment après les 30 premières minutes, mais vous ne pourrez pas revenir.
 1. Questionnaire
   * En plus du cahier des problèmes, vous recevrez un questionnaire que vous devrez remplir à un moment quelconque du concours.
@@ -68,7 +70,7 @@ Règles et directives supplémentaires à l'intention des participants à l'épr
 
 1. Langue de travail
   * Votre équipe recevra le problème dans une seule langue.
-  * Vous devez utiliser la langue de travail de l'équipe pour votre solution. Un ou plusieurs membres de l'équipe peuvent avoir demandé une langue de travail différente dans le concours individuel, mais pour le concours par équipes, vous devez tous travailler dans la même langue.
+  * Vous devriez utiliser le langage de travail de l'équipe pour votre solution. Il est permis d'utiliser d'autres langages de travail de l'édition actuelle d'IOL dans certaines parties de votre solution, si vous le jugez nécessaire pour l'expliquer plus clairement. Toutefois, l'utilisation d'autres langues est généralement déconseillée, car vous risquez de faire des erreurs et de perdre des points. Un ou plusieurs membres de l'équipe peuvent avoir demandé une langue de travail différente dans le concours individuel, mais pour le concours par équipes, vous devez tous travailler dans la même langue.
 1. Le problème
   * L'épreuve par équipe ne concerne qu'un seul problème.
   * Chaque membre de l'équipe recevra son propre exemplaire du problème, mais l'équipe devra proposer une solution unique.
@@ -81,6 +83,6 @@ Règles et directives supplémentaires à l'intention des participants à l'épr
   * Si vous devez quitter temporairement la salle, demandez à votre surveillant. Vous devrez peut-être attendre qu'un auxiliaire soit disponible pour vous accompagner ou remplacer le surveillant.
 1. Fin de l'épreuve
   * Placez vos feuilles de réponses dans l'enveloppe. Votre surveillant la scellera et la remettra au jury comme convenu.
-  * Souvenez-vous que l'équipe d'à côté a peut-être commencé plus tard que vous et il est possible qu'elle continue à travailler. S'il vous plaît restez silencieux lorsque vous quittez votre salle.
+  * Souvenez-vous que l'équipe d'à côté a peut-être commencé plus tard que vous et il est possible qu'elle continue à travailler.
 
-Approuvé par Ksénia Gilyarova, le 28 février 2023
+Approuvé par Hugh Dobbs, le 25 février 2026.

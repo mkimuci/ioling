@@ -16,13 +16,13 @@ Mai jos sunt câteva reguli și instrucțiuni pentru competiția individuală. A
 
 1. Limba de lucru
   * Fiecare participant își alege limba de lucru din limbile propuse în momentul înscrierii la olimpiadă. De obicei, această alegere nu poate fi modificată cu mai puțin de două săptămâni înainte de începerea olimpiadei.
-  * E recomandat să alegeți limba în care vă simțiți cel mai confortabil. Contrar opiniilor multora, utilizarea unei anumite limbi nu reprezintă niciun avantaj: toate limbile de lucru au același statut la IOL.
+  * Este recomandat să alegeți limba în care vă simțiți cel mai confortabil. Utilizarea unei anumite limbi nu reprezintă niciun avantaj: toate limbile de lucru au același statut la IOL.
   * Veți primi o singură copie a setului de probleme în limba voastră de lucru. Dacă setul pe care l-ați primit nu este în limba solicitată, trebuie să anunțați imediat supraveghetorul înainte de începerea examenului.
-  * Trebuie să vă scrieți rezolvările în aceeași limbă de lucru. Nu veți avea niciun avantaj făcând altfel și riscați să introduceți greșeli și să pierdeți puncte.
+  * Este recomandat să vă scrieți rezolvările în aceeași limbă de lucru. Vă este permis să folosiți alte limbi de lucru ale ediției curente a IOL pentru o parte din soluția voastră în cazul în care considerați că v-ar ajuta să vă explicați mai bine soluția. Totuși, folosirea altor limbi este, în general, descurajată, deoarece riscați să introduceți greșeli și să pierdeți puncte.
 1. Setul de probleme
   * Setul conține cinci probleme separate pe care le puteți rezolva în orice ordine. Niciun concurent nu poate primi mai mult de o copie a setului de probleme în timpul competiției, așa că vă rugăm să nu solicitați nicio copie în plus.
   * Proba durează șase ore.
-  * Vă puteți păstra copia setului de probleme după probă, dar trebuie să predați toate foile pe care doriți să le corecteze juriul. Trebuie să le puneți pe toate în plicul oferit. Puteți păstra ciornele sau alte foi pe care nu doriți să le predați juriului.
+  * Vă puteți păstra copia setului de probleme după probă, dar trebuie să predați toate foile pe care doriți să le corecteze juriul. Trebuie să le puneți pe toate în plicul oferit. Vă rugăm să nu includeți ciorne sau alte foi care nu trebuie să fie predate juriului, sau pe care nu a fost lipit un autocolant (vedeți secțiunea 3).
   * Toate problemele au fost verificate foarte atent pentru a evita greșelile, dar dacă suspectați că există o eroare, ridicați mâna și întrebați supraveghetorul. Totuși, trebuie să țineți cont de faptul că poate dura ceva timp până când juriul va fi contactat și veți primi un răspuns în limba voastră. Așadar, lucrați la altceva între timp.
   * Puteți solicita explicarea unui cuvânt necunoscut. Este la discreția Juriului dacă va da curs acestei solicitări. Juriul nu va da curs solicitării dacă făcând acest lucru v-ar oferi un avantaj nedrept. În mod normal, Juriul nu va oferi traducerea unui cuvânt necunoscut într-o altă limbă. 
   * Toate întrebările trebuie adresate în scris. Supraveghetorii vă vor oferi foaia pe care să scrieți întrebarea/întrebările, în limba voastră de lucru. Întrebările care vizează probleme diferite, dacă există, trebuie trimise separat, deoarece este posibil să fie adresate de membri diferiți din Juriu (de regulă președintele Juriului sau autorul problemei). Veți primi răspunsul la întrebare/întrebări în scris, în limba voastră de lucru. 
@@ -30,7 +30,7 @@ Mai jos sunt câteva reguli și instrucțiuni pentru competiția individuală. A
 1. Foile de răspuns
   * Nu copiați enunțurile problemelor.
   * Scrieți-vă rezolvarea pentru fiecare problemă pe o foaie separată: fiecare problemă este punctată de către o echipă diferită de membri ai juriului, deci foile voastre de răspuns vor fi separate.  Prin urmare, este recomandat să nu rezolvați probleme diferite pe aceeași foaie.
-  * Pe fiecare foaie, puneți câte un autocolant cu numele și numărul locului. Scrieți pe acest autocolant numărul problemei și numărul paginii însoțit de numărul total de pagini pentru fiecare problemă, astfel: problema 3, pagina 1/4; problema 3, pagina  2/4 etc. (însemnând prima pagină din numărul total de patru pagini pentru problema 3, etc.). Dacă rămâneți fără autocolante, scrieți pur și simplu aceleași informații în partea de sus a foii: numele, numărul locului, numărul problemei și numărul paginii din cadrul problemei.
+  * Pe fiecare foaie, puneți câte un autocolant cu numele și numărul locului. Scrieți pe acest autocolant numărul problemei și numărul paginii însoțit de numărul total de pagini pentru fiecare problemă, astfel: problema 3, pagina 1 din 4; problema 3, pagina 2 din 4 etc. (însemnând prima pagină din numărul total de patru pagini pentru problema 3, etc.). Doar foile pe care au fost lipite autocolante vor fi corectate de către juriu. Foile de răspuns formatate conțin deja un spațiu în care să vă scrieți infomațiile, așa că nu este nevoie să puneți un autocolant pe acestea. Dacă rămâneți fără autocolante, scrieți pur și simplu aceleași informații în partea de sus a foii: numele, numărul locului, numărul problemei și numărul paginii din cadrul problemei.
   * Puteți să scrieți pe ambele fețe ale foii dacă doriți, însă doar dacă este vorba despre aceeași problemă.
   * Răspunsurile voastre trebuie să fie susținute de explicații relevante, cu excepția cazului în care vi se cere în mod explicit altceva. Chiar și un răspuns corect va primi un punctaj mai mic dacă nu este însoțit de o explicație.
   * Această explicație trebuie să rezume și să detalieze sistematic faptele de limbă descoperite și NU să descrie modul în care acestea au fost descoperite. Nu oferiți mai multe răspunsuri (la cerințele problemei) în speranța că unul dintre acestea va fi corect (cu excepția în care vi se cer răspunsuri multiple): nu veți fi punctați pentru răspunsuri suplimentare, chiar dacă acestea sunt corecte. Dacă oferiți explicații contradictorii, veți pierde puncte, așa că aveți grijă să ștergeți (sau să tăiați cu o linie) orice observație pe care nu doriți să o includeți în răspunsul vostru.
@@ -44,16 +44,18 @@ Mai jos sunt câteva reguli și instrucțiuni pentru competiția individuală. A
   * Dacă vă aduceți mâncare, vă rugăm să aveți numai alimente care pot fi consumate în liniște, într-un mod curat, și care nu au un miros puternic, pentru a nu deranja alți concurenți.
   * Puteți aduce orice medicament de care aveți nevoie în timpul probei. Dacă aveți nevoi speciale, liderul echipei voastre trebuie să anunțe în prealabil organizatorii.
   * Puteți aduce un ceas sau un alt dispozitiv de măsurare a timpului atâta timp cât acesta (a) nu face zgomot și (b) nu permite contactul cu lumea exterioară. Cu toate acestea, în sală va fi un ceas care va arăta în mod vizibil ora, deci nu aveți nevoie de ceas propriu.
+  * Puteți aduce alte obiecte de papetărie (ex. o riglă, evidențiatoare, o gumă de șters).
+  * Pentru a aduce orice alt obiect care nu a fost enumerat la punctele 4-6, trebuie să solicitați aprobarea Juriului. Pentru asta, sau pentru a primi o clarificare dacă un obiect anume este permis, vă rugăm să vă adresați liderului echipei voastre, care va contacta președintele Juriului.
 1. Ce NU ESTE PERMIS să aduceți
   * Nu este permis să aduceți niciun material tipărit (de exemplu, un dicționar). 
   * NU este permis să aduceți la competiție propriile foi de hârtie (nici măcar goale).
   * Nu este permis să aduceți muzică sau un alt dispozitiv de divertisment, chiar dacă acesta este echipat cu căști.
   * Nu este permis să fumați, inclusiv țigări electronice.
-  * Nu este permis să aduceți laptopul, tableta, telefonul mobil, smartwatch-ul sau orice altceva care facilitează contactul cu lumea exterioară sau navigarea pe internet. Concurenții cu un astfel de dispozitiv în posesia lor vor fi imediat descalificați.
+  * Nu este permis să aduceți laptopul, tableta, telefonul mobil, smartwatch-ul sau orice altceva care facilitează contactul cu lumea exterioară sau navigarea pe internet, sau orice alt obiect care v-ar oferi un avantaj nedrept față de alți concurenți. Concurenții cu un astfel de dispozitiv în posesia lor vor fi imediat descalificați.
 1. Accesul (intrarea și ieșirea) în sală
   * Vi se va atribui un loc și va trebui să vă așezați pe acesta.
   * Dacă întârziați mai mult de 30 de minute, nu vi se va mai permite accesul în sală.
-  * Dacă trebuie să plecați temporar din sală, ridicați mâna. Veți fi însoțit de un supraveghetor. Încercați totuși să nu-i deranjați pe ceilalți concurenți.
+  * Dacă trebuie să plecați temporar din sală, ridicați mâna. Veți fi însoțit de un supraveghetor. \regenlef Încercați totuși să nu-i deranjați pe ceilalți concurenți.
   * Puteți să vă predați rezolvările și puteți pleca din timpul probei în orice moment după primele 30 de minute, însă, după ce ați plecat, nu vi se va mai permite din nou accesul.
 1. Chestionar
   * Pe lângă setul de probleme, vi se va solicita să completați un chestionar, pe care îl veți primi la un moment dat în timpul concursului.
@@ -68,7 +70,7 @@ Mai jos sunt câteva reguli și instrucțiuni pentru proba pe echipe.
 
 1. Limba de lucru
   * Echipa voastră va primi problema într-o singură limbă.
-  * Trebuie să folosiți limba de lucru a echipei în redactarea soluției. Este posibil ca unul sau mai mulți membri ai echipei să fi solicitat o altă limbă de lucru în competiția individuală, dar pentru competiția pe echipe toți trebuie să lucrați în aceeași limbă.
+  * Este recomandat să folosiți limba de lucru a echipei în redactarea soluției. Vă este permis să folosiți alte limbi de lucru ale ediției curente a IOL pentru o parte din soluția voastră în cazul în care considerați că v-ar ajuta să vă explicați mai bine soluția. Totuși, folosirea altor limbi este, în general, descurajată, deoarece riscați să introduceți greșeli și să pierdeți puncte. Este posibil ca unul sau mai mulți membri ai echipei să fi solicitat o altă limbă de lucru în competiția individuală, dar pentru competiția pe echipe toți trebuie să lucrați în aceeași limbă.
 1. Problema
   * Competiția pe echipe presupune rezolvarea unei singure probleme.
   * Fiecare membru al echipei va primi câte o copie a problemei, însă echipa trebuie să prezinte o singură soluție.
@@ -81,6 +83,6 @@ Mai jos sunt câteva reguli și instrucțiuni pentru proba pe echipe.
   * Dacă trebuie să părăsiți temporar sala, cereți permisiunea supraveghetorului. E posibil să fie nevoie să așteptați până când un voluntar va fi găsit pentru a vă însoți sau pentru a înlocui supraveghetorul.
 1. Când terminați
   * Puneți foile de răspunsuri în plicul furnizat. Supraveghetorul îl va sigila și îl va preda juriului conform instrucțiunilor.
-  * Amintiți-vă că e posibil ca echipa de alături să fi început proba mai târziu decât voi și prin urmare să lucreze în continuare. Vă rugăm să păstrați liniștea când părăsiți sala.
+  * Amintiți-vă că e posibil ca echipa de alături să fi început proba mai târziu decât voi și prin urmare să lucreze în continuare.
 
-Aprobat de către Dan Mirea pe 14 martie 2023
+Aprobat de către Mihai-Alexandru Bratu pe 21 iulie 2026

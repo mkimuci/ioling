@@ -3,84 +3,86 @@ permalink: /guidelines/th/
 layout: page
 header:
   image_fullwidth: head.png
-title: "IOL rules and guidelines for contestants"
+title: "กฎและแนวปฏิบัติในการแข่งขันภาษาศาสตร์โอลิมปิกนานาชาติ (IOL) สำหรับผู้แข่งขัน"
 
 sitemap: false
 ---
 
-ภาษาไทย
+ไทย
 
-## Rules for the individual competition
+## กฎในการสอบแข่งขันประเภทบุคคล
 
-The following are rules and guidelines for contestants in the individual round. They will be presented (in English) at the opening ceremony. All language versions of these rules have equal validity.
+ข้อกำหนดต่อไปนี้เป็นกฎและแนวปฏิบัติสำหรับผู้เแข่งขันในรอบบุคคล ซึ่งจะประกาศ (เป็นภาษาอังกฤษ) ในพิธีเปิด กฎเหล่านี้ได้รับการยอมรับอย่างเท่าเทียมกันไม่ว่าจะแปลเป็นภาษาใด
 
-1. Working language
-  * Each contestant chooses their working language from among those offered when registering for the Olympiad. This choice cannot normally be changed less than two weeks before the Olympiad begins.
-  * You should choose the language in which you are most comfortable. Contrary to popular opinion, there is absolutely no advantage to be gained from using any particular language: all working languages have equal status in IOL.
-  * You will receive a single copy of the problem set in your working language. If the set that you receive is not in the language you  requested, you must let the invigilator know immediately, before the contest starts.
-  * You must write your solutions in the same working language. There is no advantage to be gained by doing otherwise, and you risk introducing mistakes and losing marks.
-1. The problem set
-  * The problem set consists of five separate problems which you may solve in any order. No contestant may receive more than one copy of the problem set during the contest, so please do not request one.
-  * The contest lasts six hours.
-  * You may keep your copy of the problems afterwards, but you must hand in all paperwork that you want the jury to mark (grade). You should put all of this in the envelope provided. You may keep drafts or other paperwork that you don't want the jury to see.
-  * The problems have all been very carefully checked to avoid mistakes, but if you suspect that there is an error, put up your hand and ask an invigilator. However, you should understand that it may take some time to contact the jury and get an answer in your language, so work on something else in the meantime.
-  * You may request an explanation of an unfamiliar word. The Jury may fulfill such a request at their discretion. The Jury will not fulfill such a request if doing so would give you an unfair advantage. The Jury will not normally provide a translation of an unfamiliar word into another language. 
-  * All questions should be in writing. The invigilators will provide you with paper on which you should write your question(s) in your working language. Questions relating to different problems, if any, should be submitted separately, as they are likely to be dealt with by different Jury members (usually the Jury chair or problem author). You will receive the answer to your question(s) in writing in your working language. 
-  * When asking a question, on the top of the sheet you receive from the invigilator, indicate your name, seat number, problem number, and then write your question. The name and the seat number information helps to avoid mistakes with the distribution of answers.
-1. Your answer sheets
-  * Do not copy the statements of the problems.
-  * Write down your solution to each problem on a separate sheet or sheets: each problem is marked (graded) by a different team of jury members, so your answer sheets will be separated and you should not therefore answer different problems on the same sheet.
-  * On each sheet attach a sticker which should show your name and seat number. On the sticker indicate the number of the problem, and the page sequence of that sheet within the problem, e.g. problem 3 sheet 1/4, problem 3 sheet 2/4, etc. (meaning first sheet of four, etc.). If you run out of stickers, simply write this information on the top of the sheet: name, seat number, problem number, sheet number within the problem.
-  * You may use both sides of the paper if you wish, but only if both sides refer to the same problem.
-  * Your answers must be well supported by explanation, unless the question explicitly instructs you otherwise. Even a perfectly correct answer will be given a lower score if not accompanied by an explanation.
-  * This explanation should be a detailed and systematic summary of the facts that you have discovered, NOT a description of how you discovered them. Do not give alternative answers (to test items) hoping that one of them will be correct (unless of course the question asks for multiple answers): you will not receive any marks for multiple answers, even if one of them is right. If you offer alternative conflicting explanations, you will also lose marks, so take care to delete (erase or cross-out) anything you do not want to include in your answer.
-  * At the end, place your answer sheets in the envelope provided.
-1. What you should bring
-  * Something to write with: pen is preferred to pencil, but not obligatory. Use of different colours can help clarify your presentation, but you should avoid the use of red, traditionally reserved for the jury members.
-  * Paper will be provided. If you need more paper, signal to the invigilator by putting up your hand.
-  * Some spare pens will be available: if you need one, put up your hand to request one.
-1. What you may bring
-  * You may bring food and drink, although a packed lunch will be provided for you during the competition.
-  * If you bring your own food, please bring only food that can be eaten quietly and neatly and does not have a strong smell, so as not to disturb other contestants.
-  * You may bring with you any medication that you may need during the contest. If you have any special needs, your team leader should notify the organizers beforehand.
-  * You may bring a watch or other time-keeping device as long as it (a) is quiet and (b) does not enable contact with the outside world. There will be a large clock in the room, so you should not need your own watch.
-1. What you MUST NOT bring
-  * You must not bring any printed matter (e.g. dictionary). 
-  * You are NOT allowed to bring your own paper (even blank) to the contest.
-  * You must not bring any music or other entertainment device, even if equipped with headphones.
-  * Smoking, including e-cigarettes, is not permitted.
-  * You must not bring any laptop, tablet, mobile phone, smart watch or any other device which would enable you to contact the outside world or the internet. Any contestant found with any such item in their possession during the contest will be immediately disqualified.
-1. Entering and leaving the room
-  * Your seat will be assigned to you, and you must sit in this seat.
-  * If you are more than 30 minutes late, you will not be allowed to enter the room.
-  * Should you need to leave the room temporarily, put up your hand. You will be accompanied by an invigilator. Try to avoid disturbing other contestants.
-  * You may submit your solutions and leave the contest at any time after the first 30 minutes, but once you do so you will not be allowed to return.
-1. Questionnaire
-  * As well as the problem set, you will receive a questionnaire, which you are asked to fill in at some point during the contest.
-  * The questionnaire asks you about the problems you worked on. This information is used to help the problem committee judge the suitability of the problems.
-  * The questionnaire also asks you to vote for your favourite problem.
-  * Your responses to the questionnaire will not affect your score.
-  * The questionnaire will be collected separately.
+1. ภาษาที่ใช้ในการแข่งขัน
+  * เมื่อสมัครสอบแข่งขัน ผู้เข้าแข่งขันจะต้องเลือกภาษาที่ต้องการใช้ในการแข่งขันจากภาษาที่กำหนดให้ โดยปกติ จะไม่สามารถเปลี่ยนภาษาได้ หากเหลือเวลาก่อนการแข่งขันน้อยกว่า 2 สัปดาห์
+  * ท่านควรเลือกภาษาที่ท่านถนัดที่สุด ทุกภาษามีความเท่าเทียมกันใน IOL ดังนั้น การเลือกภาษาใดภาษาหนึ่งจึงไม่มีข้อได้เปรียบเหนือภาษาอื่น
+  * ท่านจะได้รับข้อสอบเป็นภาษาที่ท่านเลือกเพียงชุดเดียว หากข้อสอบที่ได้รับไม่ใช่ภาษาที่ท่านเลือก ท่านต้องแจ้งให้กรรมการคุมสอบทราบทันทีก่อนที่การแข่งขันจะเริ่ม
+  * ท่านต้องตอบคำถามด้วยภาษาที่ท่านเลือก ท่านสามารถใช้ภาษาอื่น ๆ ที่ทาง IOL กำหนดไว้ในปีนั้น ๆ ในการตอบคำถามร่วมด้วยได้ หากท่านเห็นว่าสามารถอธิบายคำตอบของท่านได้ดีกว่า ทั้งนี้ ไม่แนะนำให้ตอบคำถามด้วยภาษาอื่น เนื่องจากอาจทำให้ท่านเสี่ยงต่อการเกิดข้อผิดพลาดและเสียคะแนน
+1. ข้อสอบ
+  * ข้อสอบประกอบด้วยโจทย์ทั้งหมด 5 ข้อ จะเลือกตอบข้อใดก่อนก็ได้ ผู้แข่งขันทุกท่านจะได้รับข้อสอบเพียงหนึ่งชุดเท่านั้น กรุณาอย่าขอข้อสอบเพิ่ม
+  * การแข่งขันใช้เวลาทั้งหมด 6 ชั่วโมง
+  * หลังการสอบ ท่านสามารถนำข้อสอบออกจากห้องสอบได้ แต่จะต้องส่งกระดาษคำตอบทั้งหมดที่ต้องการให้คณะกรรมการตรวจให้คะแนน โดยใส่เอกสารทั้งหมดลงในซองเอกสารที่เตรียมไว้ให้ ไม่ต้องส่งร่างคำตอบ กระดาษทดอื่น ๆ หรือกระดาษที่ไม่มีสติกเกอร์แปะอยู่ (ดูส่วนที่ 3) ให้กับคณะกรรมการ
+  * ข้อสอบทั้งหมดได้รับการตรวจสอบอย่างถี่ถ้วนแล้ว แต่หากท่านสงสัยว่ามีข้อผิดพลาดในส่วนใด ให้ยกมือและสอบถามกรรมการคุมสอบ อย่างไรก็ตาม อาจต้องใช้เวลาในการสอบถามคณะกรรมการตัดสินและนำคำตอบกลับมาให้เป็นภาษาที่ท่านเลือก ดังนั้นขอให้ทำข้อสอบส่วนอื่นไปก่อนในระหว่างที่รอ
+  * ท่านสามารถขอคำอธิบายสำหรับคำศัพท์ที่ไม่คุ้นเคยได้ คณะกรรมการตัดสินจะพิจารณาว่าจะให้คำอธิบายหรือไม่ และจะไม่ให้คำอธิบายหากการให้คำอธิบายจะทำให้เกิดข้อได้เปรียบและไม่ยุติธรรม โดยปกติแล้ว คณะกรรมการตัดสินจะไม่ให้คำแปลสำหรับคำที่ไม่คุ้นเคยเป็นอีกภาษา 
+  * ในกรณีที่มีคำถาม ต้องเขียนคำถามลงในกระดาษที่กรรมการคุมสอบมอบให้ และเขียนด้วยภาษาที่ท่านเลือกใช้ในการสอบ ควรส่งคำถามสำหรับโจทย์แต่ละข้อแยกกัน เนื่องจากคณะกรรมการตัดสินที่ตอบคำถามของโจทย์แต่ละข้ออาจจะไม่ใช่คนเดียวกัน (โดยปกติจะเป็นประธานคณะกรรมการตัดสินหรือผู้ออกข้อสอบ) ท่านจะได้รับคำตอบเป็นลายลักษณ์อักษรในภาษาที่ท่านเลือกใช้ในการสอบ 
+  * ในการเขียนคำถาม ให้ระบุชื่อ หมายเลขที่นั่ง และเลขข้อของโจทย์ที่ด้านบนของกระดาษที่ท่านได้รับจากกรรมการคุมสอบ แล้วจึงเขียนคำถามที่ท่านมี ชื่อและหมายเลขที่นั่งจะช่วยไม่ให้ส่งคำตอบกลับผิดพลาด
+1. กระดาษคำตอบ
+  * ไม่ต้องลอกโจทย์
+  * ให้เขียนคำตอบของโจทย์แต่ละข้อแยกกันลงในกระดาษคนละแผ่น โจทย์แต่ละข้อจะตรวจให้คะแนนโดยคณะกรรมการตัดสินคนละกลุ่ม ดังนั้นกระดาษคำตอบของท่านจะถูกแยกออกจากกัน ท่านจึงไม่ควรตอบโจทย์มากกว่าหนึ่งข้อลงในกระดาษคำตอบแผ่นเดียวกัน
+  * บนกระดาษแต่ละแผ่น ให้ติดสติ๊กเกอร์ที่มีชื่อและหมายเลขที่นั่งของท่าน เขียนเลขข้อของโจทย์และหมายเลขหน้าของกระดาษคำตอบสำหรับโจทย์ข้อนั้นลงบนสติกเกอร์ เช่น ข้อ 3 แผ่นที่ 1 จาก 4 หรือ ข้อ 3 แผ่นที่ 2 จาก 4 (หมายถึง แผ่นแรกจากทั้งหมดสี่แผ่น) เป็นต้น คณะกรรมการจะตรวจเฉพาะกระดาษคำตอบที่มีสติกเกอร์แปะอยู่เท่านั้น สำหรับกระดาษคำตอบที่พิมพ์ช่องเติมคำตอบเอาไว้ จะมีพื้นที่สำหรับเขียนชื่อและเลขที่นั่งสอบไว้ให้แล้ว ผู้เข้าสอบไม่ต้องติดสติกเกอร์ลงบนกระดาษคำตอบเหล่านั้น หากสติกเกอร์หมด ให้เขียน ชื่อ เลขที่นั่งสอบ เลขข้อของโจทย์ และหมายเลขหน้าของกระดาษคำตอบสำหรับโจทย์ข้อนั้น ๆ ไว้ที่หัวกระดาษคำตอบ
+  * ท่านสามารถเขียนคำตอบลงบนกระดาษทั้งด้านหน้าและด้านหลังแต่ต้องเป็นคำตอบสำหรับโจทย์ข้อเดียวกัน
+  * คำตอบของท่านต้องมีคำอธิบายสนับสนุนอย่างชัดเจน นอกเสียจากว่าคำถามจะระบุเป็นอย่างอื่น คำตอบที่ถูกต้องทั้งหมดแต่ขาดคำอธิบายจะได้คะแนนน้อย
+  * คำอธิบายต้องมีการสรุปข้อเท็จจริงที่ท่านค้นพบอย่างละเอียดและเป็นระบบ ไม่ใช่อธิบายว่าท่านค้นพบข้อสรุปนี้ได้อย่างไร ห้ามให้คำตอบของแต่ละคำถามมากกว่าหนึ่งคำตอบ โดยเผื่อว่าจะมีคำตอบหนึ่งในนั้นเป็นคำตอบที่ถูกต้อง (นอกจากว่าคำถามจะระบุให้ให้คำตอบหลายคำตอบ) ในกรณีที่ท่านให้คำตอบมากกว่าหนึ่งคำตอบ ท่านจะไม่ได้คะแนนเลย แม้ว่าจะมีคำตอบที่ถูกต้องก็ตาม หากคำอธิบายของท่านขัดแย้งกัน ก็จะถูกหักคะแนนเช่นกัน ดังนั้น ท่านจึงควรลบหรือขีดฆ่าข้อความที่ไม่ใช่ส่วนหนึ่งของคำตอบของท่านออกด้วย
+  * เมื่อเสร็จสิ้นการสอบแล้ว ให้ใส่กระดาษคำตอบของท่านลงในซองที่จัดเตรียมไว้ให้
+1. สิ่งที่ท่านควรนำมา
+  * เครื่องเขียน ควรเขียนด้วยปากกามากกว่าดินสอ แต่ทั้งนี้ไม่ได้เป็นการบังคับ การใช้สีที่แตกต่างกันอาจช่วยให้การนำเสนอของท่านมีความชัดเจนมากยิ่งขึ้น แต่ควรหลีกเลี่ยงการใช้สีแดง เนื่องจากเป็นสีที่มักจะสงวนไว้เฉพาะคณะกรรมการตัดสิน
+  * กรรมการคุมสอบจะจัดเตรียมกระดาษไว้ให้ หากต้องการขอเพิ่ม ให้ยกมือแจ้งกรรมการคุมสอบ
+  * จะมีปากกาสำรองเตรียมไว้ให้ หากท่านต้องการใช้ก็สามารถยกมือขอได้
+1. สิ่งที่ท่านสามารถนำมาได้
+  * ท่านสามารถนำอาหารและเครื่องดื่มมาเองได้ ทั้งนี้ จะมีอาหารเที่ยงเตรียมไว้ให้ระหว่างการแข่งขันด้วย
+  * หากท่านนำอาหารมาเอง กรุณานำมาแค่อาหารที่รับประทานได้โดยไม่ส่งเสียงรบกวน ไม่เลอะเทอะ และต้องไม่มีกลิ่นแรง เพื่อไม่ให้รบกวนผู้แข่งขันท่านอื่น
+  * ท่านสามารถนำยาที่จำเป็นต้องใช้ในระหว่างการแข่งขันติดตัวมาได้ หากท่านมีความจำเป็นพิเศษอื่นใด โปรดให้หัวหน้าทีมของท่านแจ้งผู้จัดการแข่งขันล่วงหน้า
+  * ท่านสามารถนำนาฬิกาหรืออุปกรณ์บอกเวลาอื่น ๆ มาได้ หากเป็นอุปกรณ์ที่ (ก) ไม่มีเสียงรบกวน และ (ข) ไม่สามารถใช้ติดต่อกับภายนอกได้ อย่างไรก็ตาม จะมีนาฬิกาเรือนใหญ่เตรียมไว้ในห้อง ดังนั้นท่านจึงไม่จำเป็นต้องนำนาฬิกามาเอง
+  * ท่านสามารถนำเครื่องเขียนอื่น ๆ (เช่น ไม้บรรทัด ปากกาเน้นข้อความ ยางลบ) เพิ่มเติมเข้าห้องสอบได้
+  * หากท่านต้องการนำสิ่งของอื่น ๆ ที่มิได้ระบุไว้ในข้อ 4 ถึง 6 เข้าห้องสอบ จะต้องได้รับอนุญาตจากคณะกรรมการเท่านั้น โดยท่านสามารถแจ้งหัวหน้าทีมของท่านติดต่อประธานคณะกรรมการตัดสิน เพื่อพิจารณาให้นำสิ่งของนั้น ๆ เข้าห้องสอบ หรือสอบถามเพิ่มเติมว่าสามารถนำสิ่งของประเภทใดบ้างเข้าห้องสอบ
+1. สิ่งที่ท่านห้ามนำมา
+  * ห้ามนำสิ่งพิมพ์ใด ๆ เข้าห้องสอบ (เช่น พจนานุกรม) 
+  * ไม่อนุญาตให้นำกระดาษมาเอง แม้ว่าจะเป็นกระดาษเปล่า
+  * ห้ามฟังเพลงหรือนำอุปกรณ์เพื่อความบันเทิงอื่นใดเข้าห้องสอบ แม้จะมีหูฟังก็ตาม
+  * ไม่อนุญาตให้สูบบุหรี่ รวมถึงบุหรี่ไฟฟ้า
+  * ห้ามนำอุปกรณ์อิเล็กทรอนิกส์เข้าห้องสอบ ซึ่งรวมถึงคอมพิวเตอร์แล็ปท็อป (laptop) แท็บเล็ต (tablet) โทรศัพท์มือถือ สมาร์ตวอตช์ (smart watch) หรืออุปกรณ์ใด ๆ ที่สามารถใช้ติดต่อกับภายนอกหรือใช้อินเทอร์เน็ตได้ หรืออุปกรณ์อื่น ๆ ที่ช่วยให้ท่านได้เปรียบผู้เข้าแข่งขันท่านอื่น ๆ ในการแข่งขัน ในระหว่างการแข่งขัน หากพบว่าผู้เข้าแข่งขันท่านใดมีอุปกรณ์เหล่านี้ในครอบครองจะถูกตัดสิทธิ์จากการแข่งขันทันที
+1. การเข้าและออกจากห้องสอบ
+  * ท่านต้องนั่งสอบในที่นั่งที่กำหนดให้เท่านั้น
+  * หากท่านมาสายเกิน 30 นาที จะไม่ได้รับอนุญาตให้เข้าห้องสอบ
+  * หากท่านต้องการออกจากห้องชั่วคราว ให้ยกมือขึ้น จะมีกรรมการคุมสอบพาท่านออกไป \regenlef พยายามหลีกเลี่ยงการรบกวนผู้เข้าแข่งขันท่านอื่น
+  * ท่านสามารถส่งกระดาษคำตอบและออกจากการแข่งขันเมื่อใดก็ได้หลังจากเวลาผ่านไป 30 นาที แต่หลังจากนั้นท่านจะไม่ได้รับอนุญาตให้กลับเข้ามาอีก
+1. แบบสอบถาม
+  * นอกจากข้อสอบ ท่านจะได้รับแบบสอบถามหนึ่งชุด ซึ่งขอให้ท่านกรอกในระหว่างการแข่งขัน
+  * แบบสอบถามจะถามเกี่ยวกับโจทย์ที่ใช้ในการแข่งขันครั้งนี้ ข้อมูลนี้จะช่วยให้คณะกรรมการสามารถพิจารณาความเหมาะสมของโจทย์ต่อไป
+  * นอกจากนี้ แบบสอบถามจะขอให้ท่านเลือกโจทย์ที่ชอบที่สุด
+  * คำตอบของท่านในแบบสอบถามจะไม่ส่งผลต่อคะแนน
+  * แบบสอบถามจะจัดเก็บแยกจากข้อสอบ
 
-## Rules for the team competition
+## กฎในการสอบแข่งขันประเภททีม
 
-The following are additional rules and guidelines for contestants in the team competition.
+ข้อกำหนดต่อไปนี้เป็นกฎและแนวปฏิบัติเพิ่มเติมสำหรับการแข่งขันประเภททีม
 
-1. Working language
-  * Your team will receive the problem in only one language.
-  * You must use the team working language for your solution. One or more of the team members may have requested a different working language in the individual contest, but for the team contest you must all work in the same language.
-1. The problem
-  * The team competition involves a single problem.
-  * Each team member will receive their own copy of the problem, but the team should submit a single solution.
-  * The length of time available, normally 4 hours, will be clearly indicated. Your invigilator will record the starting time and finishing time for your team. Unlike in the individual competition, no food will be provided; you may bring your own.
-1. Collaboration
-  * You are free to talk together while solving the team problem.
-  * However, the same restrictions on material and devices as in the individual contest also apply to the team competition.
-  * Your team will be allocated its own room for the team competition, but you should be aware that teams in nearby rooms may be able to hear your discussion and/or could be disturbed if you are too noisy, especially if windows are open.
-1. Leaving the room during the competition
-  * Should you need to leave the room temporarily, ask your invigilator. You may have to wait while a helper is found to accompany you or replace the invigilator.
-1. Finishing up
-  * Place your answer sheets in the envelope. Your invigilator will seal it and deliver it to the Jury as arranged.
-  * Remember that the team next door may have started later than you, so they may still be working. Please be quiet as you leave your room.
+1. ภาษาที่ใช้ในการแข่งขัน
+  * ทีมของท่านจะได้รับข้อสอบภาษาเดียวเท่านั้น
+  * ท่านต้องตอบคำถามด้วยภาษาที่ทีมของท่านเลือก ท่านสามารถใช้ภาษาอื่น ๆ ที่ทาง IOL กำหนดไว้ในปีนั้น ๆ ในการตอบคำถามร่วมด้วยได้ หากท่านเห็นว่าสามารถอธิบายคำตอบของท่านได้ดีกว่า ทั้งนี้ ไม่แนะนำให้ตอบคำถามด้วยภาษาอื่น เนื่องจากอาจทำให้ท่านเสี่ยงต่อการเกิดข้อผิดพลาดและเสียคะแนน สมาชิกในทีมของท่านบางคนอาจเลือกใช้ภาษาอื่นในการแข่งขันประเภทบุคคล แต่ในการแข่งขันประเภททีม สมาชิกในทีมทุกคนต้องเลือกใช้ภาษาเดียวกัน
+1. ข้อสอบ
+  * การแข่งขันประเภททีมจะมีโจทย์เพียงข้อเดียว
+  * สมาชิกแต่ละคนจะได้รับข้อสอบหนึ่งชุด แต่ทั้งทีมต้องส่งคำตอบของแต่ละคำถามเพียงคำตอบเดียวเท่านั้น
+  * เวลาสอบจะระบุไว้อย่างชัดเจน โดยปกติแล้วจะใช้เวลาสอบทั้งหมด 4 ชั่วโมง กรรมการคุมสอบจะเป็นผู้บันทึกเวลาเริ่มทำและเวลาส่งข้อสอบของทีมของท่าน ในการแข่งขันประเภททีมจะไม่มีอาหารเตรียมไว้ให้เหมือนกับการแข่งขันประเภทบุคคล ท่านจะต้องนำอาหารมาเอง
+1. การทำงานร่วมกัน
+  * ท่านสามารถพูดคุยปรึกษากันได้ขณะทำข้อสอบ
+  * อย่างไรก็ตาม ต้องปฎิบัติตามกฎเกณฑ์เกี่ยวกับการใช้เอกสารหรืออุปกรณ์ต่าง ๆ เช่นเดียวกับการแข่งขันประเภทบุคคล
+  * ทีมของท่านจะมีห้องแยกจากทีมอื่น แต่พึงตระหนักว่าทีมที่อยู่ในห้องใกล้เคียงอาจจะได้ยินสิ่งที่ท่านปรึกษากัน หรือ เสียงของท่านอาจรบกวนทีมอื่นโดยเฉพาะถ้าเปิดหน้าต่าง
+1. การออกจากห้องระหว่างการแข่งขัน
+  * หากท่านต้องออกจากห้องชั่วคราว กรุณาแจ้งกรรมการคุมสอบ ท่านอาจต้องรอจนกว่าจะมีผู้ที่จะพาท่านออกไปหรือจนกว่าจะมีผู้มาเป็นกรรมการคุมสอบแทนได้
+1. เมื่อเสร็จสิ้นการสอบ
+  * ใส่กระดาษคำตอบของท่านลงในซองเอกสาร กรรมการคุมสอบจะเป็นผู้ปิดผนึกซองและส่งให้คณะกรรมการตัดสิน
+  * โปรดตระหนักว่าทีมที่อยู่ในห้องใกล้เคียงอาจเริ่มการแข่งขันหลังจากทีมของท่าน และอาจยังกำลังทำข้อสอบอยู่
 
-Approved by Milena Veneva, 17 November 2022.
+อนุมัติโดย คิมมินกยู วันที่ 6 เมษายน 2026
