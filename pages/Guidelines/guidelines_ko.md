@@ -44,8 +44,8 @@ sitemap: false
   * 개인 음식물을 가져오는 경우에는 다른 참가자에게 방해가 되지 않도록 조용하고 깔끔하게 먹을 수 있으며 냄새가 강하지 않은 음식만 가져올 수 있다.
   * 대회 중에 필요한 의약품은 가져와도 된다. 특수한 의료 지원이 필요한 경우에는 참가자의 인솔자가 주최 측에 미리 알려야 한다.
   * 시계 등 시간을 확인할 수 있는 장치는 소리를 내지 않고 대회장 외부와 통신할 수 없는 경우에만 사용할 수 있다. 대회장 내에 대형 시계를 비치할 것이므로 개인 시계를 반드시 가져올 필요는 없다.
-  * You may bring additional stationery items (e.g. ruler, highlighters, eraser).
-  * To bring any other item not listed in points 4.-6. you must seek approval from the Jury. To do so, or to get clarification on whether a specific item is acceptable, please ask your team leader to reach out to the Jury chair.
+  * 자, 형광펜, 지우개와 같은 문구류는 추가로 가져올 수 있다.
+  * 4~6항에 열거되지 않은 물품을 가져오려면 심사위원단의 승인을 받아야 한다. 승인을 받거나 특정 물품의 반입 가능 여부를 확인하려면 팀 리더를 통해 심사위원장에게 문의하기 바란다.
 1. 지참 불가 물품
   * 사전을 비롯해 모든 인쇄 매체는 절대 반입할 수 없다. 
   * 대회장에 백지를 포함한 개인 종이를 반입할 수 없다.
