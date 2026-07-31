@@ -464,6 +464,15 @@
   - year: 2022
     medal: Silver
 
+- name: William Keith Thomson
+  countries:
+  - United Kingdom
+  medals:
+  - year: 2023
+    medal: Gold
+  - year: 2022
+    medal: Silver
+
 - name: Ekaterina Voloshinova
   countries:
   - Russia

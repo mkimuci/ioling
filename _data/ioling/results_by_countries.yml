@@ -13916,7 +13916,7 @@
               medal: gold
             - name: Kilian Meissner
               medal: bronze
-            - name: Harrison Moore
+            - name: Harrison William Moore
               medal: silver
             - name: Alex Walker
               medal: bronze
@@ -13954,7 +13954,7 @@
               medal: silver
             - name: Toby Collins
               medal: silver
-            - name: William Thomson
+            - name: William Keith Thomson
               medal: silver
         - team: UK U
           leaders:
@@ -14122,7 +14122,7 @@
         score: 68
       - year: 2022
         team: UK K
-        name: William Thomson
+        name: William Keith Thomson
         score: 55.6
       - year: 2022
         team: UK U
@@ -14138,7 +14138,7 @@
         score: 47.8
       - year: 2019
         team: UK U
-        name: Harrison Moore
+        name: Harrison William Moore
         score: 64.3
       - year: 2019
         team: UK K
@@ -14361,7 +14361,7 @@
         problem: 2
       - year: 2022
         team: UK K
-        name: William Thomson
+        name: William Keith Thomson
         problem: 3
       - year: 2021
         team: UK U
@@ -14382,7 +14382,7 @@
   summary_1: United Kingdom first competed in the IOL in 2009, and has competed in 16 olympiads. They most recently competed in 2025.
   summary_2: They have sent 100 participants in 25 teams.
   summary_3: In competition, teams from United Kingdom have brought home 53 medals (20 gold, 16 silver and 17 bronze), 6 trophies (2 gold, 1 silver and 3 bronze), 1 first-place team cup, 6 best-solution prizes, 19 honorable mentions and 2 team contest honorable mentions.
-  summary_4: In addition, United Kingdom has sent 9 Repeat Medalists and 5 Dream Teams
+  summary_4: In addition, United Kingdom has sent 10 Repeat Medalists and 5 Dream Teams
 
 - iol_code: USA
   iol_name: United States of America
