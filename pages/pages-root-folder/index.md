@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: head.png
 widget3:
-  title: "Bucharest 2026"
+  title: "Bangkok 2027"
   url: '/upcoming/'
-  image: bucharest2026.jpg
-  text: '<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad from July 26th to August 2nd, 2026. You can find more information <a href="/upcoming">here</a>.'
+  image: bangkok2027.jpg
+  text: '<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027. You can find more information <a href="/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -37,8 +37,8 @@ The IOL encourages creativity and imagination and helps participants develop ski
 
 Why not give some of our [past problems](/problems/by_year/) a try and see if you have what it takes to compete in the world's toughest puzzles in language and linguistics?
 
-### Taipei 2025
-The Twenty-second IOL, hosted by Taiwan, has successfully concluded on July 30th, 2025. A total of 227 contestants of 57 teams representing 42 countries and territories competed in IOL 2025. You can find more information <a href="/results/2025">here</a>.
+### Bucharest 2026
+The Twenty-third IOL, hosted by Romania, has successfully concluded on August 2nd, 2026. A total of 255 contestants of 65 teams representing 46 countries and territories competed in IOL 2026. You can find more information <a href="/results/2026">here</a>.
 
 <!-- <a href="/sponsorship/">
   ![Call for sponsors](/images/spons2.png)

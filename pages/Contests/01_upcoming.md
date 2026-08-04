@@ -7,12 +7,12 @@ subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: bucharest2026.jpg
-  text: "<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad from July 26th to August 2nd, 2026."
-title: "Bucharest 2026"
-teaser: "<b>Bucharest, Romania</b> has been selected to host the 23rd International Linguistics Olympiad from July 26th to August 2nd, 2026."
+  image: bangkok2027.jpg
+  text: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027."
+title: "Bangkok 2027"
+teaser: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027."
 image: 
-  title: bucharest2026.jpg
+  title: bangkok2027.jpg
 category: contests
 sitemap: false
 ---
@@ -24,23 +24,23 @@ sitemap: false
 ## Important Dates
 
 #### Website Launch
-Launched in January 2026: [https://iol2026.ioling.org/](https://iol2026.ioling.org/)
+TBA
 
 #### Requesting new working language*
-Before Jan 31, 2026
+TBA
 
 * A new working language means a language that was not present in the previous IOL. Please, note that countries can ask for any language. Asking for a particular language (e.g. English) does **NOT** give an advantage during the contest – all language versions are equal.
 
-The list of the IOL 2025 working languages can be seen on the [IOL 2025 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
+The list of the IOL 2026 working languages can be seen on the [IOL 2026 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
 
 #### Early Bird registration
-By March 15, 2026
+TBA
 
 #### Payment for the teams with Early Bird registration
-By March 15, 2026
+TBA
 
 #### Standard registration
-By April 30, 2026
+TBA
 
 ---
 

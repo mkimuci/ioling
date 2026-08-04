@@ -3,12 +3,12 @@ permalink: /previous_languages/
 layout: page
 header:
   image_fullwidth: head.png
-title: "IOL 2025 working languages"
+title: "IOL 2026 working languages"
 category: 
 sitemap: false
 ---
 
-The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) is as follows:
+The list of the working languages of the 23rd IOL ([IOL 2026](/results/2026/)) is as follows:
 
 * Bulgarian
 * Chinese (simplified)
@@ -22,8 +22,10 @@ The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) i
 * French
 * German
 * Greek
+* Hebrew
 * Hungarian
 * Japanese
+* Kazakh
 * Korean
 * Latvian
 * Polish
@@ -31,7 +33,8 @@ The list of the working languages of the 22nt IOL ([IOL 2025](/results/2025/)) i
 * Romanian
 * Russian
 * Slovenian
-* Spanish
+* Spanish (European)
+* Spanish (Latin American)
 * Swedish
 * Thai
 * Turkish

@@ -1,15 +1,15 @@
-- year: 2026
-  city: Bucharest
-  country: Romania
-  flag: /images/flags/ro.png
-  poc:
-  contact: iol2026ro@gmail.com
-  website: https://iol2026.ioling.org/
-
 - year: 2027
   city: Bangkok
   country: Thailand
   flag: /images/flags/th.png
   poc: TBA
   contact: 
-  website: 
+  website:
+
+- year: 2028
+  city:
+  country: TBA
+  flag:
+  poc: TBA
+  contact:
+  website:
