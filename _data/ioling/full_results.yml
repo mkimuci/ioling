@@ -8685,3 +8685,780 @@
         score: 139.5
 
 
+- year: 2026
+  individual:
+      gold:
+      - name: Sridatta Bhamidipati
+        score: 86.0
+        team: UK Cure–Force
+        country: United Kingdom
+
+      - name: Xin Yan Dong
+        score: 81.5
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Yiling Jiang
+        score: 81.3
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Edward Zeng
+        score: 77.6
+        team: USA Blue
+        country: United States of America
+
+      - name: Sylvia Chen
+        score: 77.2
+        team: USA Red
+        country: United States of America
+
+      - name: Yuki Azuma
+        score: 77.1
+        team: Japan Ninja
+        country: Japan
+
+      - name: Qi Jia
+        score: 77.0
+        team: China QIAN
+        country: China
+
+      - name: Darren Su
+        score: 75.8
+        team: USA Red
+        country: United States of America
+
+      - name: Kenji Lee
+        score: 75.0
+        team: Japan Samurai
+        country: Japan
+
+      - name: Ariel Joshua Lau
+        score: 72.8
+        team: Team Singapore
+        country: Singapore
+
+      - name: Zi Kun Chen
+        score: 71.3
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Hiroto Yasui
+        score: 70.8
+        team: Japan Ninja
+        country: Japan
+
+      - name: Mikhail Iomdin
+        score: 70.8
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Shrilakshmi Venkatraman
+        score: 70.0
+        team: India Saffron
+        country: India
+
+      silver:
+      - name: Kanoa Ziyang Teng
+        score: 69.3
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Adavya Goyal
+        score: 69.2
+        team: UK Horse–Hoarse
+        country: United Kingdom
+
+      - name: Sophie Zhang
+        score: 69.0
+        team: Australia Warrang
+        country: Australia
+
+      - name: Felipe Moraes Barros
+        score: 68.7
+        team: Brazil Rosa
+        country: Brazil
+
+      - name: Antoni Bryłowski
+        score: 68.2
+        team: Poland Chrząszcze
+        country: Poland
+
+      - name: Alexandru-Ioan Pârv
+        score: 66.9
+        team: România Dor
+        country: Romania
+
+      - name: Luiza-Teodora Mihai
+        score: 66.4
+        team: România Dor
+        country: Romania
+
+      - name: Perry Dai
+        score: 66.1
+        team: Canada Moose
+        country: Canada Anglophone
+
+      - name: Zicheng Dai
+        score: 66.0
+        team: Japan Samurai
+        country: Japan
+
+      - name: Yiming Qiao
+        score: 65.5
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Elena Păvăloaia
+        score: 65.4
+        team: România Doină
+        country: Romania
+
+      - name: Theo Lomone
+        score: 65.1
+        team: HKLO
+        country: Hong Kong, China
+
+      - name: Aleksander Żuk
+        score: 64.8
+        team: Poland Chrząszcze
+        country: Poland
+
+      - name: James Anderson
+        score: 64.1
+        team: UK Cure–Force
+        country: United Kingdom
+
+      - name: Zhou Haoxuan
+        score: 64.1
+        team: China QIAN
+        country: China
+
+      - name: Vivian Zhang
+        score: 63.9
+        team: Australia Warrang
+        country: Australia
+
+      - name: Victoria Chen
+        score: 63.6
+        team: UK Cure–Force
+        country: United Kingdom
+
+      - name: Ana-Teodora Grigorie
+        score: 63.1
+        team: România Doină
+        country: Romania
+
+      - name: Daniel Richardson
+        score: 62.3
+        team: UK Horse–Hoarse
+        country: United Kingdom
+
+      - name: Radu-Gheorghe Tănăsescu
+        score: 62.3
+        team: România Doină
+        country: Romania
+
+      - name: Sion Lee
+        score: 62.1
+        team: Korea Kkachi
+        country: Republic of Korea
+
+      - name: Zachary Zi-En Wang
+        score: 61.9
+        team: Australia Naarm
+        country: Australia
+
+      - name: Elisaveta Khoretonenko
+        score: 61.5
+        team: Independent
+        country: Independent
+
+      - name: Martin Bryja
+        score: 61.5
+        team: Czechia Bylo nás pět
+        country: Czechia
+
+      - name: Fu Boran
+        score: 61.4
+        team: China KUN
+        country: China
+
+      - name: Ji Shu Ching
+        score: 61.2
+        team: HKLO
+        country: Hong Kong, China
+
+      - name: Olga Besova
+        score: 60.7
+        team: Israel
+        country: Israel
+
+      - name: Zhou Yukai
+        score: 59.2
+        team: China KUN
+        country: China
+
+      - name: Bo-Ting Wu
+        score: 58.4
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Mihaela Anghel
+        score: 58.4
+        team: România Doină
+        country: Romania
+
+      bronze:
+      - name: Leung Yui Ki
+        score: 56.3
+        team: HKLO
+        country: Hong Kong, China
+
+      - name: Radoslav Stefanov
+        score: 56.1
+        team: Bulgaria Kirilitsa
+        country: Bulgaria
+
+      - name: Shyngys Karassayev
+        score: 55.5
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Levi O. Matias
+        score: 55.5
+        team: Brazil Rosa
+        country: Brazil
+
+      - name: Cheng Dylan Shiying
+        score: 55.4
+        team: Team Singapore
+        country: Singapore
+
+      - name: Elizaveta Dyatlova
+        score: 55.3
+        team: Independent
+        country: Independent
+
+      - name: Stella Heinzelmann
+        score: 54.5
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Jason Liu
+        score: 54.4
+        team: USA Red
+        country: United States of America
+
+      - name: Chihiro Higo
+        score: 54.3
+        team: Japan Ninja
+        country: Japan
+
+      - name: Vladyslav Khalin
+        score: 54.1
+        team: Ukraine
+        country: Ukraine
+
+      - name: Miia Saar
+        score: 53.9
+        team: Estonia
+        country: Estonia
+
+      - name: Sirui “Kris” Sheng
+        score: 52.7
+        team: USA Blue
+        country: United States of America
+
+      - name: Yeojun Park
+        score: 52.7
+        team: Korea Kkachi
+        country: Republic of Korea
+
+      - name: Semyon Kuritsyn
+        score: 52.7
+        team: Independent
+        country: Independent
+
+      - name: Dominica Sagirova
+        score: 52.6
+        team: Independent
+        country: Independent
+
+      - name: Kirill Korostelev
+        score: 52.3
+        team: Ireland
+        country: Ireland
+
+      - name: Gergely Péter Sánta
+        score: 52.1
+        team: Hungary Uborka
+        country: Hungary
+
+      - name: Mihail Boshov
+        score: 51.9
+        team: Bulgaria Kirilitsa
+        country: Bulgaria
+
+      - name: Siyana Pavlova
+        score: 51.8
+        team: Bulgaria Glagolitsa
+        country: Bulgaria
+
+      - name: Shao-Yang Hsu
+        score: 51.6
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Aarav Anil Rao
+        score: 50.9
+        team: India Green
+        country: India
+
+      - name: Yu-An Chang
+        score: 50.7
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Rehan Babu
+        score: 50.2
+        team: USA Red
+        country: United States of America
+
+      - name: Amber Li
+        score: 50.0
+        team: Australia Warrang
+        country: Australia
+
+      - name: Anna Matiášková
+        score: 49.9
+        team: Czechia Čtyřlístek
+        country: Czechia
+
+      - name: Nishanth Shankar Lakshmanan
+        score: 49.8
+        team: India Green
+        country: India
+
+      - name: Petar Velev
+        score: 49.6
+        team: Bulgaria Kirilitsa
+        country: Bulgaria
+
+      - name: Hao Xinyi
+        score: 49.4
+        team: China KUN
+        country: China
+
+      - name: Sofiia Slyvchenko
+        score: 48.9
+        team: Germany Eszett
+        country: Germany
+
+      - name: Advay Misra
+        score: 48.5
+        team: India Saffron
+        country: India
+
+      - name: József Áron Pázmándi
+        score: 48.4
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Misaki Ninomiya
+        score: 48.1
+        team: Japan Samurai
+        country: Japan
+
+      - name: Valerie Kopsová
+        score: 47.0
+        team: Czechia Čtyřlístek
+        country: Czechia
+
+      - name: Kalina Ivanova
+        score: 47.0
+        team: Bulgaria Glagolitsa
+        country: Bulgaria
+
+      - name: Martin Zhang
+        score: 46.7
+        team: Sweden Mård
+        country: Sweden
+
+      - name: Ang-Hsuan Yu
+        score: 46.6
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Andrei Dragu
+        score: 46.6
+        team: România Dor
+        country: Romania
+
+      - name: Georgi Iliev
+        score: 46.6
+        team: Bulgaria Kirilitsa
+        country: Bulgaria
+
+      - name: Yoona Kim
+        score: 45.9
+        team: Korea Horangi
+        country: Republic of Korea
+
+      - name: Gavriel Harvey
+        score: 45.8
+        team: Switzerland Edelweis
+        country: Switzerland
+
+      honorable_mention:
+      - name: Omid Eftekhari
+        score: 45.3
+        team: UK Horse–Hoarse
+        country: United Kingdom
+
+      - name: Márton Kovács
+        score: 45.3
+        team: Hungary Teniszütő
+        country: Hungary
+
+      - name: Gergő Holló
+        score: 45.2
+        team: Hungary Uborka
+        country: Hungary
+
+      - name: Kong Yiu Wang Jayden
+        score: 44.5
+        team: HKLO
+        country: Hong Kong, China
+
+      - name: Katarzyna Drózda
+        score: 44.4
+        team: Poland Świerszcze
+        country: Poland
+
+      - name: Yean Ban
+        score: 43.5
+        team: Korea Horangi
+        country: Republic of Korea
+
+      - name: Helena Rull
+        score: 43.4
+        team: Estonia
+        country: Estonia
+
+      - name: Venelin Tsenkov
+        score: 43.4
+        team: Bulgaria Glagolitsa
+        country: Bulgaria
+
+      - name: Stanislav Alexander
+        score: 42.8
+        team: Austria Heinzel Group
+        country: Austria
+
+      - name: Tobias Wendel
+        score: 42.5
+        team: Germany Eszett
+        country: Germany
+
+      - name: Tudor-Brendan Neag
+        score: 42.4
+        team: România Dor
+        country: Romania
+
+      - name: Zuzanna Buraczewska
+        score: 42.3
+        team: Poland Chrząszcze
+        country: Poland
+
+      - name: Soham Amit Pednekar
+        score: 41.9
+        team: India Saffron
+        country: India
+
+      - name: Aslan Azhibayev
+        score: 41.7
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Kirill Turgumbayev
+        score: 41.6
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Hania Niesiobędzka
+        score: 41.2
+        team: Poland Świerszcze
+        country: Poland
+
+      - name: Jelizaveta Deņisova
+        score: 41.2
+        team: Latvia
+        country: Latvia
+
+      - name: Anna Horká
+        score: 41.0
+        team: Czechia Bylo nás pět
+        country: Czechia
+
+      - name: Luisa Ramscheid Güntert
+        score: 41.0
+        team: Brazil Cravo
+        country: Brazil
+
+      - name: Casper De Ranter
+        score: 40.5
+        team: Sweden Älg
+        country: Sweden
+
+      - name: Shang-En Tsai
+        score: 40.2
+        team: Taiwan Black Bear
+        country: Taiwan
+
+      - name: Ho Janson
+        score: 40.2
+        team: Malaysia
+        country: Malaysia
+
+      - name: Wai Ka Kwan Kevin
+        score: 39.5
+        team: UK Horse–Hoarse
+        country: United Kingdom
+
+      - name: Leong Le Yang, Kyan
+        score: 39.5
+        team: Team Singapore
+        country: Singapore
+
+      - name: Vincent Julius Von Planta
+        score: 39.3
+        team: Switzerland Edelweis
+        country: Switzerland
+
+      - name: Sophia Cojocaru
+        score: 39.1
+        team: Switzerland Steinbock
+        country: Switzerland
+
+      - name: Veronika Havlová
+        score: 39.1
+        team: Czechia Čtyřlístek
+        country: Czechia
+
+      - name: Jascha Kogan
+        score: 39.0
+        team: Germany Umlaut
+        country: Germany
+
+      - name: Maksymilian Kałużny
+        score: 38.9
+        team: Poland Chrząszcze
+        country: Poland
+
+      - name: Ela Biasizzo
+        score: 38.8
+        team: Slovenia
+        country: Slovenia
+
+      - name: Wang Zichen
+        score: 38.7
+        team: China KUN
+        country: China
+
+      - name: Narongrith Artnarongrith
+        score: 38.6
+        team: Thailand
+        country: Thailand
+
+      - name: Franciszek Łukasz Misiewicz
+        score: 38.1
+        team: Poland Świerszcze
+        country: Poland
+
+      - name: Raphiphach Phanmee
+        score: 37.6
+        team: Thailand
+        country: Thailand
+
+      - name: Linnéa Tagel
+        score: 37.2
+        team: Sweden Älg
+        country: Sweden
+
+      - name: Junseong Song
+        score: 36.8
+        team: Korea Horangi
+        country: Republic of Korea
+
+      - name: Ramazan Butantayev
+        score: 36.8
+        team: Kazakhstan
+        country: Kazakhstan
+
+      - name: Zhou Shenghao
+        score: 36.4
+        team: China QIAN
+        country: China
+
+      - name: Si I Kong
+        score: 36.3
+        team: Macau 1
+        country: Macau
+
+      - name: César Lonel de Carvalho
+        score: 36.2
+        team: Brazil Cravo
+        country: Brazil
+
+      - name: Pragya Devkota
+        score: 35.9
+        team: Team Nepal
+        country: Nepal
+
+      - name: Bing-Chen Shih
+        score: 35.7
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Yu-Hsuan Chou
+        score: 35.6
+        team: Taiwan Blue Magpie
+        country: Taiwan
+
+      - name: Matthew May
+        score: 35.3
+        team: UK Cure–Force
+        country: United Kingdom
+
+
+      best_solution:
+      - name: Veronika Havlová
+        team: Czechia Čtyřlístek
+        country: Czechia
+        problem: 1
+
+      - name: Zhou Haoxuan
+        team: China QIAN
+        country: China
+        problem: 1
+
+      - name: Yiling Jiang
+        team: Canada Moose
+        country: Canada Anglophone
+        problem: 2
+
+      - name: Gergely Péter Sánta
+        team: Hungary Uborka
+        country: Hungary
+        problem: 3
+
+      - name: Fu Boran
+        team: China KUN
+        country: China
+        problem: 4
+
+      - name: Martin Zhang
+        team: Sweden Mård
+        country: Sweden
+        problem: 4
+
+      - name: Shao-Yang Hsu
+        team: Taiwan Blue Magpie
+        country: Taiwan
+        problem: 4
+
+      - name: Xin Yan Dong
+        team: Canada Moose
+        country: Canada Anglophone
+        problem: 4
+
+      - name: Radu-Gheorghe Tănăsescu
+        team: România Doină
+        country: Romania
+        problem: 5
+
+  average:
+      highest:
+        - place: 1
+          score: 75.05
+          country: Canada Anglophone
+
+  team:
+      gold:
+      - team: Germany Umlaut
+        country: Germany
+        score: 114.5
+
+      silver:
+      - team: HKLO
+        country: Hong Kong, China
+        score: 114.0
+
+      - team: Philippines Hinirang
+        country: Philippines
+        score: 112.0
+
+      bronze:
+      - team: Taiwan Black Bear
+        country: Taiwan
+        score: 111.0
+
+      - team: Czechia Bylo nás pět
+        country: Czechia
+        score: 108.0
+
+      - team: China KUN
+        country: China
+        score: 105.5
+
+      honorable_mention:
+      - team: China QIAN
+        country: China
+        score: 102.0
+
+      - team: Poland Chrząszcze
+        country: Poland
+        score: 101.0
+
+      - team: Ireland
+        country: Ireland
+        score: 101.0
+
+      - team: Bulgaria Kirilitsa
+        country: Bulgaria
+        score: 101.0
+
+      - team: Ukraine
+        country: Ukraine
+        score: 99.5
+
+      - team: Malaysia
+        country: Malaysia
+        score: 99.5
+
+      - team: Japan Samurai
+        country: Japan
+        score: 99.0
+
+      - team: Canada Moose
+        country: Canada Anglophone
+        score: 99.0
+
+      - team: România Doină
+        country: Romania
+        score: 98.5
+
+      - team: Taiwan Blue Magpie
+        country: Taiwan
+        score: 98.0
+
+      - team: Team Singapore
+        country: Singapore
+        score: 97.5
+
+      - team: Poland Świerszcze
+        country: Poland
+        score: 97.0
+
+

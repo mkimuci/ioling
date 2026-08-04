@@ -2,6 +2,6 @@
 title: Redirecting...
 layout: redirect
 sitemap: false
-permalink: /Hong_Kong,_China
-redirect_to: /HKG/
+permalink: /results/Austria
+redirect_to: /results/AUT/
 ---

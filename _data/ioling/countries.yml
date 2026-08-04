@@ -17,6 +17,25 @@
   poc2: 
   email2: 
 
+- iol_name: Austria
+  official_name: Austria
+  iso_2: AT
+  iso_3: AUT
+  iol_code: AUT
+  flag: at.png
+  selection_en: Austrian Linguistics Olympiad
+  selection_local: Österreichische Linguistik-Olympiade
+  abbreviation: OELO
+  link: https://oelo.univie.ac.at/
+  active: TRUE
+  accredit_in_progress: 
+  accredit: FALSE
+  footnote: 
+  poc: 
+  email: oelo.linguistik@univie.ac.at
+  poc2: 
+  email2: 
+
 - iol_name: Azerbaijan
   official_name: Azerbaijan
   iso_2: AZ
@@ -996,7 +1015,7 @@
   selection_local: 
   abbreviation: 
   link: 
-  active: FALSE
+  active: TRUE
   accredit_in_progress: 
   accredit: FALSE
   footnote: 

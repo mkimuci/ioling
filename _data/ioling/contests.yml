@@ -1150,3 +1150,75 @@
   - name: I-Chieh Yang
   - name: Yun-Ju Yu
 
+- number: 23
+  year: 2026
+  country: Romania
+  city: Bucharest
+  startDate: July 26
+  endDate: August 2
+  number_of_countries: 46
+  number_of_teams: 65
+  number_of_participants: 255
+  title: International Linguistics Olympiad
+  jury:
+  - name: Dan-Mircea Mirea
+    chair: true
+  - name: Aida Davletova
+  - name: Ákos Blaskovics
+  - name: Aleksejs Peguševs
+  - name: Alexander Piperski
+  - name: Ana Meta Dolinar
+  - name: Andrey Nikulin
+  - name: Angela Hou
+  - name: Boris Iomdin
+  - name: Bruno L'Astorina
+  - name: Daniel Rucki
+  - name: Eimear McKnight
+  - name: Elysia Warner
+  - name: Gabrijela Hladnik
+  - name: Ivan Derzhanski
+  - name: Jan Petr
+  - name: Kazune Sato
+  - name: Ksenia Gilyarova
+  - name: Maria Rubinstein
+  - name: Mihai Alexandru Bratu
+  - name: Milena Veneva
+  - name: Pan Tung-Le
+  - name: Przemysław Podleśny
+  - name: Samuel Ahmed
+  - name: Shinjini Ghosh
+  - name: Stanislav Gurevich
+  - name: Taehun Lee
+  organizing_committee:
+  - name: Robert-Paul Helmer
+    chair: true
+  - name: Valentina Cojocaru
+  - name: Roxana Magdalena Preda
+  - name: Adina Dragomirescu
+  - name: Alexandru Nicolae
+  - name: Vlad Neacșu
+  - name: Mihai Alexandru Bratu
+  - name: Elena-Tamara Ivanof
+  - name: Valeriia Pishchymukha
+  volunteers:
+  - name: Alesia Moldovan
+  - name: Alexia Sitaru
+  - name: Anya Bogaevskaia
+  - name: Atako Nakamura
+  - name: Eliška Dvořáková
+  - name: Esteban Mayorga Durán
+  - name: Ioana-Steliana Barbu
+  - name: Karina-Adriana Stăncescu
+  - name: Manoela Erothildes Teleginski Ferraz
+  - name: Maya Janzen
+  - name: Oscar Bovenizer
+  - name: Roosmari Pihlak-Edgar
+  - name: Ruxandra Florescu
+  - name: Samir Sarbassov
+  - name: Sasha Gol'dina
+  - name: Tong Su
+  - name: Vítor Amaral Córdoba
+  - name: Vlad Oros
+  - name: Yutong Heng
+  - name: Zuzana M. Gruberova
+
