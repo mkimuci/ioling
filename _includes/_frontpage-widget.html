@@ -9,7 +9,7 @@
 				{%comment%}<img class="lazy" data-src="{% if include.widget.image contains='http://' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}" alt="" />{%endcomment%}
 				{%comment%}<noscript>{%endcomment%}
 				{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
-				<img src="{{widget_image}}" alt="" />
+				<img src="{{widget_image}}" alt=""{% if include.widget.image_credit %} title="{{ include.widget.image_credit | escape_once }}"{% endif %} />
 				{%comment%}</noscript>{%endcomment%}
 			{% endif %}
 		</a>
