@@ -8102,7 +8102,7 @@
           - name: Khairul Anwar bin Mohamad Zaki
           participants:
             - name: Jing Kai Ong
-            - name: Zi Song Yeoh
+            - name: Yeoh Zi Song
               medal: silver
             - name: Zhe Ren Ooi
               medal: bronze
@@ -8173,7 +8173,7 @@
     silver:
       - year: 2019
         team: Malaysia A
-        name: Zi Song Yeoh
+        name: Yeoh Zi Song
         score: 63.3
       - year: 2018
         team: Malaysia B
@@ -8215,7 +8215,7 @@
   summary_1: Malaysia first competed in the IOL in 2018, and has competed in 7 olympiads. They most recently competed in 2026.
   summary_2: They have sent 36 participants in 9 teams.
   summary_3: In competition, teams from Malaysia have brought home 3 medals (2 silver and 1 bronze), 1 bronze trophy, 4 honorable mentions and 1 team contest honorable mention.
-  summary_4: 
+  summary_4: In addition, Malaysia has sent 1 Repeat Medalist
 
 - iol_code: MLT
   iol_name: Malta
@@ -10923,7 +10923,7 @@
           participants:
             - name: Mihaela Anghel
               medal: bronze
-            - name: Luiza Teodora Mihai
+            - name: Luiza-Teodora Mihai
               medal: bronze
             - name: Alin Cristian Chindea
               medal: honorable mentions
@@ -11081,7 +11081,7 @@
         score: 67.0
       - year: 2025
         team: Romania Baladă
-        name: Luiza Teodora Mihai
+        name: Luiza-Teodora Mihai
         score: 66.0
       - year: 2025
         team: Romania Baladă

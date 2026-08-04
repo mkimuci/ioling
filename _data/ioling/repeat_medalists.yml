@@ -342,6 +342,17 @@
   - year: 2021
     medal: Bronze
 
+- name: Luiza-Teodora Mihai
+  countries:
+  - Romania
+  medals:
+  - year: 2024
+    medal: Gold
+  - year: 2026
+    medal: Silver
+  - year: 2025
+    medal: Bronze
+
 - name: Ada Melentyeva
   countries:
   - Ukraine
@@ -458,15 +469,6 @@
   - year: 2024
     medal: Gold
   - year: 2025
-    medal: Silver
-
-- name: Luiza-Teodora Mihai
-  countries:
-  - Romania
-  medals:
-  - year: 2024
-    medal: Gold
-  - year: 2026
     medal: Silver
 
 - name: Morris Alper
@@ -1005,6 +1007,15 @@
 - name: Russell Emerine
   countries:
   - United States of America
+  medals:
+  - year: 2018
+    medal: Silver
+  - year: 2019
+    medal: Silver
+
+- name: Yeoh Zi Song
+  countries:
+  - Malaysia
   medals:
   - year: 2018
     medal: Silver
