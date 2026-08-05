@@ -738,12 +738,12 @@
           leaders:
           - name: Artur Corrêa Souza
           participants:
-            - name: César Lonel de Carvalho
+            - name: César Augusto Lonel De Carvalho
               medal: honorable mentions
             - name: Daniel Agi Pigini
             - name: Luisa Ramscheid Güntert
               medal: honorable mentions
-            - name: Sophia Liu
+            - name: Sophia Li Ci Liu
         - team: Brazil Rosa
           leaders:
           - name: Eduardo Cardoso Martins
@@ -751,7 +751,7 @@
             - name: Cauã Faria de Medeiros
             - name: Felipe Moraes Barros
               medal: silver
-            - name: Julia Santiago
+            - name: Julia Santiago de Oliveira
             - name: Levi O. Matias
               medal: bronze
   individual_contest_medalists:
@@ -850,7 +850,7 @@
         score: 41.0
       - year: 2026
         team: Brazil Cravo
-        name: César Lonel de Carvalho
+        name: César Augusto Lonel De Carvalho
         score: 36.2
       - year: 2025
         team: Brazil Fêsãw
@@ -4663,7 +4663,7 @@
       teams:
         - team: Germany Eszett
           leaders:
-          - name: Merlin Fischer
+          - name: Merlin Jonathan Fischer
           participants:
             - name: Simon Sandmann
             - name: Sofiia Slyvchenko
@@ -8375,14 +8375,14 @@
           participants:
             - name: Aayas Shrestha
             - name: Micah Rana
-            - name: Pragya Devkota
+            - name: Pragyan Devkota
               medal: honorable mentions
             - name: Pratyush Raj Jha
   honorable_mentions:
     honorable_mention:
       - year: 2026
         team: Team Nepal
-        name: Pragya Devkota
+        name: Pragyan Devkota
         score: 35.9
   summary_1: Nepal first competed in the IOL in 2019, and has competed in 5 olympiads. They most recently competed in 2026.
   summary_2: They have sent 18 participants in 5 teams.
@@ -13168,7 +13168,7 @@
       teams:
         - team: España
           leaders:
-          - name: Álvarez Sellers
+          - name: María Rosa Álvarez Sellers
           participants:
             - name: Ángela Tejero Alcalde
             - name: Dídac Martínez Fraga
@@ -13719,11 +13719,11 @@
             - name: Philipp Dneprov
     - year: 2026
       teams:
-        - team: Switzerland Edelweis
+        - team: Switzerland Edelweiss
           leaders:
           - name: Tatiana Samrowski
           participants:
-            - name: Elihu Yaan Bao
+            - name: Elihu Yann Bao
             - name: Gavriel Harvey
               medal: bronze
             - name: Hanna Balmer
@@ -13734,7 +13734,7 @@
           - name: Marvin Lundgren
           participants:
             - name: Alicia Spirig
-            - name: Matheo Borger
+            - name: Matteo Borger
             - name: Sophia Cojocaru
               medal: honorable mentions
             - name: Zoé Faller
@@ -13746,13 +13746,13 @@
         score: 73.0
     bronze:
       - year: 2026
-        team: Switzerland Edelweis
+        team: Switzerland Edelweiss
         name: Gavriel Harvey
         score: 45.8
   honorable_mentions:
     honorable_mention:
       - year: 2026
-        team: Switzerland Edelweis
+        team: Switzerland Edelweiss
         name: Vincent Julius Von Planta
         score: 39.3
       - year: 2026
