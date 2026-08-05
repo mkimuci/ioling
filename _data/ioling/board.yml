@@ -27,6 +27,8 @@ elected:
           - Chief examiner, All Ireland Linguistics Olympiad, Dublin City University, 2009 to present;
           - Emeritus Professor of Language Engineering, University of Manchester, UK.
   - role: Funding Chair
+    people:
+      - name: Lori Levin
   - role: Public Relations Chair
     email: contact@ioling.org
     people:
@@ -58,21 +60,20 @@ elected:
 appointed:
   - role: Local Organizing Chairs
     people:
-      - name: Bruno L’Astorina
-        photo: bruno-l'astorina.jpg
-        note: 2024
       - name: Yee-Jean Fon
         note: 2025
       - name: Paul Helmer
         note: 2026
       - name: Pittayawat Pittayaporn
         note: 2027
+      - name: TBA
+        note: 2028
   - role: PC/Jury Chair
     email: pc.chair@ioling.org
     people:
-      - name: Dan-Mircea Mirea
-        photo: dan-mircea-mirea.jpg
-        note: 2026
+      - name: Elysia Warner
+        photo: elysia-warner.jpeg
+        note: 2027
   - role: Secretary to Problem Committee
     people:
       - name: Eimear McKnight
