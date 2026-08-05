@@ -19,7 +19,7 @@ The list of the working languages of the 23rd IOL ([IOL 2026](/results/2026/)) i
 * English (British)
 * Estonian
 * Finnish
-* French
+* French (Canadian)
 * German
 * Greek
 * Hebrew

@@ -28,10 +28,10 @@ sitemap: false
 #### Website Launch
 TBA
 
-#### Requesting new working language*
-TBA
+#### Requesting new working language
+Before Jan 31, 2027
 
-* A new working language means a language that was not present in the previous IOL. Please, note that countries can ask for any language. Asking for a particular language (e.g. English) does **NOT** give an advantage during the contest – all language versions are equal.
+A new working language means a language that was not present in the previous IOL. Please, note that countries can ask for any language. Asking for a particular language (e.g. English) does **NOT** give an advantage during the contest – all language versions are equal.
 
 The list of the IOL 2026 working languages can be seen on the [IOL 2026 working languages](/previous_languages/) page. Please, make sure that you have read through the [Working language(s) selection](/working_language/) page carefully before requesting a new language.
 
