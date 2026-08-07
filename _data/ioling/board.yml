@@ -29,6 +29,13 @@ elected:
   - role: Funding Chair
     people:
       - name: Lori Levin
+        qualifications:
+          - "Various roles in NACLO since 2006: co-founder, co-chair, fundraising, stakeholder relations"
+          - IOL local host 2011
+          - Attended 17 IOLs as team leader
+          - Research Professor, Language Technologies Institute, Carnegie Mellon University
+          - Fellow of the Association for Computational Linguistics
+          - Antonio Zampolli Prize winner, European Language Resources Association
   - role: Public Relations Chair
     email: contact@ioling.org
     people:
