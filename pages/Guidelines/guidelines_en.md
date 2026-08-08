@@ -44,7 +44,7 @@ The following are rules and guidelines for contestants in the individual round. 
   * If you bring your own food, please bring only food that can be eaten quietly and neatly and does not have a strong smell, so as not to disturb other contestants.
   * You may bring with you any medication that you may need during the contest. If you have any special needs, your team leader should notify the organizers beforehand.
   * You may bring a watch or other time-keeping device as long as it (a) is quiet and (b) does not enable contact with the outside world. There will be a large clock in the room, so you should not need your own watch.
-  * You may bring additional stationery items (e.g. ruler, highlighters, eraser).
+  * You may bring additional stationery items (e.g. ruler, highlighters, eraser). 
   * To bring any other item not listed in points 4.-6. you must seek approval from the Jury. To do so, or to get clarification on whether a specific item is acceptable, please ask your team leader to reach out to the Jury chair.
 1. What you MUST NOT bring
   * You must not bring any printed matter (e.g. dictionary). 

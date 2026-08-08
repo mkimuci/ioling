@@ -33,7 +33,7 @@ Aşağıda bireysel yarışmada uyulması gereken kurallar sıralanmıştır. Bu
   * Her sayfaya adınızı ve sıra numaranızı gösteren etiketi yapıştırınız. Etiket üzerinde ilgili problemin kaçıncı sayfasını çözdüğünüzü belirtiniz. Örneğin; problem 3 sayfa 1/4, problem 3 sayfa 2/4  gibi (Toplam 4 sayfadan 1.si, toplam 4 sayfadan 2.si anlamına gelmektedir). Jüri sadece üzerinde etiket bulunan kağıtları değerlendirecektir. Bazı problemler için cevaplarınızı yazabileceğiniz hazır formatlı cevap kağıtları verilecektir. Bu kağıtlara etiket yapıştırmanıza gerek yoktur. Eğer etiketleriniz biterse, bu bilgiyi sayfanın en üstüne yazınız; isim- sıra numarası- problem numarası- problemin sayfa numarası gibi.
   * Eğer isterseniz, kağıdın iki yüzünü de kullanabilirsiniz, sadece iki yüzde aynı problemi cevaplamalısınız.
   * Cevaplarınız açıklaması ile birlikte desteklenmelidir. Mükemmel bir cevap bile doğru açıklanmazsa puan kaybedebilir.
-  * Bu açıklama bulduğunuz kuralların detaylı ve sistematik bir özeti olmalıdır, kuralları nasıl bulduğunuzu açıklamak zorunda değilsiniz. (Problem birden fazla cevap istemedikçe) Diğer de doğru olabilir diye düşünüp farklı cevaplar vermemelisiniz. Eğer biri doğru olsa bile farklı cevaplarınız için puan alamayacaksınız. Eğer alternatif çelişkili açıklamalar yaparsanız, puan kaybedersiniz, dikkatli olunuz ve cevabınıza dahil etmek istemediğiniz kısmı siliniz veya üzerini çiziniz.
+  * Bu açıklama bulduğunuz kuralların detaylı ve sistematik bir özeti olmalıdır, kuralları nasıl bulduğunuzu açıklamamalıdır. (Problem birden fazla cevap istemedikçe) Diğer de doğru olabilir diye düşünüp farklı cevaplar vermemelisiniz. Eğer biri doğru olsa bile farklı cevaplarınız için puan alamayacaksınız. Eğer alternatif çelişkili açıklamalar yaparsanız, puan kaybedersiniz, dikkatli olunuz ve cevabınıza dahil etmek istemediğiniz kısmı siliniz veya üzerini çiziniz.
   * Sınav bittiğinde, çözümlerinizi zarfın içine koyunuz.
 1. Yanınızda ne getirmelisiniz?
   * Yazı yazmak için gerekli kalem: tükenmez / dolma kalem kurşun kaleme tercih edilir ama zorunlu değildir. Farklı renkte kalemler kullanmak çözümünüzün sunumunu açıklayıcı yapabilir. Kırmızı kalem kullanmamalısınız, kırmızı kalem jürinin kontrol yaparken kullandığı renktir.
@@ -43,7 +43,7 @@ Aşağıda bireysel yarışmada uyulması gereken kurallar sıralanmıştır. Bu
   * Yanınızda yiyecek ve içecek getirebilirsiniz, yarışma esnasında paketli bir öğlen yemeği temin edilecektir.
   * Eğer kendi yemeğinizi getirecekseniz, lütfen sessizce ve temiz bir şekilde yenilebilen, keskin bir kokusu olmayan bir yemek getirin ki diğer yarışmacılar rahatsız olmasın.
   * Yarışma esnasında ihtiyacınız olabilecek herhangi bir ilacı yanınızda getirebilirsiniz. Eğer özel bir ihtiyacınız varsa, takım lideriniz organizatörleri öncesinde bilgilendirmelidir. Yanınızda zamana bakabileceğiniz bir saat veya zaman gösteren bir araç getirebilirsiniz.
-  * Getireceğiniz aracın (a) sessiz ve (b) dış dünya ile irtibata geçemeyecek bir araç olmamalıdır. Yarışma salonunda duvarda büyük bir saat olacaktır, kendi saatinize ihtiyacınız olmayacaktır.
+  * Getireceğiniz aracın (a) sessiz ve (b) dış dünya ile irtibata geçemeyecek bir araç olmalıdır. Yarışma salonunda duvarda büyük bir saat olacaktır, kendi saatinize ihtiyacınız olmayacaktır.
   * Cetvel, fosforlu kalemler, silgi gibi ek kırtasiye malzemeleri getirebilirsiniz.
   * 4-6. arasındaki maddelerde listelenmeyen herhangi bir malzemeyi getirmek için Jürinin onayını almalısınız. Onay almak veya bir malzemenin izin verilip verilmediğini netleştirmek için Takım Liderinizden Jüri Başkanı ile konuşmasını isteyebilirsiniz.
 1. Yanınızda ne getirmemelisiniz?
@@ -74,7 +74,7 @@ Aşağıdaki kurallar ve yönergeler yarışmacıların takım yarışmasında u
 1. Problem
   * Takım yarışmasında tek bir problem sorulacaktır.
   * Her takım üyesi problemin bir nüshasını alacaktır, fakat takım olarak tek bir çözüm teslim etmelisiniz.
-  * Yarışmanın süresi 4 (dört) saattir ve yarışma başlamadan önce tam olarak bildirilecektir. Takımınızın gözetmeni başlama ve bitiş sürenizi kaydedecektir. Bireysel yarışmada olduğu gibi yemek sağlanacaktır, kendi yemeğinizi getirebilirsiniz.
+  * Yarışmanın süresi 4 (dört) saattir ve yarışma başlamadan önce tam olarak bildirilecektir. Takımınızın gözetmeni başlama ve bitiş sürenizi kaydedecektir. Bireysel yarışmada olduğunun aksine yemek sağlanmayacaktır, kendi yemeğinizi getirebilirsiniz.
 1. İş birliği
   * Takım yarışması problemini çözerken birlikte konuşabilirsiniz.
   * Bireysel yarışmadaki malzeme ve elektronik aygıtlarla ilgili kısıtlamalar takım yarışmasında da geçerlidir.
@@ -85,4 +85,4 @@ Aşağıdaki kurallar ve yönergeler yarışmacıların takım yarışmasında u
   * Cevap kağıtlarınızı zarfa koyunuz. Gözetmeniniz zarfı kapatacak ve jüriye teslim edecektir.
   * Yan odanızdaki takım sizden daha geç başlamış ve hala çalışıyor olabilir.
 
-24 Temmuz 2026'te Elysia Warner tarafından onaylandı.
+5 Ağustos 2026'te Elysia Warner tarafından onaylandı.
