@@ -34,7 +34,7 @@ and whereas international science olympiads are now organised in many fields and
 
 ## IOL Rules and Guidelines for Contestants
 
-Last Updated 26 Jul 2026.
+Last Updated 8 Aug 2026.
 
 <button href="#" data-dropdown="drop2" aria-controls="drop2" aria-expanded="false" class="button dropdown small">Select Language</button><br>
 <ul id="drop2" data-dropdown-content class="f-dropdown" aria-hidden="true">
@@ -64,6 +64,6 @@ Last Updated 26 Jul 2026.
   <li><a href="/guidelines/th/">ไทย</a></li>
   <li><a href="/guidelines/tr/">Türkçe</a></li>
   <li><a href="/guidelines/uk/">Українська</a></li>
-  <li><a href="/guidelines/zh/">中文 (大陆简体)</a></li>
-  <li><a href="/guidelines/zt/">中文 (臺灣正體)</a></li>
+  <li><a href="/guidelines/zh/">中文 (简体)</a></li>
+  <li><a href="/guidelines/zt/">中文 (正體)</a></li>
 </ul>
