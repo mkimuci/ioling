@@ -895,7 +895,7 @@
     name: Alexey Doilnitsyn
   - country: United Kingdom
     team: UK 2
-    name: Nathan Somers
+    name: Nathan Takeru Matsuo Somers
 
 - year: 2010
   round: Team
@@ -1275,7 +1275,7 @@
   best_solutions:
   - country: Romania
     team: Romania
-    name: Dan Mircea Mirea
+    name: Dan-Mircea Mirea
   - country: United States of America
     team: USA Red
     name: Darryl Wu
@@ -1427,7 +1427,7 @@
   best_solutions:
   - country: Romania
     team: Romania
-    name: Dan Mircea Mirea
+    name: Dan-Mircea Mirea
   slide: iol-2015-i-4-slide.pdf
 
 - year: 2015
@@ -1536,7 +1536,7 @@
     - name: Iatmül
       family: Sepik
   author:
-    - name: Artūrs Semeņuks
+    - name: Artūrs Semeņuks
   best_solutions:
   - country: Republic of Korea
     team: Korea Woori
@@ -1632,7 +1632,7 @@
     - name: Kimbundu
       family: Atlantic-Congo
   author:
-    - name: Bruno L'Astorina
+    - name: Bruno L’Astorina
   best_solutions:
   - country: United States of America
     team: USA Red

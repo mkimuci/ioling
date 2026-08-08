@@ -399,7 +399,7 @@
   - year: 2022
     medal: Silver
 
-- name: Dan Mircea Mirea
+- name: Dan-Mircea Mirea
   countries:
   - Romania
   medals:
@@ -914,7 +914,7 @@
   - year: 2024
     medal: Silver
 
-- name: Felipe Moraes Barros
+- name: Felipe Araújo Moraes Barros
   countries:
   - Brazil
   medals:
@@ -995,6 +995,15 @@
   - year: 2010
     medal: Silver
 
+- name: Matei Chirilă
+  countries:
+  - Romania
+  medals:
+  - year: 2023
+    medal: Silver
+  - year: 2024
+    medal: Silver
+
 - name: Mihail Minkov
   countries:
   - Bulgaria
@@ -1011,6 +1020,15 @@
   - year: 2018
     medal: Silver
   - year: 2019
+    medal: Silver
+
+- name: Wojciech Szot
+  countries:
+  - Poland
+  medals:
+  - year: 2022
+    medal: Silver
+  - year: 2023
     medal: Silver
 
 - name: Yeoh Zi Song
@@ -1540,6 +1558,15 @@
   - Russia
   medals:
   - year: 2018
+    medal: Bronze
+  - year: 2019
+    medal: Bronze
+
+- name: Matei-Costin Banu
+  countries:
+  - Romania
+  medals:
+  - year: 2017
     medal: Bronze
   - year: 2019
     medal: Bronze

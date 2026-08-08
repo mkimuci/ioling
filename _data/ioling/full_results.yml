@@ -1306,7 +1306,7 @@
         team: Netherlands
         country: Netherlands
 
-      - name: Younus Porteous 
+      - name: Younus Porteous
         score: 69
         team: UK 1
         country: United Kingdom
@@ -1387,7 +1387,7 @@
         team: USA Red
         country: United States of America
 
-      - name: Ignace Schoot 
+      - name: Ignace Schoot
         score: 60
         team: Netherlands
         country: Netherlands
@@ -1402,7 +1402,7 @@
         team: Norway
         country: Norway
 
-      - name: Fenno Noij 
+      - name: Fenno Noij
         score: 59
         team: Netherlands
         country: Netherlands
@@ -1494,7 +1494,7 @@
         country: Russia
         problem: 5
 
-      - name: Nathan Somers
+      - name: Nathan Takeru Matsuo Somers
         team: UK 2
         country: United Kingdom
         problem: 5
@@ -2709,7 +2709,7 @@
         team: Canada
         country: Canada
 
-      - name: Elysia Jane Warner
+      - name: Elysia Warner
         score: 65
         team: UK
         country: United Kingdom
@@ -2724,7 +2724,7 @@
         team: Russia 1
         country: Russia
 
-      - name: Dan Mircea Mirea
+      - name: Dan-Mircea Mirea
         score: 63
         team: Romania
         country: Romania
@@ -2947,7 +2947,7 @@
         team: Brazil
         country: Brazil
 
-      - name: Nishiyama Naoki
+      - name: Naoki Nishiyama
         score: 36
         team: Japan 1
         country: Japan
@@ -2992,7 +2992,7 @@
         team: Slovenia
         country: Slovenia
 
-      - name: Veronika Timar
+      - name: Veronika Tímár
         score: 35
         team: Hungary 1
         country: Hungary
@@ -3054,7 +3054,7 @@
         country: Russia
         problem: 1
 
-      - name: Dan Mircea Mirea
+      - name: Dan-Mircea Mirea
         team: Romania
         country: Romania
         problem: 2
@@ -3215,7 +3215,7 @@
         team: USA Blue
         country: United States of America
 
-      - name: Dan Mircea Mirea
+      - name: Dan-Mircea Mirea
         score: 50
         team: Romania
         country: Romania
@@ -3331,7 +3331,7 @@
         team: Kazakhstan 1
         country: Kazakhstan
 
-      - name: Luke Gardiner
+      - name: Luke Adrian Gardiner
         score: 41
         team: Ireland
         country: Ireland
@@ -3452,7 +3452,7 @@
         team: China 1
         country: China
 
-      - name: Sato Hirotaka
+      - name: Hirotaka Sato
         score: 33
         team: Japan Ninja
         country: Japan
@@ -3472,7 +3472,7 @@
         team: Russia 1
         country: Russia
 
-      - name: Isobel Voysey
+      - name: Isobel Alice Voysey
         score: 32
         team: UK East
         country: United Kingdom
@@ -3507,7 +3507,7 @@
         team: Czech Republic
         country: Czechia
 
-      - name: Lee Joonhak
+      - name: Joonhak Lee
         score: 30
         team: Korea 1
         country: Republic of Korea
@@ -3549,7 +3549,7 @@
         country: United States of America
         problem: 3
 
-      - name: Dan Mircea Mirea
+      - name: Dan-Mircea Mirea
         team: Romania
         country: Romania
         problem: 4
@@ -3825,7 +3825,7 @@
         team: Romania
         country: Romania
 
-      - name: Li Huihan
+      - name: Huihan Li
         score: 44
         team: China 1
         country: China
@@ -3835,7 +3835,7 @@
         team: Bulgaria 1
         country: Bulgaria
 
-      - name: Mazzag Bálint
+      - name: Bálint Mazzag
         score: 43
         team: Hungary 2
         country: Hungary
@@ -3921,7 +3921,7 @@
         team: Taiwan Blue Magpie
         country: Taiwan
 
-      - name: Diviki-Nagy Botond
+      - name: Botond Diviki-Nagy
         score: 36
         team: Hungary 2
         country: Hungary
@@ -3976,12 +3976,12 @@
         team: Japan Samurai
         country: Japan
 
-      - name: Souly Alexandra
+      - name: Alexandra Souly
         score: 32
         team: Hungary 1
         country: Hungary
 
-      - name: Liu Yuyang
+      - name: Yuyang Liu
         score: 32
         team: China 1
         country: China
@@ -4328,7 +4328,7 @@
         team: Bulgaria 1
         country: Bulgaria
 
-      - name: Matei Costin Banu
+      - name: Matei-Costin Banu
         score: 52
         team: Romania
         country: Romania
@@ -4818,7 +4818,7 @@
         team: UK U
         country: United Kingdom
 
-      - name: Vári-Kakas Andor
+      - name: Andor Vári-Kakas
         score: 47.65
         team: Hungary B
         country: Hungary
@@ -5249,7 +5249,7 @@
         team: China KUN
         country: China
 
-      - name: Kristian Terlien
+      - name: Kristian Santiago Terlien
         score: 60.25
         team: Netherlands Beter Als Jouw
         country: Netherlands
@@ -5265,7 +5265,7 @@
         team: Russia Strelka
         country: Russia
 
-      - name: Kövér Blanka 
+      - name: Blanka Kövér
         score: 58.9
         team: Hungary Teniszütő
         country: Hungary
@@ -5360,7 +5360,7 @@
         team: UK U
         country: United Kingdom
 
-      - name: Blaskovics Ákos 
+      - name: Ákos Blaskovics
         score: 50.45
         team: Hungary Teniszütő
         country: Hungary
@@ -5451,7 +5451,7 @@
         team: Korea Nieun
         country: Republic of Korea
 
-      - name: Árvay-Vass Iván 
+      - name: Árvay-Vass Iván
         score: 42.45
         team: Hungary Teniszütő
         country: Hungary
@@ -5501,7 +5501,7 @@
         team: Slovenia
         country: Slovenia
 
-      - name: Dobák Dániel 
+      - name: Dobák Dániel
         score: 40.05
         team: Hungary Uborka
         country: Hungary
@@ -6100,7 +6100,7 @@
         team: Japan Ninja
         country: Japan
 
-      - name: Hanna Egyházi
+      - name: Egyházi Hanna
         score: 32.5
         team: Hungary B
         country: Hungary
@@ -6377,7 +6377,7 @@
         team: USA Red
         country: United States of America
 
-      - name: Wojciech Szot 
+      - name: Wojciech Szot
         score: 54.5
         team: Poland Trzciny
         country: Poland
@@ -6594,7 +6594,7 @@
         country: Poland
 
       honorable_mention:
-      - name: Wong Jer Ren
+      - name: Jer Ren Wong
         score: 39.4
         team: Malaysia
         country: Malaysia
@@ -6664,7 +6664,7 @@
         team: Czechia
         country: Czechia
 
-      - name: Manoela Ferraz
+      - name: Manoela Erothildes Teleginski Ferraz
         score: 36.3
         team: Brazil Açaí
         country: Brazil
@@ -6749,7 +6749,7 @@
         team: Brazil Guaraná
         country: Brazil
 
-      - name: Yen Hsi Huang
+      - name: Yen-Hsi Huang
         score: 33.4
         team: Taiwan Blue Magpie
         country: Taiwan
@@ -7008,7 +7008,7 @@
         team: United Kingdom
         country: United Kingdom
 
-      - name: Matei Chirila
+      - name: Matei Chirilă
         score: 67
         team: Romania 1
         country: Romania
@@ -7214,7 +7214,7 @@
         team: Czechia
         country: Czechia
 
-      - name: Manoela Ferraz
+      - name: Manoela Erothildes Teleginski Ferraz
         score: 52
         team: Brazil Bem-te-vi
         country: Brazil
@@ -7225,7 +7225,7 @@
         country: Hungary
 
       honorable_mention:
-      - name: Hou Jen-Chien
+      - name: Jen-Chien Hou
         score: 50.5
         team: Taiwan Blue Magpie
         country: Taiwan
@@ -7295,7 +7295,7 @@
         team: India 1
         country: India
 
-      - name: Marvin Kessler
+      - name: Marvin Maximilian Kessler
         score: 46.5
         team: Switzerland Röstigrabe
         country: Switzerland
@@ -7655,7 +7655,7 @@
         team: China Kun
         country: China
 
-      - name: Felipe Moraes Barros
+      - name: Felipe Araújo Moraes Barros
         score: 50.5
         team: Brazil Îasy
         country: Brazil
@@ -8329,7 +8329,7 @@
         team: Bulgaria 2
         country: Bulgaria
 
-      - name: Austin Yang
+      - name: Austin Deng-Yao Yang
         score: 63.0
         team: Taiwan Blue Magpie
         country: Taiwan
@@ -8380,7 +8380,7 @@
         country: Poland
 
       honorable_mention:
-      - name: Heng Yutong
+      - name: Yutong Heng
         score: 60.0
         team: Singapore
         country: Singapore
@@ -8774,7 +8774,7 @@
         team: Australia Warrang
         country: Australia
 
-      - name: Felipe Moraes Barros
+      - name: Felipe Araújo Moraes Barros
         score: 68.7
         team: Brazil Rosa
         country: Brazil
@@ -9105,7 +9105,7 @@
         team: Korea Horangi
         country: Republic of Korea
 
-      - name: Gavriel Harvey
+      - name: Gavriel Soffran Harvey
         score: 45.8
         team: Switzerland Edelweiss
         country: Switzerland

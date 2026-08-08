@@ -458,7 +458,7 @@
           participants:
             - name: Seljan Sadigova
             - name: Raul Alekberli
-            - name: Banu Ibrahimli
+            - name: Banu İbrahimli
             - name: Rasul Mammadli
     - year: 2022
       teams:
@@ -526,7 +526,7 @@
       teams:
         - team: Brazil Itararé
           leaders:
-          - name: Bruno L'Astorina
+          - name: Bruno L’Astorina
           participants:
             - name: André Amaral de Sousa
             - name: Rafael Kazuhiro Miyazaki
@@ -537,7 +537,7 @@
           - name: Felipe Gonçalves Assis
           participants:
             - name: Ivan Tadeu Antunes Filho
-            - name: Marvin Ariel Dias Santos
+            - name: Marvin Ariel Dias dos Santos
             - name: Raphael Teixeira
     - year: 2012
       teams:
@@ -560,7 +560,7 @@
           participants:
             - name: Gabriel Alves da Silva Diniz
               medal: gold
-            - name: Marvin Ariel Dias Santos
+            - name: Marvin Ariel Dias dos Santos
             - name: Murilo Dória Guimarães
               medal: honorable mentions
             - name: André Navarro Barros
@@ -649,7 +649,7 @@
               medal: silver
             - name: Leonardo Paillo
               medal: honorable mentions
-            - name: Manoela Ferraz
+            - name: Manoela Erothildes Teleginski Ferraz
               medal: honorable mentions
             - name: Max Naigeborin
               medal: bronze
@@ -669,7 +669,7 @@
           leaders:
           - name: Rodrigo Pinto Tiradentes
           participants:
-            - name: Manoela Ferraz
+            - name: Manoela Erothildes Teleginski Ferraz
               medal: bronze
             - name: Leonardo Torres
               medal: gold
@@ -704,11 +704,11 @@
           leaders:
           - name: Rafaella Carvalho
           participants:
-            - name: Felipe Moraes Barros
+            - name: Felipe Araújo Moraes Barros
               medal: silver
             - name: Daiki Ando
             - name: Luisa Ramscheid Güntert
-            - name: Giovanna Longo
+            - name: Giovanna Maria Monteiro Longo
     - year: 2025
       teams:
         - team: Brazil Fêsãw
@@ -749,7 +749,7 @@
           - name: Eduardo Cardoso Martins
           participants:
             - name: Cauã Faria de Medeiros
-            - name: Felipe Moraes Barros
+            - name: Felipe Araújo Moraes Barros
               medal: silver
             - name: Julia Santiago de Oliveira
             - name: Levi O. Matias
@@ -771,11 +771,11 @@
     silver:
       - year: 2026
         team: Brazil Rosa
-        name: Felipe Moraes Barros
+        name: Felipe Araújo Moraes Barros
         score: 68.7
       - year: 2024
         team: Brazil Îasy
-        name: Felipe Moraes Barros
+        name: Felipe Araújo Moraes Barros
         score: 50.5
       - year: 2022
         team: Brazil Açaí
@@ -824,7 +824,7 @@
         score: 55
       - year: 2023
         team: Brazil Bem-te-vi
-        name: Manoela Ferraz
+        name: Manoela Erothildes Teleginski Ferraz
         score: 52
       - year: 2022
         team: Brazil Açaí
@@ -882,7 +882,7 @@
         score: 36.8
       - year: 2022
         team: Brazil Açaí
-        name: Manoela Ferraz
+        name: Manoela Erothildes Teleginski Ferraz
         score: 36.3
       - year: 2022
         team: Brazil Guaraná
@@ -2162,7 +2162,7 @@
       teams:
         - team: Canada
           leaders:
-          - name: Patrick Litell
+          - name: Patrick Littell
           participants:
             - name: Keunjae Go
             - name: Jordan Ho
@@ -2174,7 +2174,7 @@
       teams:
         - team: Canada
           leaders:
-          - name: Patrick Litell
+          - name: Patrick Littell
           participants:
             - name: Harry Go
               medal: honorable mentions
@@ -2185,7 +2185,7 @@
       teams:
         - team: Canada
           leaders:
-          - name: Patrick Litell
+          - name: Patrick Littell
           participants:
             - name: Janis Chang
             - name: Jordan Ho
@@ -2211,7 +2211,7 @@
       teams:
         - team: Canada
           leaders:
-          - name: Patrick Litell
+          - name: Patrick Littell
           participants:
             - name: Ben Zhang
               medal: honorable mentions
@@ -2660,7 +2660,7 @@
             - name: Maya Janzen
             - name: Mingzhe Li
             - name: Jade Diwan
-            - name: Serine Shin
+            - name: Serine F Shin
     - year: 2025
       teams:
         - team: Canada Castors
@@ -2668,7 +2668,7 @@
           - name: Corinne P. Soucy
           participants:
             - name: Lillian Yamamura Gonçalves
-            - name: Serine Shin
+            - name: Serine F Shin
             - name: Felix Li
             - name: Charles Williamson
     - year: 2026
@@ -2780,9 +2780,9 @@
           leaders:
           - name: Jiang Yuqin
           participants:
-            - name: Li Huihan
+            - name: Huihan Li
               medal: bronze
-            - name: Liu Yuyang
+            - name: Yuyang Liu
               medal: honorable mentions
             - name: Wang Runze
               medal: bronze
@@ -2885,7 +2885,7 @@
       teams:
         - team: China Kun
           leaders:
-          - name: Liu Ye
+          - name: Ye Liu
           participants:
             - name: Li Jiying
               medal: bronze
@@ -3088,7 +3088,7 @@
         score: 47
       - year: 2016
         team: China 1
-        name: Li Huihan
+        name: Huihan Li
         score: 44
       - year: 2014
         team: China 1
@@ -3162,7 +3162,7 @@
         score: 38
       - year: 2016
         team: China 1
-        name: Liu Yuyang
+        name: Yuyang Liu
         score: 32
       - year: 2015
         team: China 1
@@ -3757,7 +3757,7 @@
       teams:
         - team: Denmark
           leaders:
-          - name: Laurits Knudsen
+          - name: Laurits Stapput Knudsen
           participants:
             - name: Sofie Hesthaven Pultz
             - name: Benedikte Wulff
@@ -3838,7 +3838,7 @@
       teams:
         - team: Estonia 1
           leaders:
-          - name: Natalja Hartsenko
+          - name: Natalja Hartšenko
           participants:
             - name: Katre Annert
             - name: Sander Pajusalu
@@ -4566,7 +4566,7 @@
               medal: honorable mentions
             - name: Santina Kemper
             - name: Michał Boroń
-            - name: Jacqueline Guitu
+            - name: Jacqueline Maria Guitu
     - year: 2021
       teams:
         - team: Quietscheentchen
@@ -4930,7 +4930,7 @@
       teams:
         - team: Hong Kong EAT
           leaders:
-          - name: Vlad Neacșu
+          - name: Vlad A. Neacșu
           participants:
             - name: Ip Tsz Oi
               medal: silver
@@ -4944,7 +4944,7 @@
       teams:
         - team: Hong Kong, China
           leaders:
-          - name: Vlad Neacșu
+          - name: Vlad A. Neacșu
           participants:
             - name: Wong Tok Shing Henry
               medal: bronze
@@ -4956,7 +4956,7 @@
       teams:
         - team: Hong Kong, China
           leaders:
-          - name: Vlad Neacșu
+          - name: Vlad A. Neacșu
           participants:
             - name: Tam Lok Hang
               medal: gold
@@ -4969,7 +4969,7 @@
       teams:
         - team: Hong Kong, China
           leaders:
-          - name: Vlad Neacșu
+          - name: Vlad A. Neacșu
           - name: Ian Tam
           participants:
             - name: Wong Tok Shing Henry
@@ -5193,9 +5193,9 @@
       teams:
         - team: Hungary 1
           leaders:
-          - name: Gyözö Yang Zijian
+          - name: Győző Yang Zijian
           participants:
-            - name: Veronika Timar
+            - name: Veronika Tímár
               medal: honorable mentions
             - name: Anna Terez Szigyarto
             - name: Atilla Daniel Szabo
@@ -5205,7 +5205,7 @@
             - name: Kata Kosztolanyi
             - name: Adrienn Laczko
             - name: Peter Rossen
-            - name: Barna Soma Biro
+            - name: Barna Soma Bíró
     - year: 2015
       teams:
         - team: Hungary 1
@@ -5232,18 +5232,18 @@
           - name: Győző Yang Zijian
           participants:
             - name: Balázs Ákos
-            - name: Souly Alexandra
+            - name: Alexandra Souly
               medal: honorable mentions
-            - name: Tímár Veronika
+            - name: Veronika Tímár
             - name: Ugrin Bálint József
         - team: Hungary 2
           leaders:
           - name: Judit Vértes
           participants:
-            - name: Bíró Barna Soma
-            - name: Diviki-Nagy Botond
+            - name: Barna Soma Bíró
+            - name: Botond Diviki-Nagy
               medal: honorable mentions
-            - name: Mazzag Bálint
+            - name: Bálint Mazzag
               medal: bronze
             - name: Vékássy Áron
     - year: 2017
@@ -5252,7 +5252,7 @@
           leaders:
           - name: Judit Vértes
           participants:
-            - name: Ákos Balázs
+            - name: Balázs Ákos
             - name: Alexandra Souly
               medal: honorable mentions
             - name: Botond Diviki-Nagy
@@ -5282,10 +5282,10 @@
           leaders:
           - name: Bálint Mazzag
           participants:
-            - name: Blaskovics Ákos
+            - name: Ákos Blaskovics
             - name: Hunyadi Marcell
-            - name: Probojcsevity Lili
-            - name: Vári-Kakas Andor
+            - name: Lili Probojcsevity
+            - name: Andor Vári-Kakas
               medal: bronze
     - year: 2019
       teams:
@@ -5293,22 +5293,22 @@
           leaders:
           - name: Bálint Mazzag
           participants:
-            - name: Árvay-Vass Iván 
+            - name: Árvay-Vass Iván
               medal: honorable mentions
-            - name: Egyházi Hanna 
-            - name: Kövér Blanka 
+            - name: Egyházi Hanna
+            - name: Blanka Kövér
               medal: bronze
-            - name: Blaskovics Ákos 
+            - name: Ákos Blaskovics
               medal: bronze
         - team: Hungary Uborka
           leaders:
           - name: Veronika Tímár
           - name: János Egressy
           participants:
-            - name: Vári-Kakas Andor
-            - name: Alexy Milán 
-            - name: Urszuly Csenge 
-            - name: Dobák Dániel 
+            - name: Andor Vári-Kakas
+            - name: Alexy Milán
+            - name: Urszuly Csenge
+            - name: Dobák Dániel
               medal: honorable mentions
     - year: 2021
       teams:
@@ -5323,11 +5323,11 @@
               medal: silver
         - team: Hungary B
           leaders:
-          - name: Bálint József Ugrin
+          - name: Ugrin Bálint József
           participants:
             - name: Blanka Kövér
               medal: honorable mentions
-            - name: Hanna Egyházi
+            - name: Egyházi Hanna
               medal: honorable mentions
             - name: Kristóf Lévay
             - name: Lili Probojcsevity
@@ -5342,8 +5342,8 @@
               medal: bronze
             - name: Egyházi Hanna
               medal: bronze
-            - name: Skrabák Boglárka
-            - name: Virág Máté Gergely
+            - name: Boglárka Skrabák
+            - name: Máté Gergely Virág
         - team: Hungary Uborka
           leaders:
           - name: Ákos Blaskovics
@@ -5360,10 +5360,10 @@
           - name: János Egressy
           participants:
             - name: Tóth Balázs
-            - name: Leiszter Flóra
+            - name: Flóra Leiszter
             - name: Bognár András Károly
               medal: bronze
-            - name: Virág Máté Gergely
+            - name: Máté Gergely Virág
         - team: Hungary Uborka
           leaders:
           - name: Ákos Blaskovics
@@ -5372,7 +5372,7 @@
             - name: Benjamin Móricz
               medal: silver
             - name: Vilmos Molnár-Szabó
-            - name: Hegedűs Júlia
+            - name: Júlia Hegedűs
     - year: 2024
       teams:
         - team: Hungary Teniszütő
@@ -5495,15 +5495,15 @@
         score: 46.7
       - year: 2019
         team: Hungary Teniszütő
-        name: Kövér Blanka 
+        name: Blanka Kövér
         score: 58.9
       - year: 2019
         team: Hungary Teniszütő
-        name: Blaskovics Ákos 
+        name: Ákos Blaskovics
         score: 50.45
       - year: 2018
         team: Hungary B
-        name: Vári-Kakas Andor
+        name: Andor Vári-Kakas
         score: 47.65
       - year: 2018
         team: Hungary A
@@ -5511,7 +5511,7 @@
         score: 47.5
       - year: 2016
         team: Hungary 2
-        name: Mazzag Bálint
+        name: Bálint Mazzag
         score: 43
       - year: 2015
         team: Hungary 2
@@ -5545,15 +5545,15 @@
         score: 36.9
       - year: 2021
         team: Hungary B
-        name: Hanna Egyházi
+        name: Egyházi Hanna
         score: 32.5
       - year: 2019
         team: Hungary Teniszütő
-        name: Árvay-Vass Iván 
+        name: Árvay-Vass Iván
         score: 42.45
       - year: 2019
         team: Hungary Uborka
-        name: Dobák Dániel 
+        name: Dobák Dániel
         score: 40.05
       - year: 2017
         team: Hungary 1
@@ -5565,15 +5565,15 @@
         score: 42
       - year: 2016
         team: Hungary 2
-        name: Diviki-Nagy Botond
+        name: Botond Diviki-Nagy
         score: 36
       - year: 2016
         team: Hungary 1
-        name: Souly Alexandra
+        name: Alexandra Souly
         score: 32
       - year: 2014
         team: Hungary 1
-        name: Veronika Timar
+        name: Veronika Tímár
         score: 35
       - year: 2013
         team: Hungary
@@ -5707,7 +5707,7 @@
             - name: Shinjini Ghosh
         - team: India Saffron
           leaders:
-          - name: Sesh Sadasivam
+          - name: Sesh Raghav Sadasivam
           participants:
             - name: Aalok Sathe
               medal: bronze
@@ -6315,7 +6315,7 @@
           participants:
             - name: Ethan Hamman
             - name: Niamh Lynch
-            - name: Luke Gardiner
+            - name: Luke Adrian Gardiner
               medal: bronze
             - name: Shmuel Barron
     - year: 2016
@@ -6344,11 +6344,11 @@
             - name: Tom McAlinden
         - team: Ireland 2
           leaders:
-          - name: Luke Gardiner
+          - name: Luke Adrian Gardiner
           participants:
             - name: Cian O'Hara
             - name: Daniel Quigley
-            - name: Padraig Sheehy
+            - name: Pádraig Sheehy
             - name: Tristan l'Anson-Sparks
     - year: 2018
       teams:
@@ -6463,7 +6463,7 @@
         score: 47
       - year: 2015
         team: Ireland
-        name: Luke Gardiner
+        name: Luke Adrian Gardiner
         score: 41
   honorable_mentions:
     honorable_mention:
@@ -6569,7 +6569,7 @@
           participants:
             - name: Alice Lowden
             - name: Catriona Dorrian
-            - name: Harriet Godby
+            - name: Harriet Ruth Godby
             - name: Siddique Hassan Hameed Sulthan
         - team: Isle of Man 2
           leaders:
@@ -6578,7 +6578,7 @@
             - name: Emily Elizabeth Gray
             - name: Georgina Louise Coates
             - name: Michael Bonham
-            - name: Seth Aycock
+            - name: Seth Josiah Solomon Aycock
     - year: 2018
       teams:
         - team: Ellan Vannin 
@@ -6586,7 +6586,7 @@
           - name: Peter Crellin
           participants:
             - name: George Coleridge Boles
-            - name: Emily Gray
+            - name: Emily Elizabeth Gray
             - name: Nathan Harmer
             - name: Alice Lowdon
     - year: 2019
@@ -6597,7 +6597,7 @@
           - name: Erin McNulty
           participants:
             - name: Asia Hall
-            - name: Emily Gray
+            - name: Emily Elizabeth Gray
             - name: Nathan Harmer
             - name: Alex Reece
     - year: 2021
@@ -6644,7 +6644,7 @@
           participants:
             - name: Bethany Mcgreevy
             - name: Florence Barber
-            - name: Jerry Yao
+            - name: Jerry Haotian Yao
             - name: Oscar Bovenizer
     - year: 2025
       teams:
@@ -6659,7 +6659,7 @@
       teams:
         - team: Isle of Man
           leaders:
-          - name: Sarah Harris
+          - name: Sarah Rose Harris
           participants:
             - name: John Brodair Millar
   summary_1: Isle of Man first competed in the IOL in 2013, and has competed in 12 olympiads. They most recently competed in 2026.
@@ -6773,10 +6773,10 @@
           leaders:
           - name: Zyun Iida
           participants:
-            - name: Nishiyama Naoki
+            - name: Naoki Nishiyama
               medal: honorable mentions
             - name: Hirotaka Sato
-            - name: SEKI RYO
+            - name: Ryo Seki
             - name: Tanabe Yuka
         - team: Japan 2
           participants:
@@ -6796,7 +6796,7 @@
             - name: Utena Mori
             - name: Naoki Nishiyama
               medal: bronze
-            - name: Sato Hirotaka
+            - name: Hirotaka Sato
               medal: honorable mentions
         - team: Japan Samurai
           leaders:
@@ -7255,11 +7255,11 @@
         score: 37
       - year: 2015
         team: Japan Ninja
-        name: Sato Hirotaka
+        name: Hirotaka Sato
         score: 33
       - year: 2014
         team: Japan 1
-        name: Nishiyama Naoki
+        name: Naoki Nishiyama
         score: 36
       - year: 2012
         team: Japan
@@ -7695,8 +7695,8 @@
           participants:
             - name: Timurs Davilovs
               medal: bronze
-            - name: Šonita Korolova
-            - name: Andris Karlis Straupenieks-Brancis
+            - name: Šonita Koroļova
+            - name: Andris Kārlis Straupenieks-Brancis
             - name: Irina Česnokova
               medal: bronze
     - year: 2016
@@ -8082,7 +8082,7 @@
           leaders:
           - name: Balqis Amalina Mat Hasan
           participants:
-            - name: Go Jun Xing
+            - name: Jun Xing Go
             - name: Ong Jiaqing
             - name: Michelle Ong Shu Tian
             - name: Muhammad Akmal Mirza Shamsuri
@@ -8090,7 +8090,7 @@
           leaders:
           - name: Khairul Anwar bin Mohamad Zaki
           participants:
-            - name: Ooi Zhe Ren
+            - name: Zhe Ren Ooi
             - name: Vee Hua Zhi
             - name: Wong Jer Han
             - name: Yeoh Zi Song
@@ -8124,7 +8124,7 @@
             - name: Chew Jia Sheng
             - name: Mia Tan Li Shen
             - name: Muhammad Hafizuddin Akhtar Mohd Zainal Abidin
-            - name: Wong Jer Ren
+            - name: Jer Ren Wong
               medal: honorable mentions
     - year: 2023
       teams:
@@ -8200,7 +8200,7 @@
         score: 45
       - year: 2022
         team: Malaysia
-        name: Wong Jer Ren
+        name: Jer Ren Wong
         score: 39.4
   team_contest_winners:
     bronze:
@@ -8284,7 +8284,7 @@
           leaders:
           - name: Tatiana Bologan
           participants:
-            - name: Jelihovschi Alexandra
+            - name: Alexandra Jelihovschi
             - name: Draguțan Mirela
             - name: Sîrbu Cristian
             - name: Andrea Ghimpu
@@ -8487,9 +8487,9 @@
           participants:
             - name: Olivier Paauw
               medal: honorable mentions
-            - name: Ignace Schoot 
+            - name: Ignace Schoot
               medal: honorable mentions
-            - name: Fenno Noij 
+            - name: Fenno Noij
               medal: honorable mentions
             - name: Ellen Sinot
               medal: bronze
@@ -8587,7 +8587,7 @@
           - name: Lorenzo Oechies
           participants:
             - name: Martin Lelarge
-            - name: Kristian Terlien
+            - name: Kristian Santiago Terlien
               medal: silver
             - name: Roman Shabanov
               medal: honorable mentions
@@ -8597,7 +8597,7 @@
       teams:
         - team: Netherlands Friet
           leaders:
-          - name: Melle Groen
+          - name: Melle Meindert Groen
           participants:
             - name: Maud De Wit
               medal: honorable mentions
@@ -8618,9 +8618,9 @@
       teams:
         - team: Netherlands
           leaders:
-          - name: Melle Groen
+          - name: Melle Meindert Groen
           participants:
-            - name: Fiona Haarbrink
+            - name: Fiona Elizabeth Haarbrink
             - name: Pepijn Neger
               medal: honorable mentions
             - name: Pjotr Vugts
@@ -8629,7 +8629,7 @@
       teams:
         - team: Netherlands
           leaders:
-          - name: Melle Groen
+          - name: Melle Meindert Groen
           participants:
             - name: Tobias
             - name: Fiona
@@ -8641,10 +8641,10 @@
           leaders:
           - name: Charlotte Wennekes
           participants:
-            - name: Fiona Haarbrink
+            - name: Fiona Elizabeth Haarbrink
             - name: Rens Van Haaster
             - name: Matthijs Tang
-            - name: Andries Zijlstra
+            - name: Andries Malcher Faial Zijlstra
     - year: 2025
       teams:
         - team: Netherlands Kaashamsters
@@ -8686,7 +8686,7 @@
         score: 47.5
       - year: 2019
         team: Netherlands Beter Als Jouw
-        name: Kristian Terlien
+        name: Kristian Santiago Terlien
         score: 60.25
       - year: 2003
         team: Netherlands
@@ -8765,11 +8765,11 @@
         score: 66
       - year: 2010
         team: Netherlands
-        name: Ignace Schoot 
+        name: Ignace Schoot
         score: 60
       - year: 2010
         team: Netherlands
-        name: Fenno Noij 
+        name: Fenno Noij
         score: 59
       - year: 2009
         team: Netherlands
@@ -8922,10 +8922,10 @@
           - name: Maria Victorina Rada
           - name: Emerita Danac
           participants:
-            - name: Sandrene Rylie Sy
-            - name: Rainier Roi Tayam
+            - name: Sandrene Rylie Dy Sy
+            - name: Rainier Roi B. Tayam
             - name: Erika Fiel Danac
-            - name: Maddigan Hailey Sy
+            - name: Maddigan Hailey D. Sy
     - year: 2025
       teams:
         - team: Philippines Magiting
@@ -9341,7 +9341,7 @@
               medal: honorable mentions
             - name: Kris Giglok
               medal: honorable mentions
-            - name: Wojciech Szot 
+            - name: Wojciech Szot
               medal: silver
         - team: Poland Źdźbła
           leaders:
@@ -9528,7 +9528,7 @@
         score: 62.5
       - year: 2022
         team: Poland Trzciny
-        name: Wojciech Szot 
+        name: Wojciech Szot
         score: 54.5
       - year: 2022
         team: Poland Trzciny
@@ -10018,7 +10018,7 @@
   summary_1: Poland first competed in the IOL in 2004, and has competed in 22 olympiads. They most recently competed in 2026.
   summary_2: They have sent 169 participants in 43 teams.
   summary_3: In competition, teams from Poland have brought home 68 medals (14 gold, 29 silver and 25 bronze), 8 trophies (2 silver and 6 bronze), 14 best-solution prizes, 45 honorable mentions and 3 team contest honorable mentions.
-  summary_4: In addition, Poland has sent 9 Repeat Medalists and 2 Dream Teams
+  summary_4: In addition, Poland has sent 10 Repeat Medalists and 2 Dream Teams
 
 - iol_code: KOR
   iol_name: Republic of Korea
@@ -10052,7 +10052,7 @@
               medal: bronze
             - name: Hye jin Ryu
               medal: bronze
-            - name: Tae gyung Eom
+            - name: Tae Gyung Eom
             - name: Sookyo Jeong
         - team: Korea 2
           leaders:
@@ -10168,7 +10168,7 @@
           leaders:
           - name: Taegil Kwon
           participants:
-            - name: Lee Joonhak
+            - name: Joonhak Lee
               medal: honorable mentions
             - name: Kim Nayeong
             - name: Cho Ahram
@@ -10248,7 +10248,7 @@
       teams:
         - team: Korea Giyeok
           leaders:
-          - name: DongGyu Kim
+          - name: Donggyu Kim
           participants:
             - name: Sunwoo Kang
             - name: Haenaem Oh
@@ -10637,7 +10637,7 @@
         score: 31
       - year: 2015
         team: Korea 1
-        name: Lee Joonhak
+        name: Joonhak Lee
         score: 30
       - year: 2015
         team: Korea 1
@@ -10767,13 +10767,13 @@
           leaders:
           - name: Roxana-Magdalena Dincă
           participants:
-            - name: Dan Mircea Mirea
+            - name: Dan-Mircea Mirea
               medal: gold
             - name: Vlad-Andrei Neacşu
               medal: honorable mentions
             - name: Iulia Marinescu
               medal: honorable mentions
-            - name: Ioana Bouroş
+            - name: Ioana Bouroș
     - year: 2015
       teams:
         - team: Romania
@@ -10782,8 +10782,8 @@
           participants:
             - name: Teodora-Elena Solovan
               medal: silver
-            - name: Vlad Neacșu
-            - name: Dan Mircea Mirea
+            - name: Vlad A. Neacșu
+            - name: Dan-Mircea Mirea
               medal: silver
             - name: Denisa Apetroaiei
     - year: 2016
@@ -10807,7 +10807,7 @@
           participants:
             - name: Emilian Toma
               medal: bronze
-            - name: Matei Costin Banu
+            - name: Matei-Costin Banu
               medal: bronze
             - name: Ștefan Răzvan Bălăucă
               medal: bronze
@@ -10874,7 +10874,7 @@
               medal: silver
             - name: Andrei-Cristian Nedelea-Bolboacă
               medal: honorable mentions
-            - name: Matei Chirila
+            - name: Matei Chirilă
               medal: silver
         - team: Romania 2
           leaders:
@@ -10904,7 +10904,7 @@
         - team: Romania 2
           leaders:
           - name: Robert-Paul Helmer
-          - name: Mihai Alexandru Bratu
+          - name: Mihai-Alexandru Bratu
           participants:
             - name: Luiza-Teodora Mihai
               medal: gold
@@ -10994,7 +10994,7 @@
         score: 75
       - year: 2014
         team: Romania
-        name: Dan Mircea Mirea
+        name: Dan-Mircea Mirea
         score: 63
     silver:
       - year: 2026
@@ -11043,7 +11043,7 @@
         score: 76
       - year: 2023
         team: Romania 1
-        name: Matei Chirila
+        name: Matei Chirilă
         score: 67
       - year: 2022
         team: Romania
@@ -11055,7 +11055,7 @@
         score: 64
       - year: 2015
         team: Romania
-        name: Dan Mircea Mirea
+        name: Dan-Mircea Mirea
         score: 50
       - year: 2015
         team: Romania
@@ -11128,7 +11128,7 @@
         score: 52.2
       - year: 2017
         team: Romania
-        name: Matei Costin Banu
+        name: Matei-Costin Banu
         score: 52
       - year: 2016
         team: Romania
@@ -11204,16 +11204,16 @@
         problem: 1
       - year: 2015
         team: Romania
-        name: Dan Mircea Mirea
+        name: Dan-Mircea Mirea
         problem: 4
       - year: 2014
         team: Romania
-        name: Dan Mircea Mirea
+        name: Dan-Mircea Mirea
         problem: 2
   summary_1: Romania first competed in the IOL in 2005, and has competed in 15 olympiads. They most recently competed in 2026.
   summary_2: They have sent 75 participants in 19 teams.
   summary_3: In competition, teams from Romania have brought home 41 medals (7 gold, 16 silver and 18 bronze), 4 best-solution prizes, 11 honorable mentions and 2 team contest honorable mentions.
-  summary_4: In addition, Romania has sent 10 Repeat Medalists and 2 Dream Teams
+  summary_4: In addition, Romania has sent 12 Repeat Medalists and 2 Dream Teams
 
 - iol_code: RUS
   iol_name: Russia
@@ -12550,7 +12550,7 @@
               medal: bronze
             - name: Ariel Joshua Lau
               medal: honorable mentions
-            - name: Heng Yutong
+            - name: Yutong Heng
               medal: honorable mentions
             - name: Cheng Dylan Shiying
               medal: silver
@@ -12627,7 +12627,7 @@
         score: 39.5
       - year: 2025
         team: Singapore
-        name: Heng Yutong
+        name: Yutong Heng
         score: 60.0
       - year: 2025
         team: Singapore
@@ -13131,7 +13131,7 @@
             - name: Andrea Briones Fernandez
             - name: Alejandro Buyolo Aguilera
             - name: Jose Maria Coves Beneyto
-            - name: Eduardo Garcia Padilla
+            - name: Eduardo García Padilla
     - year: 2015
       teams:
         - team: Spain
@@ -13326,7 +13326,7 @@
       teams:
         - team: Sweden Blue
           leaders:
-          - name: Jacob Lagerros
+          - name: Jacob Benjamin Karlsson Lagerros
           participants:
             - name: Sarah Tovatt
             - name: Walter Berggren
@@ -13339,7 +13339,7 @@
             - name: Daniel Wright
             - name: Åke Andersson
             - name: Elin Hjertberg
-            - name: Åke Wettergren
+            - name: Åke Mattias Wettergren
     - year: 2016
       teams:
         - team: Sweden
@@ -13363,11 +13363,11 @@
             - name: David Avellan-Hultman
             - name: Emil Ingelsten
               medal: bronze
-            - name: Marika Rostvall
+            - name: Marika Elisabeth Rostvall
             - name: Miranda Carlsson
         - team: Sweden Gul
           leaders:
-          - name: Amanda Kann
+          - name: Amanda Elon Kann
           participants:
             - name: Karin Larsson
             - name: Magnus Davidsson
@@ -13378,7 +13378,7 @@
       teams:
         - team: Sverige Blå
           leaders:
-          - name: Amanda Kann
+          - name: Amanda Elon Kann
           participants:
             - name: David Avellan-Hultman
               medal: bronze
@@ -13399,7 +13399,7 @@
       teams:
         - team: Sweden Blå
           leaders:
-          - name: Amanda Kann
+          - name: Amanda Elon Kann
           participants:
             - name: Carl Westerlund
             - name: Joel Redner
@@ -13409,7 +13409,7 @@
           leaders:
           - name: Åke Mattias Wettergren
           participants:
-            - name: Joakim Colpier
+            - name: Joakim Axel Cedric Colpier
             - name: Fredrik Ekholm
             - name: Anna-Lisa Rathsman
             - name: Nathan Carlshamre
@@ -13417,7 +13417,7 @@
       teams:
         - team: Sweden Blå
           leaders:
-          - name: Amanda Kann
+          - name: Amanda Elon Kann
           participants:
             - name: Fredrik Ahlberg
             - name: Axel Åslin
@@ -13471,7 +13471,7 @@
       teams:
         - team: Sweden Mård
           leaders:
-          - name: Louise Malm
+          - name: Louise Elsie Cecilia Malm
           participants:
             - name: William Eriksson
             - name: Markus Farnebäck
@@ -13486,7 +13486,7 @@
             - name: Elvin Runeson
               medal: honorable mentions
             - name: Elisabet Xie
-            - name: Jacob Strömgård
+            - name: Jacob William Strömgård
     - year: 2025
       teams:
         - team: Sweden Älg
@@ -13512,7 +13512,7 @@
             - name: Siri Tiger Armelius
         - team: Sweden Älg
           leaders:
-          - name: Louise Malm
+          - name: Louise Elsie Cecilia Malm
           participants:
             - name: Alba Bårström
             - name: Casper De Ranter
@@ -13664,7 +13664,7 @@
           participants:
             - name: Chantal Bichsel
             - name: Kristian Suntev
-            - name: Luca Charlier
+            - name: Luca Seth Charlier
             - name: Sinan Deveci
     - year: 2023
       teams:
@@ -13675,7 +13675,7 @@
             - name: Luca Seth Charlier
             - name: Enea Rosenthal
             - name: Cohen Herzig
-            - name: Marvin Kessler
+            - name: Marvin Maximilian Kessler
               medal: honorable mentions
         - team: Switzerland Rüeblichueche
           leaders:
@@ -13694,7 +13694,7 @@
           participants:
             - name: Sofia Lundgren
             - name: Dana Niederhäuser
-            - name: Gavriel Harvey
+            - name: Gavriel Soffran Harvey
             - name: Hanna Balmer
     - year: 2025
       teams:
@@ -13723,7 +13723,7 @@
           - name: Tatiana Samrowski
           participants:
             - name: Elihu Yann Bao
-            - name: Gavriel Harvey
+            - name: Gavriel Soffran Harvey
               medal: bronze
             - name: Hanna Balmer
             - name: Vincent Julius Von Planta
@@ -13746,7 +13746,7 @@
     bronze:
       - year: 2026
         team: Switzerland Edelweiss
-        name: Gavriel Harvey
+        name: Gavriel Soffran Harvey
         score: 45.8
   honorable_mentions:
     honorable_mention:
@@ -13768,7 +13768,7 @@
         score: 47
       - year: 2023
         team: Switzerland Röstigrabe
-        name: Marvin Kessler
+        name: Marvin Maximilian Kessler
         score: 46.5
   summary_1: Switzerland first competed in the IOL in 2022, and has competed in 5 olympiads. They most recently competed in 2026.
   summary_2: They have sent 36 participants in 9 teams.
@@ -13789,7 +13789,7 @@
           leaders:
           - name: Anthony Yen
           participants:
-            - name: Isabelle Yen
+            - name: Isabelle Lee Yen
     - year: 2015
       teams:
         - team: Taiwan
@@ -13826,7 +13826,7 @@
           - name: Shu-Kai Hsieh
           participants:
             - name: Ri-Sheng Huang
-            - name: Robin Young
+            - name: Robin Alexander Young
             - name: Willie Jeng
               medal: honorable mentions
             - name: Yao, Yung-Jui
@@ -13841,7 +13841,7 @@
               medal: honorable mentions
             - name: Ruei Hung Alex Lee
               medal: gold
-            - name: Tseng Yuan
+            - name: Yuan Tseng
     - year: 2018
       teams:
         - team: Taiwan Earthquake
@@ -13933,7 +13933,7 @@
             - name: Chien Chih Lin
             - name: Ching Chao Ma
               medal: honorable mentions
-            - name: Yen Hsi Huang
+            - name: Yen-Hsi Huang
               medal: honorable mentions
             - name: Zi Li Lien
     - year: 2023
@@ -13953,9 +13953,9 @@
           leaders:
           - name: Grace Kuo
           participants:
-            - name: Hou Jen-Chien
+            - name: Jen-Chien Hou
               medal: honorable mentions
-            - name: Wang Cheng-Kai
+            - name: Cheng-Kai Wang
             - name: Chung Chi-En
               medal: bronze
             - name: Po-Hsiang Wang
@@ -14007,7 +14007,7 @@
               medal: honorable mentions
             - name: Yu-Chiao Liao
               medal: bronze
-            - name: Austin Yang
+            - name: Austin Deng-Yao Yang
               medal: bronze
     - year: 2026
       teams:
@@ -14141,7 +14141,7 @@
         score: 66.0
       - year: 2025
         team: Taiwan Blue Magpie
-        name: Austin Yang
+        name: Austin Deng-Yao Yang
         score: 63.0
       - year: 2025
         team: Taiwan Blue Magpie
@@ -14215,7 +14215,7 @@
         score: 39
       - year: 2023
         team: Taiwan Blue Magpie
-        name: Hou Jen-Chien
+        name: Jen-Chien Hou
         score: 50.5
       - year: 2022
         team: Taiwan Blue Magpie
@@ -14227,7 +14227,7 @@
         score: 35
       - year: 2022
         team: Taiwan Blue Magpie
-        name: Yen Hsi Huang
+        name: Yen-Hsi Huang
         score: 33.4
       - year: 2021
         team: Taiwan Red Cypress
@@ -14964,7 +14964,7 @@
           leaders:
           - name: Neil Sheldon
           participants:
-            - name: Younus Porteous 
+            - name: Younus Porteous
               medal: bronze
             - name: Craig Bohrson
               medal: honorable mentions
@@ -14974,7 +14974,7 @@
           participants:
             - name: Carl Rietschel
               medal: honorable mentions
-            - name: Nathan Somers
+            - name: Nathan Takeru Matsuo Somers
             - name: Sarah O'Keeffe
             - name: Helen Hambling
     - year: 2011
@@ -15007,7 +15007,7 @@
       teams:
         - team: UK North
           leaders:
-          - name: Nathan Somers
+          - name: Nathan Takeru Matsuo Somers
           participants:
             - name: Omri Faraggi
               medal: silver
@@ -15018,7 +15018,7 @@
               medal: honorable mentions
         - team: UK South
           leaders:
-          - name: Nathan Somers
+          - name: Nathan Takeru Matsuo Somers
           participants:
             - name: Daniel Pitt
               medal: honorable mentions
@@ -15031,9 +15031,9 @@
       teams:
         - team: UK
           leaders:
-          - name: Nathan Somers
+          - name: Nathan Takeru Matsuo Somers
           participants:
-            - name: Elysia Jane Warner
+            - name: Elysia Warner
               medal: gold
             - name: Alastair James Carr
               medal: honorable mentions
@@ -15048,13 +15048,13 @@
             - name: Naomi Solomons
               medal: bronze
             - name: Samuel Hosegood
-            - name: Isobel Voysey
+            - name: Isobel Alice Voysey
               medal: honorable mentions
             - name: Samuel Ahmed
               medal: gold
         - team: UK West
           leaders:
-          - name: Nathan Somers
+          - name: Nathan Takeru Matsuo Somers
           participants:
             - name: Anthony Bracey
               medal: silver
@@ -15359,7 +15359,7 @@
         score: 64
       - year: 2014
         team: UK
-        name: Elysia Jane Warner
+        name: Elysia Warner
         score: 65
     silver:
       - year: 2026
@@ -15505,7 +15505,7 @@
         score: 57
       - year: 2010
         team: UK 1
-        name: Younus Porteous 
+        name: Younus Porteous
         score: 69
       - year: 2009
         team: Great Britain
@@ -15559,7 +15559,7 @@
         score: 35
       - year: 2015
         team: UK East
-        name: Isobel Voysey
+        name: Isobel Alice Voysey
         score: 32
       - year: 2015
         team: UK West
@@ -15663,7 +15663,7 @@
         problem: 1
       - year: 2010
         team: UK 2
-        name: Nathan Somers
+        name: Nathan Takeru Matsuo Somers
         problem: 5
   summary_1: United Kingdom first competed in the IOL in 2009, and has competed in 17 olympiads. They most recently competed in 2026.
   summary_2: They have sent 108 participants in 27 teams.
@@ -15749,7 +15749,7 @@
         - team: USA Blue
           leaders:
           - name: Lori Levin
-          - name: Patrick Litell
+          - name: Patrick Littell
           participants:
             - name: Martin Camacho
               medal: silver
