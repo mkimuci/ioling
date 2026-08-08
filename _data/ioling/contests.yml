@@ -59,7 +59,7 @@
     chair: true
   - name: Aleksandrs Berdičevskis
   - name: Boris Iomdin
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Elena Muravenko
   - name: Ivan Derzhanski
   - name: Ksenia Gilyarova
@@ -152,7 +152,7 @@
     chair: true
   - name: Axel Jagau
   - name: Boris Iomdin
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Elena Muravenko
   - name: Ivan Derzhanski
   - name: Maria Rubinstein
@@ -178,7 +178,7 @@
   number_of_participants: 61
   title: International Olympiad in Theoretical, Mathematical and Applied Linguistics
   jury:
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
     chair: true
   - name: Aleksandrs Berdičevskis
   - name: Alexander Piperski
@@ -214,7 +214,7 @@
   - name: Alexander Piperski
   - name: Boris Iomdin
   - name: Bozhidar Bozhanov
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Ivaylo Grozdev
   - name: Ksenia Gilyarova
   - name: Maria Rubinstein
@@ -251,7 +251,7 @@
   - name: Alexei Nazarov
   - name: Boris Iomdin
   - name: Bozhidar Bozhanov
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Ivan Derzhanski
   - name: Ksenia Gilyarova
   - name: Liudmila Fedorova
@@ -259,7 +259,7 @@
   - name: Patrick Littell
   - name: Renate Pajusalu
   - name: Stanislav Gurevich
-  - name: Taehun Lee
+  - name: Tae Hun Lee
   organizing_committee:
   - name: Michał Śliwiński
     chair: true
@@ -284,7 +284,7 @@
   - name: Aleksandrs Berdičevskis
   - name: Boris Iomdin
   - name: Bozhidar Bozhanov
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Ivan Derzhanski
   - name: Ksenia Gilyarova
   - name: Liudmila Fedorova
@@ -362,8 +362,8 @@
   - name: Alexander Piperski
   - name: Artūrs Semeņuks
   - name: Boris Iomdin
-  - name: Bruno L'Astorina
-  - name: Dmitry Gerasimov
+  - name: Bruno L’Astorina
+  - name: Dmitri Gerasimov
   - name: Gabrijela Hladnik
   - name: Hugh Dobbs
   - name: Ksenia Gilyarova
@@ -406,13 +406,13 @@
   - name: Artūrs Semeņuks
   - name: Boris Iomdin
   - name: Bozhidar Bozhanov
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
-  - name: Gabriela Hladnik
+  - name: Dmitri Gerasimov
+  - name: Gabrijela Hladnik
   - name: Hugh Dobbs
   - name: Ivan Derzhanski
-  - name: Ksenia Guilyarova
+  - name: Ksenia Gilyarova
   - name: Maria Rubinstein
   - name: Pavel Sofroniev
   - name: Rosina Savisaar
@@ -478,11 +478,11 @@
   - name: Alexander Piperski
   - name: Boris Iomdin
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Gabrijela Hladnik
   - name: Hugh Dobbs
   - name: Ivan Derzhanski
-  - name: Ksenia Guiliarova
+  - name: Ksenia Gilyarova
   - name: Maria Rubinstein
   - name: Miina Norvik
   - name: Milena Veneva
@@ -533,10 +533,10 @@
   - name: Alexander Piperski
   - name: Artūrs Semeņuks
   - name: Bozhidar Bozhanov
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Daniel Rucki
   - name: Danylo Mysak
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Gabrijela Hladnik
   - name: Hugh Dobbs
   - name: Ivan Derzhanski
@@ -547,7 +547,7 @@
   - name: Milena Veneva
   - name: Pavel Sofroniev
   - name: Stanislav Gurevich
-  - name: Taehun Lee
+  - name: Tae Hun Lee
   - name: Yili
   organizing_committee:
   - name: Monojit Choudhury
@@ -619,21 +619,21 @@
   - name: Hugh Dobbs
     chair: true
   - name: Aleksejs Peguševs
-  - name: Aleksander Piperski
-  - name: Arturs Semenuks
+  - name: Alexander Piperski
+  - name: Artūrs Semeņuks
   - name: Boris Iomdin
   - name: Bozhidar Bozhanov
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Daniel Rucki
   - name: Danylo Mysak
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Gabrijela Hladnik
   - name: Ivan Derzhanski
   - name: Ksenia Gilyarova
   - name: Maria Rubinstein
   - name: Miina Norvik
   - name: Milena Veneva
-  - name: Nathan Somers
+  - name: Nathan Takeru Matsuo Somers
   - name: Pavel Sofroniev
   - name: Stanislav Gurevich
   - name: Tae Hun Lee
@@ -673,14 +673,14 @@
   - name: Maria Rubinstein
     chair: true
   - name: Tae Hun Lee
-  - name: Aleksander Piperski
+  - name: Alexander Piperski
   - name: Aleksejs Peguševs
-  - name: Andrey Nikulin
+  - name: André Nikulin
   - name: Bozhidar Bozhanov
   - name: Bruno L’Astorina
   - name: Boris Iomdin
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Gabrijela Hladnik
   - name: Hugh Dobbs
   - name: Ivan Derzhanski
@@ -742,13 +742,13 @@
   jury:
   - name: Tae Hun Lee
     chair: true
-  - name: Aleksandr Piperski
+  - name: Alexander Piperski
   - name: Aleksejs Peguševs
-  - name: Andrey Nikulin
+  - name: André Nikulin
   - name: Bruno L’Astorina
   - name: Boris Iomdin
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Elysia Warner
   - name: Gabrijela Hladnik
   - name: Hugh Dobbs
@@ -816,12 +816,12 @@
   - name: Aleksejs Peguševs
     chair: true
   - name: Alexander Piperski
-  - name: Andrey Nikulin
+  - name: André Nikulin
   - name: Boris Iomdin
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Dan-Mircea Mirea
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Eimear McKnight
   - name: Elysia Warner
   - name: Gabrijela Hladnik
@@ -835,7 +835,7 @@
   - name: Samuel Ahmed
   - name: Shinjini Ghosh
   - name: Stanislav Gurevich
-  - name: Takeru Matsuo
+  - name: Nathan Takeru Matsuo Somers
   - name: Tae Hun Lee
   - name: Tung-Le Pan
   organizing_committee:
@@ -865,9 +865,9 @@
   - name: Aleksejs Peguševs
   - name: Alexander Piperski
   - name: Boris Iomdin
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Dan-Mircea Mirea
-  - name: David Avellan-Hultman
+  - name: David Hultman
   - name: Daniel Rucki
   - name: Eimear McKnight
   - name: Elysia Warner
@@ -881,7 +881,7 @@
   - name: Przemysław Podleśny
   - name: Shinjini Ghosh
   - name: Stanislav Gurevich
-  - name: Takeru Matsuo
+  - name: Nathan Takeru Matsuo Somers
   - name: Tung-Le Pan
   organizing_committee:
   - name: Rob Teare
@@ -924,8 +924,8 @@
   - name: Bruno L’Astorina
   - name: Dan-Mircea Mirea
   - name: Daniel Rucki
-  - name: David Avellan-Hultman
-  - name: Dmitry Gerasimov
+  - name: David Hultman
+  - name: Dmitri Gerasimov
   - name: Eimear McKnight
   - name: Elysia Warner
   - name: Gabrijela Hladnik
@@ -984,14 +984,14 @@
   number_of_participants: 206
   title: International Linguistics Olympiad
   jury:
-  - name: Andrey Nikulin
+  - name: André Nikulin
     chair: true
   - name: Aleksejs Peguševs
   - name: Alexander Piperski
   - name: Boris Iomdin
   - name: Dan-Mircea Mirea
   - name: Daniel Rucki
-  - name: Dmitry Gerasimov
+  - name: Dmitri Gerasimov
   - name: Eimear McKnight
   - name: Elysia Warner
   - name: Hugh Dobbs
@@ -1003,7 +1003,7 @@
   - name: Przemysław Podleśny
   - name: Shinjini Ghosh
   - name: Stanislav Gurevich
-  - name: Taehun Lee
+  - name: Tae Hun Lee
   - name: Tung-Le Pan
   - name: Yuyang Liu
   organizing_committee:
@@ -1168,10 +1168,10 @@
   - name: Aleksejs Peguševs
   - name: Alexander Piperski
   - name: Ana Meta Dolinar
-  - name: Andrey Nikulin
+  - name: André Nikulin
   - name: Angela Hou
   - name: Boris Iomdin
-  - name: Bruno L'Astorina
+  - name: Bruno L’Astorina
   - name: Daniel Rucki
   - name: Eimear McKnight
   - name: Elysia Warner
@@ -1181,14 +1181,14 @@
   - name: Kazune Sato
   - name: Ksenia Gilyarova
   - name: Maria Rubinstein
-  - name: Mihai Alexandru Bratu
+  - name: Mihai-Alexandru Bratu
   - name: Milena Veneva
-  - name: Pan Tung-Le
+  - name: Tung-Le Pan
   - name: Przemysław Podleśny
   - name: Samuel Ahmed
   - name: Shinjini Ghosh
   - name: Stanislav Gurevich
-  - name: Taehun Lee
+  - name: Tae Hun Lee
   organizing_committee:
   - name: Robert-Paul Helmer
     chair: true
