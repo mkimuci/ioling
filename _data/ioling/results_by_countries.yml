@@ -536,7 +536,7 @@
           leaders:
           - name: Felipe Gonçalves Assis
           participants:
-            - name: Ivan Tadeu Antunes Filho
+            - name: Ivan Tadeu Ferreira Antunes Filho
             - name: Marvin Ariel Dias dos Santos
             - name: Raphael Teixeira
     - year: 2012
@@ -698,15 +698,15 @@
             - name: Paulo Portela
               medal: honorable mentions
             - name: Pedro Rocha
-            - name: João Guilherme Camilo
-            - name: Sócrates Souto
+            - name: João Guilherme Camilo Azevedo
+            - name: Sócrates Souto Nonino De Carvalho
         - team: Brazil Îasy
           leaders:
           - name: Rafaella Carvalho
           participants:
             - name: Felipe Araújo Moraes Barros
               medal: silver
-            - name: Daiki Ando
+            - name: Rafael Daiki Ando
             - name: Luisa Ramscheid Güntert
             - name: Giovanna Maria Monteiro Longo
     - year: 2025
@@ -2637,7 +2637,7 @@
           leaders:
           - name: Corinne P. Soucy
           participants:
-            - name: Bogdan Sava
+            - name: Bogdan-Alexandru Sava
             - name: Cédric Campeau
             - name: Isabella Zhang
             - name: Serine F Shin
@@ -2647,7 +2647,7 @@
           leaders:
           - name: Corinne P. Soucy
           participants:
-            - name: Bogdan Sava
+            - name: Bogdan-Alexandru Sava
             - name: Félix Von Veh
             - name: Nina Geng
             - name: Amelia Geng
@@ -3286,7 +3286,7 @@
           participants:
             - name: Margarita Carranza
             - name: Daniel Helo
-            - name: Esteban Mayorga
+            - name: Esteban Mayorga Durán
             - name: Mariana Feo
     - year: 2024
       teams:
@@ -3297,7 +3297,7 @@
             - name: Sofia Soto
             - name: Margarita Carranza
             - name: Maria Ramos
-            - name: Mariana Aguirre
+            - name: Mariana Aguirre Consuegra
     - year: 2025
       teams:
         - team: Colombia
@@ -3996,7 +3996,7 @@
           leaders:
           - name: Linda Freienthal
           participants:
-            - name: Roosmari Pihlak
+            - name: Roosmari Pihlak-Edgar
             - name: Ove Üllar Viesemann
               medal: honorable mentions
             - name: Anna Talas
@@ -4018,7 +4018,7 @@
           - name: Axel Jagau
           participants:
             - name: Anne-Mai Adamberg
-            - name: Roosmari Pihlak
+            - name: Roosmari Pihlak-Edgar
               medal: honorable mentions
             - name: Iris-Gertrud Jussila
             - name: Triine Teder
@@ -4216,7 +4216,7 @@
         score: 33.6
       - year: 2021
         team: Estonia 2
-        name: Roosmari Pihlak
+        name: Roosmari Pihlak-Edgar
         score: 33.1
       - year: 2019
         team: Estonia
@@ -4950,7 +4950,7 @@
               medal: bronze
             - name: Tam Lok Hang
               medal: silver
-            - name: Ryan Lo
+            - name: Lo Cheuk Yi Ryan
             - name: Samantha Yung
     - year: 2023
       teams:
@@ -5222,7 +5222,7 @@
           participants:
             - name: Botond Diviki-Nagy
             - name: Lili Fehértói-Nagy
-            - name: Bálint Ugrin
+            - name: Ugrin Bálint József
               medal: bronze
             - name: Viola Für
     - year: 2016
@@ -5259,7 +5259,7 @@
             - name: Réka Siró
         - team: Hungary 2
           leaders:
-          - name: Biró Soma
+          - name: Barna Soma Bíró
           participants:
             - name: Bálint Mazzag
               medal: honorable mentions
@@ -5515,7 +5515,7 @@
         score: 43
       - year: 2015
         team: Hungary 2
-        name: Bálint Ugrin
+        name: Ugrin Bálint József
         score: 46
   honorable_mentions:
     honorable_mention:
@@ -5596,7 +5596,7 @@
   summary_1: Hungary first competed in the IOL in 2012, and has competed in 14 olympiads. They most recently competed in 2026.
   summary_2: They have sent 104 participants in 26 teams.
   summary_3: In competition, teams from Hungary have brought home 19 medals (5 silver and 14 bronze), 1 bronze trophy, 2 best-solution prizes and 15 honorable mentions.
-  summary_4: In addition, Hungary has sent 2 Repeat Medalists
+  summary_4: In addition, Hungary has sent 3 Repeat Medalists
 
 - iol_code: IND
   iol_name: India
@@ -5642,7 +5642,7 @@
               medal: silver
             - name: Yash Sinha
               medal: bronze
-            - name: Surya Narayanan Hari 
+            - name: Surya Narayanan Hari
               medal: honorable mentions
             - name: Nishith Khandwala
     - year: 2013
@@ -5658,7 +5658,7 @@
               medal: bronze
             - name: Yash Sinha
               medal: silver
-            - name: Narayanan Surya
+            - name: Surya Narayanan Hari
     - year: 2014
       teams:
         - team: India
@@ -5882,7 +5882,7 @@
       teams:
         - team: India Green
           leaders:
-          - name: Faraz Ahmed
+          - name: Faraz Ahmed Siddiqui
           participants:
             - name: Aarav Anil Rao
               medal: bronze
@@ -6125,7 +6125,7 @@
         score: 42
       - year: 2012
         team: India
-        name: Surya Narayanan Hari 
+        name: Surya Narayanan Hari
         score: 44
       - year: 2011
         team: India
@@ -8142,7 +8142,7 @@
       teams:
         - team: Malaysia
           leaders:
-          - name: Deborah Chow
+          - name: Deborah Chow Yik Kuen
           participants:
             - name: Lim Ming Wen
             - name: Leang Kar Men
@@ -10796,7 +10796,7 @@
             - name: Gabriel-Cosmin Bolbotină
             - name: Ioana Bouroș
               medal: silver
-            - name: Paul Helmer
+            - name: Robert-Paul Helmer
             - name: Theodor Cucu
               medal: bronze
     - year: 2017
@@ -13271,7 +13271,7 @@
           - name: Kaityn Price
           participants:
             - name: Adam Alstermark
-            - name: Filippa Lindsten
+            - name: Filippa Frithz-Lindsten
             - name: Markus Gelfgren
             - name: Cornelia Damber
         - team: Sweden 2
@@ -13287,7 +13287,7 @@
           leaders:
           - name: Hedvig Skirgård
           participants:
-            - name: Lovisa Helmius
+            - name: Hedvig Lovisa Helmius
               medal: honorable mentions
             - name: Nils Emil Hössjer
             - name: Herman Jansson
@@ -13297,7 +13297,7 @@
           - name: Patrik Roos
           participants:
             - name: Filippa Frithz-Lindsten
-            - name: Jacob Karlsson Lagerros
+            - name: Jacob Benjamin Karlsson Lagerros
               medal: bronze
             - name: Linnea Källgren
             - name: Johanna Ström
@@ -13334,7 +13334,7 @@
             - name: Sanna Eklund
         - team: Sweden Yellow
           leaders:
-          - name: Filippa Frithz
+          - name: Filippa Frithz-Lindsten
           participants:
             - name: Daniel Wright
             - name: Åke Andersson
@@ -13344,7 +13344,7 @@
       teams:
         - team: Sweden
           leaders:
-          - name: Filippa Frithz
+          - name: Filippa Frithz-Lindsten
           - name: Åke Mattias Wettergren
           participants:
             - name: Amanda Elon Kann
@@ -13446,7 +13446,7 @@
           leaders:
           - name: Emil Ingelsten
           participants:
-            - name: Constantin Lidberg Dimos
+            - name: Carl Fredrik Constantin Lidberg Dimos
               medal: honorable mentions
             - name: David Norberg
             - name: Elisabet Xie
@@ -13476,7 +13476,7 @@
             - name: William Eriksson
             - name: Markus Farnebäck
             - name: Allan Ismail
-            - name: Moaaz Saad
+            - name: Moaaz Saad Mohamed
         - team: Sweden Älg
           leaders:
           - name: Emil Ingelsten
@@ -13503,7 +13503,7 @@
       teams:
         - team: Sweden Mård
           leaders:
-          - name: Constantin Lidberg Dimos
+          - name: Carl Fredrik Constantin Lidberg Dimos
           participants:
             - name: Ebbe Olsson Ljungblad
             - name: Martin Zhang
@@ -13573,7 +13573,7 @@
         score: 48
       - year: 2013
         team: Sweden Gul
-        name: Jacob Karlsson Lagerros
+        name: Jacob Benjamin Karlsson Lagerros
         score: 58
   honorable_mentions:
     honorable_mention:
@@ -13599,7 +13599,7 @@
         score: 37.7
       - year: 2022
         team: Sweden Gul
-        name: Constantin Lidberg Dimos
+        name: Carl Fredrik Constantin Lidberg Dimos
         score: 39.1
       - year: 2018
         team: Sverige Gul
@@ -13615,7 +13615,7 @@
         score: 33
       - year: 2013
         team: Sweden Blå
-        name: Lovisa Helmius
+        name: Hedvig Lovisa Helmius
         score: 43
       - year: 2010
         team: Sweden
@@ -15022,7 +15022,7 @@
           participants:
             - name: Daniel Pitt
               medal: honorable mentions
-            - name: Oliver Sayeed
+            - name: Oliver Henry Booker Sayeed
             - name: Theo Tindall
               medal: honorable mentions
             - name: Elysia Warner
