@@ -404,4 +404,13 @@ Contestants work in teams, which means that they are allowed to talk to up to 3 
 Teams are accommodated in their own room with an invigilator, who may be asked about toilet visits or questions about the problem set. The Jury will be walking around answering questions, similarly to the individual contest. The invigilator can call their attention or the attention of local organisers if needed.
 
 </details>
+
+<details markdown="1">
+<summary>I competed at the IOL in the past, but now I changed my name. Can I request it to be retrospectively updated on the IOL website?</summary>
+
+Yes, your name can be changed retrospectively. The easiest way to do so is to get in touch with your team leader or other representative of your national olympiad who knows you and will be able to confirm that the request is genuinely coming from you. They will then request the Webmaster to make this change.
+
+If for any reason you can't contact someone from your national olympiad, you can send your request to the [Ethics Committee](/ec/).
+
+</details>
 </div>
