@@ -85,6 +85,9 @@ The trophy has had 15 holders so far, as follows:
       <tr><td>IOL17</td> <td>2019</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/us.png" /> USA Red</td></tr>
       <tr><td>IOL18</td> <td>2021</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/hk.png" /> Hong Kong EAT</td></tr>
       <tr><td>IOL19</td> <td>2022</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/us.png" /> USA Red</td></tr>
+      <tr><td>IOL21</td> <td>2024</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/gb.png" /> United Kingdom</td></tr>
+      <tr><td>IOL22</td> <td>2025</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/gb.png" /> United Kingdom</td></tr>
+      <tr><td>IOL23</td> <td>2026</td> <td><img class="tinyflag" alt="Flag" src="/images/flags/ca.png" /> Canada Anglophone</td></tr>
   </tbody>
 </table> 
 
