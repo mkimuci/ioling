@@ -7,13 +7,13 @@ subheadline: "Upcoming Contest"
 widget:
   title: "Upcoming Contest"
   url: '/upcoming/'
-  image: bangkok2027.jpg
+  image: iol-2027.png
   image_credit: "Preecha.MJ, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
-  text: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027."
+  text: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad from July 21st to July 28th, 2027."
 title: "Bangkok 2027"
-teaser: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027."
+teaser: "<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad from July 21st to July 28th, 2027."
 image: 
-  title: bangkok2027.jpg
+  title: iol-2027.png
   credit: "Preecha.MJ, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 category: contests
 sitemap: false

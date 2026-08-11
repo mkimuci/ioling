@@ -10,9 +10,8 @@ header:
 widget3:
   title: "Bangkok 2027"
   url: '/upcoming/'
-  image: bangkok2027.jpg
-  image_credit: "Preecha.MJ, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
-  text: '<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad in 2027. You can find more information <a href="/upcoming">here</a>.'
+  image: iol-2027.png
+  text: '<b>Bangkok, Thailand</b> has been selected to host the 24th International Linguistics Olympiad from July 21st to July 28th, 2027. You can find more information <a href="/upcoming">here</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
