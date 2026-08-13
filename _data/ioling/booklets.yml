@@ -2750,3 +2750,235 @@
         filename: iol-2025-team-sol.ja.pdf
       - language: '한국어'
         filename: iol-2025-team-sol.ko.pdf
+
+- year: 2026
+  indiv:
+    prob:
+      - language: 'Deutsch'
+        filename: iol-2026-indiv-prob.de.pdf
+      - language: 'Eesti'
+        filename: iol-2026-indiv-prob.et.pdf
+      - language: 'English'
+        filename: iol-2026-indiv-prob.en.pdf
+      - language: 'English (US)'
+        filename: iol-2026-indiv-prob.us.pdf
+      - language: 'Español'
+        filename: iol-2026-indiv-prob.es.pdf
+      - language: 'Español (Colombia)'
+        filename: iol-2026-indiv-prob.ex.pdf
+      - language: 'Français'
+        filename: iol-2026-indiv-prob.fr.pdf
+      - language: 'Latviešu'
+        filename: iol-2026-indiv-prob.lv.pdf
+      - language: 'Magyar'
+        filename: iol-2026-indiv-prob.hu.pdf
+      - language: 'Nederlands'
+        filename: iol-2026-indiv-prob.nl.pdf
+      - language: 'Polski'
+        filename: iol-2026-indiv-prob.pl.pdf
+      - language: 'Português (Brasil)'
+        filename: iol-2026-indiv-prob.bl.pdf
+      - language: 'Română'
+        filename: iol-2026-indiv-prob.ro.pdf
+      - language: 'Slovenščina'
+        filename: iol-2026-indiv-prob.sl.pdf
+      - language: 'Suomi'
+        filename: iol-2026-indiv-prob.fi.pdf
+      - language: 'Svenska'
+        filename: iol-2026-indiv-prob.sv.pdf
+      - language: 'Türkçe'
+        filename: iol-2026-indiv-prob.tr.pdf
+      - language: 'Čeština'
+        filename: iol-2026-indiv-prob.cs.pdf
+      - language: 'Ελληνικά'
+        filename: iol-2026-indiv-prob.el.pdf
+      - language: 'Български'
+        filename: iol-2026-indiv-prob.bg.pdf
+      - language: 'Русский'
+        filename: iol-2026-indiv-prob.ru.pdf
+      - language: 'Українська'
+        filename: iol-2026-indiv-prob.uk.pdf
+      - language: 'Қазақша'
+        filename: iol-2026-indiv-prob.kk.pdf
+      - language: 'עברית'
+        filename: iol-2026-indiv-prob.he.pdf
+      - language: 'ไทย'
+        filename: iol-2026-indiv-prob.th.pdf
+      - language: '中文（简体）'
+        filename: iol-2026-indiv-prob.zh.pdf
+      - language: '中文（繁體）'
+        filename: iol-2026-indiv-prob.zt.pdf
+      - language: '日本語'
+        filename: iol-2026-indiv-prob.ja.pdf
+      - language: '한국어'
+        filename: iol-2026-indiv-prob.ko.pdf
+    sol:
+      - language: 'Deutsch'
+        filename: iol-2026-indiv-sol.de.pdf
+      - language: 'Eesti'
+        filename: iol-2026-indiv-sol.et.pdf
+      - language: 'English'
+        filename: iol-2026-indiv-sol.en.pdf
+      - language: 'English (US)'
+        filename: iol-2026-indiv-sol.us.pdf
+      - language: 'Español'
+        filename: iol-2026-indiv-sol.es.pdf
+      - language: 'Español (Colombia)'
+        filename: iol-2026-indiv-sol.ex.pdf
+      - language: 'Français'
+        filename: iol-2026-indiv-sol.fr.pdf
+      - language: 'Latviešu'
+        filename: iol-2026-indiv-sol.lv.pdf
+      - language: 'Magyar'
+        filename: iol-2026-indiv-sol.hu.pdf
+      - language: 'Nederlands'
+        filename: iol-2026-indiv-sol.nl.pdf
+      - language: 'Polski'
+        filename: iol-2026-indiv-sol.pl.pdf
+      - language: 'Português (Brasil)'
+        filename: iol-2026-indiv-sol.bl.pdf
+      - language: 'Română'
+        filename: iol-2026-indiv-sol.ro.pdf
+      - language: 'Slovenščina'
+        filename: iol-2026-indiv-sol.sl.pdf
+      - language: 'Suomi'
+        filename: iol-2026-indiv-sol.fi.pdf
+      - language: 'Svenska'
+        filename: iol-2026-indiv-sol.sv.pdf
+      - language: 'Türkçe'
+        filename: iol-2026-indiv-sol.tr.pdf
+      - language: 'Čeština'
+        filename: iol-2026-indiv-sol.cs.pdf
+      - language: 'Ελληνικά'
+        filename: iol-2026-indiv-sol.el.pdf
+      - language: 'Български'
+        filename: iol-2026-indiv-sol.bg.pdf
+      - language: 'Русский'
+        filename: iol-2026-indiv-sol.ru.pdf
+      - language: 'Українська'
+        filename: iol-2026-indiv-sol.uk.pdf
+      - language: 'Қазақша'
+        filename: iol-2026-indiv-sol.kk.pdf
+      - language: 'עברית'
+        filename: iol-2026-indiv-sol.he.pdf
+      - language: 'ไทย'
+        filename: iol-2026-indiv-sol.th.pdf
+      - language: '中文（简体）'
+        filename: iol-2026-indiv-sol.zh.pdf
+      - language: '中文（繁體）'
+        filename: iol-2026-indiv-sol.zt.pdf
+      - language: '日本語'
+        filename: iol-2026-indiv-sol.ja.pdf
+      - language: '한국어'
+        filename: iol-2026-indiv-sol.ko.pdf
+  team:
+    prob:
+      - language: 'Deutsch'
+        filename: iol-2026-team-prob.de.pdf
+      - language: 'Eesti'
+        filename: iol-2026-team-prob.et.pdf
+      - language: 'English'
+        filename: iol-2026-team-prob.en.pdf
+      - language: 'English (US)'
+        filename: iol-2026-team-prob.us.pdf
+      - language: 'Español'
+        filename: iol-2026-team-prob.es.pdf
+      - language: 'Español (Colombia)'
+        filename: iol-2026-team-prob.ex.pdf
+      - language: 'Français'
+        filename: iol-2026-team-prob.fr.pdf
+      - language: 'Latviešu'
+        filename: iol-2026-team-prob.lv.pdf
+      - language: 'Magyar'
+        filename: iol-2026-team-prob.hu.pdf
+      - language: 'Nederlands'
+        filename: iol-2026-team-prob.nl.pdf
+      - language: 'Polski'
+        filename: iol-2026-team-prob.pl.pdf
+      - language: 'Português (Brasil)'
+        filename: iol-2026-team-prob.bl.pdf
+      - language: 'Română'
+        filename: iol-2026-team-prob.ro.pdf
+      - language: 'Slovenščina'
+        filename: iol-2026-team-prob.sl.pdf
+      - language: 'Suomi'
+        filename: iol-2026-team-prob.fi.pdf
+      - language: 'Svenska'
+        filename: iol-2026-team-prob.sv.pdf
+      - language: 'Türkçe'
+        filename: iol-2026-team-prob.tr.pdf
+      - language: 'Čeština'
+        filename: iol-2026-team-prob.cs.pdf
+      - language: 'Ελληνικά'
+        filename: iol-2026-team-prob.el.pdf
+      - language: 'Български'
+        filename: iol-2026-team-prob.bg.pdf
+      - language: 'Русский'
+        filename: iol-2026-team-prob.ru.pdf
+      - language: 'Українська'
+        filename: iol-2026-team-prob.uk.pdf
+      - language: 'ไทย'
+        filename: iol-2026-team-prob.th.pdf
+      - language: '中文（简体）'
+        filename: iol-2026-team-prob.zh.pdf
+      - language: '中文（繁體）'
+        filename: iol-2026-team-prob.zt.pdf
+      - language: '日本語'
+        filename: iol-2026-team-prob.ja.pdf
+      - language: '한국어'
+        filename: iol-2026-team-prob.ko.pdf
+    sol:
+      - language: 'Deutsch'
+        filename: iol-2026-team-sol.de.pdf
+      - language: 'Eesti'
+        filename: iol-2026-team-sol.et.pdf
+      - language: 'English'
+        filename: iol-2026-team-sol.en.pdf
+      - language: 'English (US)'
+        filename: iol-2026-team-sol.us.pdf
+      - language: 'Español'
+        filename: iol-2026-team-sol.es.pdf
+      - language: 'Español (Colombia)'
+        filename: iol-2026-team-sol.ex.pdf
+      - language: 'Français'
+        filename: iol-2026-team-sol.fr.pdf
+      - language: 'Latviešu'
+        filename: iol-2026-team-sol.lv.pdf
+      - language: 'Magyar'
+        filename: iol-2026-team-sol.hu.pdf
+      - language: 'Nederlands'
+        filename: iol-2026-team-sol.nl.pdf
+      - language: 'Polski'
+        filename: iol-2026-team-sol.pl.pdf
+      - language: 'Português (Brasil)'
+        filename: iol-2026-team-sol.bl.pdf
+      - language: 'Română'
+        filename: iol-2026-team-sol.ro.pdf
+      - language: 'Slovenščina'
+        filename: iol-2026-team-sol.sl.pdf
+      - language: 'Suomi'
+        filename: iol-2026-team-sol.fi.pdf
+      - language: 'Svenska'
+        filename: iol-2026-team-sol.sv.pdf
+      - language: 'Türkçe'
+        filename: iol-2026-team-sol.tr.pdf
+      - language: 'Čeština'
+        filename: iol-2026-team-sol.cs.pdf
+      - language: 'Ελληνικά'
+        filename: iol-2026-team-sol.el.pdf
+      - language: 'Български'
+        filename: iol-2026-team-sol.bg.pdf
+      - language: 'Русский'
+        filename: iol-2026-team-sol.ru.pdf
+      - language: 'Українська'
+        filename: iol-2026-team-sol.uk.pdf
+      - language: 'ไทย'
+        filename: iol-2026-team-sol.th.pdf
+      - language: '中文（简体）'
+        filename: iol-2026-team-sol.zh.pdf
+      - language: '中文（繁體）'
+        filename: iol-2026-team-sol.zt.pdf
+      - language: '日本語'
+        filename: iol-2026-team-sol.ja.pdf
+      - language: '한국어'
+        filename: iol-2026-team-sol.ko.pdf

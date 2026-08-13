@@ -116,10 +116,6 @@
   page: 6
   author:
     - name: Maria Rubinstein
-  best_solutions:
-  - country: Russia
-    team: Russia-St. Petersburg
-    name: Yulia Glazova
 
 - year: 2003
   round: Team
@@ -240,19 +236,6 @@
   author:
     - name: Alexander Berdichevsky
     - name: Boris Iomdin
-  best_solutions:
-  - country: Bulgaria
-    team: Bulgaria 2
-    name: Desislava Radieva
-  - country: Estonia
-    team: Estonia
-    name: Natalja Hartšenko
-  - country: Russia
-    team: Russia-St. Petersburg
-    name: Sophia Oskolskaya
-  - country: Russia
-    team: Russia-St. Petersburg
-    name: Kirill Grigoryev
 
 - year: 2005
   round: Individual
@@ -361,10 +344,6 @@
   author:
     - name: Maarten Kossmann
     - name: Alexander Lubotsky
-  best_solutions:
-  - country: Bulgaria
-    team: Bulgaria 1
-    name: Ivan Dobrev
 
 - year: 2006
   round: Individual
@@ -664,10 +643,6 @@
       family: Sino-Tibetan
   author:
     - name: Todor Tchervenkov
-  best_solutions:
-  - country: United States of America
-    team: USA 2
-    name: Hanzhi Zhu
 
 - year: 2009
   round: Individual
@@ -785,13 +760,6 @@
       family: Austro-Asiatic
   author:
     - name: Boris Iomdin
-  best_solutions:
-  - country: Russia
-    team: Moscow
-    name: Andrey Nikulin
-  - country: United States of America
-    team: USA Red
-    name: Alan Huang
 
 - year: 2010
   round: Individual
@@ -908,13 +876,6 @@
       family: Mongolic
   author:
     - name: Boris Iomdin
-  best_solutions:
-  - country: Poland
-    team: Poland 1
-    name: Szymon Kanonowicz
-  - country: United States of America
-    team: USA Blue
-    name: Tian-Yi Damien Jiang
 
 - year: 2011
   round: Individual
@@ -1123,10 +1084,6 @@
   language:
     - name: Lao
       family: Tai-Kadai
-  best_solutions:
-  - country: United States of America
-    team: USA 1
-    name: Darryl Wu
 
 - year: 2013
   round: Individual
@@ -1232,13 +1189,6 @@
       family: 
   author:
     - name: Ivan Derzhanski
-  best_solutions:
-  - country: Czechia
-    team: Czech Republic
-    name: Matyáš Medek
-  - country: Republic of Korea
-    team: Korea Sori
-    name: Huisu Yun
 
 - year: 2014
   round: Individual
@@ -1350,13 +1300,6 @@
   author:
     - name: Boris Iomdin
     - name: Ivan Derzhanski
-  best_solutions:
-  - country: Bulgaria
-    team: Bulgaria 1
-    name: Elena Chaparova
-  - country: Russia
-    team: Russia 2
-    name: Gleb Nikolaev
 
 - year: 2015
   round: Individual
@@ -1461,10 +1404,6 @@
       family: Niger-Congo
   author:
     - name: Boris Iomdin
-  best_solutions:
-  - country: Slovenia
-    team: Slovenia
-    name: Matija Lovšin
 
 - year: 2016
   round: Individual
@@ -1573,13 +1512,6 @@
       family: Tuu
   author:
     - name: Danylo Mysak
-  best_solutions:
-  - country: Canada
-    team: Canada
-    name: Kevin Sun
-  - country: United Kingdom
-    team: UK
-    name: Eimear McKnight
 
 - year: 2017
   round: Individual
@@ -1691,16 +1623,6 @@
     - name: Emoji
   author:
     - name: Boris Iomdin
-  best_solutions:
-  - country: India
-    team: India Saffron
-    name: Angikar Ghosal
-  - country: Poland
-    team: Poland Ą
-    name: Przemysław Podleśny
-  - country: Slovenia
-    team: Slovenia
-    name: Ana Meta Dolinar
 
 - year: 2018
   round: Individual
@@ -1818,13 +1740,6 @@
       family: Jê
   author:
     - name: André Nikulin
-  best_solutions:
-  - country: Bulgaria
-    team: Bulgaria 1
-    name: Elena Keskinova
-  - country: United States of America
-    team: USA Red
-    name: Andrew Tockman
 
 - year: 2019
   round: Individual
@@ -1927,10 +1842,6 @@
   page: 06
   author:
     - name: Anna Danilova
-  best_solutions:
-  - country: Canada Anglophone
-    team: Canada Moose
-    name: Ken Jiang
 
 - year: 2021
   round: Individual
@@ -2048,13 +1959,6 @@
   author:
     - name: André Nikulin
     - name: Milena Veneva
-  best_solutions:
-  - country: Japan
-    team: Japan Samurai
-    name: Hibiki Sugawara
-  - country: Ukraine
-    team: Ukraine і
-    name: Daria Kryvosheieva
 
 - year: 2022
   round: Individual
@@ -2175,13 +2079,6 @@
       family: Tungusic
   author:
     - name: Minkyu Kim
-  best_solutions:
-  - country: Hungary
-    team: Hungary Uborka
-    name: Anita Dalma Páhán
-  - country: Romania
-    team: Romania
-    name: Vlad-Ștefan Oros
   slide: iol-2022-t-1-slide.pdf
 
 - year: 2023
@@ -2303,16 +2200,6 @@
   author:
     - name: Boris Iomdin
     - name: Milena Veneva
-  best_solutions:
-  - country: Australia
-    team: Australia Scotch
-    name: Yijie Wang
-  - country: Japan
-    team: Japan Samurai
-    name: Ryusei Omiya
-  - country: Slovenia
-    team: Slovenia
-    name: Brest Lenarčič
   slide: iol-2023-t-1-slide.pdf
 
 - year: 2024
@@ -2417,10 +2304,6 @@
   author:
     - name: Andrey Nikulin
     - name: Milena Veneva
-  best_solutions:
-  - country: Slovenia
-    team: Slovenia
-    name: Brest Lenarčič
   slide: iol-2024-t-1-slide.pdf
 
 - year: 2025
@@ -2533,11 +2416,110 @@
       family: Kiranti
   author:
     - name: Samuel Ahmed
-  best_solutions:
-  - country: Independent
-    team: Independent
-    name: Ekaterina Churkina
-  - country: Thailand
-    team: Thailand
-    name: Tananon Kinthorn
   slide: iol-2025-t-1-slide.pdf
+
+- year: 2026
+  round: Individual
+  id: iol-2026-i-1
+  name: Central Yup’ik
+  number: 1
+  page: 01
+  language:
+    - name: Central Yup’ik
+      family: Eskimo-Aleut
+  author:
+    - name: Lai Otsuka
+  best_solutions:
+  - country: China
+    team: China QIAN
+    name: Zhou Haoxuan
+  - country: Czechia
+    team: Czechia Čtyřlístek
+    name: Veronika Havlová
+
+- year: 2026
+  round: Individual
+  id: iol-2026-i-2
+  name: Yélî Dnye
+  number: 2
+  page: 03
+  language:
+    - name: Yélî Dnye
+      family: Isolate
+  author:
+    - name: Dan-Mircea Mirea
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Yiling Jiang
+
+- year: 2026
+  round: Individual
+  id: iol-2026-i-3
+  name: Iquito
+  number: 3
+  page: 05
+  language:
+    - name: Iquito
+      family: Zaparoan
+  author:
+    - name: Eimear McKnight
+  best_solutions:
+  - country: Hungary
+    team: Hungary Uborka
+    name: Gergely Péter Sánta
+
+- year: 2026
+  round: Individual
+  id: iol-2026-i-4
+  name: Sakurabiat
+  number: 4
+  page: 06
+  language:
+    - name: Sakurabiat
+      family: Tupian
+  author:
+    - name: Lai Otsuka
+  solvers_choice: True
+  best_solutions:
+  - country: Canada Anglophone
+    team: Canada Moose
+    name: Xin Yan Dong
+  - country: China
+    team: China KUN
+    name: Fu Boran
+  - country: Sweden
+    team: Sweden Mård
+    name: Martin Zhang
+  - country: Taiwan
+    team: Taiwan Blue Magpie
+    name: Shao-Yang Hsu
+
+- year: 2026
+  round: Individual
+  id: iol-2026-i-5
+  name: Komnzo
+  number: 5
+  page: 07
+  language:
+    - name: Komnzo
+      family: Yam
+  author:
+    - name: Vesko Milev
+  best_solutions:
+  - country: Romania
+    team: România Doină
+    name: Radu-Gheorghe Tănăsescu
+
+- year: 2026
+  round: Team
+  id: iol-2026-t-1
+  name: Teotitlán del Valle Zapotec
+  number: 1
+  page: 01
+  language:
+    - name: Teotitlán del Valle Zapotec
+      family: Oto-Manguean
+  author:
+    - name: Angela Hou
+    - name: Nina Stadermann
