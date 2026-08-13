@@ -197,7 +197,7 @@ All business of the IOL is conducted in such languages as are best understood, E
 
 ### 2.7. Awards {#s2-7}
 
-In the individual contest the numbers of gold, silver and bronze medals awarded shall be approximately in the ratio 1:2:3 and the total number of medals shall be between one quarter and one third of the number of contestants. The actual number of medals awarded shall depend on the allocation of gaps in the sorted list of scores, which means that the Local Organising Committee must be prepared for adjustments in this scheme. A contestant who obtains a score equal to or higher than the mean but does not win a medal will receive an Honourable Mention.
+In the individual contest the numbers of gold, silver and bronze medals awarded shall be approximately in the ratio 1:2:3 and the total number of medals shall be between one quarter and one third of the number of contestants. The actual number of medals awarded shall depend on the allocation of gaps in the sorted list of scores, which means that the Local Organising Committee must be prepared for adjustments in this scheme. A contestant who obtains a score equal to or higher than the median but does not win a medal will receive an Honourable Mention.
 
 It is also customary to award a prize for one or two best solutions of each problem of the individual contest. In this, too, adjustments may be made. Solutions winning the best solution award will normally be made available on the IOL website in due course.
 
