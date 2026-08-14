@@ -2424,6 +2424,7 @@
   name: Central Yup’ik
   number: 1
   page: 01
+  avg: 7.7
   language:
     - name: Central Yup’ik
       family: Eskimo-Aleut
@@ -2444,6 +2445,7 @@
   name: Yélî Dnye
   number: 2
   page: 03
+  avg: 6.1
   language:
     - name: Yélî Dnye
       family: Isolate
@@ -2461,6 +2463,7 @@
   name: Iquito
   number: 3
   page: 05
+  avg: 8.3
   language:
     - name: Iquito
       family: Zaparoan
@@ -2478,6 +2481,7 @@
   name: Sakurabiat
   number: 4
   page: 06
+  avg: 8.9
   language:
     - name: Sakurabiat
       family: Tupian
@@ -2505,6 +2509,7 @@
   name: Komnzo
   number: 5
   page: 07
+  avg: 5.9
   language:
     - name: Komnzo
       family: Yam
