@@ -22,7 +22,7 @@ and whereas the art of running contests in solving such problems has, after deca
 and whereas international science olympiads are now organised in many fields and universally recognised as an outstanding method for discovering, encouraging and challenging talented young people, the International Linguistics Olympiad (IOL) was devised and instituted on the twenty-second day of the month of December in the year two thousand and two.
 
 
-*2009, 11th revision 2025*
+*2009, 12th revision 2026*
 
 ## Contents
 
@@ -103,7 +103,7 @@ The Olympiad is held annually, traditionally between late July and mid-August. A
 
 ### 2.2. Accreditation {#s2-2}
 
-Teams seeking to participate for the first time should seek accreditation from the International Board. Accreditation can be sought at any time, but the deadline of January 1st must be met to guarantee participation in the next Olympiad.<sup class="fn-ref" data-fn="This has been taken to mean that the process of seeking accreditation must be begun before January 1st. Actual accreditation must be confirmed before the deadline for registration.">2</sup> An accredited national association will have made arrangements for its contestants to be chosen in conformity with the requirements set out in 2.3 below. It will also have an internet presence which makes information about it freely available. This must include the following features:
+Teams seeking to participate for the first time should seek accreditation from the International Board. Accreditation can be sought at any time, but the deadline of January 1st must be met to guarantee participation in the next Olympiad.<sup class="fn-ref" data-fn="This has been taken to mean that the process of seeking accreditation must be begun before January 1st. Actual accreditation must be confirmed before the deadline for registration.">2</sup> An accredited national association<sup class="fn-ref" data-fn="Elsewhere in this document the phrase &quot;accredited country&quot; is used to mean &quot;country or territory represented by an accredited national organization&quot;.">3</sup> will have made arrangements for its contestants to be chosen in conformity with the requirements set out in 2.3 below. It will also have an internet presence which makes information about it freely available. This must include the following features:
 
 - set out eligibility requirements 
 - give dates and locations of contest in reasonable time
@@ -123,7 +123,7 @@ Participating teams will consist of no more than four contestants and will be ac
 
 #### 2.3.1. Eligibility {#s2-3-1}
 
-Contestants should be chosen on the basis of participation in a country-wide contest in linguistics or a related field held by a recognised national organisation (including that of another country),<sup class="fn-ref" data-fn="Including a multinational competition: in this case all contestants may be considered as competing for one country only and must indicate which beforehand.">3</sup> open to any person obtaining their education in the country. This contest should be held in a language of education in that country and should not exclude from participation any students who would otherwise be eligible. It will therefore normally be held in (one of) the official language(s) of the country. Contestants who are eligible for multiple qualifying contests may compete in only one such competition. The contestants must be less than 20 years old on the first day of the competition and must be pre-university students. Eligibility may be extended to students attending an affiliated school in another country, if they are part of a student exchange and are attending, as exchange students, an education institution of the respective accredited country, or registered as home educated. Citizens living in another country may be eligible for inclusion in the team, at the discretion of the National Organisers.<sup class="fn-ref" data-fn="However, the norm is that contestants will represent the country where they live/are educated.">4</sup> 
+Contestants should be chosen on the basis of participation in a country-wide contest in linguistics or a related field held by a recognised national organisation (including that of another country),<sup class="fn-ref" data-fn="Including a multinational competition: in this case all contestants may be considered as competing for one country only and must indicate which beforehand.">4</sup> open to any person obtaining their education in the country. This contest should be held in a language of education in that country and should not exclude from participation any students who would otherwise be eligible. It will therefore normally be held in (one of) the official language(s) of the country. Contestants who are eligible for multiple qualifying contests may compete in only one such competition. The contestants must be less than 20 years old on the first day of the competition and must be pre-university students. Eligibility may be extended to students attending an affiliated school in another country, if they are part of a student exchange and are attending, as exchange students, an education institution of the respective accredited country, or registered as home educated. Citizens living in another country may be eligible for inclusion in the team, at the discretion of the National Organisers.<sup class="fn-ref" data-fn="However, the norm is that contestants will represent the country where they live/are educated.">5</sup> 
 
 
 #### 2.3.2. Number of teams {#s2-3-2}
@@ -138,7 +138,7 @@ All participants are responsible for the cost of their travel to the venue of th
 
 #### 2.3.4. Non-accredited countries as guests {#s2-3-4}
 
-Countries which have not yet completed the accreditation process may be permitted to send one team to attend the Olympiad as guests at the discretion of the International Board in consultation with the Local Organisers.<sup class="fn-ref" data-fn="Such teams will normally be under the auspices of an organisation potentially meeting the requirements of an accredited organisation as described in 4.1 below and expected to set in motion the process of seeking accreditation as soon as possible.">5</sup> Guests will be liable for all their own expenses, including costs of accommodation and participation in the social programme. 
+Countries which have not yet completed the accreditation process may be permitted to send one team to attend the Olympiad as guests at the discretion of the International Board in consultation with the Local Organisers.<sup class="fn-ref" data-fn="Such teams will normally be under the auspices of an organisation potentially meeting the requirements of an accredited organisation as described in 4.1 below and expected to set in motion the process of seeking accreditation as soon as possible.">6</sup> Guests will be liable for all their own expenses, including costs of accommodation and participation in the social programme. 
 
 
 #### 2.3.5. Application {#s2-3-5}
@@ -190,7 +190,7 @@ The information from this questionnaire is intended to assist the Jury in the ma
 
 ### 2.6. Languages {#s2-6}
 
-Contestants in the individual competition will receive the statements of the problems in a language of their choice and will write the solutions in the same language. Teams in the team competition will likewise receive the problem and write the solution in one language only. By default all contestants in the individual competition will use the same working language that their teams have chosen for the team contest, but a contestant in the individual competition may opt for a language requested by another team. National organisers must notify the Local Organisers which language(s) they wish to use no later than ten weeks before the Olympiad. For a language that has not been used in the previous year, notice must be given by February 1st.<sup class="fn-ref" data-fn="This was previously an advisory note only.">6</sup> Each contestant in the individual competition or team in the team competition may have access to only one version of the problem set during the contest. 
+Contestants in the individual competition will receive the statements of the problems in a language of their choice and will write the solutions in the same language. Teams in the team competition will likewise receive the problem and write the solution in one language only. By default all contestants in the individual competition will use the same working language that their teams have chosen for the team contest, but a contestant in the individual competition may opt for a language requested by another team. National organisers must notify the Local Organisers which language(s) they wish to use no later than ten weeks before the Olympiad. For a language that has not been used in the previous year, notice must be given by February 1st.<sup class="fn-ref" data-fn="This was previously an advisory note only.">7</sup> Each contestant in the individual competition or team in the team competition may have access to only one version of the problem set during the contest. 
 
 All business of the IOL is conducted in such languages as are best understood, English being the default choice when a multinational audience is addressed. All diplomas and certificates must be written in English, but may also contain some text in the language(s) of the host country.
 
@@ -205,6 +205,8 @@ In the team contest, up to a maximum of one gold, two silver and three bronze me
 
 All contestants who are not awarded a medal or an Honourable Mention shall receive a certificate of participation.
 
+The country or territory whose contestants attain the highest average score shall be awarded a trophy known as "the best country average award". This will be based on the average score of all that country's contestants, including any second team.
+
 The decisions of the Jury shall be final and no appeal or challenge will be accepted. Team Leaders will be given details of the final scores (including a problem-by-problem breakdown) and overall ranking of their own team members, though results of contestants who are not awarded a medal or an Honourable Mention will not be made public.
 
 
@@ -213,29 +215,29 @@ The decisions of the Jury shall be final and no appeal or challenge will be acce
 
 ### 3.1. International Board {#s3-1}
 
-The International Board is the governing body of the IOL. However, all proposed changes to the rules or constitution of IOL must be approved by the IOC. The Board shall consist of elected or co-opted persons, normally including 
+The International Board is the governing body of the IOL. However, all proposed changes to the rules or constitution of IOL must be approved by the IOC. The Board shall consist of the following elected or appointed positions 
 
 - Chair of the Board
 - Secretary
-- Funding chair
+- Funding and international relations chair
 - IOL web site coordinator
 - PR chair
-- Local organisers of the previous two Olympiads *
+- Representative of the local organisers of the previous Olympiad *
 - Local organisers of the next two Olympiads *
 - Chair of the Problem Committee / Chair of the International Jury *
 - Secretary to the Problem Committee *
 - Local organiser liaison officer 
 
-Members of the International Board shall be elected by the annual meeting of the International Organising Committee. Posts marked * will be appointed by the Board and will serve until such time as their successor is appointed.<sup class="fn-ref" data-fn="The PC chair normally serves as Chair of the Jury and is normally nominated soon after the end of the previous Olympiad.">7</sup>
+Members of the International Board shall be elected by the annual meeting of the International Organising Committee. Posts marked * will be appointed by the Board and will serve until such time as their successor is appointed.<sup class="fn-ref" data-fn="The PC chair normally serves as Chair of the Jury and is normally nominated soon after the end of the previous Olympiad.">8</sup>
 
-The International Board shall confer at least once between Olympiads, normally in December or January, to prepare for the forthcoming Olympiad. This may be done electronically, e.g. via an exchange of emails or with a conference call. Minutes of the meeting or a summary of the conclusions of the email discussion shall be available on request to all current members of the International Organising Committee. The Board shall prepare the agenda for the annual meeting of the International Organising Committee at the Olympiad and send it to members no less than ten weeks before the forthcoming Olympiad. The Board shall also normally meet at the Olympiad.
+The International Board shall confer at least once between Olympiads, normally in December or January, to prepare for the forthcoming Olympiad. This may be done electronically, e.g. via an exchange of emails or with a conference call. Minutes of the meeting or a summary of the conclusions of the email discussion shall be available on request to all current members of the International Organising Committee. The Board reserves the right to redact from minutes entries it deems confidential. Minutes will indicate where such redactions have occurred. The Board shall prepare the agenda for the annual meeting of the International Organising Committee at the Olympiad and send it to members no less than ten weeks before the forthcoming Olympiad. The Board shall also normally meet at the Olympiad.
 
 Any Board member unable to attend a meeting in person or online may request a proxy who, once approved by the meeting, shall have full voting rights.
 
 
 ### 3.2. International Organising Committee {#s3-2}
 
-The International Organising Committee (IOC) consists of the National Organisers<sup class="fn-ref" data-fn="Members of the IOC are (apart from jury members and IOL Board members) actually organisations rather than individuals, so IOC business is conducted by individuals acting as representatives of these organisations.">8</sup> of accredited countries, members of the International Jury, and members of the International Board. At a convenient time during the Olympiad they will hold an annual meeting to discuss any matters concerning the IOL, including appointment and/or (re-)election of International Board members and choice of venue of future Olympiads, so that at least the next Olympiad venue can be announced officially at the closing. This meeting is led by the Chair of the Local Organising Committee or their delegate. The agenda for this meeting, including any proposals to be voted on, shall be circulated to all members no less than ten weeks before the meeting. New proposals or amendments to existing proposals will not be permitted at the meeting.  National Organisations are normally represented at the meeting by team leaders. Each accredited country shall have one vote. Members of the International Jury, International Board and/or Ethics Committee who are not representing an accredited country shall be invited to attend the IOC meeting but shall not have a vote unless invited to do so. Countries attending as guests or observers shall not be considered full members of the IOC: their representative may attend the meeting and speak, but they will have no voting rights unless invited to do so. Other persons in attendance at the Olympiad may be invited to attend the meeting of the IOC under the same rules, as long as they are not eligible to compete in the Olympiad.
+The International Organising Committee (IOC) consists of the National Organisers<sup class="fn-ref" data-fn="Members of the IOC are (apart from jury members and IOL Board members) actually organisations rather than individuals, so IOC business is conducted by individuals acting as representatives of these organisations.">9</sup> of accredited countries, members of the International Jury, and members of the International Board. At a convenient time during the Olympiad they will hold an annual meeting to discuss any matters concerning the IOL, including appointment and/or (re-)election of International Board members and choice of venue of future Olympiads, so that at least the next Olympiad venue can be announced officially at the closing. This meeting is led by the Chair of the Local Organising Committee or their delegate. The agenda for this meeting, including any proposals to be voted on, shall be circulated to all members no less than ten weeks before the meeting. New proposals or amendments to existing proposals will not be permitted at the meeting.  National Organisations are normally represented at the meeting by team leaders. Each accredited country shall have one vote. Members of the International Jury, International Board and/or Ethics Committee who are not representing an accredited country shall be invited to attend the IOC meeting but shall not have a vote unless invited to do so. Countries attending as guests or observers shall not be considered full members of the IOC: their representative may attend the meeting and speak, but they will have no voting rights unless invited to do so. Other persons in attendance at the Olympiad may be invited to attend the meeting of the IOC under the same rules, as long as they are not eligible to compete in the Olympiad.
 
 Members of the International Jury will remain members of the IOC until the membership of the Jury for the following year is established.  
 
@@ -244,7 +246,7 @@ Where appropriate or necessary, online voting on proposals may take place in bet
 
 ### 3.3. Local Organising Committee {#s3-3}
 
-The Local Organising Committee is composed of representatives of the host country. It elects a Chair who must be experienced in the organisation of contests for secondary school students on a national or higher level.<sup class="fn-ref" data-fn="Detailed advice on applying to host IOL and requirements of and best practice for hosts, are available in the “IOL Hosts’ Guide”.">9</sup>
+The Local Organising Committee is composed of representatives of the host country. It elects a Chair who must be experienced in the organisation of contests for secondary school students on a national or higher level.<sup class="fn-ref" data-fn="Detailed advice on applying to host IOL and requirements of and best practice for hosts, are available in the “IOL Hosts’ Guide”.">10</sup>
 
 It is the duty of the Local Organising Committee to:
 
@@ -357,8 +359,8 @@ The opinions of the Ethics Committee are advisory in nature, and do not bind the
 A National Organisation is the body responsible for organising a country's local selection process and that country's participation in IOL. They should be *bona fide* organisations with a connection with education, having the aim and capability of organising a national competition in the long term. They may not run the national competition for financial gain. The duties of the National Organisation with respect to the IOL are as follows:
 
 - informing the International Board of any changes in contact details
-- communicating to the Local Organising Committee their intent to bring a team to the Olympiad at the earliest possible date and no later than the announced deadline<sup class="fn-ref" data-fn="Note that it is the NO’s responsibility to contact the Local Organiser, not vice versa.">10</sup>
-- confirming this intent by the deadline and informing the Local Organising Committee no less than ten weeks before the competition of the language(s) their students wish to work in. If requesting a language that was not in the previous Olympiad, notice must be given by February 1st.<sup class="fn-ref" data-fn="This was previously an advisory footnote only.">11</sup>
+- communicating to the Local Organising Committee their intent to bring a team to the Olympiad at the earliest possible date and no later than the announced deadline<sup class="fn-ref" data-fn="Note that it is the NO’s responsibility to contact the Local Organiser, not vice versa.">11</sup>
+- confirming this intent by the deadline and informing the Local Organising Committee no less than ten weeks before the competition of the language(s) their students wish to work in. If requesting a language that was not in the previous Olympiad, notice must be given by February 1st.<sup class="fn-ref" data-fn="This was previously an advisory footnote only.">12</sup>
 - paying all fees and charges in a timely manner and in any case before the deadline for payment
 
 ### 4.2. Team Leaders {#s4-2}
