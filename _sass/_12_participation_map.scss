@@ -1,0 +1,179 @@
+/* Participation map
+------------------------------------------------------------------- */
+
+/* A sequential ramp in the IOL brand colours: involvement reads as intensity,
+   and because the three steps also differ in lightness the map stays legible
+   in greyscale and for colour-blind readers. The CIE L* values are roughly
+   41 / 65 / 84 / 91, so no two adjacent steps sit close enough to be confused. */
+$map-host      : #835449;   // darkest: has hosted
+$map-current   : #e08b2a;   // competed in the most recent IOL
+$map-past      : #edcf8f;   // competed in an earlier year
+$map-other     : #e6e6e6;   // rest of the world
+$map-stroke    : #fdfdfd;   // $body-bg, so borders read as gaps
+
+.iol-map {
+	position: relative;   // anchors the tooltip; set here, not inline, so the
+	                      // .is-expanded rule below can override it
+	margin: 0 0 1.5rem;
+
+	&__svg {
+		display: block;
+		width: 100%;
+		height: auto;
+		overflow: visible;   // keeps marker rings from being clipped at the edges
+		touch-action: none;  // we handle pinch/drag ourselves
+	}
+
+	&__bg { fill: transparent; }
+
+	&.is-zoomed &__svg  { cursor: grab; }
+	&.is-panning &__svg { cursor: grabbing; }
+
+	&__shape {
+		fill: $map-other;
+		stroke: $map-stroke;
+		stroke-width: 0.4;
+		stroke-linejoin: round;
+		vector-effect: non-scaling-stroke;
+	}
+
+	&__marker {
+		stroke: $map-stroke;
+		stroke-width: 1.2;
+		vector-effect: non-scaling-stroke;
+	}
+
+	&__shape.is-host,    &__marker.is-host    { fill: $map-host; }
+	&__shape.is-current, &__marker.is-current { fill: $map-current; }
+	&__shape.is-past,    &__marker.is-past    { fill: $map-past; }
+
+	/* Only the categorised shapes react to the pointer. */
+	&__shape.is-host, &__shape.is-current, &__shape.is-past, &__marker {
+		cursor: pointer;
+		transition: fill .12s ease-out;
+	}
+
+	&__shape.is-host:hover, &__shape.is-current:hover, &__shape.is-past:hover,
+	&__marker:hover,
+	.is-active { fill: $ci-2; }
+
+	/* Visible keyboard focus, drawn outside the shape so it is never hidden. */
+	&__shape:focus, &__marker:focus {
+		outline: none;
+		stroke: $ci-1;
+		stroke-width: 2;
+	}
+
+	&__legend {
+		display: flex;
+		flex-wrap: wrap;
+		gap: .35rem 1.25rem;
+		margin-top: .75rem;
+		font-size: .82rem;
+		line-height: 1.4;
+		color: #444;
+	}
+
+	&__key {
+		display: flex;
+		align-items: center;
+		white-space: nowrap;
+
+		&:before {
+			content: "";
+			display: inline-block;
+			width: .85rem;
+			height: .85rem;
+			margin-right: .4rem;
+			border: 1px solid rgba(0,0,0,.18);
+			border-radius: 2px;
+		}
+
+		b { margin-left: .3em; }
+
+		&.is-host:before    { background: $map-host; }
+		&.is-current:before { background: $map-current; }
+		&.is-past:before    { background: $map-past; }
+	}
+}
+
+/* Tooltip: created by assets/js/participation-map.js. Absent without JS,
+   in which case the <title> elements give native browser tooltips instead. */
+.iol-map__tip {
+	position: absolute;
+	z-index: 20;
+	padding: .3rem .55rem;
+	border-radius: 3px;
+	background: rgba(35,25,22,.94);
+	color: #fff;
+	font-size: .78rem;
+	line-height: 1.35;
+	white-space: nowrap;
+	pointer-events: none;
+	opacity: 0;
+	transition: opacity .1s ease-out;
+
+	&.is-visible { opacity: 1; }
+
+	b { display: block; font-weight: 600; }
+}
+
+.iol-map__tip-sub {
+	display: block;
+	margin-top: .1rem;
+	color: #ffd98a;
+	font-size: .72rem;
+	font-weight: 400;
+}
+
+
+/* Zoom / full-screen controls. Injected by participation-map.js, so they never
+   appear as dead buttons when JavaScript is unavailable. */
+.iol-map__controls {
+	position: absolute;
+	top: .4rem;
+	right: .4rem;
+	z-index: 5;
+	display: flex;
+	gap: .25rem;
+}
+
+.iol-map__btn {
+	width: 1.9rem;
+	height: 1.9rem;
+	padding: 0;
+	border: 1px solid rgba(0,0,0,.14);
+	border-radius: 3px;
+	background: rgba(253,253,253,.92);
+	color: $ci-1;
+	font-size: .95rem;
+	line-height: 1;
+	cursor: pointer;
+	transition: background .12s ease-out;
+
+	&:hover  { background: $ci-2; }
+	&:focus  { outline: 2px solid $ci-1; outline-offset: 1px; }
+}
+
+/* Expanded view: a plain fixed overlay rather than the Fullscreen API, which
+   behaves inconsistently across browsers and cannot be styled. */
+.iol-map.is-expanded {
+	position: fixed;
+	top: 0; right: 0; bottom: 0; left: 0;
+	z-index: 9999;
+	margin: 0;
+	padding: 1rem 1rem .5rem;
+	background: $body-bg;
+	display: flex;
+	flex-direction: column;
+
+	.iol-map__svg {
+		flex: 1 1 auto;
+		min-height: 0;
+		height: auto;
+	}
+
+	.iol-map__legend { flex: 0 0 auto; justify-content: center; }
+}
+
+body.iol-map-is-open { overflow: hidden; }

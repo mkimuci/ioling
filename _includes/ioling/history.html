@@ -27,4 +27,4 @@ The following table presents a summary of the participation in the first {{ site
 </table>
 
 {% assign full_country_list = site.data.ioling.countries | sort: "iol_name" | map: "iol_name" %}
-Teams from these 41 countries have participated in at least one of the first {{ site.data.ioling.numbers[n].cardinal_lowercase }} IOLs: {{ full_country_list | join: ", " }}.
+Teams from these {{ full_country_list | size }} countries and territories have participated in at least one of the first {{ site.data.ioling.numbers[n].cardinal_lowercase }} IOLs: {{ full_country_list | join: ", " }}.

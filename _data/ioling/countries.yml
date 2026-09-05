@@ -665,7 +665,7 @@
 
 - iol_name: Norway
   official_name: Norway
-  iso_2: NO
+  iso_2: "NO"
   iso_3: NOR
   iol_code: NOR
   flag: no.png

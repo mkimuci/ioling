@@ -1,0 +1,189 @@
+{% comment %}
+  IOL participation map.
+
+  Nothing here needs updating each year: the three categories are derived from
+  contests.yml (hosts) and results_by_countries.yml (participation years).
+  Adding the next contest + its results recolours the map automatically.
+
+  Categories are mutually exclusive, in priority order:
+    host    -- has hosted an IOL at least once
+    current -- competed in the most recent IOL (but has never hosted)
+    past    -- competed in an earlier IOL only
+
+  Geometry lives in _data/ioling/map_paths.yml (generated, see header there).
+{% endcomment %}
+
+{%- assign last_year = site.data.ioling.contests.last.year -%}
+
+{%- comment -%} " XX YY " token lists, padded so `contains " XX "` is exact {%- endcomment -%}
+{%- assign hosts = "" -%}
+{%- assign host_pairs = "" -%}
+{%- for contest in site.data.ioling.contests -%}
+  {%- assign hc = site.data.ioling.countries | where: "iol_name", contest.country | first -%}
+  {%- if hc.iso_2 -%}
+    {%- assign hosts = hosts | append: " " | append: hc.iso_2 -%}
+    {%- assign host_pairs = host_pairs | append: contest.year | append: "=" | append: hc.iso_2 | append: " " -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign hosts = hosts | append: " " -%}
+{%- assign host_pairs = host_pairs | split: " " -%}
+
+{%- assign current = "" -%}
+{%- assign past = "" -%}
+{%- assign last_pairs = "" -%}
+{%- for cr in site.data.ioling.results_by_countries -%}
+  {%- assign cc = site.data.ioling.countries | where: "iol_code", cr.iol_code | first -%}
+  {%- if cc.iso_2 -%}
+    {%- assign years = cr.participants | map: "year" | join: "," -%}
+    {%- assign years = "," | append: years | append: "," -%}
+    {%- assign needle = "," | append: last_year | append: "," -%}
+    {%- if years contains needle -%}
+      {%- assign current = current | append: " " | append: cc.iso_2 -%}
+    {%- else -%}
+      {%- assign past = past | append: " " | append: cc.iso_2 -%}
+    {%- endif -%}
+    {%- assign sorted_years = cr.participants | map: "year" | sort -%}
+    {%- assign last_pairs = last_pairs | append: sorted_years.last | append: "=" | append: cc.iso_2 | append: " " -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign current = current | append: " " -%}
+{%- assign past = past | append: " " -%}
+{%- assign last_pairs = last_pairs | split: " " -%}
+
+{%- comment -%}
+  Tooltip detail per country, built once here and looked up by ISO code below.
+  Records are "|ISO~text"; "~" separates key from value because the value has
+  spaces in it. A territory can appear more than once in the source data
+  (Canada fields three delegations), so the participation year is the latest
+  across all of them.
+{%- endcomment -%}
+{%- assign detail_map = "" -%}
+{%- assign detail_seen = " " -%}
+{%- for entry in site.data.ioling.countries -%}
+  {%- assign etok = " " | append: entry.iso_2 | append: " " -%}
+  {%- unless detail_seen contains etok -%}
+    {%- assign detail_seen = detail_seen | append: entry.iso_2 | append: " " -%}
+
+    {%- assign host_years = "" -%}
+    {%- for pair in host_pairs -%}
+      {%- assign kv = pair | split: "=" -%}
+      {%- if kv[1] == entry.iso_2 -%}{%- assign host_years = host_years | append: kv[0] | append: ", " -%}{%- endif -%}
+    {%- endfor -%}
+    {%- assign host_years = host_years | split: ", " -%}
+
+    {%- assign latest = 0 -%}
+    {%- for pair in last_pairs -%}
+      {%- assign kv = pair | split: "=" -%}
+      {%- if kv[1] == entry.iso_2 -%}
+        {%- assign yr = kv[0] | plus: 0 -%}
+        {%- if yr > latest -%}{%- assign latest = yr -%}{%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign detail = "" -%}
+    {%- if host_years.size > 0 -%}
+      {%- comment -%} join first: `append` would otherwise stringify the array {%- endcomment -%}
+      {%- assign host_list = host_years | join: ", " -%}
+      {%- assign detail = "Hosted in " | append: host_list -%}
+      {%- comment -%} Only worth saying for a host that has since stopped competing. {%- endcomment -%}
+      {%- if latest > 0 and latest != last_year -%}
+        {%- assign detail = detail | append: " · last competed in " | append: latest -%}
+      {%- endif -%}
+    {%- elsif latest > 0 -%}
+      {%- assign detail = "Participated in " | append: latest -%}
+    {%- endif -%}
+
+    {%- if detail != "" -%}
+      {%- assign detail_map = detail_map | append: "|" | append: entry.iso_2 | append: "~" | append: detail -%}
+    {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign detail_rows = detail_map | split: "|" -%}
+
+{%- comment -%} Counts for the legend (a country is counted once, in its winning category) {%- endcomment -%}
+{%- assign n_host = 0 -%}{%- assign n_current = 0 -%}{%- assign n_past = 0 -%}
+{%- assign seen = " " -%}
+{%- for row in site.data.ioling.map_paths -%}
+  {%- if row.iso != "" -%}
+    {%- assign tok = " " | append: row.iso | append: " " -%}
+    {%- unless seen contains tok -%}
+      {%- if hosts contains tok -%}
+        {%- assign n_host = n_host | plus: 1 -%}{%- assign seen = seen | append: row.iso | append: " " -%}
+      {%- elsif current contains tok -%}
+        {%- assign n_current = n_current | plus: 1 -%}{%- assign seen = seen | append: row.iso | append: " " -%}
+      {%- elsif past contains tok -%}
+        {%- assign n_past = n_past | plus: 1 -%}{%- assign seen = seen | append: row.iso | append: " " -%}
+      {%- endif -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<figure class="iol-map" id="iol-map">
+  <svg class="iol-map__svg" viewBox="0 0 1000 444.7" role="img"
+       aria-label="World map of IOL participation: {{ n_host }} countries and territories have hosted an IOL, {{ n_current }} more competed in {{ last_year }}, and {{ n_past }} others have competed in the past.">
+
+    {%- comment -%} Drag surface, so panning works over ocean as well as land. {%- endcomment -%}
+    <rect class="iol-map__bg" x="0" y="0" width="1000" height="444.7"/>
+
+    {%- for row in site.data.ioling.map_paths -%}
+      {%- assign cls = "" -%}
+      {%- if row.iso != "" -%}
+        {%- assign tok = " " | append: row.iso | append: " " -%}
+        {%- if hosts contains tok -%}{%- assign cls = "is-host" -%}
+        {%- elsif current contains tok -%}{%- assign cls = "is-current" -%}
+        {%- elsif past contains tok -%}{%- assign cls = "is-past" -%}
+        {%- endif -%}
+      {%- endif -%}
+      {%- if cls == "" -%}
+      <path class="iol-map__shape" d="{{ row.d }}"/>
+      {%- elsif row.cx -%}
+      {%- comment -%} Too small to see: coloured, but the marker below carries the label. {%- endcomment -%}
+      <path class="iol-map__shape {{ cls }}" d="{{ row.d }}"/>
+      {%- else -%}
+      {%- assign entry = site.data.ioling.countries | where: "iso_2", row.iso | first -%}
+      {%- assign label = entry.iol_name | default: row.name -%}
+      {%- assign detail = "" -%}
+      {%- for d in detail_rows -%}
+        {%- assign dk = d | split: "~" -%}
+        {%- if dk[0] == row.iso -%}{%- assign detail = dk[1] -%}{%- break -%}{%- endif -%}
+      {%- endfor -%}
+      <path class="iol-map__shape {{ cls }}" data-label="{{ label | escape }}"{% if detail != "" %} data-detail="{{ detail | escape }}"{% endif %} d="{{ row.d }}"><title>{{ label }}{% if detail != "" %} — {{ detail }}{% endif %}</title></path>
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- comment -%}
+      Territories too small to see at world scale (Isle of Man, Hong Kong,
+      Macao, Malta, Singapore) get a marker so they are visible and clickable.
+    {%- endcomment -%}
+    <g class="iol-map__markers">
+    {%- for row in site.data.ioling.map_paths -%}
+      {%- if row.cx -%}
+        {%- assign tok = " " | append: row.iso | append: " " -%}
+        {%- assign cls = "" -%}
+        {%- if hosts contains tok -%}{%- assign cls = "is-host" -%}
+        {%- elsif current contains tok -%}{%- assign cls = "is-current" -%}
+        {%- elsif past contains tok -%}{%- assign cls = "is-past" -%}
+        {%- endif -%}
+        {%- if cls != "" -%}
+        {%- assign entry = site.data.ioling.countries | where: "iso_2", row.iso | first -%}
+        {%- assign label = entry.iol_name | default: row.name -%}
+        {%- assign detail = "" -%}
+        {%- for d in detail_rows -%}
+          {%- assign dk = d | split: "~" -%}
+          {%- if dk[0] == row.iso -%}{%- assign detail = dk[1] -%}{%- break -%}{%- endif -%}
+        {%- endfor -%}
+        <circle class="iol-map__marker {{ cls }}" data-label="{{ label | escape }}"{% if detail != "" %} data-detail="{{ detail | escape }}"{% endif %} cx="{{ row.cx }}" cy="{{ row.cy }}" r="4.5"><title>{{ label }}{% if detail != "" %} — {{ detail }}{% endif %}</title></circle>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    </g>
+  </svg>
+
+  <figcaption class="iol-map__legend">
+    <span class="iol-map__key is-host">Hosted an IOL <b>({{ n_host }})</b></span>
+    <span class="iol-map__key is-current">Competed in {{ last_year }} <b>({{ n_current }})</b></span>
+    <span class="iol-map__key is-past">Competed previously <b>({{ n_past }})</b></span>
+  </figcaption>
+</figure>
+
+<script src="{{ site.baseurl }}/assets/js/participation-map.js" defer></script>
