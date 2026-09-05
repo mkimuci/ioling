@@ -1,1 +1,2 @@
-ne_10m_ukr.json
+# Downloaded Natural Earth caches (regenerated on demand by build_map.py)
+ne*.json
