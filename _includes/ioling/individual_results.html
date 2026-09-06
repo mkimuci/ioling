@@ -3,6 +3,17 @@
 
 {% assign contest_item = site.data.ioling.full_results | where: "year", include.year | first %}
 
+{% comment %}
+Up to 2022 individual results were listed by team; from 2023 they are listed by country,
+matching the country-level highest average score cup and dream teams.
+{% endcomment %}
+{% assign individual_affiliation = 'team' %}
+{% assign individual_affiliation_label = 'Team' %}
+{% if include.year >= 2023 %}
+{% assign individual_affiliation = 'country' %}
+{% assign individual_affiliation_label = 'Country' %}
+{% endif %}
+
 {% if include.year < 2023 %}
 The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.individual.silver.size | plus: contest_item.individual.bronze.size }} medals ({{ contest_item.individual.gold.size }} gold, {{ contest_item.individual.silver.size }} silver, and {{ contest_item.individual.bronze.size }} bronze) out of {{ number_of_participants }} participants, as well as {% if contest_item.individual.honorable_mention %}{{ contest_item.individual.honorable_mention.size }} honorable mentions, {% endif %}{{ contest_item.team.gold.size | plus: contest_item.team.silver.size | plus: contest_item.team.bronze.size }} team contest trophies, {{ contest_item.average.gold.size | plus: contest_item.average.silver.size | plus: contest_item.average.bronze.size }} team cups for highest average score, and {{ contest_item.individual.best_solution.size }} best solution prizes.
 {% elsif include.year == 2023 %}
@@ -31,7 +42,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<th>Medal</th>
 			<th>Score</th>
 			<th>Name</th>
-			<th>Team</th>
+			<th>{{ individual_affiliation_label }}</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -42,7 +53,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
 			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ participant_item.team }}</td>
+			{{ participant_item[individual_affiliation] }}</td>
 		</tr>
 		{% endfor %}
 		{% for participant_item in contest_item.individual.silver %}
@@ -52,7 +63,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
 			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ participant_item.team }}</td>
+			{{ participant_item[individual_affiliation] }}</td>
 		</tr>
 		{% endfor %}
 		{% for participant_item in contest_item.individual.bronze %}
@@ -62,7 +73,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
 			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ participant_item.team }}</td>
+			{{ participant_item[individual_affiliation] }}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
@@ -75,7 +86,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<th>Award</th>
 			<th>Score</th>
 			<th>Name</th>
-			<th>Team</th>
+			<th>{{ individual_affiliation_label }}</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -86,7 +97,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<td>{{ participant_item.score }}</td>
 			<td>{{ participant_item.name }}</td>
 			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ participant_item.team }}</td>
+			{{ participant_item[individual_affiliation] }}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
@@ -225,7 +236,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 		<tr>
 			<th>Problem</th>
 			<th>Name</th>
-			<th>Team</th>
+			<th>{{ individual_affiliation_label }}</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -235,7 +246,7 @@ The jury awarded {{ contest_item.individual.gold.size | plus: contest_item.indiv
 			<td>{{ best_sol_item.problem }}</td>
 			<td>{{ best_sol_item.name }}</td>
 			<td>{% if flag_country %}<img class="tinyflag" alt="Flag" src="/images/flags/{{ flag_country.flag }}" />{% endif %}
-			{{ best_sol_item.team }}</td>
+			{{ best_sol_item[individual_affiliation] }}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
