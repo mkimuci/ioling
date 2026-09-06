@@ -274,3 +274,57 @@
   team: Korea Sol
   filename: iol-2025-i-5-best-Lee.ko.pdf
   language: Korean
+- problem: iol-2026-i-1
+  name: Veronika Havlová
+  country: Czechia
+  team: Czechia Čtyřlístek
+  filename: iol-2026-i-1-best-Havlova.cs.pdf
+  language: Czech
+- problem: iol-2026-i-1
+  name: Zhou Haoxuan
+  country: China
+  team: China QIAN
+  filename: iol-2026-i-1-best-Zhou.zh.pdf
+  language: Chinese (简体)
+- problem: iol-2026-i-2
+  name: Yiling Jiang
+  country: Canada Anglophone
+  team: Canada Moose
+  filename: iol-2026-i-2-best-Jiang.zh.pdf
+  language: Chinese (简体)
+- problem: iol-2026-i-3
+  name: Gergely Péter Sánta
+  country: Hungary
+  team: Hungary Uborka
+  filename: iol-2026-i-3-best-Santa.hu.pdf
+  language: Hungarian
+- problem: iol-2026-i-4
+  name: Xin Yan Dong
+  country: Canada Anglophone
+  team: Canada Moose
+  filename: iol-2026-i-4-best-Dong.us.pdf
+  language: English
+- problem: iol-2026-i-4
+  name: Fu Boran
+  country: China
+  team: China KUN
+  filename: iol-2026-i-4-best-Fu.zh.pdf
+  language: Chinese (简体)
+- problem: iol-2026-i-4
+  name: Shao-Yang Hsu
+  country: Taiwan
+  team: Taiwan Blue Magpie
+  filename: iol-2026-i-4-best-Hsu.zt.pdf
+  language: Chinese (繁體)
+- problem: iol-2026-i-4
+  name: Martin Zhang
+  country: Sweden
+  team: Sweden Mård
+  filename: iol-2026-i-4-best-Zhang.sv.pdf
+  language: Swedish
+- problem: iol-2026-i-5
+  name: Radu-Gheorghe Tănăsescu
+  country: Romania
+  team: România Doină
+  filename: iol-2026-i-5-best-Tanasescu.ro.pdf
+  language: Romanian
