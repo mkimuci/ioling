@@ -363,32 +363,6 @@
     medal: Silver
 
 - year: 2023
-  country: Brazil
-  team: Brazil Bem-te-vi
-  results:
-  - name: Manoela Erothildes Teleginski Ferraz
-    medal: Bronze
-  - name: Leonardo Torres
-    medal: Gold
-  - name: Everton Albuquerque De Oliveira
-    medal: Bronze
-  - name: Leonardo Paillo
-    medal: Gold
-
-- year: 2023
-  country: Independent
-  team: Independent
-  results:
-  - name: Viktoriia Zubkova
-    medal: Silver
-  - name: Artem Boyko
-    medal: Gold
-  - name: Alexander Shlykov
-    medal: Bronze
-  - name: Eleonora Stepanova
-    medal: Gold
-
-- year: 2023
   country: United Kingdom
   team: United Kingdom
   results:
@@ -401,87 +375,9 @@
   - name: Daniel Titmas
     medal: Silver
 
-- year: 2024
-  country: Independent
-  team: Independent
-  results:
-  - name: Nadežda Efremova
-    medal: Silver
-  - name: Ekaterina Churkina
-    medal: Silver
-  - name: Mixail Nikitin
-    medal: Bronze
-  - name: Eleonora Stepanova
-    medal: Bronze
-
-- year: 2025
-  country: Independent
-  team: Independent
-  results:
-  - name: Ekaterina Churkina
-    medal: Gold
-  - name: Elizaveta Dyatlova
-    medal: Bronze
-  - name: Daria Kukshinova
-    medal: Silver
-  - name: Mixail Nikitin
-    medal: Silver
-
-- year: 2025
-  country: Japan
-  team: Japan Samurai
-  results:
-  - name: Hiroto Yasui
-    medal: Silver
-  - name: Yuki Azuma
-    medal: Silver
-  - name: Ryota Aizawa
-    medal: Silver
-  - name: Yu Matsumoto
-    medal: Silver
-
-- year: 2025
-  country: Taiwan
-  team: Taiwan Black Bear
-  results:
-  - name: Yu-Ning Feng
-    medal: Bronze
-  - name: Ang-Hsuan Yu
-    medal: Silver
-  - name: Yin-Shuo Chang
-    medal: Bronze
-  - name: Po-Yi Chung
-    medal: Bronze
-
-- year: 2025
-  country: United Kingdom
-  team: UK Foot–Strut
-  results:
-  - name: Yipeng Xu
-    medal: Gold
-  - name: James Anderson
-    medal: Silver
-  - name: Claire Yen
-    medal: Silver
-  - name: Wai Ka Kwan Kevin
-    medal: Bronze
-
-- year: 2026
-  country: Bulgaria
-  team: Bulgaria Kirilitsa
-  results:
-  - name: Georgi Iliev
-    medal: Bronze
-  - name: Mihail Boshov
-    medal: Bronze
-  - name: Petar Velev
-    medal: Bronze
-  - name: Radoslav Stefanov
-    medal: Bronze
-
 - year: 2026
   country: Canada Anglophone
-  team: Canada Moose
+  team: Canada Anglophone
   results:
   - name: Perry Dai
     medal: Silver
@@ -490,44 +386,5 @@
   - name: Yiling Jiang
     medal: Gold
   - name: Zi Kun Chen
-    medal: Gold
-
-- year: 2026
-  country: Independent
-  team: Independent
-  results:
-  - name: Dominica Sagirova
-    medal: Bronze
-  - name: Elisaveta Khoretonenko
-    medal: Silver
-  - name: Elizaveta Dyatlova
-    medal: Bronze
-  - name: Semyon Kuritsyn
-    medal: Bronze
-
-- year: 2026
-  country: Romania
-  team: România Doină
-  results:
-  - name: Ana-Teodora Grigorie
-    medal: Silver
-  - name: Elena Păvăloaia
-    medal: Silver
-  - name: Mihaela Anghel
-    medal: Silver
-  - name: Radu-Gheorghe Tănăsescu
-    medal: Silver
-
-- year: 2026
-  country: United States of America
-  team: USA Red
-  results:
-  - name: Darren Su
-    medal: Gold
-  - name: Jason Liu
-    medal: Bronze
-  - name: Rehan Babu
-    medal: Bronze
-  - name: Sylvia Chen
     medal: Gold
 
