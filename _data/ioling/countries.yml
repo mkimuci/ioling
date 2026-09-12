@@ -1011,18 +1011,18 @@
   iso_3: ARE
   iol_code: ARE
   flag: ae.png
-  selection_en: 
-  selection_local: 
-  abbreviation: 
-  link: 
+  selection_en: Al-Shams Linguistics Olympiad
+  selection_local: لللسانيات الشمس أولمبياد
+  abbreviation: ASLO
+  link: https://www.alshamslo.org/
   active: TRUE
-  accredit_in_progress: 
+  accredit_in_progress:
   accredit: FALSE
-  footnote: 
-  poc: 
-  email: 
-  poc2: 
-  email2: 
+  footnote:
+  poc: ASLO
+  email: aslingolympiad@gmail.com
+  poc2:
+  email2:
 
 - iol_name: United Kingdom
   official_name: United Kingdom
