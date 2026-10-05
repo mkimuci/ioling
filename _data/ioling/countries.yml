@@ -29,7 +29,7 @@
   link: https://oelo.univie.ac.at/
   active: TRUE
   accredit_in_progress: 
-  accredit: FALSE
+  accredit: TRUE
   footnote: 
   poc: 
   email: oelo.linguistik@univie.ac.at
