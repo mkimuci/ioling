@@ -302,6 +302,25 @@
   poc2: 
   email2: 
 
+- iol_name: Georgia
+  official_name: Georgia
+  iso_2: GE
+  iso_3: GEO
+  iol_code: GEO
+  flag: ge.png
+  selection_en: Georgian National Olympiad in Linguistics
+  selection_local: საქართველოს ეროვნული ლინგვისტიკის ოლიმპიადა
+  abbreviation: GNOL
+  link: https://gnol.ge/ka/
+  active: TRUE
+  accredit_in_progress:
+  accredit: TRUE
+  footnote:
+  poc: GNOL
+  email: contact@gnol.ge
+  poc2:
+  email2:
+
 - iol_name: Germany
   official_name: Germany
   iso_2: DE
@@ -1016,7 +1035,7 @@
   abbreviation: ASLO
   link: https://www.alshamslo.org/
   active: TRUE
-  accredit_in_progress:
+  accredit_in_progress: TRUE
   accredit: FALSE
   footnote:
   poc: ASLO
