@@ -1,22 +1,20 @@
 current:
-  - name: Dan-Mircea Mirea
-    role: Chair
-    photo: dan-mircea-mirea.jpg
-    member-since: 2019
-    iol-contestant: 2014 and 2015
-    bio: PhD candidate in Psychology at Princeton University, Bachelor's and Masters' from University of Cambridge. Romanian LO member since 2015, and former Chair of the Romanian PC. Linguistics & psychology content creator @danniesbrain on TikTok and Instagram. Avid singer, fan of board games, and pop/internet culture enthusiast.
-    website: www.dan-mirea.com
   - name: Elysia Warner
-    role: Vice-chair
+    role: Chair
     photo: elysia-warner.jpeg
     member-since: 2018
     iol-contestant: 2013 and 2014
     bio: UKLO committee member since 2014. Studied Chinese and Linguistics at the University of Cambridge. Now a civil servant who enjoys knitting, cryptic crosswords, and Bollywood dance.
   - name: Eimear McKnight
-    role: Secretary to the Board
+    role: Vice-chair
     member-since: 2019
     iol-contestant: 2015, 2016, 2017 and 2018
     bio: PhD student in Linguistics at Queen Mary University of London researching syntax and sociolinguistics of trans & non-binary communities, and UKLO Problem Committee member.
+  - name: Bruno L’Astorina
+    role: Secretary to the Board
+    photo: bruno-l'astorina.jpg
+    member-since: 2011
+    bio: Co-founder and general coordinator of the Brazilian LO. Works of different projects in education, translation and public communication. In linguistics education, likes to bring insights on the diversity and unicity of human nature. Enjoys traveling, investigating the nature of mind from within and grouping things in sets of three legs.
   - name: Ivan Derzhanski
     role: Problem Set Editor
     photo: ivan-derzhanski.jpg
@@ -34,6 +32,11 @@ current:
     member-since: 2006
     iol-contestant: 2004 and 2005
     bio: Moscow Traditional Linguistics Olympiad and APLO committee member. Senior lecturer at the Slavic Department at Stockholm University, research fellow at the Сhair of Computational Сorpus Linguistics at Friedrich-Alexander-University Erlangen-Nuremberg. Fond of public transport and cannoli siciliani.
+  - name: Gabrijela Hladnik
+    role: Jury Coordinator
+    photo: gabrijela-hladnik.jpg
+    member-since: 2011
+    bio: Works as software quality consultant. Slovenian LO member since the beginning. Travels the world as digital nomad. Enjoys teaching, jigsaw puzzles and food tasting.
   - name: Aida Davletova
     photo: aida-davletova.jpg
     member-since: 2025
@@ -62,10 +65,12 @@ current:
     member-since: 2003
     bio: Linguist specializing in lexicography and semantics, teaching linguistics and languages to children, high school, and university students in Russian, English, German, and Hebrew. Author of hundreds of linguistic problems, including 17 at the IOL. A fan of playing linguistic games, reading books, and researching linguistic games in books.
     website: www.borisiomdin.com
-  - name: Bruno L’Astorina
-    photo: bruno-l'astorina.jpg
-    member-since: 2011
-    bio: Co-founder and general coordinator of the Brazilian LO. Works of different projects in education, translation and public communication. In linguistics education, likes to bring insights on the diversity and unicity of human nature. Enjoys traveling, investigating the nature of mind from within and grouping things in sets of three legs.
+  - name: Dan-Mircea Mirea
+    photo: dan-mircea-mirea.jpg
+    member-since: 2019
+    iol-contestant: 2014 and 2015
+    bio: PhD in Psychology from Princeton University, Bachelor's and Masters' from University of Cambridge. Romanian LO member since 2015, and former Chair of the Romanian PC. Linguistics & psychology content creator @danniesbrain on TikTok and Instagram. Avid singer, fan of board games, and pop/internet culture enthusiast.
+    website: www.dan-mirea.com
   - name: Daniel Rucki
     photo: daniel-rucki.jpeg
     member-since: 2012
@@ -98,6 +103,11 @@ current:
     photo: ksenia-gilyarova.jpg
     member-since: 2003
     bio: PhD in General Linguistics and French teacher. Currently studying for a Master’s in French as a Foreign Language (FLE) at the University of Lille, France. Author of ten IOL problems. Parent of three. Enjoys hiking, jogging, and writing.
+  - name: Lai Otsuka
+    photo: lai-otsuka.jpg
+    member-since: 2026
+    iol-contestant: 2022
+    bio: Master's student in Linguistics at the University of Campinas (Brazil), researching Language Acquisition and Psycholinguistics. Member of the Brazilian LO Problem Committee. A huge fan of card and board games.
   - name: Maria Rubinstein
     photo: maria-rubinstein.png
     member-since: 2003
@@ -117,11 +127,17 @@ current:
     member-since: 2020
     iol-contestant: 2011
     bio: Postdoctoral Researcher at the University of California, Irvine. Currently investigating the functional anatomy of speech production by employing various neuroimaging techniques. Co-founder and the present chair of the Asia Pacific Linguistics Olympiad (since 2019) and co-chair of the Korean Linguistics Olympiad (since 2019).
+  - name: Panawat Tiacharoen
+    member-since: 2026
+    iol-contestant: 2022 and 2023
   - name: Przemysław Podleśny
     photo: przemyslaw-podlesny.jpg
     member-since: 2021
     iol-contestant: 2017 and 2018
     bio: MA in Estonian and Finno-Ugric languages at the University of Tartu. Bachelor's degree in Computer Science and former student of Baltic Philology, Classical Philology, Ethnology at the University of Warsaw. In the past years contributed to Polish and Estonian LOs.
+  - name: Qiu Ao
+    member-since: 2026
+    iol-contestant: 2018
   - name: Samuel Ahmed
     photo: samuel-ahmed.jpg
     member-since: 2018
@@ -163,7 +179,6 @@ past:
   - name: Elena Muravenko
   - name: Elitsa Milanova
   - name: Estere Seinkmane
-  - name: Gabrijela Hladnik
   - name: Hongchen Wu
   - name: Ivaylo Grozdev
   - name: Jeong Yeon Choi
