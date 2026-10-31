@@ -11,6 +11,7 @@ tags:
   - COVID19
 modified_time: '2021-04-02T00:00:00.000'
 author: International Linguistics Olympiad
+permalink: /notice/Announcement-2021-04-02/
 ---
 
 From the Local Organizing Committee of the 18th IOL

@@ -9,8 +9,9 @@ categories:
 tags:
   - IOL
   - COVID19
-modified_time: '2020-11-18T00:00:00.000'
+modified_time: '2021-03-22T00:00:00.000'
 author: International Linguistics Olympiad
+permalink: /notice/Announcement-2021-03-22/
 ---
 
 From the Board of the IOL
