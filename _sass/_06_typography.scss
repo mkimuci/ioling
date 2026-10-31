@@ -1,3 +1,5 @@
+@use "sass:color";
+
 @charset "utf-8";
 /* TOC – Typography
 
@@ -34,15 +36,15 @@ a:visited {
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
+    color: color.adjust( $ci-1, $lightness: -10%, $space: hsl );
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+    color: color.adjust( $ci-1, $lightness: 20%, $space: hsl );
 }
 
 a:active {
-    color: darken( $ci-1, 20% );
+    color: color.adjust( $ci-1, $lightness: -20%, $space: hsl );
 }
 
 
@@ -293,7 +295,7 @@ button, .button {
 }
 
 mark {
-    background-color: scale-color($warning-color, $lightness: 60%);
+    background-color: color.scale($warning-color, $lightness: 60%);
 }
 
 

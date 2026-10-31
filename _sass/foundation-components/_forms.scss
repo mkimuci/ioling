@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -18,16 +20,16 @@ $form-label-pointer: pointer !default;
 $form-label-font-size: rem-calc(14) !default;
 $form-label-font-weight: $font-weight-normal !default;
 $form-label-line-height: 1.5 !default;
-$form-label-font-color: scale-color($black, $lightness: 30%) !default;
+$form-label-font-color: color.scale($black, $lightness: 30%) !default;
 $form-label-small-transform: capitalize !default;
 $form-label-bottom-margin: 0 !default;
 $input-font-family: inherit !default;
 $input-font-color: rgba(0,0,0,0.75) !default;
 $input-font-size: rem-calc(14) !default;
 $input-bg-color: $white !default;
-$input-focus-bg-color: scale-color($white, $lightness: -2%) !default;
-$input-border-color: scale-color($white, $lightness: -20%) !default;
-$input-focus-border-color: scale-color($white, $lightness: -40%) !default;
+$input-focus-bg-color: color.scale($white, $lightness: -2%) !default;
+$input-border-color: color.scale($white, $lightness: -20%) !default;
+$input-focus-border-color: color.scale($white, $lightness: -40%) !default;
 $input-border-style: solid !default;
 $input-border-width: 1px !default;
 $input-border-radius: $global-radius !default;
@@ -49,8 +51,8 @@ $legend-font-weight: $font-weight-bold !default;
 $legend-padding: rem-calc(0 3) !default;
 
 // We use these to style the prefix and postfix input elements
-$input-prefix-bg: scale-color($white, $lightness: -5%) !default;
-$input-prefix-border-color: scale-color($white, $lightness: -20%) !default;
+$input-prefix-bg: color.scale($white, $lightness: -5%) !default;
+$input-prefix-border-color: color.scale($white, $lightness: -20%) !default;
 $input-prefix-border-size: 1px !default;
 $input-prefix-border-type: solid !default;
 $input-prefix-overflow: hidden !default;
@@ -76,7 +78,7 @@ $glowing-effect-color: $input-focus-border-color !default;
 
 // Select variables
 $select-bg-color: $ghost !default;
-$select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
+$select-hover-bg-color: color.scale($select-bg-color, $lightness: -3%) !default;
 
 //
 // @MIXINS
@@ -84,10 +86,10 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 
 // We use this mixin to give us form styles for rows inside of forms
 @mixin form-row-base {
-  .row { margin: 0 ((-$form-spacing) / 2);
+  .row { margin: 0 ((-$form-spacing) * 0.5);
 
     .column,
-    .columns { padding: 0 ($form-spacing / 2); }
+    .columns { padding: 0 ($form-spacing * 0.5); }
 
     // Use this to collapse the margins of a form row
     &.collapse { margin: 0;
@@ -103,7 +105,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   input.column,
   input.columns,
   textarea.column,
-  textarea.columns { padding-#{$default-float}: ($form-spacing / 2); }
+  textarea.columns { padding-#{$default-float}: ($form-spacing * 0.5); }
 }
 
 // @MIXIN
@@ -122,7 +124,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   display: block;
   font-size: $input-font-size;
   margin: 0 0 $form-spacing 0;
-  padding: $form-spacing / 2;
+  padding: $form-spacing * 0.5;
   height: ($input-font-size + ($form-spacing * 1.5) - rem-calc(1));
   width: 100%;
   @include box-sizing(border-box);
@@ -176,7 +178,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   }
   @else if $alignment == inline {
     margin: 0 0 $form-spacing 0;
-    padding: $form-spacing / 2 + rem-calc($input-border-width) 0;
+    padding: $form-spacing * 0.5 + rem-calc($input-border-width) 0;
   }
 }
 
@@ -206,7 +208,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 @mixin prefix($bg:$input-prefix-bg, $border:$input-prefix-border-color, $is-button:false) {
 
   @if $bg {
-    $bg-lightness: lightness($bg);
+    $bg-lightness: color.channel($bg, 'lightness', $space: hsl);
     background: $bg;
     border-#{$opposite-direction}: none;
 
@@ -238,7 +240,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 @mixin postfix($bg:$input-prefix-bg, $border:$input-prefix-border-color, $is-button:false) {
 
   @if $bg {
-    $bg-lightness: lightness($bg);
+    $bg-lightness: color.channel($bg, 'lightness', $space: hsl);
     background: $bg;
     border-#{$default-float}: none;
 
@@ -313,7 +315,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   font-style: $input-error-message-font-style;
 
   // We can control the text color based on the brightness of the background.
-  $bg-lightness: lightness($bg);
+  $bg-lightness: color.channel($bg, 'lightness', $space: hsl);
   background: $bg;
   @if $bg-lightness < 70% or $bg == yellow { color: $input-error-message-font-color; }
   @else { color: $input-error-message-font-color-alt; }
@@ -335,7 +337,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeD0iMTJweCIgeT0iMHB4IiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIzcHgiIHZpZXdCb3g9IjAgMCA2IDMiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDYgMyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBvbHlnb24gcG9pbnRzPSI1Ljk5MiwwIDIuOTkyLDMgLTAuMDA4LDAgIi8+PC9zdmc+);
 
   // We can safely use leftmost and rightmost now
-  background-position: if($text-direction == 'rtl', 0%, 100%) center;
+  background-position: if(sass($text-direction == 'rtl'): 0%; else: 100%) center;
 
   background-repeat: no-repeat;
   border: {
@@ -343,7 +345,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
     width: $input-border-width;
     color: $input-border-color;
   }
-  padding: ($form-spacing / 2);
+  padding: ($form-spacing * 0.5);
   font-size: $input-font-size;
   font-family: $body-font-family;
   color: $input-font-color;
@@ -388,7 +390,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
       /* Styles for required inputs */
       small {
         text-transform: $form-label-small-transform;
-        color: scale-color($form-label-font-color, $lightness: 15%);
+        color: color.scale($form-label-font-color, $lightness: 15%);
       }
     }
 
@@ -544,7 +546,7 @@ $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%) !default;
 
       > label {
         > small {
-          color: scale-color($form-label-font-color, $lightness: 15%);
+          color: color.scale($form-label-font-color, $lightness: 15%);
           background: transparent;
           padding: 0;
           text-transform: $form-label-small-transform;

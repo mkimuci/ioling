@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -20,10 +22,10 @@ $keystroke-function-factor: -7% !default;
 $keystroke-padding: rem-calc(2 4 0) !default;
 
 // We use these to control background and border styles.
-$keystroke-bg: scale-color($white, $lightness: $keystroke-function-factor) !default;
+$keystroke-bg: color.scale($white, $lightness: $keystroke-function-factor) !default;
 $keystroke-border-style: solid !default;
 $keystroke-border-width: 1px !default;
-$keystroke-border-color: scale-color($keystroke-bg, $lightness: $keystroke-function-factor) !default;
+$keystroke-border-color: color.scale($keystroke-bg, $lightness: $keystroke-function-factor) !default;
 $keystroke-radius: $global-radius !default;
 
 //
@@ -33,10 +35,10 @@ $keystroke-radius: $global-radius !default;
 // $bg - Default: $keystroke-bg || scale-color($white, $lightness: $keystroke-function-factor) !default;
 @mixin keystroke($bg:$keystroke-bg) {
   // This find the lightness percentage of the background color.
-  $bg-lightness: lightness($bg);
+  $bg-lightness: color.channel($bg, 'lightness', $space: hsl);
 
   background-color: $bg;
-  border-color: scale-color($bg, $lightness: $keystroke-function-factor);
+  border-color: color.scale($bg, $lightness: $keystroke-function-factor);
 
   // We adjust the font color based on the brightness of the background.
   @if $bg-lightness > 70% { color: $keystroke-font-color; }

@@ -2,6 +2,8 @@
 sitemap:
   exclude: true
 ---
+@use "sass:color";
+
 @charset "utf-8";
 
 @import "functions.scss";
@@ -26,7 +28,7 @@ $include-html-classes: false;
 feed {
 	> title {
 		text-align: center;
-		color: lighten($primary-color, 25%);
+		color: color.adjust($primary-color, $lightness: 25%, $space: hsl);
 		font-family: $header-font-family;
 		font-size: $font-size-h1 * 1.5;
 		font-weight: bolder;
@@ -58,7 +60,7 @@ feed {
 
 entry {
 	padding: 1em 0;
-	border-bottom: 1px solid invert($body-bg);
+	border-bottom: 1px solid color.invert($body-bg);
 	&:last-child {
 		border-bottom: none;
 	}

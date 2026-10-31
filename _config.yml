@@ -226,6 +226,8 @@ webmaster:
 sass:
     sass_dir : _sass
     style    : :compressed
+    # The theme still relies on @import; migrating to @use is a larger refactor
+    silence_deprecations: [import]
 
 
 #       ___                __      __  _

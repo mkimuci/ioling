@@ -1,6 +1,10 @@
+@use "sass:color";
+@use "sass:string";
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
+
+@use "sass:math";
 
 @import "global";
 @import "grid";
@@ -36,10 +40,10 @@ $topbar-link-bg: $topbar-bg !default;
 $topbar-link-bg-hover: $oil !default;
 $topbar-link-bg-color-hover: $charcoal !default;
 $topbar-link-bg-active: $primary-color !default;
-$topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%) !default;
+$topbar-link-bg-active-hover: color.scale($primary-color, $lightness: -14%) !default;
 $topbar-link-font-family: $header-font-family !default;
 $topbar-link-text-transform: none !default;
-$topbar-link-padding: ($topbar-height / 3) !default;
+$topbar-link-padding: math.div($topbar-height, 3) !default;
 $topbar-back-link-size: rem-calc(18) !default;
 $topbar-link-dropdown-padding: rem-calc(20) !default;
 $topbar-button-font-size: 0.75rem !default;
@@ -81,8 +85,8 @@ $topbar-media-query: $medium-up !default;
 $topbar-input-height: rem-calc(28) !default;
 
 // Divider Styles
-$topbar-divider-border-bottom: solid 1px scale-color($topbar-bg-color, $lightness: 13%) !default;
-$topbar-divider-border-top: solid 1px scale-color($topbar-bg-color, $lightness: -50%) !default;
+$topbar-divider-border-bottom: solid 1px color.scale($topbar-bg-color, $lightness: 13%) !default;
+$topbar-divider-border-top: solid 1px color.scale($topbar-bg-color, $lightness: -50%) !default;
 
 // Sticky Class
 $topbar-sticky-class: ".sticky" !default;
@@ -110,7 +114,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
     // This class is generated despite the value of $include-html-top-bar-classes
     // to ensure width calculations work correctly.
     meta.foundation-mq-topbar {
-      font-family: "/" + unquote($topbar-media-query) + "/";
+      font-family: "/" + string.unquote($topbar-media-query) + "/";
       width: $topbar-breakpoint;
     }
 
@@ -381,7 +385,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), $default-float);
             }
             margin-#{$opposite-direction}: $topbar-link-padding;
-            margin-top: -($topbar-dropdown-toggle-size / 2) - 2;
+            margin-top: -($topbar-dropdown-toggle-size * 0.5) - 2;
             position: absolute;
             top: 50%;
             #{$opposite-direction}: 0;
@@ -468,7 +472,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           font-size: rem-calc(14);
           position: relative;
           height: $topbar-input-height;
-          top: (($topbar-height - $topbar-input-height) / 2);
+          top: (($topbar-height - $topbar-input-height) * 0.5);
         }
 
         &.expanded { background: $topbar-bg; }
@@ -538,8 +542,8 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               padding-#{$opposite-direction}: $topbar-link-padding + $topbar-link-dropdown-padding !important;
               &:after {
                 @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), top);
-                margin-top: -($topbar-dropdown-toggle-size / 2);
-                top: ($topbar-height / 2);
+                margin-top: -($topbar-dropdown-toggle-size * 0.5);
+                top: ($topbar-height * 0.5);
               }
             }
           }
@@ -630,7 +634,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
         .has-form {
           background: $topbar-link-bg;
-          padding: 0 ($topbar-height / 3);
+          padding: 0 math.div($topbar-height, 3);
           height: $topbar-height;
         }
 

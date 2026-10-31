@@ -1,3 +1,4 @@
+@use "sass:color";
 @charset "utf-8";
 /* TOC
 
@@ -205,9 +206,9 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #breadcrumb {
-    background: scale-color($grey-1, $lightness: 55%);
-    border-top: 1px solid scale-color($grey-1, $lightness: 45%);
-    border-bottom: 1px solid scale-color($grey-1, $lightness: 45%);
+    background: color.scale($grey-1, $lightness: 55%);
+    border-top: 1px solid color.scale($grey-1, $lightness: 45%);
+    border-bottom: 1px solid color.scale($grey-1, $lightness: 45%);
 }
 .breadcrumbs>.current {
   font-weight: bold;
@@ -233,11 +234,11 @@ body.video cite { color: #fff; }
 }
 .meta-info p {
   font-size: rem-calc(13);
-  color: scale-color($grey-1, $lightness: 40%);
+  color: color.scale($grey-1, $lightness: 40%);
 }
   .meta-info a {
     text-decoration: underline;
-    color: scale-color($grey-1, $lightness: 40%);
+    color: color.scale($grey-1, $lightness: 40%);
   }
   .meta-info a:hover {
     text-decoration: none;

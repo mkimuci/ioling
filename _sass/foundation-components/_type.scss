@@ -1,3 +1,5 @@
+@use "sass:color";
+@use "sass:list";
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -34,14 +36,14 @@ $h6-font-reduction: 0 !default;
 
 // These control how subheaders are styled.
 $subheader-line-height: 1.4 !default;
-$subheader-font-color: scale-color($header-font-color, $lightness: 35%) !default;
+$subheader-font-color: color.scale($header-font-color, $lightness: 35%) !default;
 $subheader-font-weight: $font-weight-normal !default;
 $subheader-top-margin: .2rem !default;
 $subheader-bottom-margin: .5rem !default;
 
 // A general <small> styling
 $small-font-size: 60% !default;
-$small-font-color: scale-color($header-font-color, $lightness: 35%) !default;
+$small-font-color: color.scale($header-font-color, $lightness: 35%) !default;
 
 // We use these to style paragraphs
 $paragraph-font-family: inherit !default;
@@ -58,17 +60,17 @@ $paragraph-text-rendering: optimizeLegibility !default;
 $code-color: $oil !default;
 $code-font-family: $font-family-monospace !default;
 $code-font-weight: $font-weight-normal !default;
-$code-background-color: scale-color($secondary-color, $lightness: 70%) !default;
+$code-background-color: color.scale($secondary-color, $lightness: 70%) !default;
 $code-border-size: 0px !default;
 $code-border-style: solid !default;
-$code-border-color: scale-color($code-background-color, $lightness: -10%) !default;
+$code-border-color: color.scale($code-background-color, $lightness: -10%) !default;
 $code-padding: rem-calc(2) rem-calc(5) rem-calc(1) !default;
 
 // We use these to style anchors
 $anchor-text-decoration: none !default;
 $anchor-text-decoration-hover: none !default;
 $anchor-font-color: $primary-color !default;
-$anchor-font-color-hover: scale-color($anchor-font-color, $lightness: -14%) !default;
+$anchor-font-color-hover: color.scale($anchor-font-color, $lightness: -14%) !default;
 
 // We use these to style the <hr> element
 $hr-border-width: 1px !default;
@@ -91,11 +93,11 @@ $definition-list-header-margin-bottom: .3rem !default;
 $definition-list-margin-bottom: rem-calc(12) !default;
 
 // We use these to style blockquotes
-$blockquote-font-color: scale-color($header-font-color, $lightness: 35%) !default;
+$blockquote-font-color: color.scale($header-font-color, $lightness: 35%) !default;
 $blockquote-padding: rem-calc(9 20 0 19) !default;
 $blockquote-border: 1px solid $gainsboro !default;
 $blockquote-cite-font-size: rem-calc(13) !default;
-$blockquote-cite-font-color: scale-color($header-font-color, $lightness: 23%) !default;
+$blockquote-cite-font-color: color.scale($header-font-color, $lightness: 23%) !default;
 $blockquote-cite-link-color: $blockquote-cite-font-color !default;
 
 // Acronym styles
@@ -157,12 +159,12 @@ $align-class-breakpoints:
   .text-center  { text-align: center !important; }
   .text-justify { text-align: justify !important; }
 
-  @for $i from 1 through length($align-class-names) {
-    @media #{(nth($align-class-breakpoints, $i))} {
-      .#{(nth($align-class-names, $i))}-text-left { text-align: left !important; }
-      .#{(nth($align-class-names, $i))}-text-right   { text-align: right !important; }
-      .#{(nth($align-class-names, $i))}-text-center  { text-align: center !important; }
-      .#{(nth($align-class-names, $i))}-text-justify { text-align: justify !important; }
+  @for $i from 1 through list.length($align-class-names) {
+    @media #{(list.nth($align-class-breakpoints, $i))} {
+      .#{(list.nth($align-class-names, $i))}-text-left { text-align: left !important; }
+      .#{(list.nth($align-class-names, $i))}-text-right   { text-align: right !important; }
+      .#{(list.nth($align-class-names, $i))}-text-center  { text-align: center !important; }
+      .#{(list.nth($align-class-names, $i))}-text-justify { text-align: justify !important; }
     }
   }
 }

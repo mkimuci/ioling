@@ -1,3 +1,6 @@
+@use "sass:string";
+@use "sass:color";
+
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -138,18 +141,18 @@ $base-line-height: 1.5 !default;
       }
       @else {
         top: 50%;
-        margin-top: (-$width/2);
+        margin-top: (-$width*0.5);
       }
       @if $left {
         left: $left;
       }
       @else {
-        left: ($tabbar-menu-icon-width - $width)/2;
+        left: ($tabbar-menu-icon-width - $width)*0.5;
       }
     }
     @else {
       top: 50%;
-      margin-top: -($width/2);
+      margin-top: -($width*0.5);
       #{$opposite-direction}: $topbar-link-padding;
     }
 
@@ -179,7 +182,7 @@ $base-line-height: 1.5 !default;
 // $selector - Used for selector state. Default: focus, Options: hover, active, visited
 // $fade-time - Default: 300ms
 // $glowing-effect-color - Default: fade-out($primary-color, .25)
-@mixin block-glowing-effect($selector:focus, $fade-time:300ms, $glowing-effect-color:fade-out($primary-color, .25)) {
+@mixin block-glowing-effect($selector:focus, $fade-time:300ms, $glowing-effect-color:color.adjust($primary-color, $alpha: -.25)) {
   transition: box-shadow $fade-time, border-color $fade-time ease-in-out;
 
   &:#{$selector} {
@@ -349,47 +352,47 @@ $cursor-text-value: text !default;
   }
 
   meta.foundation-mq-small {
-    font-family: "/" + unquote($small-up) + "/";
+    font-family: "/" + string.unquote($small-up) + "/";
     width: lower-bound($small-range);
   }
 
   meta.foundation-mq-small-only {
-    font-family: "/" + unquote($small-only) + "/";
+    font-family: "/" + string.unquote($small-only) + "/";
     width: lower-bound($small-range);
   }
 
   meta.foundation-mq-medium {
-    font-family: "/" + unquote($medium-up) + "/";
+    font-family: "/" + string.unquote($medium-up) + "/";
     width: lower-bound($medium-range);
   }
 
   meta.foundation-mq-medium-only {
-    font-family: "/" + unquote($medium-only) + "/";
+    font-family: "/" + string.unquote($medium-only) + "/";
     width: lower-bound($medium-range);
   }
 
   meta.foundation-mq-large {
-    font-family: "/" + unquote($large-up) + "/";
+    font-family: "/" + string.unquote($large-up) + "/";
     width: lower-bound($large-range);
   }
 
   meta.foundation-mq-large-only {
-    font-family: "/" + unquote($large-only) + "/";
+    font-family: "/" + string.unquote($large-only) + "/";
     width: lower-bound($large-range);
   }
 
   meta.foundation-mq-xlarge {
-    font-family: "/" + unquote($xlarge-up) + "/";
+    font-family: "/" + string.unquote($xlarge-up) + "/";
     width: lower-bound($xlarge-range);
   }
 
   meta.foundation-mq-xlarge-only {
-    font-family: "/" + unquote($xlarge-only) + "/";
+    font-family: "/" + string.unquote($xlarge-only) + "/";
     width: lower-bound($xlarge-range);
   }
 
   meta.foundation-mq-xxlarge {
-    font-family: "/" + unquote($xxlarge-up) + "/";
+    font-family: "/" + string.unquote($xxlarge-up) + "/";
     width: lower-bound($xxlarge-range);
   }
 

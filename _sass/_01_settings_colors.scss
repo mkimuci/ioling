@@ -1,3 +1,4 @@
+@use "sass:color";
 @charset "utf-8";
 /* TOC – Color Variables
 
@@ -130,7 +131,7 @@ $subfooter-link-color: $grey-8;
 /* Code
 ------------------------------------------------------------------- */
 
-$code-background-color: scale-color($secondary-color, $lightness: 70%);
+$code-background-color: color.scale($secondary-color, $lightness: 70%);
 
 $highlight-background: #ffffff;
 $highlight-comment: #999988;

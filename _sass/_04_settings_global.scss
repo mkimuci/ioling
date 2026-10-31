@@ -1,3 +1,4 @@
+@use "sass:color";
 @charset "utf-8";
 
 $spacing-unit: 30px;
@@ -1140,8 +1141,8 @@ $side-nav-list-margin: rem-calc(0 0 0 0);
 
 // We use these to control link styles.
 $side-nav-link-color: $primary-color;
-$side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%);
-$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-active: color.scale($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-hover: color.scale($side-nav-link-color, $lightness: -40%);
 $side-nav-font-size: rem-calc(16);
 
 // $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
@@ -1434,8 +1435,8 @@ $topbar-breakpoint: #{lower-bound($large-range)}; // Change to 9999px for always
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
 // Divider Styles
-$topbar-divider-border-bottom: solid 0px scale-color($topbar-bg-color, $lightness: 23%);
-$topbar-divider-border-top: solid 0px scale-color($topbar-bg-color, $lightness: -50%);
+$topbar-divider-border-bottom: solid 0px color.scale($topbar-bg-color, $lightness: 23%);
+$topbar-divider-border-top: solid 0px color.scale($topbar-bg-color, $lightness: -50%);
 
 // Sticky Class
 // $topbar-sticky-class: ".sticky";

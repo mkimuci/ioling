@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -10,13 +12,13 @@
 $include-html-panel-classes: $include-html-classes !default;
 
 // We use these to control the background and border styles
-$panel-bg: scale-color($white, $lightness: -5%) !default;
+$panel-bg: color.scale($white, $lightness: -5%) !default;
 $panel-border-style: solid !default;
 $panel-border-size: 1px !default;
 
 // We use this % to control how much we darken things on hover
 $panel-function-factor: -11% !default;
-$panel-border-color: scale-color($panel-bg, $lightness: $panel-function-factor) !default;
+$panel-border-color: color.scale($panel-bg, $lightness: $panel-function-factor) !default;
 
 // We use these to set default inner padding and bottom margin
 $panel-margin-bottom: rem-calc(20) !default;
@@ -28,7 +30,7 @@ $panel-font-color-alt: $white !default;
 
 $panel-header-adjust: true !default;
 $callout-panel-link-color: $primary-color !default;
-$callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightness: -14%) !default;
+$callout-panel-link-color-hover: color.scale($callout-panel-link-color, $lightness: -14%) !default;
 //
 // @mixins
 //
@@ -39,11 +41,11 @@ $callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightne
 @mixin panel($bg:$panel-bg, $padding:$panel-padding, $adjust:$panel-header-adjust) {
 
   @if $bg {
-    $bg-lightness: lightness($bg);
+    $bg-lightness: color.channel($bg, 'lightness', $space: hsl);
 
     border-style: $panel-border-style;
     border-width: $panel-border-size;
-    border-color: scale-color($bg, $lightness: $panel-function-factor);
+    border-color: color.scale($bg, $lightness: $panel-function-factor);
     margin-bottom: $panel-margin-bottom;
     padding: $padding;
 
@@ -66,7 +68,7 @@ $callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightne
 
       // reset header line-heights for panels
       h1,h2,h3,h4,h5,h6 {
-        line-height: 1; margin-bottom: rem-calc(20) / 2;
+        line-height: 1; margin-bottom: rem-calc(20) * 0.5;
         &.subheader { line-height: 1.4; }
       }
     }
@@ -80,7 +82,7 @@ $callout-panel-link-color-hover: scale-color($callout-panel-link-color, $lightne
     .panel { @include panel;
 
       &.callout {
-        @include panel(scale-color($primary-color, $lightness: 94%));
+        @include panel(color.scale($primary-color, $lightness: 94%));
         a:not(.button) {
           color: $callout-panel-link-color;
 
