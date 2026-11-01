@@ -220,7 +220,7 @@
   active: TRUE
   accredit_in_progress: 
   accredit: TRUE
-  footnote:
+  footnote: 
   poc: ČLO
   email: info@lingol.cz
   poc2: 
@@ -313,13 +313,13 @@
   abbreviation: GNOL
   link: https://gnol.ge/ka/
   active: TRUE
-  accredit_in_progress:
+  accredit_in_progress: 
   accredit: TRUE
-  footnote:
+  footnote: 
   poc: GNOL
   email: contact@gnol.ge
-  poc2:
-  email2:
+  poc2: 
+  email2: 
 
 - iol_name: Germany
   official_name: Germany
@@ -1037,11 +1037,11 @@
   active: TRUE
   accredit_in_progress: TRUE
   accredit: FALSE
-  footnote:
+  footnote: 
   poc: ASLO
   email: aslingolympiad@gmail.com
-  poc2:
-  email2:
+  poc2: 
+  email2: 
 
 - iol_name: United Kingdom
   official_name: United Kingdom

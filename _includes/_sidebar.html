@@ -101,27 +101,25 @@
 	<div class="panel radius">
 		<h3>Results by Country</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:1000 %}
-			{% if page.results_by_country %}
+			{% assign country_pages = site.pages | where: "results_by_country", true | sort: "title" %}
+			{% for page in country_pages %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
 			</div>
 			{% assign counter=counter | plus:1 %}
-			{% endif %}
 			{% endfor %}
 	</div>
 	{% endif %}
 	{% if page.participants_by_country %}
 	<div class="panel radius">
-		<h3>Results by Country</h3>
+		<h3>Delegations by Country</h3>
 			{% assign counter = 1 %}
-			{% for page in site.pages limit:1000 %}
-			{% if page.participants_by_country %}
+			{% assign country_pages = site.pages | where: "participants_by_country", true | sort: "title" %}
+			{% for page in country_pages %}
 			<div id="panel{{ counter }}" class="content">
 				<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Read {{ page.title | escape_once }}"><strong>{{ page.title }}</strong></a>
 			</div>
 			{% assign counter=counter | plus:1 %}
-			{% endif %}
 			{% endfor %}
 	</div>
 	{% endif %}
