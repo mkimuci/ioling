@@ -60,6 +60,11 @@ current:
     photo: angela-hou.jpg
     member-since: 2025
     bio: Undergraduate in Linguistics at Princeton University and NACLO committee member. Interested in Optimality-Theoretic approaches to the morphosyntax-phonology interface, especially Match Theory. Passionate about language revitalization, Zapotec languages, and dispelling transphobia, amatonormativity, and bad linguistics. Lover of fossils, minerals, trees, birds, Chopin études, boba, and other miscellanea and ephemera.
+  - name: Ao Qiu
+    photo: ao-qiu.jpg
+    member-since: 2026
+    iol-contestant: 2018
+    bio: Co-chair of the China LO Problem Committee since 2022. BS in mathematics and MA in linguistics from Peking University. PhD candidate in linguistics at the Institut national des langues et civilisations orientales (INALCO).
   - name: Boris Iomdin
     photo: boris-iomdin.jpeg
     member-since: 2003
@@ -137,11 +142,6 @@ current:
     member-since: 2021
     iol-contestant: 2017 and 2018
     bio: MA in Estonian and Finno-Ugric languages at the University of Tartu. Bachelor's degree in Computer Science and former student of Baltic Philology, Classical Philology, Ethnology at the University of Warsaw. In the past years contributed to Polish and Estonian LOs.
-  - name: Qiu Ao
-    photo: qiu-ao.jpg
-    member-since: 2026
-    iol-contestant: 2018
-    bio: Co-chair of the China LO Problem Committee since 2022. BS in mathematics and MA in linguistics from Peking University. PhD candidate in linguistics at the Institut national des langues et civilisations orientales (INALCO).
   - name: Samuel Ahmed
     photo: samuel-ahmed.jpg
     member-since: 2018
